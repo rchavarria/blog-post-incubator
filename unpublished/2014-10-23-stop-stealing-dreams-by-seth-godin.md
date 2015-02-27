@@ -36,19 +36,20 @@ Notas acerca del libro 'Stop stealing dreams', de Seth Godin
 - la escuela es una especie de *contrato de adhesión*, lo que significa un contrato de *lo tomas o lo dejas* en masa. no hay negociación individual posible
 - no preguntamos a los estudiantes si quieren participar, simplemente asumimos el *contrato de adhesión*
 - los mejores doctores son los mejores porque ellos lo decidieron
+- el atajo para alcanzar el objetivo de las escuelas (crear ciudadanos sumisos) es el **miedo**. "Haz esto y se lo diremos a tus padres", "o te suspenderemos",...
+- en realidad, solo hay dos herramientas disponibles para los educadores: miedo y pasión
+- el problema es que la pasión individual es difícil de escalar
+- la escuela enseña cosas que se dan por sentadas, que no admiten dudas. pero la nueva deberia enseñar duda razonable, cuestionarse científicamente las cosas
+- John Stuart Mill: es mejor ser un ser humano no satisfecho que un cerdo satisfecho; mejor ser Sócrates no satisfecho que un tonto satisfecho
+- El atrevimiento (ha probar cosas nuevas, a salirse del guión) en la escuela está castigado, no recompensado
+- la escuela, no hay sorpresa aquí, está enfocada en crear trabajadores a jornal. desprecia el trabajo en equipo, divide tareas en las unidades medibles más pequeñas posibles, no hace nada por coordinar la enseñanza, aisla a los profesores en departamentos. Mide niveles individuales
+- cada uno de esos comportamientos es lo que ya pasaba en las factorías de 1937
+- habilidades que escasean combinadas con actitudes aún más escasas casi siempre llevan a un desempleo bajo y altos salarios
 
 
 
 
-- the shortcut for achieving the school goal (make compliant citizens) is **fear**. do this or we'll tell your parents, be suspended, ...
-- there really are only two tools available to the educator: fear and passion
-- the problem is that individual passion is hard to scale
-- la escuela enseña cosas que se dan por sentadas, que no admiten dudas. pero la nueva deberia enseñar duda razonable, ucestionarse científicamente las cosas
-- John Stuart Mill: it's better to be a human being dissatisfied than a pig satisfied; better to be Socrates dissatisfied than a fool satisfied
-- Bravery in school is pushined, not rewarded
-- school, no surprise, is focused on crating hourly workers. it downplays group work, breaks tasks into the smallest possible measurable units, does nothing to coordinate teaching, isolates teachres into departments. It measure individual level
-- every one of those behaviors is a mirror of what hapens in the factory in 1937
-- scarce skills combinde with even scarcer attitudes almost always lead to low unemployment and high wages
+
 - Judgement, skill, and attitude are the new replacements for obedience
 - It used to be simple: the teacher was teh cop, the lecturer, the source of answers, and the gatekeeper to resources. We don't need a human being standing next to us to lecture us on how to find the saquare root of a number or sharpen an axe. What we do need is someone to persuade us that we want to learn those things
 - competent people solve a problem the same way, every time
