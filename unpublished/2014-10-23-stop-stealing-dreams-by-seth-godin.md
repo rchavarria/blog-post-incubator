@@ -45,6 +45,12 @@ Notas acerca del libro 'Stop stealing dreams', de Seth Godin
 - la escuela, no hay sorpresa aquí, está enfocada en crear trabajadores a jornal. desprecia el trabajo en equipo, divide tareas en las unidades medibles más pequeñas posibles, no hace nada por coordinar la enseñanza, aisla a los profesores en departamentos. Mide niveles individuales
 - cada uno de esos comportamientos es lo que ya pasaba en las factorías de 1937
 - habilidades que escasean combinadas con actitudes aún más escasas casi siempre llevan a un desempleo bajo y altos salarios
+- juicio, habilidad y actitud son los nuevos reemplazos de la obediencia
+- solía ser sencillo: el profesor era el policía, el maestro, la fuente de todas las respuestas y el guardián de los recursos. Ahora, no necesitamos un humano a nuestro lado para enseñarnos como buscar la raiz cuadrada de un número, o cómo afilar un hacha. Lo que necesitamos es alguien que nos convenza de que queremos aprender esas cosas
+- la gente competente resuelve un problema de la misma manera, todas las veces
+- la competencia es el enemigo del cambio
+- el trabajador incompetente es aquel que rompe las reglas para buscar algo que nadie más puede encontrar
+
 
 
 
