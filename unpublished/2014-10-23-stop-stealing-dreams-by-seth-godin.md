@@ -50,24 +50,18 @@ Notas acerca del libro 'Stop stealing dreams', de Seth Godin
 - la gente competente resuelve un problema de la misma manera, todas las veces
 - la competencia es el enemigo del cambio
 - el trabajador incompetente es aquel que rompe las reglas para buscar algo que nadie más puede encontrar
+- estamos entrando en una revolución de ideas mientras producimos una generación que, en lugar de ideas, lo que quiere son instrucciones
+- Ahora mismo, estos días, la única barrera al aprendizaje, es meramente la propia decisión de aprender
+- un excedente de jornaleros (trabajadores por horas) obedientes conduce al desempleo, no a más fábricas. por otro lado, trabajos creativos (o de conocimiento) conducen a más trabajos creativos
+- la escuela es una fábrica, y el producto de esa fábrica son trabajadores competentes, obedientes, que compran muchas cosas. Estos estudiantes estan entrenados para soñar pequeños sueños, para tener pequeños objetivos
+- la economía demanda que escojamos tener grandes y ambiciosos sueños
+- la fuerza de voluntad puede ser enseñada por profesores y padres. Buscar Kelly McGonigal y Roy Baumeister
+- ...y el profesor le humilló intencionadamente, por una sola y clara razón: el que manda es el profesor: "obedecerás y cumplirás las normas, si no, serás castigado"
 
 
 
 
 
-
-- Judgement, skill, and attitude are the new replacements for obedience
-- It used to be simple: the teacher was teh cop, the lecturer, the source of answers, and the gatekeeper to resources. We don't need a human being standing next to us to lecture us on how to find the saquare root of a number or sharpen an axe. What we do need is someone to persuade us that we want to learn those things
-- competent people solve a problem the same way, every time
-- competence is the enemy of change
-- incompetent worker is one who will break the rules and find me something no one else can
-- we're entering a revolution of ideas while producing a generation that wants instructions instead
-- the only barrier to learning, is now merely the decision to learn
-- a surplus of obedient hourly workers leads to unemployment, not more factories. on the other hand, creative jobs lead to more creative jobs.
-- school is a factory, and the output of that factory is complaiant workers who buy a lot of stuff. These students are trained to dream small dreams.
-- The economy demands that we pick ourselves to have big dreams.
-- willpower can be tought by teachers and parents. search for Kelly McGonigal and Roy Baumeister
-- Teacher intentionally humiliated him, for one clear reason (teacher was in charge): "you will conform and you will meet the quality standards or you willl be punished"
 - is it too risky to do the right thing? can parents try to get it right? why should the school do that job and not parent? what matters is that finding a path that might be better is just too risky for someone who has only one chance to raise his kids properly.
 - David Weinberger: "las redes de personas, la conexión entre personas (como en una clase) pueden hacernos más inteligentes o más estúpidos"
 - the only way for a student to get respect inside school is to earn temporary aproval from a teacher he wont likely see again any time soon. if that teacher is mercurial, petty, or inconsistent, the studen is told to deal with it. -> es muy fuerte no, tener que contentar a alguien a quien no vas a ver en la p$%& vida
