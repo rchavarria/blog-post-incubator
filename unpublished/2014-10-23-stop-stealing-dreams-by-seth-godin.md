@@ -57,23 +57,26 @@ Notas acerca del libro 'Stop stealing dreams', de Seth Godin
 - la economía demanda que escojamos tener grandes y ambiciosos sueños
 - la fuerza de voluntad puede ser enseñada por profesores y padres. Buscar Kelly McGonigal y Roy Baumeister
 - ...y el profesor le humilló intencionadamente, por una sola y clara razón: el que manda es el profesor: "obedecerás y cumplirás las normas, si no, serás castigado"
-
-
-
-
-
-- is it too risky to do the right thing? can parents try to get it right? why should the school do that job and not parent? what matters is that finding a path that might be better is just too risky for someone who has only one chance to raise his kids properly.
+- es muy peligroso hacer lo correcto? pueden los padres intentar hacerlo bien? porqué debería la escuela hacer ese trabajo y no los padres? lo que importa es que buscar un camino que *podría* ser mejor es demasiado riesgo para alquien que solo tiene una oportunidad de educar a sus chicos correctamente
 - David Weinberger: "las redes de personas, la conexión entre personas (como en una clase) pueden hacernos más inteligentes o más estúpidos"
-- the only way for a student to get respect inside school is to earn temporary aproval from a teacher he wont likely see again any time soon. if that teacher is mercurial, petty, or inconsistent, the studen is told to deal with it. -> es muy fuerte no, tener que contentar a alguien a quien no vas a ver en la p$%& vida
-- Cultural literacy, common store of knowledge will never be infinite, and what's more imporant, we canot drill and practice it into a population tat has so many fascinating or easy diversions availbable as alternatives: tv, youtube, ...
-- if we teach our students to be passionate, ethical, and inquisitive, I'm confident that the facts will follow
-- They are too lazy to ask their colleagues if there's a better way. they don't look for tips or ways to break or open or fix or improve. they self-describe as Dummies and give up. they make no effort, acting out of fear instead of passion. That forward-learning posture is teachable -> passion is teachable?
+- la única forma para un estudiante de obtener respeto en la escuela es ganarse la aprovación temporal de un profesor al que probablemente no volverá a ver en un futuro cercano. si el profesor es temperamental, inconsistente, mal profesor, el estudiante es obligado a aguantarle -> es muy frustrante tener que contentar a alquien a quien no vas a volver a ver en la vida
+- los conocimientos culturales o una base de conocimiento común nunca será infinita, y lo que es más importante, no podemos ejercitarla y practicarla en una población que tiene tantas diversiones fascinantes y fáciles a su alcance como alternativas: tv, youtube,...
+- si enseñamos a nuestros estudiantes a tener pasión, ser éticos e inquisitivos, estoy seguro de que los hechos vendrán solos
+- (el tour del buscador bing) ellos son muy vagos para preguntar a sus colegas si hay una forma mejor de hacer las cosas. ellos no buscan trucos o formas de cambiar o mejorar o arreglar. ellos se autodescriben como 'principiantes' y ahí lo dejan. ellos no hacen ningún esfuerzo, actúan con miedo en lugar de con pasión. Si la actitud hacia el aprendizaje se puede enseñar, se puede enseñar la pasión?
 - Modelo de Khan Academy: cada estudiante ve las lecciones en casa, a su ritmo. Luego, durante el dia, el profesor le ayuda donde esté atascado. Así, NADIE lleva el mismo ritmo
 - Nosotros, podemos decir simplemente *aqui*, y creer que los estudiantes harán el difícil (y asustadizo) trabajo de encontrar en internet lo que queremos que encuentren. Ahí es donde necesitamos la escuela.
-- Teacher's work: find the best homework questions ever devised and create world-class tutorials in how to solve each one -> imagina esto coordinado entre todos los profesores.
-- What's needed rom the teacher is no longer high-throughtput lectures or test scoring or classroom management. No, what's needed is individual craftsmanshiop, emotiaonal labor, and the ability to motivate
-- Instead of punishing great teachers with proecise instructions on how to spend their day, we give them the freedom to actually teach.
-- Emotional labor looks like patience, kindness and respect
+- El trabajo del profesor sería: buscar las mejores preguntas para los deberes jamás hechas y crear tutoriales a nivel mundial de cómo solucionar cada uno de ellos -> imagina esto coordinado entre todos los profesores
+- lo que se necesita de los profesores ya no es dar cuantas más clases mejor, o corregir exámenes o gestionar una clase de estudiantes. Lo que se necesita es una atención individualizada, trabajo emocional y la habilidad de motivar
+- En lugar de castigar a grandes profesores con instrucciones precisas sobre cómo deben pasar el día, démosles la libertad para que enseñen de verdad
+- el trabajo emocional se refleja en la paciencia, respeto y amabilidad
+
+
+
+
+
+
+
+
 - For the first time in a century, we have the opporutnity to let digital systems do work while our teachres do labor
 - One popular strategy is to play your top elemven at all times, and perhaps, just maybe, if you're ahead by five or more goals, sub in a few of the second-string players. The lesson to the kids is obvious: skill now is reqarded, dreams, not so much. If you're not already great, dont bother showing up. 
 - But perhaps, the goal is to teach kids aabout effort and opporutninty and teamwork
