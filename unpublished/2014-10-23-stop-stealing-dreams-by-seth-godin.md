@@ -69,6 +69,10 @@ Notas acerca del libro 'Stop stealing dreams', de Seth Godin
 - lo que se necesita de los profesores ya no es dar cuantas más clases mejor, o corregir exámenes o gestionar una clase de estudiantes. Lo que se necesita es una atención individualizada, trabajo emocional y la habilidad de motivar
 - En lugar de castigar a grandes profesores con instrucciones precisas sobre cómo deben pasar el día, démosles la libertad para que enseñen de verdad
 - el trabajo emocional se refleja en la paciencia, respeto y amabilidad
+- por primera vez en en tiempo, tenemos la oportunidad de hacer que los sistemas digitales hagan el trabajo duro mientras nuestros profesores hacen el trabajo emocional
+- una estrategia popular es jugar con tus mejores jugadores todas las veces, y quizás, solo quizás, si llevas una ventaja de muchos goles, dejes jugar a alguno de los jugadores de segunda. La lección que para los niños es obvia: la habilidad se recompensa, los sueños, las ganas, no mucho. Si no eres magnífico, si no eres buen jugador, no te molestes en intentarlo.
+
+
 
 
 
