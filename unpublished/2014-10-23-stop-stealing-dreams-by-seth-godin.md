@@ -71,29 +71,28 @@ Notas acerca del libro 'Stop stealing dreams', de Seth Godin
 - el trabajo emocional se refleja en la paciencia, respeto y amabilidad
 - por primera vez en en tiempo, tenemos la oportunidad de hacer que los sistemas digitales hagan el trabajo duro mientras nuestros profesores hacen el trabajo emocional
 - una estrategia popular es jugar con tus mejores jugadores todas las veces, y quizás, solo quizás, si llevas una ventaja de muchos goles, dejes jugar a alguno de los jugadores de segunda. La lección que para los niños es obvia: la habilidad se recompensa, los sueños, las ganas, no mucho. Si no eres magnífico, si no eres buen jugador, no te molestes en intentarlo.
-
-
-
-
-
-
-
-
-
-
-- For the first time in a century, we have the opporutnity to let digital systems do work while our teachres do labor
-- One popular strategy is to play your top elemven at all times, and perhaps, just maybe, if you're ahead by five or more goals, sub in a few of the second-string players. The lesson to the kids is obvious: skill now is reqarded, dreams, not so much. If you're not already great, dont bother showing up. 
-- But perhaps, the goal is to teach kids aabout effort and opporutninty and teamwork
-- It turns out that a huge percentage of hockey players are born in just threemonths of the year. The reason is simple: tese are the oldest kids in youth hockey
-- MORALEJA: no valorar el skill, la habilidad, porque el niño mayor tienen ventaja, valorar pasio, los sueños del chico
-- Lidership is a gradual process, one where you take responsibility years before you are given authority. And that's something we can teach.
-- School servers a real function when it activates a passion for lifelong learning
+- Pero quizás, el objetivo sea enseñar a los niños/as acerca del esfuerzo, oportunidades/posibilidades y trabajo en equipo
+- Resulta que un gran porcentaje de los jugadores de hockey han nacido en el primer trimestre del año. La razón es simple: ellos eran los mayores en las escuelas de hockey junior
+- MORALEJA: no valorar el skill, la habilidad, porque el niño mayor tiene ventaja, valorar pasión, los sueños del chico
+- El liderazgo es un proceso gradual, donde uno toma la responsabilidad años antes de que se le de la autoridad. Y eso se puede enseñar
+- La escuela tiene una función real cuando activa la pasión por un aprendizaje contínuo a lo largo de toda la vida
 - 2 pilares para una educación para el futuro:
 1. Enseñar a los niños a liderar, que es conducir sin un mapa claro
 2. Ayudarles a aprender cómo solucionar problemas realmente interesantes
-- Preguntas dirigidas a aquellos profesores que simplemente leen de sus notas, que creen en la memorización, que creen que tienen más poder que los niños por el hecho de se profesor: ¿les estás dando esos dos regalos? ¿la próxima generación de niños, conocerá más datos o será capaz de conectar datos y transformar esos datos en información, liderazgo y progreso?
-- school is at its best when it gives students the expectation of dreaming dreams that they cna work on every day until they accomplish them because they worked hard enough to reach them (mejor eso, que sueños imposibles de alcanzar)
-- school needs to put us on the spot. again and again and again it needs to reward students for being willing to be singled out. learning to survive those moments, and then feel compelled to experience them again. (nada de esconderse, que haya retos, y de buscarlos)
+- Preguntas dirigidas a aquellos profesores que simplemente leen de sus notas, que creen en la memorización, que creen que tienen más poder que los niños por el hecho de ser profesor: ¿les estás dando esos dos regalos? ¿la próxima generación de niños, conocerá más datos o será capaz de conectar datos y transformar esos datos en información, liderazgo y progreso?
+- la escuela da lo mejor de sí misma cuando muestra a los estudiantes que se puede soñar con sueños en los que se puede trabajar cada día hasta que los alcancen porque hayan trabajado lo suficientemente duro como para alcanzarlos (mejor eso que sueños imposibles de alcanzar)
+- la escuela necesita ponernos en el punto de mira. una vez y otra vez y otra vez se necesita recompensar a los estudiantes para que tengan la voluntad de destacar. Aprender a sobrevivir a esos momentos y luego sentir la necesidad de volverlos a vivir (nada de esconderse, que haya retos, y buscarlos)
+
+
+
+
+
+
+
+
+
+
+
 - when we associate reading with homework and tests, is it any wonder we avoid it? we must teach how to love reading & writing
 - big companies create an environment whre people like you can crate jobs instead. pick yourself.
 - the only source of innovation is the artist willing to be usefuly wrong. es bueno ser una persona que se siente cómoda estando equivocada, cómoda verbalizando una teoría y después ponerla a prueba. esto hay que enseñárselo a los niños.
