@@ -82,32 +82,37 @@ Notas acerca del libro 'Stop stealing dreams', de Seth Godin
 - Preguntas dirigidas a aquellos profesores que simplemente leen de sus notas, que creen en la memorización, que creen que tienen más poder que los niños por el hecho de ser profesor: ¿les estás dando esos dos regalos? ¿la próxima generación de niños, conocerá más datos o será capaz de conectar datos y transformar esos datos en información, liderazgo y progreso?
 - la escuela da lo mejor de sí misma cuando muestra a los estudiantes que se puede soñar con sueños en los que se puede trabajar cada día hasta que los alcancen porque hayan trabajado lo suficientemente duro como para alcanzarlos (mejor eso que sueños imposibles de alcanzar)
 - la escuela necesita ponernos en el punto de mira. una vez y otra vez y otra vez se necesita recompensar a los estudiantes para que tengan la voluntad de destacar. Aprender a sobrevivir a esos momentos y luego sentir la necesidad de volverlos a vivir (nada de esconderse, que haya retos, y buscarlos)
-
-
-
-
-
-
-
-
-
-
-
-- when we associate reading with homework and tests, is it any wonder we avoid it? we must teach how to love reading & writing
-- big companies create an environment whre people like you can crate jobs instead. pick yourself.
-- the only source of innovation is the artist willing to be usefuly wrong. es bueno ser una persona que se siente cómoda estando equivocada, cómoda verbalizando una teoría y después ponerla a prueba. esto hay que enseñárselo a los niños.
-- it's essential that the school of the future teach music. the passion of seeing progress, the hard work of practice, the joy and fear of public performance - these are critical skills for our future
-- two kinds of learning:
-1. because it was required
-2. because the student wants (insists) on cquiring a skill in order to accomplish a goal
-- qué tal si dejamos de enseñar a aprender hechos, qué tal si comenzamos a enseñar el mimo por el trabajo bien hecho, establecer metas, to engage, hablar inteligentemente, planificar, tomar buenas decisiones y liderar?
-- a primary output of the school should be to produce citizens who often choose the reational path (en lugar del instinto) and that's going to hpappen only if we've created enough situations for them to practice in
-- being cared about, connected with, andpushed is the platform we need to do the emotional heavy lifting of commintting to learn
-- the puzzles of math and physics are golden opporutniites to start young adults down the path of lifelong learning
-- reading makes all of us more thoughtful, better informed, and more productive members of a civil society
+- cuando asociamos la lectura con los deberes y los exámenes, a alguien le sorprende que los evitemos? debemos enseñar a amar la lectura y la escritura
+- las grandes empresas crean entornos donde la gente como tu puede crear trabajos. uno solo tiene que decidirse y lanzarse
+- la única fuente de innovación es el artista dispuesto a estar equivocado. es bueno ser una persona que se siente cómoda estando equivocada, cómoda verbalizando una teoría y después ponerla a prueba. esto hay que enseñárselo a los niños.
+- es esencial enseñar música en la escuela del futuro. la pasión de ver y sentir que uno progresa, el trabajo duro de la práctica, la emoción y el miedo de actuar en público - éstas son habilidades críticas para nuestro futuro
+- hay dos formas de aprender:
+1. porque nos lo imponen
+2. porque el estudiante quiere (o insiste) en adquirir una habilidad para llegar a un objetivo
+- qué tal si dejamos de enseñar a aprender hechos, qué tal si comenzamos a enseñar el mimo por el trabajo bien hecho, establecer metas, a involucrarnos, hablar inteligentemente, planificar, tomar buenas decisiones y liderar?
+- un resultado fundamental de la escuela debería ser producir ciudadanos que elijan frecuentemente el camino racional (en lugar del instinto) y qué es lo que pasaría si creáramos suficientes situaciones para que practicaran
+- ser conscientes de ello, estar conectados, y sentirnos apoyados es la plataforma que necesitamos para realizar el tremendo esfuerzo emocional necesario para comprometernos a aprender
+- los puzzles matemáticos y problemas de física son oportunidades de oro para que los jóvenes adultos comiencen su andadura por el camino del aprendizaje contínuo durante toda su vida
+- la lectura nos hace más y mejores pensadores, nos hace estar mejor informados, y nos hace miembros más productivos de una sociedad civil
 **CON ESTO SÍ QUE ME QUIERO QUEDAR** : INCULCAR A LOS NIÑOS LA PASIÓN POR LEER
-- the library is no longer a warehouse for dead books, the library ought to be the local nerve center for informaiton
-- a library will be a place of co-working, inventing projects, aided by a librarian who understand the Mesh can bring to bear domain knowledge and people knowledge and access to information
+- la librería dejará de ser un simple almacén de libros muertos, la librería debería ser el centro neurálgico de la información
+- la librería será un espacio de co-working, donde inventar proyectos, guiado y ayudado por un librero, que entiende que la malla (la interconexión entre la gente), y que puede dar uso al conocimiento del problema, el conocimiento de la gente y el acceso a la información
+- la trampa de la universidad famosa: básicamente las universidades hacen publicidad, se hacen más caras, pero no para hacer una educación mejor, si no para ser más famosas, ser más caras todavía y ganar más dinero
+- la universidad proporciona 4 cosas :
+1. acceso a la información -> pero ya tenemos acceso online, por lo que no necesitamos a la universidad para esto
+2. acreditación o un título escaso (creo que esto ya no tiene mucha validez)
+3. membresía a una tribu
+4. una situación para el crecimiento y desarrollo
+
+
+
+
+
+
+
+
+
+
 - la trampa de la universidad famosa: básicamente las universidades hacen publicidad, se hacen más caras, pero no para hacer una educación mejor, si no para ser más famosas, ser más caras todavía y ganar más dinero
 - a university delivers four things:
 1. access to information -> we have information online, so we don't need universities for this
