@@ -103,27 +103,17 @@ Notas acerca del libro 'Stop stealing dreams', de Seth Godin
 2. acreditación o un título escaso (creo que esto ya no tiene mucha validez)
 3. membresía a una tribu
 4. una situación para el crecimiento y desarrollo
+- pertenecer a una tribu: esta es quizá la mejor razón por la que mudarse a un campus universitario para conseguir un título, una carrera
+- situación para el crecimiento: esta sería la razón por la que elegir la universidad, porque es imposible de imitar en una experiencia online. la universidad adecuada es la última y mejor oportunidad para multitud de adolescentes de encontrarse a sí mismos en situaciones donde no hay otra opción nada más que la de crecer, y rápido
+- no esperes más, decídete, haz algo, aprende por tí mismo, motiva a tus hijos, anímales a que sueñen, en contra de todas las adversidades
+- aprende, lidera y enseña
+** lo que nosotros enseñamos **
 
 
 
 
 
 
-
-
-
-
-- la trampa de la universidad famosa: básicamente las universidades hacen publicidad, se hacen más caras, pero no para hacer una educación mejor, si no para ser más famosas, ser más caras todavía y ganar más dinero
-- a university delivers four things:
-1. access to information -> we have information online, so we don't need universities for this
-2. accreditations or a scarce degree (creo que esto ya no tiene mucha validez)
-3. Membership in a tribe
-4. a situation for growth
-- membership in a tribe: this i sperhaps the best reason to actually move to a college campus in order to get a degree
-- situation for growth: the reason that's almost impossible to mimic in an online situation. the right college is the last, best chance for masses of teenagers to find themselves ina situationwhere they have no choice but to grow. and fast.
-- when we let our kids dream, encourage them to contribute, and push the to do work that matters, we open doors for them that will lead to places that are difficult for us to imagine
-- don't wait for it. pick yourself. teach yourself. motivate your kids. push them to dream, against all odds.
-- learn and lead and teach
 **WHAT WE TEACH**
 - when we teach a child to make good decisions , we benefit from a lifetime of good decisions
 - when we teach a child to love to learn, the amount of learning will become limitless
