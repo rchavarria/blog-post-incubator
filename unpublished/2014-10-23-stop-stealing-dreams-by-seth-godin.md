@@ -107,26 +107,19 @@ Notas acerca del libro 'Stop stealing dreams', de Seth Godin
 - situación para el crecimiento: esta sería la razón por la que elegir la universidad, porque es imposible de imitar en una experiencia online. la universidad adecuada es la última y mejor oportunidad para multitud de adolescentes de encontrarse a sí mismos en situaciones donde no hay otra opción nada más que la de crecer, y rápido
 - no esperes más, decídete, haz algo, aprende por tí mismo, motiva a tus hijos, anímales a que sueñen, en contra de todas las adversidades
 - aprende, lidera y enseña
-** lo que nosotros enseñamos **
-
-
-
-
-
-
-**WHAT WE TEACH**
-- when we teach a child to make good decisions , we benefit from a lifetime of good decisions
-- when we teach a child to love to learn, the amount of learning will become limitless
-- when we teach a child to deal with a changing world, she will never become obsolete
-- when we are brave enough to teach a child to question authority, evenours, we insulate ourselves from those who would use their authority to workk against each of us
-- and when we give students the desrie to make things, even choices, we create a world filled with makers.
-
-
+- **Qué enseñamos?**
+1. cuando enseñamos a un niño a tomar buenas decisiones, nos beneficiamos de una vida llena de buenas decisiones
+2. cuando enseñamos a un niño a amar el aprendizaje, la cantidad de aprendizaje se volverá ilimitada
+3. cuando enseñamos a un niño a lidiar con un mundo cambiante, nunca se quedará obsoleto
+4. cuando somos lo suficientemente valientes como para enseñar a un niño que cuestione la autoridad, incluso la nuestra, nos protegemos a nosotros mismos de quien usaría su autoridad en contra de cada uno de nosotros
+5. y cuando le damos a los estudiantes el deseo de hacer cosas, aunque sean elecciones, creamos un mundo repleto de gente que consigue crear e inventar cosas
 
 Algunos recursos relacionados:
 - [Stope stealing dreams](http://sethgodin.hubpages.com/hub/stop-stealing-dreams), de Seth Godin
 - [42 quotes from the book](http://ivanasendecka.com/2012/03/03/stopstealingdreams)
 - [No digitalicemos los libros de texto](http://www.enriquedans.com/2014/09/no-digitalicemos-el-libro-de-texto.html), de Enrique Dans
 - [Modern education](https://twitter.com/thereaIbanksy/status/514217338183626753), de Banksy
-- [Innovar en el aula](https://twitter.com/ocatasus/status/512848102106341376/photo/1), los profesores no están obligados a utilizar los libros de una editorial, ni lo que diga el colegio. 'Libertad de cátedra' o algo así le llaman.
+- [Innovar en el aula](https://twitter.com/ocatasus/status/512848102106341376/photo/1), los profesores no están obligados a utilizar los libros de una editorial, ni lo que diga el colegio. *Libertad de cátedra*
+- [Kelly McGonigal: The willpower instinct ](https://www.youtube.com/watch?v=V5BXuZL1HAg)
+- [Kelly McGonigal: How to make stress your friend](https://www.youtube.com/watch?v=RcGyVTAoXEU)
 
