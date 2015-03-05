@@ -1,4 +1,41 @@
-Notas acerca del libro 'Stop stealing dreams', de Seth Godin
+---
+layout: post
+title: "Stop stealing dreams"
+date: 
+author: Rubén Chavarría
+comments: true
+categories: 
+- personal
+- book reviews
+published: true
+footer: false
+sidebar: true
+---
+
+##### de Seth Godin
+
+{% img left http://s1.hubimg.com/u/11789820_f260.jpg 260 392 Stop stealing dreams %}
+
+## Por qué lo he leído
+
+<!-- more -->
+
+## Qué esperaba
+
+## Qué encontre
+
+## Conclusiones
+
+## Qué he aprendido
+
+## Frases que me gustaría recordar
+
+## Recursos relacionados
+
+[Mis notas sobre Stop stealing dreams]: foo-bar-foo-bar
+
+# Stop stealing dremas (what's school for?)
+#### de Seth Goding
 
 - la educacion a gran escala no fue desarrollada para motivar a los niños o para crear eruditos, fue para crear adultos sumisos, trabajadores para líneas de montaje en las fábricas
 - si tienes un trabajo donde alguien te dice exactamente qué hacer, él encontrara alguien más barato que haga lo mismo
