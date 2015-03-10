@@ -18,6 +18,18 @@ sidebar: true
 
 ## Por qué lo he leído
 
+Decidí leerlo básicamente porque tengo un hijo. Empezó el *colegio de mayores*
+el pasado mes de septiembre, y desde un tiempo atrás ya me empezó a preocupar
+el tema de su educación.
+
+Y la verdad, con todos las reformas que ha sufrido la educación en España en
+los últimos años, creo que la calidad de la misma se ha visto bastante reducida.
+
+Por otra parte, he leído algún libro de Seth Godin, y sigo su blog, y creo que
+tiene muchas ideas revolucionarias (con otras no estoy muy de acuerdo, o 
+simplemente no me interesan mucho), pero tenía ganas de saber qué piensa Seth
+sobre la educación.
+
 <!-- more -->
 
 ## Qué esperaba
