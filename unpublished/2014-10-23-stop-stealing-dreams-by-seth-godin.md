@@ -34,6 +34,11 @@ sobre la educación.
 
 ## Qué esperaba
 
+Viniendo de Seth Goding, me esperaba una serie de ideas revolucionarias sobre
+cómo educar a los hijos, o consejos sobre cómo comportarse para intentar conseguir
+que los pequeños sean más independientes, estén más preparados para un mundo
+cambiante, que sean más individuales pero colaborativos.
+
 ## Qué encontre
 
 ## Conclusiones
