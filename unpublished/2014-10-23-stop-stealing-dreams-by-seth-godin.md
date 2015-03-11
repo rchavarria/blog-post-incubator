@@ -48,6 +48,25 @@ español sí lo es, más o menos), desde primaria hasta la universidad.
 
 ## Conclusiones
 
+Es un libro que no defraudará a ningún padre, y tampoco a ningún profesor de 
+escuela, instituto o universidad que esté preocupado hacia dónde va la educación.
+La idea principal es que la escuela pública, o la educación para la mayoría,
+nació como una necesidad de crear obreros, de crear una clase obrera. Pero
+ya no existe esa necesidad de la era industrial, ahora las necesidades han
+cambiado, y la escuela debe cambiar.
+
+No estoy seguro de si el autor tiene toda la razón en su idea principal, pero
+de lo que sí estoy seguro es que existen iniciativas distintas para la educación
+([Kahn Academy], [Standford University online],...) y que pueden ser pioneras
+en el cambio que la educación necesita.
+
+Estoy de acuerdo en que el profesor no debería malgastar su tiempo en dar una
+clase estándar, para todos igual, si no que cada alumno disponga de toda la
+información de la materia a estudiar, haga el progreso a su ritmo, y que el
+profesor sea la persona que le guie, le ayude cuando se encuentre en un callejón
+sin salida. Sentí algo parecido en la universidad, las clases parecían una
+pérdida de tiempo, pero no llegué a ver el problema expuesto por Seth.
+
 ## Qué he aprendido
 
 ## Frases que me gustaría recordar
