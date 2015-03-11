@@ -69,13 +69,12 @@ pérdida de tiempo, pero no llegué a ver el problema expuesto por Seth.
 
 ## Frases que me gustaría recordar
 
-- la educacion a gran escala no fue desarrollada para motivar a los niños o para crear eruditos, fue para crear adultos sumisos, trabajadores para líneas de montaje en las fábricas
-- si tienes un trabajo donde alguien te dice exactamente qué hacer, él encontrara alguien más barato que haga lo mismo
-- para qué es la escuela?
-1. para crear una sociedad culturalmente coordinada -> pero la TV gana
-2. Para llevar más lejos la ciencia y el conocimineto y perseguir la información "porque sí" -> luego asociamos leer libros con los exámenes, poca gente lee por el placer de leer y aprender
-3. para mejorar la civilización mientras le damos a la gene herramientas para tomar decisiones conscientes e informadas -> fallamos al elevar los estándares del pensamiento racional, investigación escéptica, y la toma de decisiones financieras de utilidad
-4. para entrenar a gente en ser trabajadores productivos (en este si que lo hemos petado)
+- La educación a gran escala no fue desarrollada para motivar a los niños o para crear eruditos, fue para crear adultos sumisos, trabajadores para líneas de montaje en las fábricas
+- ¿Para qué es la escuela?
+1. Para crear una sociedad culturalmente coordinada. La televisión gana
+2. Para llevar más lejos la ciencia y el conocimineto y perseguir la información por placer. Eso está bien, pero luego asociamos leer libros con los exámenes, poca gente lee por el placer de leer y aprender
+3. Para mejorar la civilización mientras le damos a la gente herramientas para tomar decisiones conscientes e informadas. Pero fallamos al elevar los estándares del pensamiento racional, investigación escéptica, y la toma de decisiones financieras de utilidad
+4. Para entrenar a gente en ser trabajadores productivos. Este punto es en el que hemos destacado en los últimos tiempos, según el autor.
 - podemos enseñar a la gente a comprometerse, a superar sus miedos, a negociar transarentemente, a iniciar y planificar un curso, a desear tener una vida de contínuo aprendizaje, a expresarse por sí mismos y a innovar. Pero en lugar de eso, hemos hecho que se olviden del coraje, la creatividad y la iniciativa
 - he aquí 12 formas en las que la escuela puede ser reformada:
 1. deberes por el día, en clase, las clases orales del profesor por la noche, en casa
@@ -130,13 +129,13 @@ pérdida de tiempo, pero no llegué a ver el problema expuesto por Seth.
 # Stop stealing dremas (what's school for?)
 #### de Seth Goding
 
-- la educacion a gran escala no fue desarrollada para motivar a los niños o para crear eruditos, fue para crear adultos sumisos, trabajadores para líneas de montaje en las fábricas
+- La educación a gran escala no fue desarrollada para motivar a los niños o para crear eruditos, fue para crear adultos sumisos, trabajadores para líneas de montaje en las fábricas
 - si tienes un trabajo donde alguien te dice exactamente qué hacer, él encontrara alguien más barato que haga lo mismo
-- para qué es la escuela?
-1. para crear una sociedad culturalmente coordinada -> pero la TV gana
-2. Para llevar más lejos la ciencia y el conocimineto y perseguir la información "porque sí" -> luego asociamos leer libros con los exámenes, poca gente lee por el placer de leer y aprender
-3. para mejorar la civilización mientras le damos a la gene herramientas para tomar decisiones conscientes e informadas -> fallamos al elevar los estándares del pensamiento racional, investigación escéptica, y la toma de decisiones financieras de utilidad
-4. para entrenar a gente en ser trabajadores productivos (en este si que lo hemos petado)
+- ¿Para qué es la escuela?
+1. Para crear una sociedad culturalmente coordinada. La televisión gana
+2. Para llevar más lejos la ciencia y el conocimineto y perseguir la información por placer. Eso está bien, pero luego asociamos leer libros con los exámenes, poca gente lee por el placer de leer y aprender
+3. Para mejorar la civilización mientras le damos a la gente herramientas para tomar decisiones conscientes e informadas. Pero fallamos al elevar los estándares del pensamiento racional, investigación escéptica, y la toma de decisiones financieras de utilidad
+4. Para entrenar a gente en ser trabajadores productivos. Este punto es en el que hemos destacado en los últimos tiempos, según el autor.
 - si la escuela fue creada para 'fabricar' fuerza de trabajo, y ya no necesitamos fuerza de trabajo, ¿para qué invertir en mejorar la escuela? cambiémosla
 - en 1914, un profesor de Kansas inventó los exámenes tipo test. Dijo : "éste es un examen donde no necesitas las cosas para responder hecho para los ignorantes"
 - esos exámenes siguen vigentes, no porque funcionen, sino porque es una forma fácil y eficiente de que la masa de estudiantes siga adelante (aunque no haga progresos reales)
