@@ -41,6 +41,11 @@ cambiante, que sean más individuales pero colaborativos.
 
 ## Qué encontre
 
+En parte encontré lo que buscaba, pero gran parte del libro (o *manifiesto* como
+le llama el autor) está dedicado a criticar el sistema educativo (está centrado
+en el norteamericano, pero es extrapolable a otros, por lo menos al
+español sí lo es, más o menos), desde primaria hasta la universidad.
+
 ## Conclusiones
 
 ## Qué he aprendido
