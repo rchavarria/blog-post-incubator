@@ -75,26 +75,25 @@ pérdida de tiempo, pero no llegué a ver el problema expuesto por Seth.
 2. Para llevar más lejos la ciencia y el conocimineto y perseguir la información por placer. Eso está bien, pero luego asociamos leer libros con los exámenes, poca gente lee por el placer de leer y aprender
 3. Para mejorar la civilización mientras le damos a la gente herramientas para tomar decisiones conscientes e informadas. Pero fallamos al elevar los estándares del pensamiento racional, investigación escéptica, y la toma de decisiones financieras de utilidad
 4. Para entrenar a gente en ser trabajadores productivos. Este punto es en el que hemos destacado en los últimos tiempos, según el autor.
-- podemos enseñar a la gente a comprometerse, a superar sus miedos, a negociar transarentemente, a iniciar y planificar un curso, a desear tener una vida de contínuo aprendizaje, a expresarse por sí mismos y a innovar. Pero en lugar de eso, hemos hecho que se olviden del coraje, la creatividad y la iniciativa
-- he aquí 12 formas en las que la escuela puede ser reformada:
-1. deberes por el día, en clase, las clases orales del profesor por la noche, en casa
-2. libro abierto, cuaderno abierto, todo el tiempo
-3. acceso a cualquier curso y asignatura, desde cualquier parte del mundo
-4. instruciones precisas y focalizadas, en lugar de instrucciones generalizadas y en masa
-5. que se acaben los exámenes tipo test
-6. experiencias en lugar de notas en los examenes como medida de logros
-7. que se acabe la obediencia (el silencio, el aceptar las cosas porque sí) como un resultado
-8. cooperacion en lugar de aislamiento
-9. amplificacion de los estudiantes sobresalientes, de los profesores y de las ideas
-10. transformacion del rol del profesor
-11. aprendizaje contínuo, trabajo más temprano
-12. que se acabe la universidad *famosa*
-- en lugar de aislar estudiantes, deberiamos conectarlos : trabajo en grupo, clases intractivas, ...
-- *economía conectada*: los estudiantes tienen la habilidad y la facilidad de investigar lo que hay fuera y descubrir que el profesor (o libro de texto) está equivocado
-- el atajo para alcanzar el objetivo de las escuelas (crear ciudadanos sumisos) es el **miedo**. "Haz esto y se lo diremos a tus padres", "o te suspenderemos",...
-- El atrevimiento (ha probar cosas nuevas, a salirse del guión) en la escuela está castigado, no recompensado
-- habilidades que escasean combinadas con actitudes aún más escasas casi siempre llevan a un desempleo bajo y altos salarios
-- solía ser sencillo: el profesor era el policía, el maestro, la fuente de todas las respuestas y el guardián de los recursos. Ahora, no necesitamos un humano a nuestro lado para enseñarnos como buscar la raiz cuadrada de un número, o cómo afilar un hacha. Lo que necesitamos es alguien que nos convenza de que queremos aprender esas cosas
+- Podemos enseñar a la gente a comprometerse, a superar sus miedos, a negociar transarentemente, a iniciar y planificar un curso, a desear tener una vida de contínuo aprendizaje, a expresarse por sí mismos y a innovar. Pero en lugar de eso, hemos hecho que se olviden del coraje, la creatividad y la iniciativa
+- He aquí 12 formas en las que la escuela puede ser reformada:
+1. Deberes por el día, en clase; las clases orales del profesor por la noche, en casa
+2. Libro abierto, cuaderno abierto, todo el tiempo
+3. Acceso a cualquier curso y asignatura, desde cualquier parte del mundo
+4. Instruciones precisas y focalizadas, en lugar de instrucciones generalizadas y en masa
+5. Prohibidos exámenes tipo test
+6. Experiencias en lugar de notas en los examenes como medida de logros
+7. Dejemos de medir como un resultado la obediencia (el silencio, el aceptar las cosas porque sí)
+8. Cooperacion en lugar de aislamiento (en lugar de aislar estudiantes, deberiamos conectarlos : trabajo en grupo, clases intractivas, ...)
+9. Amplificacion de los estudiantes sobresalientes, de los profesores y de las ideas
+10. Transformación del rol del profesor
+11. Aprendizaje contínuo, trabajo más temprano
+12. Dejemos de pensar que la universidad famosa, la que tiene fama, es la mejor en cuanto a educación
+- *Economía conectada*: los estudiantes tienen la habilidad y la facilidad de investigar lo que hay fuera y descubrir que el profesor (o libro de texto) está equivocado
+- El atajo para alcanzar el objetivo de las escuelas (crear ciudadanos sumisos) es el **miedo**. Haz esto y ..., "se lo diremos a tus padres", "o te suspenderemos",...
+- El atrevimiento (a probar cosas nuevas, a salirse del guión) en la escuela está castigado, no recompensado
+- Tener habilidades que escasean combinadas con actitudes aún más escasas casi siempre llevan a un desempleo bajo y altos salarios
+- Solía ser sencillo: el profesor era el policía, el maestro, la fuente de todas las respuestas y el guardián de los recursos. Ahora, no necesitamos un humano a nuestro lado para enseñarnos como buscar la raiz cuadrada de un número, o cómo afilar un hacha. Lo que necesitamos es alguien que nos convenza de que queremos aprender esas cosas
 - estamos entrando en una revolución de ideas mientras producimos una generación que, en lugar de ideas, lo que quiere son instrucciones
 - es muy peligroso hacer lo correcto? pueden los padres intentar hacerlo bien? porqué debería la escuela hacer ese trabajo y no los padres? lo que importa es que buscar un camino que *podría* ser mejor es demasiado riesgo para alquien que solo tiene una oportunidad de educar a sus chicos correctamente
 - la única forma para un estudiante de obtener respeto en la escuela es ganarse la aprovación temporal de un profesor al que probablemente no volverá a ver en un futuro cercano. si el profesor es temperamental, inconsistente, mal profesor, el estudiante es obligado a aguantarle -> es muy frustrante tener que contentar a alquien a quien no vas a volver a ver en la vida
@@ -140,22 +139,22 @@ pérdida de tiempo, pero no llegué a ver el problema expuesto por Seth.
 - en 1914, un profesor de Kansas inventó los exámenes tipo test. Dijo : "éste es un examen donde no necesitas las cosas para responder hecho para los ignorantes"
 - esos exámenes siguen vigentes, no porque funcionen, sino porque es una forma fácil y eficiente de que la masa de estudiantes siga adelante (aunque no haga progresos reales)
 - la escuela industrial, a gran escala, con estructuras medibles significa que el miedo es el medio para mantener a raya a las masas (el miedo destruye la pasión)
-- podemos enseñar a la gente a comprometerse, a superar sus miedos, a negociar transarentemente, a iniciar y planificar un curso, a desear tener una vida de contínuo aprendizaje, a expresarse por sí mismos y a innovar. Pero en lugar de eso, hemos hecho que se olviden del coraje, la creatividad y la iniciativa
+- Podemos enseñar a la gente a comprometerse, a superar sus miedos, a negociar transarentemente, a iniciar y planificar un curso, a desear tener una vida de contínuo aprendizaje, a expresarse por sí mismos y a innovar. Pero en lugar de eso, hemos hecho que se olviden del coraje, la creatividad y la iniciativa
 - los soñadores en la escuela son peligrosos, es difícil hacerlos encajar en los sistemas existentes
 - aprender es algo que tú eliges hacer
-- he aquí 12 formas en las que la escuela puede ser reformada:
-1. deberes por el día, en clase, las clases orales del profesor por la noche, en casa
-2. libro abierto, cuaderno abierto, todo el tiempo
-3. acceso a cualquier curso y asignatura, desde cualquier parte del mundo
-4. instruciones precisas y focalizadas, en lugar de instrucciones generalizadas y en masa
-5. que se acaben los exámenes tipo test
-6. experiencias en lugar de notas en los examenes como medida de logros
-7. que se acabe la obediencia (el silencio, el aceptar las cosas porque sí) como un resultado
-8. cooperacion en lugar de aislamiento
-9. amplificacion de los estudiantes sobresalientes, de los profesores y de las ideas
-10. transformacion del rol del profesor
-11. aprendizaje contínuo, trabajo más temprano
-12. que se acabe la universidad *famosa*
+- He aquí 12 formas en las que la escuela puede ser reformada:
+1. Deberes por el día, en clase; las clases orales del profesor por la noche, en casa
+2. Libro abierto, cuaderno abierto, todo el tiempo
+3. Acceso a cualquier curso y asignatura, desde cualquier parte del mundo
+4. Instruciones precisas y focalizadas, en lugar de instrucciones generalizadas y en masa
+5. Prohibidos exámenes tipo test
+6. Experiencias en lugar de notas en los examenes como medida de logros
+7. Dejemos de medir como un resultado la obediencia (el silencio, el aceptar las cosas porque sí)
+8. Cooperacion en lugar de aislamiento (en lugar de aislar estudiantes, deberiamos conectarlos : trabajo en grupo, clases intractivas, ...)
+9. Amplificacion de los estudiantes sobresalientes, de los profesores y de las ideas
+10. Transformación del rol del profesor
+11. Aprendizaje contínuo, trabajo más temprano
+12. Dejemos de pensar que la universidad famosa, la que tiene fama, es la mejor en cuanto a educación
 - el nuevo trabajo de la escuela no es proporcionar un mapa a aquellos que quieran seguirlo, si no inculcar el liderazgo y la perseverancia en una nueva generación
 - el mundo cambió primero, ahora es el turno de la escuela
 - hoy en dia, la reputación vale más que las notas en los exámenes. el acceso a los datos significa que ya no es la parte con valor, el procesamiento de los datos es lo que da valor
@@ -165,15 +164,15 @@ pérdida de tiempo, pero no llegué a ver el problema expuesto por Seth.
 - la escuela es una especie de *contrato de adhesión*, lo que significa un contrato de *lo tomas o lo dejas* en masa. no hay negociación individual posible
 - no preguntamos a los estudiantes si quieren participar, simplemente asumimos el *contrato de adhesión*
 - los mejores doctores son los mejores porque ellos lo decidieron
-- el atajo para alcanzar el objetivo de las escuelas (crear ciudadanos sumisos) es el **miedo**. "Haz esto y se lo diremos a tus padres", "o te suspenderemos",...
+- El atajo para alcanzar el objetivo de las escuelas (crear ciudadanos sumisos) es el **miedo**. Haz esto y ..., "se lo diremos a tus padres", "o te suspenderemos",...
 - en realidad, solo hay dos herramientas disponibles para los educadores: miedo y pasión
 - el problema es que la pasión individual es difícil de escalar
 - la escuela enseña cosas que se dan por sentadas, que no admiten dudas. pero la nueva deberia enseñar duda razonable, cuestionarse científicamente las cosas
 - John Stuart Mill: es mejor ser un ser humano no satisfecho que un cerdo satisfecho; mejor ser Sócrates no satisfecho que un tonto satisfecho
-- El atrevimiento (ha probar cosas nuevas, a salirse del guión) en la escuela está castigado, no recompensado
+- El atrevimiento (a probar cosas nuevas, a salirse del guión) en la escuela está castigado, no recompensado
 - la escuela, no hay sorpresa aquí, está enfocada en crear trabajadores a jornal. desprecia el trabajo en equipo, divide tareas en las unidades medibles más pequeñas posibles, no hace nada por coordinar la enseñanza, aisla a los profesores en departamentos. Mide niveles individuales
 - cada uno de esos comportamientos es lo que ya pasaba en las factorías de 1937
-- habilidades que escasean combinadas con actitudes aún más escasas casi siempre llevan a un desempleo bajo y altos salarios
+- Tener habilidades que escasean combinadas con actitudes aún más escasas casi siempre llevan a un desempleo bajo y altos salarios
 - juicio, habilidad y actitud son los nuevos reemplazos de la obediencia
 - solía ser sencillo: el profesor era el policía, el maestro, la fuente de todas las respuestas y el guardián de los recursos. Ahora, no necesitamos un humano a nuestro lado para enseñarnos como buscar la raiz cuadrada de un número, o cómo afilar un hacha. Lo que necesitamos es alguien que nos convenza de que queremos aprender esas cosas
 - la gente competente resuelve un problema de la misma manera, todas las veces
