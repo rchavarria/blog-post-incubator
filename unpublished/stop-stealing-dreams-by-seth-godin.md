@@ -94,26 +94,23 @@ pérdida de tiempo, pero no llegué a ver el problema expuesto por Seth.
 - El atrevimiento (a probar cosas nuevas, a salirse del guión) en la escuela está castigado, no recompensado
 - Tener habilidades que escasean combinadas con actitudes aún más escasas casi siempre llevan a un desempleo bajo y altos salarios
 - Solía ser sencillo: el profesor era el policía, el maestro, la fuente de todas las respuestas y el guardián de los recursos. Ahora, no necesitamos un humano a nuestro lado para enseñarnos como buscar la raiz cuadrada de un número, o cómo afilar un hacha. Lo que necesitamos es alguien que nos convenza de que queremos aprender esas cosas
-- estamos entrando en una revolución de ideas mientras producimos una generación que, en lugar de ideas, lo que quiere son instrucciones
-- es muy peligroso hacer lo correcto? pueden los padres intentar hacerlo bien? porqué debería la escuela hacer ese trabajo y no los padres? lo que importa es que buscar un camino que *podría* ser mejor es demasiado riesgo para alquien que solo tiene una oportunidad de educar a sus chicos correctamente
-- la única forma para un estudiante de obtener respeto en la escuela es ganarse la aprovación temporal de un profesor al que probablemente no volverá a ver en un futuro cercano. si el profesor es temperamental, inconsistente, mal profesor, el estudiante es obligado a aguantarle -> es muy frustrante tener que contentar a alquien a quien no vas a volver a ver en la vida
-- lo que se necesita de los profesores ya no es dar cuantas más clases mejor, o corregir exámenes o gestionar una clase de estudiantes. Lo que se necesita es una atención individualizada, trabajo emocional y la habilidad de motivar
-- MORALEJA: no valorar el skill, la habilidad, porque el niño mayor tiene ventaja, valorar pasión, los sueños del chico
-- Preguntas dirigidas a aquellos profesores que simplemente leen de sus notas, que creen en la memorización, que creen que tienen más poder que los niños por el hecho de ser profesor: ¿les estás dando esos dos regalos? ¿la próxima generación de niños, conocerá más datos o será capaz de conectar datos y transformar esos datos en información, liderazgo y progreso?
-**CON ESTO SÍ QUE ME QUIERO QUEDAR** : INCULCAR A LOS NIÑOS LA PASIÓN POR LEER
-- la universidad proporciona 4 cosas :
-1. acceso a la información -> pero ya tenemos acceso online, por lo que no necesitamos a la universidad para esto
-2. acreditación o un título escaso (creo que esto ya no tiene mucha validez)
-3. membresía a una tribu
-4. una situación para el crecimiento y desarrollo
-- pertenecer a una tribu: esta es quizá la mejor razón por la que mudarse a un campus universitario para conseguir un título, una carrera
-- situación para el crecimiento: esta sería la razón por la que elegir la universidad, porque es imposible de imitar en una experiencia online. la universidad adecuada es la última y mejor oportunidad para multitud de adolescentes de encontrarse a sí mismos en situaciones donde no hay otra opción nada más que la de crecer, y rápido
-- **Qué enseñamos?**
-1. cuando enseñamos a un niño a tomar buenas decisiones, nos beneficiamos de una vida llena de buenas decisiones
-2. cuando enseñamos a un niño a amar el aprendizaje, la cantidad de aprendizaje se volverá ilimitada
-3. cuando enseñamos a un niño a lidiar con un mundo cambiante, nunca se quedará obsoleto
-4. cuando somos lo suficientemente valientes como para enseñar a un niño que cuestione la autoridad, incluso la nuestra, nos protegemos a nosotros mismos de quien usaría su autoridad en contra de cada uno de nosotros
-5. y cuando le damos a los estudiantes el deseo de hacer cosas, aunque sean elecciones, creamos un mundo repleto de gente que consigue crear e inventar cosas
+- Estamos entrando en una revolución de ideas mientras producimos una generación que, en lugar de ideas, lo que quiere son instrucciones
+- ¿Es muy peligroso hacer lo correcto? ¿Pueden los padres hacerlo bien? ¿Porqué debería la escuela hacer ese trabajo y no los padres? Lo que importa es que buscar un camino que *podría* ser mejor es demasiado riesgo para alquien que sólo tiene una oportunidad de educar a sus hijos correctamente
+- La única forma para un estudiante de obtener respeto en la escuela es ganarse la aprovación temporal de un profesor al que probablemente no volverá a ver en un futuro cercano. Si el profesor es temperamental, inconsistente, mal profesor, el estudiante está obligado a aguantarle. ¿No te parece que debe ser muy frustrante tener que contentar a alquien a quien no vas a volver a ver en la vida?
+- Lo que se necesita de los profesores no es dar cuantas más clases mejor, o corregir exámenes o gestionar una clase de estudiantes. Lo que se necesita es una atención individualizada, trabajo emocional y la habilidad de motivar
+- Debemos tener en cuenta que no hay que valorar simplemente la habilidad, porque el niño mayor tiene ventaja, hay que valorar pasión, los sueños del niño
+- Debemos inculcar a los niños la pasión por leer
+- La universidad proporciona 4 cosas:
+1. Acceso a la información. Pero ya tenemos acceso online, por lo que no necesitamos a la universidad para esto
+2. Acreditación o un título (que antes era escaso). Pero ahora todo el mundo puede tener un título
+3. Membresía a una tribu. Esta es quizá la mejor razón por la que mudarse a un campus universitario para conseguir una carrera
+4. Una situación para el crecimiento y desarrollo. Ésta sería la razón por la que elegir la universidad, porque es imposible de imitar en una experiencia online. La universidad adecuada es la última y mejor oportunidad para multitud de adolescentes de encontrarse a sí mismos en situaciones donde no hay otra opción nada más que la de crecer, y rápido
+- **Qué enseñamos?**:
+1. Cuando enseñamos a un niño a tomar buenas decisiones, nos beneficiamos de una vida llena de buenas decisiones
+2. Cuando enseñamos a un niño a amar el aprendizaje, la cantidad de aprendizaje se volverá ilimitada
+3. Cuando enseñamos a un niño a lidiar con un mundo cambiante, nunca se quedará obsoleto
+4. Cuando somos lo suficientemente valientes como para enseñar a un niño que cuestione la autoridad, incluso la nuestra, nos protegemos a nosotros mismos de quien usaría su autoridad en contra de cada uno de nosotros
+5. Y cuando le damos a los estudiantes el deseo de hacer cosas, aunque sean elecciones, creamos un mundo repleto de gente que consigue crear e inventar cosas
 
 ## Recursos relacionados
 
@@ -122,7 +119,7 @@ pérdida de tiempo, pero no llegué a ver el problema expuesto por Seth.
 - [Standford University online]
 
 [Mis notas sobre Stop stealing dreams]: foo-bar-foo-bar
-[Kahn Academy]
+[Khan Academy]
 [Standford University online]
 
 # Stop stealing dremas (what's school for?)
@@ -185,23 +182,23 @@ pérdida de tiempo, pero no llegué a ver el problema expuesto por Seth.
 - la economía demanda que escojamos tener grandes y ambiciosos sueños
 - la fuerza de voluntad puede ser enseñada por profesores y padres. Buscar Kelly McGonigal y Roy Baumeister
 - ...y el profesor le humilló intencionadamente, por una sola y clara razón: el que manda es el profesor: "obedecerás y cumplirás las normas, si no, serás castigado"
-- es muy peligroso hacer lo correcto? pueden los padres intentar hacerlo bien? porqué debería la escuela hacer ese trabajo y no los padres? lo que importa es que buscar un camino que *podría* ser mejor es demasiado riesgo para alquien que solo tiene una oportunidad de educar a sus chicos correctamente
+- ¿Es muy peligroso hacer lo correcto? ¿Pueden los padres hacerlo bien? ¿Porqué debería la escuela hacer ese trabajo y no los padres? Lo que importa es que buscar un camino que *podría* ser mejor es demasiado riesgo para alquien que sólo tiene una oportunidad de educar a sus hijos correctamente
 - David Weinberger: "las redes de personas, la conexión entre personas (como en una clase) pueden hacernos más inteligentes o más estúpidos"
-- la única forma para un estudiante de obtener respeto en la escuela es ganarse la aprovación temporal de un profesor al que probablemente no volverá a ver en un futuro cercano. si el profesor es temperamental, inconsistente, mal profesor, el estudiante es obligado a aguantarle -> es muy frustrante tener que contentar a alquien a quien no vas a volver a ver en la vida
+- La única forma para un estudiante de obtener respeto en la escuela es ganarse la aprovación temporal de un profesor al que probablemente no volverá a ver en un futuro cercano. Si el profesor es temperamental, inconsistente, mal profesor, el estudiante está obligado a aguantarle. ¿No te parece que debe ser muy frustrante tener que contentar a alquien a quien no vas a volver a ver en la vida?
 - los conocimientos culturales o una base de conocimiento común nunca será infinita, y lo que es más importante, no podemos ejercitarla y practicarla en una población que tiene tantas diversiones fascinantes y fáciles a su alcance como alternativas: tv, youtube,...
 - si enseñamos a nuestros estudiantes a tener pasión, ser éticos e inquisitivos, estoy seguro de que los hechos vendrán solos
 - (el tour del buscador bing) ellos son muy vagos para preguntar a sus colegas si hay una forma mejor de hacer las cosas. ellos no buscan trucos o formas de cambiar o mejorar o arreglar. ellos se autodescriben como 'principiantes' y ahí lo dejan. ellos no hacen ningún esfuerzo, actúan con miedo en lugar de con pasión. Si la actitud hacia el aprendizaje se puede enseñar, se puede enseñar la pasión?
 - Modelo de Khan Academy: cada estudiante ve las lecciones en casa, a su ritmo. Luego, durante el dia, el profesor le ayuda donde esté atascado. Así, NADIE lleva el mismo ritmo
 - Nosotros, podemos decir simplemente *aqui*, y creer que los estudiantes harán el difícil (y asustadizo) trabajo de encontrar en internet lo que queremos que encuentren. Ahí es donde necesitamos la escuela.
 - El trabajo del profesor sería: buscar las mejores preguntas para los deberes jamás hechas y crear tutoriales a nivel mundial de cómo solucionar cada uno de ellos -> imagina esto coordinado entre todos los profesores
-- lo que se necesita de los profesores ya no es dar cuantas más clases mejor, o corregir exámenes o gestionar una clase de estudiantes. Lo que se necesita es una atención individualizada, trabajo emocional y la habilidad de motivar
+- Lo que se necesita de los profesores no es dar cuantas más clases mejor, o corregir exámenes o gestionar una clase de estudiantes. Lo que se necesita es una atención individualizada, trabajo emocional y la habilidad de motivar
 - En lugar de castigar a grandes profesores con instrucciones precisas sobre cómo deben pasar el día, démosles la libertad para que enseñen de verdad
 - el trabajo emocional se refleja en la paciencia, respeto y amabilidad
 - por primera vez en en tiempo, tenemos la oportunidad de hacer que los sistemas digitales hagan el trabajo duro mientras nuestros profesores hacen el trabajo emocional
 - una estrategia popular es jugar con tus mejores jugadores todas las veces, y quizás, solo quizás, si llevas una ventaja de muchos goles, dejes jugar a alguno de los jugadores de segunda. La lección que para los niños es obvia: la habilidad se recompensa, los sueños, las ganas, no mucho. Si no eres magnífico, si no eres buen jugador, no te molestes en intentarlo.
 - Pero quizás, el objetivo sea enseñar a los niños/as acerca del esfuerzo, oportunidades/posibilidades y trabajo en equipo
 - Resulta que un gran porcentaje de los jugadores de hockey han nacido en el primer trimestre del año. La razón es simple: ellos eran los mayores en las escuelas de hockey junior
-- MORALEJA: no valorar el skill, la habilidad, porque el niño mayor tiene ventaja, valorar pasión, los sueños del chico
+- Debemos tener en cuenta que no hay que valorar simplemente la habilidad, porque el niño mayor tiene ventaja, hay que valorar pasión, los sueños del niño
 - El liderazgo es un proceso gradual, donde uno toma la responsabilidad años antes de que se le de la autoridad. Y eso se puede enseñar
 - La escuela tiene una función real cuando activa la pasión por un aprendizaje contínuo a lo largo de toda la vida
 - 2 pilares para una educación para el futuro:
@@ -222,25 +219,25 @@ pérdida de tiempo, pero no llegué a ver el problema expuesto por Seth.
 - ser conscientes de ello, estar conectados, y sentirnos apoyados es la plataforma que necesitamos para realizar el tremendo esfuerzo emocional necesario para comprometernos a aprender
 - los puzzles matemáticos y problemas de física son oportunidades de oro para que los jóvenes adultos comiencen su andadura por el camino del aprendizaje contínuo durante toda su vida
 - la lectura nos hace más y mejores pensadores, nos hace estar mejor informados, y nos hace miembros más productivos de una sociedad civil
-**CON ESTO SÍ QUE ME QUIERO QUEDAR** : INCULCAR A LOS NIÑOS LA PASIÓN POR LEER
+- Debemos inculcar a los niños la pasión por leer
 - la librería dejará de ser un simple almacén de libros muertos, la librería debería ser el centro neurálgico de la información
 - la librería será un espacio de co-working, donde inventar proyectos, guiado y ayudado por un librero, que entiende que la malla (la interconexión entre la gente), y que puede dar uso al conocimiento del problema, el conocimiento de la gente y el acceso a la información
 - la trampa de la universidad famosa: básicamente las universidades hacen publicidad, se hacen más caras, pero no para hacer una educación mejor, si no para ser más famosas, ser más caras todavía y ganar más dinero
-- la universidad proporciona 4 cosas :
-1. acceso a la información -> pero ya tenemos acceso online, por lo que no necesitamos a la universidad para esto
-2. acreditación o un título escaso (creo que esto ya no tiene mucha validez)
-3. membresía a una tribu
-4. una situación para el crecimiento y desarrollo
+- La universidad proporciona 4 cosas:
+1. Acceso a la información. Pero ya tenemos acceso online, por lo que no necesitamos a la universidad para esto
+2. Acreditación o un título (que antes era escaso). Pero ahora todo el mundo puede tener un título
+3. Membresía a una tribu. Esta es quizá la mejor razón por la que mudarse a un campus universitario para conseguir una carrera
+4. Una situación para el crecimiento y desarrollo. Ésta sería la razón por la que elegir la universidad, porque es imposible de imitar en una experiencia online. La universidad adecuada es la última y mejor oportunidad para multitud de adolescentes de encontrarse a sí mismos en situaciones donde no hay otra opción nada más que la de crecer, y rápido
 - pertenecer a una tribu: esta es quizá la mejor razón por la que mudarse a un campus universitario para conseguir un título, una carrera
 - situación para el crecimiento: esta sería la razón por la que elegir la universidad, porque es imposible de imitar en una experiencia online. la universidad adecuada es la última y mejor oportunidad para multitud de adolescentes de encontrarse a sí mismos en situaciones donde no hay otra opción nada más que la de crecer, y rápido
 - no esperes más, decídete, haz algo, aprende por tí mismo, motiva a tus hijos, anímales a que sueñen, en contra de todas las adversidades
 - aprende, lidera y enseña
-- **Qué enseñamos?**
-1. cuando enseñamos a un niño a tomar buenas decisiones, nos beneficiamos de una vida llena de buenas decisiones
-2. cuando enseñamos a un niño a amar el aprendizaje, la cantidad de aprendizaje se volverá ilimitada
-3. cuando enseñamos a un niño a lidiar con un mundo cambiante, nunca se quedará obsoleto
-4. cuando somos lo suficientemente valientes como para enseñar a un niño que cuestione la autoridad, incluso la nuestra, nos protegemos a nosotros mismos de quien usaría su autoridad en contra de cada uno de nosotros
-5. y cuando le damos a los estudiantes el deseo de hacer cosas, aunque sean elecciones, creamos un mundo repleto de gente que consigue crear e inventar cosas
+- **Qué enseñamos?**:
+1. Cuando enseñamos a un niño a tomar buenas decisiones, nos beneficiamos de una vida llena de buenas decisiones
+2. Cuando enseñamos a un niño a amar el aprendizaje, la cantidad de aprendizaje se volverá ilimitada
+3. Cuando enseñamos a un niño a lidiar con un mundo cambiante, nunca se quedará obsoleto
+4. Cuando somos lo suficientemente valientes como para enseñar a un niño que cuestione la autoridad, incluso la nuestra, nos protegemos a nosotros mismos de quien usaría su autoridad en contra de cada uno de nosotros
+5. Y cuando le damos a los estudiantes el deseo de hacer cosas, aunque sean elecciones, creamos un mundo repleto de gente que consigue crear e inventar cosas
 
 Algunos recursos relacionados:
 - [Stope stealing dreams](http://sethgodin.hubpages.com/hub/stop-stealing-dreams), de Seth Godin
