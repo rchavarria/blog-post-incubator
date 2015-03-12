@@ -7,6 +7,7 @@ comments: true
 categories: 
 - personal
 - book reviews
+- education
 published: true
 footer: false
 sidebar: true
@@ -57,7 +58,7 @@ cambiado, y la escuela debe cambiar.
 
 No estoy seguro de si el autor tiene toda la razón en su idea principal, pero
 de lo que sí estoy seguro es que existen iniciativas distintas para la educación
-([Khan Academy], [Standford University online],...) y que pueden ser pioneras
+([Khan Academy], [Stanford University online], [MIT open courses],...) y que pueden ser pioneras
 en el cambio que la educación necesita.
 
 Estoy de acuerdo en que el profesor no debería malgastar su tiempo en dar una
@@ -116,11 +117,13 @@ pérdida de tiempo, pero no llegué a ver el problema expuesto por Seth.
 
 - [Notas extendidas sobre el libro]
 - [Khan Academy]
-- [Standford University online]
+- [Stanford University online]
+- [MIT open courses]
 
-[Mis notas sobre Stop stealing dreams]: foo-bar-foo-bar
-[Khan Academy]
-[Standford University online]
+[Mis notas sobre Stop stealing dreams]: https://github.com/rchavarria/book-notes/tree/master/published/stop-stealing-dreams-by-seth-godin.md
+[Khan Academy]: https://www.khanacademy.org
+[Stanford University online]: http://online.stanford.edu
+[MIT open courses]: http://ocw.mit.edu/index.htm
 
 # Stop stealing dremas (what's school for?)
 #### de Seth Goding
