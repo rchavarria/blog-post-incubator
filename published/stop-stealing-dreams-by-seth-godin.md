@@ -118,11 +118,13 @@
 
 Algunos recursos relacionados:
 
-- [Stop stealing dreams](http://sethgodin.hubpages.com/hub/stop-stealing-dreams), de Seth Godin
+- [Stop stealing dreams], de Seth Godin
 - [42 quotes from the book](http://ivanasendecka.com/2012/03/03/stopstealingdreams)
 - [No digitalicemos los libros de texto](http://www.enriquedans.com/2014/09/no-digitalicemos-el-libro-de-texto.html), de Enrique Dans
 - [Modern education](https://twitter.com/thereaIbanksy/status/514217338183626753), de Banksy
 - [Innovar en el aula](https://twitter.com/ocatasus/status/512848102106341376/photo/1), los profesores no están obligados a utilizar los libros de una editorial, ni lo que diga el colegio. *Libertad de cátedra*
 - [Kelly McGonigal: The willpower instinct ](https://www.youtube.com/watch?v=V5BXuZL1HAg)
 - [Kelly McGonigal: How to make stress your friend](https://www.youtube.com/watch?v=RcGyVTAoXEU)
+
+[Stop stealing dreams]:http://sethgodin.hubpages.com/hub/stop-stealing-dreams
 
