@@ -1,4 +1,4 @@
-# Stop stealing dreams (what's school for?)
+# [Stop stealing dreams] (what's school for?)
 
 #### de Seth Goding
 
