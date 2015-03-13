@@ -1,253 +1,128 @@
----
-layout: post
-title: "Stop stealing dreams"
-date: 
-author: RubÈn ChavarrÌa
-comments: true
-categories: 
-- personal
-- book reviews
-- education
-published: true
-footer: false
-sidebar: true
----
+# Stop stealing dreams (what's school for?)
 
-##### de Seth Godin
-
-{% img left http://s1.hubimg.com/u/11789820_f260.jpg 260 392 Stop stealing dreams %}
-
-## Por quÈ lo he leÌdo
-
-DecidÌ leerlo b·sicamente porque tengo un hijo. EmpezÛ el *colegio de mayores*
-el pasado mes de septiembre, y desde un tiempo atr·s ya me empezÛ a preocupar
-el tema de su educaciÛn.
-
-Y la verdad, con todos las reformas que ha sufrido la educaciÛn en EspaÒa en
-los ˙ltimos aÒos, creo que la calidad de la misma se ha visto bastante reducida.
-
-Por otra parte, he leÌdo alg˙n libro de Seth Godin, y sigo su blog, y creo que
-tiene muchas ideas revolucionarias (con otras no estoy muy de acuerdo, o 
-simplemente no me interesan mucho), pero tenÌa ganas de saber quÈ piensa Seth
-sobre la educaciÛn.
-
-<!-- more -->
-
-## QuÈ esperaba
-
-Viniendo de Seth Goding, me esperaba una serie de ideas revolucionarias sobre
-cÛmo educar a los hijos, o consejos sobre cÛmo comportarse para intentar conseguir
-que los pequeÒos sean m·s independientes, estÈn m·s preparados para un mundo
-cambiante, que sean m·s individuales pero colaborativos.
-
-## QuÈ encontre
-
-En parte encontrÈ lo que buscaba, pero gran parte del libro (o *manifiesto* como
-le llama el autor) est· dedicado a criticar el sistema educativo (est· centrado
-en el norteamericano, pero es extrapolable a otros, por lo menos al
-espaÒol sÌ lo es, m·s o menos), desde primaria hasta la universidad.
-
-## Conclusiones
-
-Es un libro que no defraudar· a ning˙n padre, y tampoco a ning˙n profesor de 
-escuela, instituto o universidad que estÈ preocupado hacia dÛnde va la educaciÛn.
-La idea principal es que la escuela p˙blica, o la educaciÛn para la mayorÌa,
-naciÛ como una necesidad de crear obreros, de crear una clase obrera. Pero
-ya no existe esa necesidad de la era industrial, ahora las necesidades han
-cambiado, y la escuela debe cambiar.
-
-No estoy seguro de si el autor tiene toda la razÛn en su idea principal, pero
-de lo que sÌ estoy seguro es que existen iniciativas distintas para la educaciÛn
-([Khan Academy], [Stanford University online], [MIT open courses],...) y que pueden ser pioneras
-en el cambio que la educaciÛn necesita.
-
-Estoy de acuerdo en que el profesor no deberÌa malgastar su tiempo en dar una
-clase est·ndar, para todos igual, si no que cada alumno disponga de toda la
-informaciÛn de la materia a estudiar, haga el progreso a su ritmo, y que el
-profesor sea la persona que le guie, le ayude cuando se encuentre en un callejÛn
-sin salida. SentÌ algo parecido en la universidad, las clases parecÌan una
-pÈrdida de tiempo, pero no lleguÈ a ver el problema expuesto por Seth.
-
-## Frases que me gustarÌa recordar
-
-- La educaciÛn a gran escala no fue desarrollada para motivar a los niÒos o para crear eruditos, fue para crear adultos sumisos, trabajadores para lÌneas de montaje en las f·bricas
-- øPara quÈ es la escuela?
-1. Para crear una sociedad culturalmente coordinada. La televisiÛn gana
-2. Para llevar m·s lejos la ciencia y el conocimineto y perseguir la informaciÛn por placer. Eso est· bien, pero luego asociamos leer libros con los ex·menes, poca gente lee por el placer de leer y aprender
-3. Para mejorar la civilizaciÛn mientras le damos a la gente herramientas para tomar decisiones conscientes e informadas. Pero fallamos al elevar los est·ndares del pensamiento racional, investigaciÛn escÈptica, y la toma de decisiones financieras de utilidad
-4. Para entrenar a gente en ser trabajadores productivos. Este punto es en el que hemos destacado en los ˙ltimos tiempos, seg˙n el autor.
-- Podemos enseÒar a la gente a comprometerse, a superar sus miedos, a negociar transarentemente, a iniciar y planificar un curso, a desear tener una vida de contÌnuo aprendizaje, a expresarse por sÌ mismos y a innovar. Pero en lugar de eso, hemos hecho que se olviden del coraje, la creatividad y la iniciativa
-- He aquÌ 12 formas en las que la escuela puede ser reformada:
-1. Deberes por el dÌa, en clase; las clases orales del profesor por la noche, en casa
-2. Libro abierto, cuaderno abierto, todo el tiempo
-3. Acceso a cualquier curso y asignatura, desde cualquier parte del mundo
-4. Instruciones precisas y focalizadas, en lugar de instrucciones generalizadas y en masa
-5. Prohibidos ex·menes tipo test
-6. Experiencias en lugar de notas en los examenes como medida de logros
-7. Dejemos de medir como un resultado la obediencia (el silencio, el aceptar las cosas porque sÌ)
-8. Cooperacion en lugar de aislamiento (en lugar de aislar estudiantes, deberiamos conectarlos : trabajo en grupo, clases intractivas, ...)
-9. Amplificacion de los estudiantes sobresalientes, de los profesores y de las ideas
-10. TransformaciÛn del rol del profesor
-11. Aprendizaje contÌnuo, trabajo m·s temprano
-12. Dejemos de pensar que la universidad famosa, la que tiene fama, es la mejor en cuanto a educaciÛn
-- *EconomÌa conectada*: los estudiantes tienen la habilidad y la facilidad de investigar lo que hay fuera y descubrir que el profesor (o libro de texto) est· equivocado
-- El atajo para alcanzar el objetivo de las escuelas (crear ciudadanos sumisos) es el **miedo**. Haz esto y ..., "se lo diremos a tus padres", "o te suspenderemos",...
-- El atrevimiento (a probar cosas nuevas, a salirse del guiÛn) en la escuela est· castigado, no recompensado
-- Tener habilidades que escasean combinadas con actitudes a˙n m·s escasas casi siempre llevan a un desempleo bajo y altos salarios
-- SolÌa ser sencillo: el profesor era el policÌa, el maestro, la fuente de todas las respuestas y el guardi·n de los recursos. Ahora, no necesitamos un humano a nuestro lado para enseÒarnos como buscar la raiz cuadrada de un n˙mero, o cÛmo afilar un hacha. Lo que necesitamos es alguien que nos convenza de que queremos aprender esas cosas
-- Estamos entrando en una revoluciÛn de ideas mientras producimos una generaciÛn que, en lugar de ideas, lo que quiere son instrucciones
-- øEs muy peligroso hacer lo correcto? øPueden los padres hacerlo bien? øPorquÈ deberÌa la escuela hacer ese trabajo y no los padres? Lo que importa es que buscar un camino que *podrÌa* ser mejor es demasiado riesgo para alquien que sÛlo tiene una oportunidad de educar a sus hijos correctamente
-- La ˙nica forma para un estudiante de obtener respeto en la escuela es ganarse la aprovaciÛn temporal de un profesor al que probablemente no volver· a ver en un futuro cercano. Si el profesor es temperamental, inconsistente, mal profesor, el estudiante est· obligado a aguantarle. øNo te parece que debe ser muy frustrante tener que contentar a alquien a quien no vas a volver a ver en la vida?
-- Lo que se necesita de los profesores no es dar cuantas m·s clases mejor, o corregir ex·menes o gestionar una clase de estudiantes. Lo que se necesita es una atenciÛn individualizada, trabajo emocional y la habilidad de motivar
-- Debemos tener en cuenta que no hay que valorar simplemente la habilidad, porque el niÒo mayor tiene ventaja, hay que valorar pasiÛn, los sueÒos del niÒo
-- Debemos inculcar a los niÒos la pasiÛn por leer
-- La universidad proporciona 4 cosas:
-1. Acceso a la informaciÛn. Pero ya tenemos acceso online, por lo que no necesitamos a la universidad para esto
-2. AcreditaciÛn o un tÌtulo (que antes era escaso). Pero ahora todo el mundo puede tener un tÌtulo
-3. MembresÌa a una tribu. Esta es quiz· la mejor razÛn por la que mudarse a un campus universitario para conseguir una carrera
-4. Una situaciÛn para el crecimiento y desarrollo. …sta serÌa la razÛn por la que elegir la universidad, porque es imposible de imitar en una experiencia online. La universidad adecuada es la ˙ltima y mejor oportunidad para multitud de adolescentes de encontrarse a sÌ mismos en situaciones donde no hay otra opciÛn nada m·s que la de crecer, y r·pido
-- **QuÈ enseÒamos?**:
-1. Cuando enseÒamos a un niÒo a tomar buenas decisiones, nos beneficiamos de una vida llena de buenas decisiones
-2. Cuando enseÒamos a un niÒo a amar el aprendizaje, la cantidad de aprendizaje se volver· ilimitada
-3. Cuando enseÒamos a un niÒo a lidiar con un mundo cambiante, nunca se quedar· obsoleto
-4. Cuando somos lo suficientemente valientes como para enseÒar a un niÒo que cuestione la autoridad, incluso la nuestra, nos protegemos a nosotros mismos de quien usarÌa su autoridad en contra de cada uno de nosotros
-5. Y cuando le damos a los estudiantes el deseo de hacer cosas, aunque sean elecciones, creamos un mundo repleto de gente que consigue crear e inventar cosas
-
-## Recursos relacionados
-
-- [Notas extendidas sobre el libro]
-- [Khan Academy]
-- [Stanford University online]
-- [MIT open courses]
-
-[Mis notas sobre Stop stealing dreams]: https://github.com/rchavarria/book-notes/tree/master/published/stop-stealing-dreams-by-seth-godin.md
-[Khan Academy]: https://www.khanacademy.org
-[Stanford University online]: http://online.stanford.edu
-[MIT open courses]: http://ocw.mit.edu/index.htm
-
-# Stop stealing dremas (what's school for?)
 #### de Seth Goding
 
-- La educaciÛn a gran escala no fue desarrollada para motivar a los niÒos o para crear eruditos, fue para crear adultos sumisos, trabajadores para lÌneas de montaje en las f·bricas
-- si tienes un trabajo donde alguien te dice exactamente quÈ hacer, Èl encontrara alguien m·s barato que haga lo mismo
-- øPara quÈ es la escuela?
-1. Para crear una sociedad culturalmente coordinada. La televisiÛn gana
-2. Para llevar m·s lejos la ciencia y el conocimineto y perseguir la informaciÛn por placer. Eso est· bien, pero luego asociamos leer libros con los ex·menes, poca gente lee por el placer de leer y aprender
-3. Para mejorar la civilizaciÛn mientras le damos a la gente herramientas para tomar decisiones conscientes e informadas. Pero fallamos al elevar los est·ndares del pensamiento racional, investigaciÛn escÈptica, y la toma de decisiones financieras de utilidad
-4. Para entrenar a gente en ser trabajadores productivos. Este punto es en el que hemos destacado en los ˙ltimos tiempos, seg˙n el autor.
-- si la escuela fue creada para 'fabricar' fuerza de trabajo, y ya no necesitamos fuerza de trabajo, øpara quÈ invertir en mejorar la escuela? cambiÈmosla
-- en 1914, un profesor de Kansas inventÛ los ex·menes tipo test. Dijo : "Èste es un examen donde no necesitas las cosas para responder hecho para los ignorantes"
-- esos ex·menes siguen vigentes, no porque funcionen, sino porque es una forma f·cil y eficiente de que la masa de estudiantes siga adelante (aunque no haga progresos reales)
-- la escuela industrial, a gran escala, con estructuras medibles significa que el miedo es el medio para mantener a raya a las masas (el miedo destruye la pasiÛn)
-- Podemos enseÒar a la gente a comprometerse, a superar sus miedos, a negociar transarentemente, a iniciar y planificar un curso, a desear tener una vida de contÌnuo aprendizaje, a expresarse por sÌ mismos y a innovar. Pero en lugar de eso, hemos hecho que se olviden del coraje, la creatividad y la iniciativa
-- los soÒadores en la escuela son peligrosos, es difÌcil hacerlos encajar en los sistemas existentes
-- aprender es algo que t˙ eliges hacer
-- He aquÌ 12 formas en las que la escuela puede ser reformada:
-1. Deberes por el dÌa, en clase; las clases orales del profesor por la noche, en casa
-2. Libro abierto, cuaderno abierto, todo el tiempo
-3. Acceso a cualquier curso y asignatura, desde cualquier parte del mundo
-4. Instruciones precisas y focalizadas, en lugar de instrucciones generalizadas y en masa
-5. Prohibidos ex·menes tipo test
-6. Experiencias en lugar de notas en los examenes como medida de logros
-7. Dejemos de medir como un resultado la obediencia (el silencio, el aceptar las cosas porque sÌ)
-8. Cooperacion en lugar de aislamiento (en lugar de aislar estudiantes, deberiamos conectarlos : trabajo en grupo, clases intractivas, ...)
-9. Amplificacion de los estudiantes sobresalientes, de los profesores y de las ideas
-10. TransformaciÛn del rol del profesor
-11. Aprendizaje contÌnuo, trabajo m·s temprano
-12. Dejemos de pensar que la universidad famosa, la que tiene fama, es la mejor en cuanto a educaciÛn
-- el nuevo trabajo de la escuela no es proporcionar un mapa a aquellos que quieran seguirlo, si no inculcar el liderazgo y la perseverancia en una nueva generaciÛn
-- el mundo cambiÛ primero, ahora es el turno de la escuela
-- hoy en dia, la reputaciÛn vale m·s que las notas en los ex·menes. el acceso a los datos significa que ya no es la parte con valor, el procesamiento de los datos es lo que da valor
+- La educaci√≥n a gran escala no fue desarrollada para motivar a los ni√±os o para crear eruditos, fue para crear adultos sumisos, trabajadores para l√≠neas de montaje en las f√°bricas
+- si tienes un trabajo donde alguien te dice exactamente qu√© hacer, √©l encontrara alguien m√°s barato que haga lo mismo
+- ¬øPara qu√© es la escuela?
+    1. Para crear una sociedad culturalmente coordinada. La televisi√≥n gana
+    2. Para llevar m√°s lejos la ciencia y el conocimineto y perseguir la informaci√≥n por placer. Eso est√° bien, pero luego asociamos leer libros con los ex√°menes, poca gente lee por el placer de leer y aprender
+    3. Para mejorar la civilizaci√≥n mientras le damos a la gente herramientas para tomar decisiones conscientes e informadas. Pero fallamos al elevar los est√°ndares del pensamiento racional, investigaci√≥n esc√©ptica, y la toma de decisiones financieras de utilidad
+    4. Para entrenar a gente en ser trabajadores productivos. Este punto es en el que hemos destacado en los √∫ltimos tiempos, seg√∫n el autor.
+- si la escuela fue creada para 'fabricar' fuerza de trabajo, y ya no necesitamos fuerza de trabajo, ¬øpara qu√© invertir en mejorar la escuela? cambi√©mosla
+- en 1914, un profesor de Kansas invent√≥ los ex√°menes tipo test. Dijo : "√©ste es un examen donde no necesitas las cosas para responder hecho para los ignorantes"
+- esos ex√°menes siguen vigentes, no porque funcionen, sino porque es una forma f√°cil y eficiente de que la masa de estudiantes siga adelante (aunque no haga progresos reales)
+- la escuela industrial, a gran escala, con estructuras medibles significa que el miedo es el medio para mantener a raya a las masas (el miedo destruye la pasi√≥n)
+- Podemos ense√±ar a la gente a comprometerse, a superar sus miedos, a negociar transarentemente, a iniciar y planificar un curso, a desear tener una vida de cont√≠nuo aprendizaje, a expresarse por s√≠ mismos y a innovar. Pero en lugar de eso, hemos hecho que se olviden del coraje, la creatividad y la iniciativa
+- los so√±adores en la escuela son peligrosos, es dif√≠cil hacerlos encajar en los sistemas existentes
+- aprender es algo que t√∫ eliges hacer
+- He aqu√≠ 12 formas en las que la escuela puede ser reformada:
+    1. Deberes por el d√≠a, en clase; las clases orales del profesor por la noche, en casa
+    2. Libro abierto, cuaderno abierto, todo el tiempo
+    3. Acceso a cualquier curso y asignatura, desde cualquier parte del mundo
+    4. Instruciones precisas y focalizadas, en lugar de instrucciones generalizadas y en masa
+    5. Prohibidos ex√°menes tipo test
+    6. Experiencias en lugar de notas en los examenes como medida de logros
+    7. Dejemos de medir como un resultado la obediencia (el silencio, el aceptar las cosas porque s√≠)
+    8. Cooperacion en lugar de aislamiento (en lugar de aislar estudiantes, deberiamos conectarlos : trabajo en grupo, clases intractivas, ...)
+    9. Amplificacion de los estudiantes sobresalientes, de los profesores y de las ideas
+    10. Transformaci√≥n del rol del profesor
+    11. Aprendizaje cont√≠nuo, trabajo m√°s temprano
+    12. Dejemos de pensar que la universidad famosa, la que tiene fama, es la mejor en cuanto a educaci√≥n
+- el nuevo trabajo de la escuela no es proporcionar un mapa a aquellos que quieran seguirlo, si no inculcar el liderazgo y la perseverancia en una nueva generaci√≥n
+- el mundo cambi√≥ primero, ahora es el turno de la escuela
+- hoy en dia, la reputaci√≥n vale m√°s que las notas en los ex√°menes. el acceso a los datos significa que ya no es la parte con valor, el procesamiento de los datos es lo que da valor
 - en lugar de aislar estudiantes, deberiamos conectarlos : trabajo en grupo, clases intractivas, ...
-- falla la transparencia, en la b˙squeda del poder, control e independencia, los administradores esconden informacion a los profesores y viceversa
-- *economÌa conectada*: los estudiantes tienen la habilidad y la facilidad de investigar lo que hay fuera y descubrir que el profesor (o libro de texto) est· equivocado
-- la escuela es una especie de *contrato de adhesiÛn*, lo que significa un contrato de *lo tomas o lo dejas* en masa. no hay negociaciÛn individual posible
-- no preguntamos a los estudiantes si quieren participar, simplemente asumimos el *contrato de adhesiÛn*
+- falla la transparencia, en la b√∫squeda del poder, control e independencia, los administradores esconden informacion a los profesores y viceversa
+- *econom√≠a conectada*: los estudiantes tienen la habilidad y la facilidad de investigar lo que hay fuera y descubrir que el profesor (o libro de texto) est√° equivocado
+- la escuela es una especie de *contrato de adhesi√≥n*, lo que significa un contrato de *lo tomas o lo dejas* en masa. no hay negociaci√≥n individual posible
+- no preguntamos a los estudiantes si quieren participar, simplemente asumimos el *contrato de adhesi√≥n*
 - los mejores doctores son los mejores porque ellos lo decidieron
 - El atajo para alcanzar el objetivo de las escuelas (crear ciudadanos sumisos) es el **miedo**. Haz esto y ..., "se lo diremos a tus padres", "o te suspenderemos",...
-- en realidad, solo hay dos herramientas disponibles para los educadores: miedo y pasiÛn
-- el problema es que la pasiÛn individual es difÌcil de escalar
-- la escuela enseÒa cosas que se dan por sentadas, que no admiten dudas. pero la nueva deberia enseÒar duda razonable, cuestionarse cientÌficamente las cosas
-- John Stuart Mill: es mejor ser un ser humano no satisfecho que un cerdo satisfecho; mejor ser SÛcrates no satisfecho que un tonto satisfecho
-- El atrevimiento (a probar cosas nuevas, a salirse del guiÛn) en la escuela est· castigado, no recompensado
-- la escuela, no hay sorpresa aquÌ, est· enfocada en crear trabajadores a jornal. desprecia el trabajo en equipo, divide tareas en las unidades medibles m·s pequeÒas posibles, no hace nada por coordinar la enseÒanza, aisla a los profesores en departamentos. Mide niveles individuales
-- cada uno de esos comportamientos es lo que ya pasaba en las factorÌas de 1937
-- Tener habilidades que escasean combinadas con actitudes a˙n m·s escasas casi siempre llevan a un desempleo bajo y altos salarios
+- en realidad, solo hay dos herramientas disponibles para los educadores: miedo y pasi√≥n
+- el problema es que la pasi√≥n individual es dif√≠cil de escalar
+- la escuela ense√±a cosas que se dan por sentadas, que no admiten dudas. pero la nueva deberia ense√±ar duda razonable, cuestionarse cient√≠ficamente las cosas
+- John Stuart Mill: es mejor ser un ser humano no satisfecho que un cerdo satisfecho; mejor ser S√≥crates no satisfecho que un tonto satisfecho
+- El atrevimiento (a probar cosas nuevas, a salirse del gui√≥n) en la escuela est√° castigado, no recompensado
+- la escuela, no hay sorpresa aqu√≠, est√° enfocada en crear trabajadores a jornal. desprecia el trabajo en equipo, divide tareas en las unidades medibles m√°s peque√±as posibles, no hace nada por coordinar la ense√±anza, aisla a los profesores en departamentos. Mide niveles individuales
+- cada uno de esos comportamientos es lo que ya pasaba en las factor√≠as de 1937
+- Tener habilidades que escasean combinadas con actitudes a√∫n m√°s escasas casi siempre llevan a un desempleo bajo y altos salarios
 - juicio, habilidad y actitud son los nuevos reemplazos de la obediencia
-- solÌa ser sencillo: el profesor era el policÌa, el maestro, la fuente de todas las respuestas y el guardi·n de los recursos. Ahora, no necesitamos un humano a nuestro lado para enseÒarnos como buscar la raiz cuadrada de un n˙mero, o cÛmo afilar un hacha. Lo que necesitamos es alguien que nos convenza de que queremos aprender esas cosas
+- sol√≠a ser sencillo: el profesor era el polic√≠a, el maestro, la fuente de todas las respuestas y el guardi√°n de los recursos. Ahora, no necesitamos un humano a nuestro lado para ense√±arnos como buscar la raiz cuadrada de un n√∫mero, o c√≥mo afilar un hacha. Lo que necesitamos es alguien que nos convenza de que queremos aprender esas cosas
 - la gente competente resuelve un problema de la misma manera, todas las veces
 - la competencia es el enemigo del cambio
-- el trabajador incompetente es aquel que rompe las reglas para buscar algo que nadie m·s puede encontrar
-- estamos entrando en una revoluciÛn de ideas mientras producimos una generaciÛn que, en lugar de ideas, lo que quiere son instrucciones
-- Ahora mismo, estos dÌas, la ˙nica barrera al aprendizaje, es meramente la propia decisiÛn de aprender
-- un excedente de jornaleros (trabajadores por horas) obedientes conduce al desempleo, no a m·s f·bricas. por otro lado, trabajos creativos (o de conocimiento) conducen a m·s trabajos creativos
-- la escuela es una f·brica, y el producto de esa f·brica son trabajadores competentes, obedientes, que compran muchas cosas. Estos estudiantes estan entrenados para soÒar pequeÒos sueÒos, para tener pequeÒos objetivos
-- la economÌa demanda que escojamos tener grandes y ambiciosos sueÒos
-- la fuerza de voluntad puede ser enseÒada por profesores y padres. Buscar Kelly McGonigal y Roy Baumeister
-- ...y el profesor le humillÛ intencionadamente, por una sola y clara razÛn: el que manda es el profesor: "obedecer·s y cumplir·s las normas, si no, ser·s castigado"
-- øEs muy peligroso hacer lo correcto? øPueden los padres hacerlo bien? øPorquÈ deberÌa la escuela hacer ese trabajo y no los padres? Lo que importa es que buscar un camino que *podrÌa* ser mejor es demasiado riesgo para alquien que sÛlo tiene una oportunidad de educar a sus hijos correctamente
-- David Weinberger: "las redes de personas, la conexiÛn entre personas (como en una clase) pueden hacernos m·s inteligentes o m·s est˙pidos"
-- La ˙nica forma para un estudiante de obtener respeto en la escuela es ganarse la aprovaciÛn temporal de un profesor al que probablemente no volver· a ver en un futuro cercano. Si el profesor es temperamental, inconsistente, mal profesor, el estudiante est· obligado a aguantarle. øNo te parece que debe ser muy frustrante tener que contentar a alquien a quien no vas a volver a ver en la vida?
-- los conocimientos culturales o una base de conocimiento com˙n nunca ser· infinita, y lo que es m·s importante, no podemos ejercitarla y practicarla en una poblaciÛn que tiene tantas diversiones fascinantes y f·ciles a su alcance como alternativas: tv, youtube,...
-- si enseÒamos a nuestros estudiantes a tener pasiÛn, ser Èticos e inquisitivos, estoy seguro de que los hechos vendr·n solos
-- (el tour del buscador bing) ellos son muy vagos para preguntar a sus colegas si hay una forma mejor de hacer las cosas. ellos no buscan trucos o formas de cambiar o mejorar o arreglar. ellos se autodescriben como 'principiantes' y ahÌ lo dejan. ellos no hacen ning˙n esfuerzo, act˙an con miedo en lugar de con pasiÛn. Si la actitud hacia el aprendizaje se puede enseÒar, se puede enseÒar la pasiÛn?
-- Modelo de Khan Academy: cada estudiante ve las lecciones en casa, a su ritmo. Luego, durante el dia, el profesor le ayuda donde estÈ atascado. AsÌ, NADIE lleva el mismo ritmo
-- Nosotros, podemos decir simplemente *aqui*, y creer que los estudiantes har·n el difÌcil (y asustadizo) trabajo de encontrar en internet lo que queremos que encuentren. AhÌ es donde necesitamos la escuela.
-- El trabajo del profesor serÌa: buscar las mejores preguntas para los deberes jam·s hechas y crear tutoriales a nivel mundial de cÛmo solucionar cada uno de ellos -> imagina esto coordinado entre todos los profesores
-- Lo que se necesita de los profesores no es dar cuantas m·s clases mejor, o corregir ex·menes o gestionar una clase de estudiantes. Lo que se necesita es una atenciÛn individualizada, trabajo emocional y la habilidad de motivar
-- En lugar de castigar a grandes profesores con instrucciones precisas sobre cÛmo deben pasar el dÌa, dÈmosles la libertad para que enseÒen de verdad
+- el trabajador incompetente es aquel que rompe las reglas para buscar algo que nadie m√°s puede encontrar
+- estamos entrando en una revoluci√≥n de ideas mientras producimos una generaci√≥n que, en lugar de ideas, lo que quiere son instrucciones
+- Ahora mismo, estos d√≠as, la √∫nica barrera al aprendizaje, es meramente la propia decisi√≥n de aprender
+- un excedente de jornaleros (trabajadores por horas) obedientes conduce al desempleo, no a m√°s f√°bricas. por otro lado, trabajos creativos (o de conocimiento) conducen a m√°s trabajos creativos
+- la escuela es una f√°brica, y el producto de esa f√°brica son trabajadores competentes, obedientes, que compran muchas cosas. Estos estudiantes estan entrenados para so√±ar peque√±os sue√±os, para tener peque√±os objetivos
+- la econom√≠a demanda que escojamos tener grandes y ambiciosos sue√±os
+- la fuerza de voluntad puede ser ense√±ada por profesores y padres. Buscar Kelly McGonigal y Roy Baumeister
+- ...y el profesor le humill√≥ intencionadamente, por una sola y clara raz√≥n: el que manda es el profesor: "obedecer√°s y cumplir√°s las normas, si no, ser√°s castigado"
+- ¬øEs muy peligroso hacer lo correcto? ¬øPueden los padres hacerlo bien? ¬øPorqu√© deber√≠a la escuela hacer ese trabajo y no los padres? Lo que importa es que buscar un camino que *podr√≠a* ser mejor es demasiado riesgo para alquien que s√≥lo tiene una oportunidad de educar a sus hijos correctamente
+- David Weinberger: "las redes de personas, la conexi√≥n entre personas (como en una clase) pueden hacernos m√°s inteligentes o m√°s est√∫pidos"
+- La √∫nica forma para un estudiante de obtener respeto en la escuela es ganarse la aprovaci√≥n temporal de un profesor al que probablemente no volver√° a ver en un futuro cercano. Si el profesor es temperamental, inconsistente, mal profesor, el estudiante est√° obligado a aguantarle. ¬øNo te parece que debe ser muy frustrante tener que contentar a alquien a quien no vas a volver a ver en la vida?
+- los conocimientos culturales o una base de conocimiento com√∫n nunca ser√° infinita, y lo que es m√°s importante, no podemos ejercitarla y practicarla en una poblaci√≥n que tiene tantas diversiones fascinantes y f√°ciles a su alcance como alternativas: tv, youtube,...
+- si ense√±amos a nuestros estudiantes a tener pasi√≥n, ser √©ticos e inquisitivos, estoy seguro de que los hechos vendr√°n solos
+- (el tour del buscador bing) ellos son muy vagos para preguntar a sus colegas si hay una forma mejor de hacer las cosas. ellos no buscan trucos o formas de cambiar o mejorar o arreglar. ellos se autodescriben como 'principiantes' y ah√≠ lo dejan. ellos no hacen ning√∫n esfuerzo, act√∫an con miedo en lugar de con pasi√≥n. Si la actitud hacia el aprendizaje se puede ense√±ar, se puede ense√±ar la pasi√≥n?
+- Modelo de Khan Academy: cada estudiante ve las lecciones en casa, a su ritmo. Luego, durante el dia, el profesor le ayuda donde est√© atascado. As√≠, NADIE lleva el mismo ritmo
+- Nosotros, podemos decir simplemente *aqui*, y creer que los estudiantes har√°n el dif√≠cil (y asustadizo) trabajo de encontrar en internet lo que queremos que encuentren. Ah√≠ es donde necesitamos la escuela.
+- El trabajo del profesor ser√≠a: buscar las mejores preguntas para los deberes jam√°s hechas y crear tutoriales a nivel mundial de c√≥mo solucionar cada uno de ellos -> imagina esto coordinado entre todos los profesores
+- Lo que se necesita de los profesores no es dar cuantas m√°s clases mejor, o corregir ex√°menes o gestionar una clase de estudiantes. Lo que se necesita es una atenci√≥n individualizada, trabajo emocional y la habilidad de motivar
+- En lugar de castigar a grandes profesores con instrucciones precisas sobre c√≥mo deben pasar el d√≠a, d√©mosles la libertad para que ense√±en de verdad
 - el trabajo emocional se refleja en la paciencia, respeto y amabilidad
 - por primera vez en en tiempo, tenemos la oportunidad de hacer que los sistemas digitales hagan el trabajo duro mientras nuestros profesores hacen el trabajo emocional
-- una estrategia popular es jugar con tus mejores jugadores todas las veces, y quiz·s, solo quiz·s, si llevas una ventaja de muchos goles, dejes jugar a alguno de los jugadores de segunda. La lecciÛn que para los niÒos es obvia: la habilidad se recompensa, los sueÒos, las ganas, no mucho. Si no eres magnÌfico, si no eres buen jugador, no te molestes en intentarlo.
-- Pero quiz·s, el objetivo sea enseÒar a los niÒos/as acerca del esfuerzo, oportunidades/posibilidades y trabajo en equipo
-- Resulta que un gran porcentaje de los jugadores de hockey han nacido en el primer trimestre del aÒo. La razÛn es simple: ellos eran los mayores en las escuelas de hockey junior
-- Debemos tener en cuenta que no hay que valorar simplemente la habilidad, porque el niÒo mayor tiene ventaja, hay que valorar pasiÛn, los sueÒos del niÒo
-- El liderazgo es un proceso gradual, donde uno toma la responsabilidad aÒos antes de que se le de la autoridad. Y eso se puede enseÒar
-- La escuela tiene una funciÛn real cuando activa la pasiÛn por un aprendizaje contÌnuo a lo largo de toda la vida
-- 2 pilares para una educaciÛn para el futuro:
-1. EnseÒar a los niÒos a liderar, que es conducir sin un mapa claro
-2. Ayudarles a aprender cÛmo solucionar problemas realmente interesantes
-- Preguntas dirigidas a aquellos profesores que simplemente leen de sus notas, que creen en la memorizaciÛn, que creen que tienen m·s poder que los niÒos por el hecho de ser profesor: øles est·s dando esos dos regalos? øla prÛxima generaciÛn de niÒos, conocer· m·s datos o ser· capaz de conectar datos y transformar esos datos en informaciÛn, liderazgo y progreso?
-- la escuela da lo mejor de sÌ misma cuando muestra a los estudiantes que se puede soÒar con sueÒos en los que se puede trabajar cada dÌa hasta que los alcancen porque hayan trabajado lo suficientemente duro como para alcanzarlos (mejor eso que sueÒos imposibles de alcanzar)
+- una estrategia popular es jugar con tus mejores jugadores todas las veces, y quiz√°s, solo quiz√°s, si llevas una ventaja de muchos goles, dejes jugar a alguno de los jugadores de segunda. La lecci√≥n que para los ni√±os es obvia: la habilidad se recompensa, los sue√±os, las ganas, no mucho. Si no eres magn√≠fico, si no eres buen jugador, no te molestes en intentarlo.
+- Pero quiz√°s, el objetivo sea ense√±ar a los ni√±os/as acerca del esfuerzo, oportunidades/posibilidades y trabajo en equipo
+- Resulta que un gran porcentaje de los jugadores de hockey han nacido en el primer trimestre del a√±o. La raz√≥n es simple: ellos eran los mayores en las escuelas de hockey junior
+- Debemos tener en cuenta que no hay que valorar simplemente la habilidad, porque el ni√±o mayor tiene ventaja, hay que valorar pasi√≥n, los sue√±os del ni√±o
+- El liderazgo es un proceso gradual, donde uno toma la responsabilidad a√±os antes de que se le de la autoridad. Y eso se puede ense√±ar
+- La escuela tiene una funci√≥n real cuando activa la pasi√≥n por un aprendizaje cont√≠nuo a lo largo de toda la vida
+- 2 pilares para una educaci√≥n para el futuro:
+    1. Ense√±ar a los ni√±os a liderar, que es conducir sin un mapa claro
+    2. Ayudarles a aprender c√≥mo solucionar problemas realmente interesantes
+- Preguntas dirigidas a aquellos profesores que simplemente leen de sus notas, que creen en la memorizaci√≥n, que creen que tienen m√°s poder que los ni√±os por el hecho de ser profesor: ¬øles est√°s dando esos dos regalos? ¬øla pr√≥xima generaci√≥n de ni√±os, conocer√° m√°s datos o ser√° capaz de conectar datos y transformar esos datos en informaci√≥n, liderazgo y progreso?
+- la escuela da lo mejor de s√≠ misma cuando muestra a los estudiantes que se puede so√±ar con sue√±os en los que se puede trabajar cada d√≠a hasta que los alcancen porque hayan trabajado lo suficientemente duro como para alcanzarlos (mejor eso que sue√±os imposibles de alcanzar)
 - la escuela necesita ponernos en el punto de mira. una vez y otra vez y otra vez se necesita recompensar a los estudiantes para que tengan la voluntad de destacar. Aprender a sobrevivir a esos momentos y luego sentir la necesidad de volverlos a vivir (nada de esconderse, que haya retos, y buscarlos)
-- cuando asociamos la lectura con los deberes y los ex·menes, a alguien le sorprende que los evitemos? debemos enseÒar a amar la lectura y la escritura
+- cuando asociamos la lectura con los deberes y los ex√°menes, a alguien le sorprende que los evitemos? debemos ense√±ar a amar la lectura y la escritura
 - las grandes empresas crean entornos donde la gente como tu puede crear trabajos. uno solo tiene que decidirse y lanzarse
-- la ˙nica fuente de innovaciÛn es el artista dispuesto a estar equivocado. es bueno ser una persona que se siente cÛmoda estando equivocada, cÛmoda verbalizando una teorÌa y despuÈs ponerla a prueba. esto hay que enseÒ·rselo a los niÒos.
-- es esencial enseÒar m˙sica en la escuela del futuro. la pasiÛn de ver y sentir que uno progresa, el trabajo duro de la pr·ctica, la emociÛn y el miedo de actuar en p˙blico - Èstas son habilidades crÌticas para nuestro futuro
+- la √∫nica fuente de innovaci√≥n es el artista dispuesto a estar equivocado. es bueno ser una persona que se siente c√≥moda estando equivocada, c√≥moda verbalizando una teor√≠a y despu√©s ponerla a prueba. esto hay que ense√±√°rselo a los ni√±os.
+- es esencial ense√±ar m√∫sica en la escuela del futuro. la pasi√≥n de ver y sentir que uno progresa, el trabajo duro de la pr√°ctica, la emoci√≥n y el miedo de actuar en p√∫blico - √©stas son habilidades cr√≠ticas para nuestro futuro
 - hay dos formas de aprender:
-1. porque nos lo imponen
-2. porque el estudiante quiere (o insiste) en adquirir una habilidad para llegar a un objetivo
-- quÈ tal si dejamos de enseÒar a aprender hechos, quÈ tal si comenzamos a enseÒar el mimo por el trabajo bien hecho, establecer metas, a involucrarnos, hablar inteligentemente, planificar, tomar buenas decisiones y liderar?
-- un resultado fundamental de la escuela deberÌa ser producir ciudadanos que elijan frecuentemente el camino racional (en lugar del instinto) y quÈ es lo que pasarÌa si cre·ramos suficientes situaciones para que practicaran
+    1. porque nos lo imponen
+    2. porque el estudiante quiere (o insiste) en adquirir una habilidad para llegar a un objetivo
+- qu√© tal si dejamos de ense√±ar a aprender hechos, qu√© tal si comenzamos a ense√±ar el mimo por el trabajo bien hecho, establecer metas, a involucrarnos, hablar inteligentemente, planificar, tomar buenas decisiones y liderar?
+- un resultado fundamental de la escuela deber√≠a ser producir ciudadanos que elijan frecuentemente el camino racional (en lugar del instinto) y qu√© es lo que pasar√≠a si cre√°ramos suficientes situaciones para que practicaran
 - ser conscientes de ello, estar conectados, y sentirnos apoyados es la plataforma que necesitamos para realizar el tremendo esfuerzo emocional necesario para comprometernos a aprender
-- los puzzles matem·ticos y problemas de fÌsica son oportunidades de oro para que los jÛvenes adultos comiencen su andadura por el camino del aprendizaje contÌnuo durante toda su vida
-- la lectura nos hace m·s y mejores pensadores, nos hace estar mejor informados, y nos hace miembros m·s productivos de una sociedad civil
-- Debemos inculcar a los niÒos la pasiÛn por leer
-- la librerÌa dejar· de ser un simple almacÈn de libros muertos, la librerÌa deberÌa ser el centro neur·lgico de la informaciÛn
-- la librerÌa ser· un espacio de co-working, donde inventar proyectos, guiado y ayudado por un librero, que entiende que la malla (la interconexiÛn entre la gente), y que puede dar uso al conocimiento del problema, el conocimiento de la gente y el acceso a la informaciÛn
-- la trampa de la universidad famosa: b·sicamente las universidades hacen publicidad, se hacen m·s caras, pero no para hacer una educaciÛn mejor, si no para ser m·s famosas, ser m·s caras todavÌa y ganar m·s dinero
+- los puzzles matem√°ticos y problemas de f√≠sica son oportunidades de oro para que los j√≥venes adultos comiencen su andadura por el camino del aprendizaje cont√≠nuo durante toda su vida
+- la lectura nos hace m√°s y mejores pensadores, nos hace estar mejor informados, y nos hace miembros m√°s productivos de una sociedad civil
+- Debemos inculcar a los ni√±os la pasi√≥n por leer
+- la librer√≠a dejar√° de ser un simple almac√©n de libros muertos, la librer√≠a deber√≠a ser el centro neur√°lgico de la informaci√≥n
+- la librer√≠a ser√° un espacio de co-working, donde inventar proyectos, guiado y ayudado por un librero, que entiende que la malla (la interconexi√≥n entre la gente), y que puede dar uso al conocimiento del problema, el conocimiento de la gente y el acceso a la informaci√≥n
+- la trampa de la universidad famosa: b√°sicamente las universidades hacen publicidad, se hacen m√°s caras, pero no para hacer una educaci√≥n mejor, si no para ser m√°s famosas, ser m√°s caras todav√≠a y ganar m√°s dinero
 - La universidad proporciona 4 cosas:
-1. Acceso a la informaciÛn. Pero ya tenemos acceso online, por lo que no necesitamos a la universidad para esto
-2. AcreditaciÛn o un tÌtulo (que antes era escaso). Pero ahora todo el mundo puede tener un tÌtulo
-3. MembresÌa a una tribu. Esta es quiz· la mejor razÛn por la que mudarse a un campus universitario para conseguir una carrera
-4. Una situaciÛn para el crecimiento y desarrollo. …sta serÌa la razÛn por la que elegir la universidad, porque es imposible de imitar en una experiencia online. La universidad adecuada es la ˙ltima y mejor oportunidad para multitud de adolescentes de encontrarse a sÌ mismos en situaciones donde no hay otra opciÛn nada m·s que la de crecer, y r·pido
-- pertenecer a una tribu: esta es quiz· la mejor razÛn por la que mudarse a un campus universitario para conseguir un tÌtulo, una carrera
-- situaciÛn para el crecimiento: esta serÌa la razÛn por la que elegir la universidad, porque es imposible de imitar en una experiencia online. la universidad adecuada es la ˙ltima y mejor oportunidad para multitud de adolescentes de encontrarse a sÌ mismos en situaciones donde no hay otra opciÛn nada m·s que la de crecer, y r·pido
-- no esperes m·s, decÌdete, haz algo, aprende por tÌ mismo, motiva a tus hijos, anÌmales a que sueÒen, en contra de todas las adversidades
-- aprende, lidera y enseÒa
-- **QuÈ enseÒamos?**:
-1. Cuando enseÒamos a un niÒo a tomar buenas decisiones, nos beneficiamos de una vida llena de buenas decisiones
-2. Cuando enseÒamos a un niÒo a amar el aprendizaje, la cantidad de aprendizaje se volver· ilimitada
-3. Cuando enseÒamos a un niÒo a lidiar con un mundo cambiante, nunca se quedar· obsoleto
-4. Cuando somos lo suficientemente valientes como para enseÒar a un niÒo que cuestione la autoridad, incluso la nuestra, nos protegemos a nosotros mismos de quien usarÌa su autoridad en contra de cada uno de nosotros
-5. Y cuando le damos a los estudiantes el deseo de hacer cosas, aunque sean elecciones, creamos un mundo repleto de gente que consigue crear e inventar cosas
+    1. Acceso a la informaci√≥n. Pero ya tenemos acceso online, por lo que no necesitamos a la universidad para esto
+    2. Acreditaci√≥n o un t√≠tulo (que antes era escaso). Pero ahora todo el mundo puede tener un t√≠tulo
+    3. Membres√≠a a una tribu. Esta es quiz√° la mejor raz√≥n por la que mudarse a un campus universitario para conseguir una carrera
+    4. Una situaci√≥n para el crecimiento y desarrollo. √âsta ser√≠a la raz√≥n por la que elegir la universidad, porque es imposible de imitar en una experiencia online. La universidad adecuada es la √∫ltima y mejor oportunidad para multitud de adolescentes de encontrarse a s√≠ mismos en situaciones donde no hay otra opci√≥n nada m√°s que la de crecer, y r√°pido
+- pertenecer a una tribu: esta es quiz√° la mejor raz√≥n por la que mudarse a un campus universitario para conseguir un t√≠tulo, una carrera
+- situaci√≥n para el crecimiento: esta ser√≠a la raz√≥n por la que elegir la universidad, porque es imposible de imitar en una experiencia online. la universidad adecuada es la √∫ltima y mejor oportunidad para multitud de adolescentes de encontrarse a s√≠ mismos en situaciones donde no hay otra opci√≥n nada m√°s que la de crecer, y r√°pido
+- no esperes m√°s, dec√≠dete, haz algo, aprende por t√≠ mismo, motiva a tus hijos, an√≠males a que sue√±en, en contra de todas las adversidades
+- aprende, lidera y ense√±a
+- **Qu√© ense√±amos?**:
+    1. Cuando ense√±amos a un ni√±o a tomar buenas decisiones, nos beneficiamos de una vida llena de buenas decisiones
+    2. Cuando ense√±amos a un ni√±o a amar el aprendizaje, la cantidad de aprendizaje se volver√° ilimitada
+    3. Cuando ense√±amos a un ni√±o a lidiar con un mundo cambiante, nunca se quedar√° obsoleto
+    4. Cuando somos lo suficientemente valientes como para ense√±ar a un ni√±o que cuestione la autoridad, incluso la nuestra, nos protegemos a nosotros mismos de quien usar√≠a su autoridad en contra de cada uno de nosotros
+    5. Y cuando le damos a los estudiantes el deseo de hacer cosas, aunque sean elecciones, creamos un mundo repleto de gente que consigue crear e inventar cosas
 
 Algunos recursos relacionados:
-- [Stope stealing dreams](http://sethgodin.hubpages.com/hub/stop-stealing-dreams), de Seth Godin
+
+- [Stop stealing dreams](http://sethgodin.hubpages.com/hub/stop-stealing-dreams), de Seth Godin
 - [42 quotes from the book](http://ivanasendecka.com/2012/03/03/stopstealingdreams)
 - [No digitalicemos los libros de texto](http://www.enriquedans.com/2014/09/no-digitalicemos-el-libro-de-texto.html), de Enrique Dans
 - [Modern education](https://twitter.com/thereaIbanksy/status/514217338183626753), de Banksy
-- [Innovar en el aula](https://twitter.com/ocatasus/status/512848102106341376/photo/1), los profesores no est·n obligados a utilizar los libros de una editorial, ni lo que diga el colegio. *Libertad de c·tedra*
+- [Innovar en el aula](https://twitter.com/ocatasus/status/512848102106341376/photo/1), los profesores no est√°n obligados a utilizar los libros de una editorial, ni lo que diga el colegio. *Libertad de c√°tedra*
 - [Kelly McGonigal: The willpower instinct ](https://www.youtube.com/watch?v=V5BXuZL1HAg)
 - [Kelly McGonigal: How to make stress your friend](https://www.youtube.com/watch?v=RcGyVTAoXEU)
 
