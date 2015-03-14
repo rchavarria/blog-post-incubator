@@ -18,56 +18,56 @@ Ejemplos de antipatrones:
 4. Usar JavaScript directamente en los formularios
 5. Usar `document.write` en lugar de `document.createElement`
 
-## Categories of design pattersn
+## Categorías de los patrones de diseño
 
-- Creational: they focus on handling object creation mechanisms. Constructor, Factory, Abstract, Prototype, Singleton, Builder.
-- Structural: they are concerned with object composition and identify relatinoships between different objects. Decorator, Facade, Flyweight, Adapter, Proxy.
-- Behavioral: they focus on improving or streamlining the communication between desparate objects. Iterator, Mediator, Observer, Visitor.
+- Creacionales: se enfocan en el manejo de mecanismos de creación de objectos. Ejemplos de estos patrones son: Constructor, Factory, Abstract, Prototype, Singleton, y Builder
+- Estructurales: tratan sobre la composición de los objetos y de identificar relaciones entre diferentes objectos. En esta categoría estarían: Decorator, Facade, Flyweight, Adapter y Proxy
+- De comportamiento: se enfocan en mejorar o facilitar la comunicación entre distinto objetos. Ejemplos de estos patrones: Iterator, Mediator, Observer o Visitor
 
-## Design pattern categorization
+## Creacional
 
-## JavaScript design patterns
+- Trata sobre la idea de crear nuevas cosas, específicamente objectos. Podemos encontrar 3 formas comunes de crearlos en JavaScript:
 
-### Creational
+``` javascript
+// 1.
+var newObject = {}; 
+// 2.
+var newObject = Object.create(null);
+// 3.
+var newObject = new Object();
+```
 
-- It deals with the idea of creating new things, specifically new objects. 3 common ways to create them:
+- Y podemos encontrar otras tantas formas de asignar claves y valores a un objeto:
 
-    // 1.
-    var newObject = {}; 
-    // 2.
-    var newObject = Object.create(null);
-    // 3.
-    var newObject = new Object();
+``` javascript
+// 1. Dot syntax
+newObject.someKey = 'Hello World' ; // Write properties
+var key = newObject.someKey; // Access properties
 
-- Four ways to assign keys and values to an object:
+// 2. Square bracket syntax
+newObject[ 'someKey' ] = 'Hello World'; // Write properties
+var key = newObject[ 'someKey' ]; // Access properties
 
-    // 1. Dot syntax
-    newObject. someKey = 'Hello World' ; // Write properties
-    var key = newObject. someKey; // Access properties
+// 3. Object.defineProperty
+Object.defineProperty(newObject, "someKey", {
+    value: "for more control of the property's behavior",
+    writable: true,
+    enumerable: true,
+    configurable: true
+});
 
-    // 2. Square bracket syntax
-    newObject[ 'someKey' ] = 'Hello World' ; // Write properties
-    var key = newObject[ 'someKey' ]; // Access properties
-
-    // 3. Object.defineProperty
-    Object.defineProperty(newObject, "someKey", {
-        value: "for more control of the property's behavior",
-        writable: true,
-        enumerable: true,
-        configurable: true
-    });
-
-    // 4. Object.defineProperties
-    Object.defineProperties(newObject, {
-        "someKey": {
-            value: "Hello World", 
-            writable: true
-        }, 
-         "anotherKey": {
-             value: "Foo bar", 
-             writable: false
-         }
-    });
+// 4. Object.defineProperties
+Object.defineProperties(newObject, {
+    "someKey": {
+        value: "Hello World", 
+        writable: true
+    }, 
+    "anotherKey": {
+        value: "Foo bar", 
+        writable: false
+    }
+});
+```
 
 ### Constructor
 
@@ -383,24 +383,4 @@ module cakes {
     // ...
 }
 ```
-
-# Bonus: jQuery plugin design patterns
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
