@@ -12,11 +12,11 @@
 
 Ejemplos de antipatrones:
 
-1. Defining a large number of variables in the global context
-2. Passing strings rather than functions to either `setTimeout` or `setInterval`
-3. Modifying the `Object` class prototype
-4. Using JavaScript in an inline form
-5. The use of `document.write` instead of `document.createElement`
+1. Definir un gran número de variables en el contexto global
+2. Pasar cadenas en lugar de funciones a los métodos `setTimeout()` o `setInterval()`
+3. Modificar el prototipo de `Object`
+4. Usar JavaScript directamente en los formularios
+5. Usar `document.write` en lugar de `document.createElement`
 
 ## Categories of design pattersn
 
