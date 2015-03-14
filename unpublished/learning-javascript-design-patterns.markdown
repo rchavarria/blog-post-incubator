@@ -1,20 +1,16 @@
 # Learning JavaScript design patterns, by Addy Osmani
 
-## What is a pattern?
+## ¿Qué es un patrón?
 
-- Patterns are as templates for how you solve problems
+- Los patrones son como plantillas sobre cómo resolver problemas
 
-## Pattern-ity Testing, proto-patterns & the rule of three
-
-## Structure of a design pattern
-
-## Writing design patterns
+## Escribiendo código con patrones de diseño
 
 - Es muy dificil, por no decir imposible, saber si un determinado código implementa un patrón determinado. Te puede parecer simplemente que sigue buenas prácticas y que quizá sigue unas reglas que se solapan con algún patrón.
 
-## Anti-patterns
+## Antipatrones
 
-Examples of anti-patterns:
+Ejemplos de antipatrones:
 
 1. Defining a large number of variables in the global context
 2. Passing strings rather than functions to either `setTimeout` or `setInterval`
