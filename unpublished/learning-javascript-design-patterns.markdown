@@ -71,28 +71,28 @@ Object.defineProperties(newObject, {
 
 ### Constructor
 
-Are used to create specific types of objects.
+Son usados para crear tipos específicos de objetos.
 
-**Basic Constructor**
+**Constructor Básico**
 
-- You have a constructor function simply by prefixing a call to a constructor function with the keyword `new`. The keyword `this` references teh new object that's being created.
-- Problems: it makes inheritance difficult, functions are redefined for each new object but they should ideally be shared between all of te instances
+- Se tiene una función constructora simplemente llamándola poniendo antes la palabra reservada `new`. La palabra reservada `this` referencia al nuevo objeto que está siendo creado
+- Problemas: esto hace la herencia algo difícil, las funciones declaradas son redefinidas en cada nuevo objeto creado, mientras que éstas podrían ser compartidas entre todas las instancias
 
-**Constructors with prototypes**
+**Constructores con prototipos**
 
 Este patrón resuelve el problema de redefinir funciones.
 
-    function Car(model, year, miles) {
-        this.model = model;
-        this.year = year;
-        this.miles = miles;
-    }
+``` javascript
+function Car(model, year, miles) {
+    this.model = model;
+    this.year = year;
+    this.miles = miles;
+}
 
-    // Note here that we are using Object.prototype.newMethod rather than
-    // Object.prototype so as to avoid redefining the prototype object
-    Car.prototype.toString = function () {
-        return this.model + " has done " + this.miles + " miles";
-    };
+Car.prototype.toString = function () {
+    return this.model + " has done " + this.miles + " miles";
+};
+```
 
 ## The singleton pattern
 
