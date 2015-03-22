@@ -94,19 +94,20 @@ Car.prototype.toString = function () {
 };
 ```
 
-## The singleton pattern
+## El patrón Singleton
 
-- Traditionally it restricts instantiation of a class to a single object
-- In its simplest form it can be an object literal
-- You could add your own private members and methods to the singleton by encapsulating variable and function declarations inseide a closure
+- Tradicionalmente este patrón restringe la instanciación de una clase a un solo objeto
+- En JavaScript, la forma má simple la encontramos en un objeto literal
+- Se pueden añadir miembros y métodos privados al objeto singleton encapsulándolos dentro de una *closure*
 - Eso puede ser usado para controlar que solo existe una instancia del objeto que se quiere crear
+- Este patrón es muy útil cuando se necesita exactamente un único objeto para coordinar distintos patrones en nuestro sistema
 
 ``` javascript
 var Singleton = ( function () {
     var instantiated;
 
     function init() {
-        // singleton here
+        // éste sería el objeto singleton
         return {
             publicMethod: function () {
                 console. log('hello world' );
@@ -125,16 +126,18 @@ var Singleton = ( function () {
     };
 })();
 
-// calling public methods is then as easy as:
-Singleton. getInstance(). publicMethod();
+// llamar a los métodos públicos del singleton sería tan fácil como:
+Singleton.getInstance().publicMethod();
 ```
 
-- it's quite useful when exactly one object is needed to coordinate patterns across the system
+## El patrón Módulo
 
-## The module pattern
+- Se usa para emular el concepto de clases más allá de la posibilidad de incluir métodos y variables públicas y privadas en un único objeto, aislando ciertas partes del ámbito global, reduciendo la posibilidad de conflictos en los nombres de las funciones y variables
+- con este patrón, sólo se devuelve la API pública, manteniendo todo lo demás privado dentro del *closure*
+- desventajas:
 
-- it is used to further emulate the concept of classes in such a away that we're able to include both public/private methods and variables inse a single object, thus shielding particular parts from the global scope, reducing the likelihood of your function names conflicting
-with this pattern only a public api is returnd, keeping everything else within the closure private
+    - tampoco se pueden acceder a miembros y métodos privados que se añadan al objeto en algún momento posterior
+    - no es posible parchear variables privadas, en su lugar, hay que sobreescribir todos los métodos públicos que interaccionan con aquellos elementos privados que no funcionan como deberían
 
 ``` javascript
 var testModule = ( function () {
@@ -148,8 +151,6 @@ var testModule = ( function () {
 // test
 testModule. incrementCounter();
 ``` 
-
-- Disadvantages: you alse cant access private members in methods that are added to the object at a later point. it's not simply not possible to patch privates. instead, one must override all public methods which interact with bth buggy privates
 
 ## The observer pattern
 
