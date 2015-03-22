@@ -149,17 +149,20 @@ var testModule = ( function () {
     };
 })();
 // test
-testModule. incrementCounter();
+testModule.incrementCounter();
 ``` 
 
-## The observer pattern
+## El patrón observador
 
-- allows and object (known as a subscriber) to watch another object (the publisher)
-- subscribers are able to register (subscribe) to receive notifications. publishers broadcasts (publishes) a notification
-- **the general idea here is the promotion of the loose coupling**
-- advantages: dynamic relationships may exist. this provides a great deal of flexibility
-- decoupling applications: por ejemplo, cuando el usuario clica un boton, en lugar de actualizar el UI directamente, el click-handler puede publicar uno/varios evetnos y el UI afecgtado escucharlos (puede haber un UI o varios escuchando)
-- decoupling ajax requests: con peticiones ajax, lo mismo. podemos tener un componente que hace la peticion ajax y publica eventos antes y después de la request (con los datos incluso). varios componentes de la aplicación pueden reaccionar de forma distinta a esos eventos
+- Permite a un objeto (conocido como el *suscriptor*) *escuchar* a otro objeto (el *emisor*)
+- Los suscriptores pueden registrarse (suscribirse) para recibir notificaciones. Los emisores lanzan (publican) notificaciones
+- **La idea general es promover un bajo acoplamiento**
+- Ventajas: 
+
+    - Permite relaciones dinámicas
+    - Proporciona un gran grado de flexibilidad
+    - Desacoplando aplicaciones: por ejemplo, cuando el usuario pulsa un boton, en lugar de actualizar el UI directamente, el método que responde ante clicks del usuario puede publicar uno/varios eventos y el UI afectado escucharlos (puede haber un UI o varios escuchando)
+    - Desacoplando peticiones AJAX: con peticiones ajax, lo mismo. Podemos tener un componente que hace la peticion AJAX y publica eventos antes y después de la petición (con los datos incluso). Varios componentes de la aplicación pueden reaccionar de forma distinta a esos eventos
 
 ## The mediator pattern
 
