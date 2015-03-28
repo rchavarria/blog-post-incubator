@@ -26,16 +26,18 @@ Operaciones sobre *Streams*:
 
 <!-- more -->
 
-## Consumiendo un Stream
+## Consumiendo un `Stream`
 
-En lugar de introducir datos al Stream a través de un `StreamController`, vamos a
-utilizar el constructor `Stream.fromIterable()`.
+En lugar de introducir datos al Stream a través de un `StreamController`,
+(que podría ser algo largo de contar) vamos a utilizar el constructor
+`Stream.fromIterable()`, el cual nos permite construir un `Stream` a partir de
+una lista de objetos, por ejemplo.
 
-Típicamente, se usa el método `listen()` para subscribirse a un stream. Este método
+Típicamente, se usa el método `listen()` para subscribirse a un `Stream`. Este método
 es llamado cada vez que se recibe un dato:
 
 ```
-var data = [1,2,3,4,5];
+var data = [1, 2, 3, 4, 5];
 var stream = new Stream.fromIterable(data);
 
 // subscribe to the streams events
@@ -45,35 +47,33 @@ stream.listen((value) {
 ```
 
 `Stream` también tiene otros métodos: `first`, `last`, `length` y `isEmpty`. Todos
-ellos devuelven un `Future`, el cual se completará con el valor apropiado dentro del
-stream:
+ellos devuelven un `Future`, como los que estudiamos en [Futures en Dart], el cual
+se completará con el valor apropiado dentro del `Stream`:
 
 ```
 streamProperties() {
   var stream;
 
-  // BEGIN(stream_properties)
-  stream = new Stream.fromIterable([1,2,3,4,5]);
+  stream = new Stream.fromIterable([1, 2, 3, 4, 5]);
   stream.first.then((value) => print("stream.first: $value"));  // 1
 
-  stream = new Stream.fromIterable([1,2,3,4,5]);
+  stream = new Stream.fromIterable([1, 2, 3, 4, 5]);
   stream.last.then((value) => print("stream.last: $value"));  // 5  
 
-  stream = new Stream.fromIterable([1,2,3,4,5]);
+  stream = new Stream.fromIterable([1, 2, 3, 4, 5]);
   stream.isEmpty.then((value) => print("stream.isEmpty: $value")); // false
 
-  stream = new Stream.fromIterable([1,2,3,4,5]);
+  stream = new Stream.fromIterable([1, 2, 3, 4, 5]);
   stream.length.then((value) => print("stream.length: $value")); // 5
-  // END(stream_properties)
 }
 ```
 
-También se pueden tener varios listeners, pero para eso hay que convertir el stream
+También se pueden tener varios listeners, pero para eso hay que convertir el `Stream`
 en un stream de broadcast con `asBroadcastStream()`. Podremos comprobar de qué tipo
 es un stream con la propiedad `isBroadcast`.
 
 ```
-var data = [1,2,3,4,5];
+var data = [1, 2, 3, 4, 5];
 var stream = new Stream.fromIterable(data);
 var broadcastStream = stream.asBroadcastStream();
 
@@ -82,13 +82,12 @@ broadcastStream.first.then((value) => print("stream.first: $value"));
 //...
 ```
 
-## Subconjuntos de datos de un stream
+## Subconjuntos de datos de un `Stream`
 
-Los Streams tienen algunos métodos de utilidad que permiten seleccionar un subconjunto
-de los datos que vendrán en el stream. Cada uno de estos métodos devuelve un
-stream al que podemos registrar un listener. Para una lista completa de estos métodos
-se puede consultar la documentación oficial: 
-[API Streams](http://api.dartlang.org/dart_async/Stream.html).
+Los `Stream`s tienen algunos métodos de utilidad que permiten seleccionar un subconjunto
+de los datos que vendrán en él. Cada uno de estos métodos devuelve un
+`Stream` al que podemos registrar un listener. Para una lista completa de estos métodos
+se puede consultar la documentación oficial: [API Streams].
 
 `where`: selecciona aquellos datos que cumplen una condición:
 
@@ -135,8 +134,8 @@ broadcastStream
 El método `Stream.transform()` admite un parámetro de tipo `StreamTransformer`.
 Es posible crear uno con el método `fromHandlers()`, el cual admite un
 método como parámetro. Este método se llamará con 2 parámetros: cada uno de
-los valores del stream original, y un `StreamSink` al cual podremos añadir
-el valor transformado. La salida de `transform()` es un nuevo stream cuyos
+los valores del `Stream` original, y un `StreamSink` al cual podremos añadir
+el valor transformado. La salida de `transform()` es un nuevo `Stream` cuyos
 valores han sido transformados por el `StreamTransformer`.
 
 ```
@@ -161,14 +160,14 @@ file.openRead()
     .listen((String data) => print(data));
 ```
 
-## Validando los valores de un stream
+## Validando los valores de un `Stream`
 
 Otros métodos útiles podrían ser `any()`, `every()` y `contains()`, los cuales
-devuelven todos `Future<boolean>`, es decir, un Future que se completa con un
+devuelven todos `Future<boolean>`, es decir, un `Future` que se completa con un
 valor de `true` o `false`. 
 
 Estos métodos servirían para realizar ciertas comprobaciones sobre los datos
-recibidos por el stream. Siguiendo con el ejemplo que crea un stream a partir
+recibidos por el `Stream`. Siguiendo con el ejemplo que crea un `Stream` a partir
 de un array con los valores del 1 al 5:
 
 ```
@@ -185,13 +184,13 @@ broadcastStream
     .then((result) => print("Contains 4?: $result")); // true
 ```
 
-## Gestión de errores con StreamSubscription
+## Gestión de errores con `StreamSubscription`
 
 Existen dos alternativas para la gestión de errores en los streams. Usando el
-objeto StreamSubscription que retorna `listen()` o pasando los manejadores de
+objeto `StreamSubscription` que retorna `listen()` o pasando los manejadores de
 eventos al propio método `listen()`.
 
-Usando StreamSubscription devuelto por `listen()`:
+Usando `StreamSubscription` devuelto por `listen()`:
 
 ```
 var subscription = stream.listen(null);
@@ -210,7 +209,7 @@ var subscription = stream.listen(
     );
 ```
 
-## Eliminando la suscripción a un stream
+## Eliminando la suscripción a un `Stream`
 
 Con el método anterior de obtener un objeto `StreamSubscription`, podemos
 utilizar dicha referencia para cancelar la suscripción con el método `cancel()`.
@@ -226,11 +225,11 @@ subscription.onData((value) {
 ## Referencias:
 
 - [Embrace the asynchronous]
+- [Futures en Dart], en este propio blog
+- [API Streams]
 
 [Embrace the asynchronous]: https://www.youtube.com/watch?v=oeKkwZhKgP0
 [Rod Vagg]: http://r.va.gg
-
-
-
-
+[Futures en Dart]: /blog/2015/01/29/operaciones-asincronas-en-dart-con-futures/
+[API Streams]: http://api.dartlang.org/dart_async/Stream.html
 
