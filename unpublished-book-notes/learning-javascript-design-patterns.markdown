@@ -219,19 +219,17 @@ Esto nos da la posibilidad de interactuar indirectamente con subsystemas de una 
 - En lugar de usar herencia, donde estamos acostumbrados a extender objectos linealmente, aquí trabajamos con un objeto sencillo y progresivamente añadimos objetos decoradores que proporcionan capacidades adicionales (metáfora de la tienda de helados, o del código que calcula los impuestos de un producto)
 - JavaScript incorpora este patŕon en el lenguaje, ya que permite añadir propiedades y métodos dinámicamente
 
-# Flyweight
+# Patrón peso-mosca (Flyweight)
 
-- Is considered a usefull classicla solution for code that's repetivtive, slow and inefficient
-- taking several similar objects and placing that shared information into a single external object or structure
-- In the pattern, there's a concept of two states - intrinsic and extrinsic. Intrinsic data is required by internal methods. Extrinsic data can however be removed and stored externally
-- Object with same intrinsic data can be replaced with a single hsared object. 
-- it uses a amanger to handle the extrinsic states
+- Es considerado una buena clásica solución para código que es repetitivo, lento e ineficiente
+- Básicamente, toma varios objetos similares y pone la información compartida entre ellos en un único objeto o estructura externo
+- En este patrón, existe el concepto de dos estados: intrínseco y extrínseco. Los datos intrínsecos son requeridos por métodos internos. Los datos extrínsecos, por otro lado, pueden ser eliminados y almacenados externamente.
+- Los objetos con los mismos datos intrínsecos pueden ser reemplazados por un único objeto compartido
+- El patrón usa un *manager* para manejar los estados extrínsecos
 
-## Flyweight and the DOM
+## Flyweight y el DOM (manejo centralizado de eventos)
 
-### Centralized event handling
-
-- normally what you might do to build menu, list components, is bind a click event to each link element in the parent container. instead of binding the click to multiple elementes, we can easily attach a flyweight to the top of our container which can listen for events coming fro below.
+- Normalmente, lo que quizá necesites para crear un menú, una lista de componentes, es enlazar el evento del click a cada enlace in el contenedor padre. En lugar de enlazar el evento click a múltiples elementos, podemos enlazar uno que use este patrón en el nivel superior, el cual quedará escuchando todos los eventos que provengan de niveles inferiores.
 
 # MV<something> patterns
 
