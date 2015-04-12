@@ -179,6 +179,12 @@ Mediador Vs Observador: el patrón Mediador centraliza en lugar de distribuir. E
 
 ## El patrón comando
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+        ESTE COMANDO ME HA SORPRENDIDO BASTANTE
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 Proporciona medios para separar los resultados de la ejecución de un comando del resto de responsabilidades, delegando la responsabilidad del comando a diferentes objetos.
 
 La implementación sería algo así: supongamos que tenemos un objeto con varios métodos, debemos implementar uno nuevo, al que llamaremos `execute`. Este método acepta como primer parámetro el nombre del método que queremos ejecutar y el resto de parámetros son los parámetros de dicho método. Esto ayuda a desacoplar los métodos ejecutados de sus clientes.
@@ -199,18 +205,18 @@ Esto nos da la posibilidad de interactuar indirectamente con subsystemas de una 
 
 - Gestiona el problema de crear objectos sin la necesidad de especificar la clase exacta de objeto que va a ser creado
 
-## The mixin pattern
+## El patrón mixin
 
 - Los mixins son un mecanismos para permitir la herencia múltiple
 
-## The decorator pattern
+## El patrón decorador
 
-- A structural design pattern that promotes code reuse and is fexlible alternative to sub classing
+- Es un patrón estructural que promueve la reutilización de código y es una buena y flexible alternativa a la herencia
 
-### Decorators
+### Decoradores
 
-- Are used when it's necessary to delegate responsibilities to an objet where it doesn't make sense to subclass it
-- Rather than just using inheritance, where we're used to extending objects linearly, we work with a single base objcet and pregressively add decorator objects which provide the additional capapbiliteies. 
+- Son usados cuando es necesario delegar responsabilidades a un objeto donde no tiene sentido usar herencia (herencia clásica de clases)
+- En lugar de usar herencia, donde estamos acostumbrados a extender objectos linealmente, aquí trabajamos con un objeto sencillo y progresivamente añadimos objetos decoradores que proporcionan capacidades adicionales (metáfora de la tienda de helados, o del código que calcula los impuestos de un producto)
 - JavaScript incorpora este patŕon en el lenguaje, ya que permite añadir propiedades y métodos dinámicamente
 
 # Flyweight
