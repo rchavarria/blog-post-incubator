@@ -189,10 +189,11 @@ Un código cliente podría ser algo parecido a esto:
 CarManager.execute('buyVehicle', 'Ford Escort', '4332234');
 ```
 
-## The facade pattern
+## El patrón fachada
 
-Provides a convenient higher-level interface to a larger body o fcode, hiding its tru underlying complexity
-- this gives us the ability to indirectly interact with subsystmems in a way that can sometimes be less prone to error than accessing the subsystem directly
+Proporciona una interfaz de más alto nivel para acceder a un cuerpo de código más grande, escondiendo de esta forma la complejidad subyacente.
+
+Esto nos da la posibilidad de interactuar indirectamente con subsystemas de una forma que suele ser menos propensa a errores que acceder al subsystema directamente, con los datos correctos y en el orden correcto.
 
 ## The factory pattern
 
