@@ -195,9 +195,9 @@ Proporciona una interfaz de más alto nivel para acceder a un cuerpo de código 
 
 Esto nos da la posibilidad de interactuar indirectamente con subsystemas de una forma que suele ser menos propensa a errores que acceder al subsystema directamente, con los datos correctos y en el orden correcto.
 
-## The factory pattern
+## El patrón factoría
 
-- Deals with the problem of creating objects whithout the need to specify the exact class of object being created
+- Gestiona el problema de crear objectos sin la necesidad de especificar la clase exacta de objeto que va a ser creado
 
 ## The mixin pattern
 
