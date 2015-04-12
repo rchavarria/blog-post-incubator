@@ -309,18 +309,18 @@ maths.fibonacci(25);
 // seguir usando maths
 ```
 
-## Namespacing fundamentals
+## Fundamentos de espacios de nombres
 
 Desde lo más sencillo hasta lo más complejo:
 
-1. Single global variables
-2. Prefix namespacing: para evitar que otros desarrolladores interfieran con nuestro trabajo, añadimos un prefijo
+1. Variables globales únicas
+2. Espacios de nombres mediante prefijos: para evitar que otros desarrolladores interfieran con nuestro trabajo, añadimos un prefijo
 
 ```
 var myprefix_MyApplication = ...
 ```
 
-3. Object literal notation: existen varias formas de intentar evitar colisiones:
+3. Notación literal de objetos: existen varias formas de intentar evitar colisiones:
 
 ```
 // estas opciones chequean si ya existe un modulo o variable
@@ -331,7 +331,7 @@ myApplication || (myApplication = {});  // se considera una buena práctica
 var myApplication = myApplication === undefined ? {} : myApplication; // la preferida
 ```
 
-4. Nested spacing
+4. Espacios de nombres anidados
 
 ```
 var myApp = myApp || {};
@@ -339,20 +339,20 @@ myApp.routers = myApp.routers || {};
 ...
 ```
 
-5. Immediately-invoked Function Expressions (IIFE)s
+5. Expresiones de Función Inmediatamente Invocadas (IIFE - Immediately-Invoked Function Expressions)
 
-Simplest version
+La versión más simple
 
 ```
 // anonymous
-(function() { /*...*/ })();
+(function () { /*...*/ })();
 // named
 (function foobar() { /*..*/ })());
 ```
 
-6. Namespace injection
+6. Injección de espacio de nombres
 
-- Namespace injection is another variation on the IIFE where we inject the methods and properties for a specific namespace fro within a funciton wrapper using *this*.
+La injección de espacion de nombres es una variación en IIFE donde se inyectan los métodos y propiedades de un espacio de nombres específico desde una envoltura de la función usando `this` (y el método `apply`, presente en todos los objectos)
 
 ```
 (function() {
@@ -360,10 +360,6 @@ Simplest version
 this.methodForUtils = function() {};
 }).apply(myApp.utils);
 ```
-
-# Design Patterns in jQuery Core
-
-Un capitulo dedicado a jQuery, vaya full de estambul
 
 # Modern Modular JavaScript Design Patterns
 
