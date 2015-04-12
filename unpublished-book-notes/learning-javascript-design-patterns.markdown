@@ -177,10 +177,13 @@ Mediador Vs Observador: el patrón Mediador centraliza en lugar de distribuir. E
 - Crea objetos basado en la plantilla de un objeto existente clonando sus propiedades y métodos
 - `Object.create` crea un objeto con un prototipo especificado y que opcionalmente contiene propiedades especificadas (por ejemplo: `Object.create(prototype, optionalDescriptorObjects)`)
 
-## The command pattern
+## El patrón comando
 
-It provides you means to separate the responsibilities o fisuuing commands from anything, delegating this responsibility to different objects
-Si tenemos un objeto con métodos, implementamos uno nuevo, 'execute', al que le pasamos el nombre del método y los argumentos -> decoupling. De forma que podríamos hacer algo similar a esto:
+Proporciona medios para separar los resultados de la ejecución de un comando del resto de responsabilidades, delegando la responsabilidad del comando a diferentes objetos.
+
+La implementación sería algo así: supongamos que tenemos un objeto con varios métodos, debemos implementar uno nuevo, al que llamaremos `execute`. Este método acepta como primer parámetro el nombre del método que queremos ejecutar y el resto de parámetros son los parámetros de dicho método. Esto ayuda a desacoplar los métodos ejecutados de sus clientes.
+
+Un código cliente podría ser algo parecido a esto:
 
 ``` javascript
 CarManager.execute('buyVehicle', 'Ford Escort', '4332234');
