@@ -273,9 +273,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 - No es necesario que VistaModelo referencie a una Vista. La abstracción de la Vista significa que hay menos lógica requerida por el código detrás de ella
 - Uno de los inconvenientes de esto es que es necesario un cierto nivel de interpretación entre la Vista y el VistaModelo
 
-# Namespacing patterns
+# Patrones de espacio de nombres
 
-## Automated nested namespacing
+## Espacios de nombres anidados y automatizados
 
 - Para crear el siguiente namespace: `application.utilities.drawing.canvas.2d`
 
@@ -293,7 +293,7 @@ var application = {
 };
 ```
 
-- Es posible crear esto automáticamente, por ejemplo parseando cadenas como `"myApp.ns1.module"`.
+- Es posible crear esto automáticamente, por ejemplo parseando cadenas como `"myApp.ns1.module"`
 
 ## Dependency declaration pattern
 
