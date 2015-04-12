@@ -164,13 +164,13 @@ testModule.incrementCounter();
     - Desacoplando aplicaciones: por ejemplo, cuando el usuario pulsa un boton, en lugar de actualizar el UI directamente, el método que responde ante clicks del usuario puede publicar uno/varios eventos y el UI afectado escucharlos (puede haber un UI o varios escuchando)
     - Desacoplando peticiones AJAX: con peticiones ajax, lo mismo. Podemos tener un componente que hace la peticion AJAX y publica eventos antes y después de la petición (con los datos incluso). Varios componentes de la aplicación pueden reaccionar de forma distinta a esos eventos
 
-## The mediator pattern
+## El patrón mediador
 
-it's a behavioural design pattern that allows us to expose a unified interface through which the fdiffferent parts of a system may communicate. promotes loose coupling by ensuring that instead of modules referring to each other explicitly, their interaction is handled through this central point.
-it's essentialy a shared subject in the observer pattern
-- perhaps the bigggest downside of using the mediator pattern is that it can introduce a single point of failure
+Es un patrón de diseño de comportamiento que nos permite exponer una interfaz unificada a través de la cual diferentes partes del sistema se pueden comunicar. Promueve el bajo acoplamiento de la siguiente forma: en lugar de que los módulos referencien explícitamente a los demás, lo hagan a través de este punto central. En esencia, es como un *subject* (una cadena de texto que se usa para identificar un canal de comunicación) dentro del patrón Observador.
 
-*mediator Vs observer* the mediator pattern centralizes rather than simply just distributing. Es el mediador quien tiene la responsabilidad.
+Quizá la peor desventaja de usar este patrón es que introduce un único punto de fallo.
+
+Mediador Vs Observador: el patrón Mediador centraliza en lugar de distribuir. Es el Mediador quien tiene la responsabilidad.
 
 ## The prototype pattern
 
