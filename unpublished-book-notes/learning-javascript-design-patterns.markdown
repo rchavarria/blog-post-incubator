@@ -172,10 +172,10 @@ Quizá la peor desventaja de usar este patrón es que introduce un único punto 
 
 Mediador Vs Observador: el patrón Mediador centraliza en lugar de distribuir. Es el Mediador quien tiene la responsabilidad.
 
-## The prototype pattern
+## El patrón prototipo
 
-- creates objects based on a template of an existing object through cloning
-- `Object.create` creates an object which has a specified prototype and which optionally contains specified properties (por ejemplo: `Object.create(prototype, optionalDescriptorObjects)`
+- Crea objetos basado en la plantilla de un objeto existente clonando sus propiedades y métodos
+- `Object.create` crea un objeto con un prototipo especificado y que opcionalmente contiene propiedades especificadas (por ejemplo: `Object.create(prototype, optionalDescriptorObjects)`)
 
 ## The command pattern
 
