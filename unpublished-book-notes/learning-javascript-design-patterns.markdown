@@ -361,12 +361,13 @@ this.methodForUtils = function() {};
 }).apply(myApp.utils);
 ```
 
-# Modern Modular JavaScript Design Patterns
+# Patrones de diseño moderno de un JavaScript modular
 
-## AMD
+## AMD (Asynchronous Module Definition)
 
-The AMD module format itself is aproposal fo rdefining modules where both the module and dependencies can be asynchronously loaded
-- the two key concepts you need to be aware of there are the idea of a **define** method, facilitating module definitions, and a **require** mehtod, for handling dependency loading.
+El formato de módulos de AMD es una proposición de definición de módulos donde tanto los módulos como las dependencias pueden ser cargado asíncronamente.
+
+Los dos conceptos que necesitamos tener en cuenta son la idea de un método `define`, que proporciona las definiciones de los módulos, y un método `require`, para el manejo de la carga de dependencias.
 
 ```
 define(
@@ -378,13 +379,16 @@ define(
 
 ## CommonJS
 
-This module proposal specifies a simple API for declaring modules in the server side.
-- A CommonJS module is a reusable piece of JavaScript which exports specific objects made available to any dependent code
-- they basically contains two primary parts: free varialbe named **exports** and a **require** function that modules can use to import the `exports` of other modules
+Esta proposición de módulos especifica una API simple para declarar módulos en el lado servidor.
 
-## ES Harmony
+- Un módulo CommonJS es una pieza de código JavaScript reusable que exporta ciertos objectos que van a estar disponibles para el código que dependa del módulo
+- Contiene básicamente dos partes principales: la variable global `exports` y un método `require` que los módulos pueden usar para importar lo que el resto de módulos exportan a través de `exports`
 
-The next version of JavaScript will come with **import** and **export** modules.
+## ECMAScript 6
+
+La siguiente versión de JavaScript vendrá con posibilidades de importar y exportar módulos. 
+
+Lo expuesto en el libro parece algo desactualizado, posiblemente porque el estándard del lenguaje estaría en fase borrador cuando fue escrito. La propuesta del libro es el siguiente código, pero se puede consultar la [sintaxis definitiva de módulos] en el artículo de [Axel Rauschmayer].
 
 ```
 module skills {
@@ -397,4 +401,12 @@ module cakes {
     // ...
 }
 ```
+
+# Referencias
+
+- [sintaxis definitiva de módulos]
+- [Axel Rauschmayer]
+
+[sintaxis definitiva de módulos]: http://www.2ality.com/2014/09/es6-modules-final.html
+[Axel Rauschmayer]: http://rauschma.de/
 
