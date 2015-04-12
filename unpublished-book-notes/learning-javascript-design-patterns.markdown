@@ -295,9 +295,9 @@ var application = {
 
 - Es posible crear esto automáticamente, por ejemplo parseando cadenas como `"myApp.ns1.module"`
 
-## Dependency declaration pattern
+## Patrón de declaración de dependencias
 
-- Trata de *cachear* un modulo, para no acceder a él navegando todos los namespaces. Se supone que gana en rendimiento
+- Trata de *cachear* un modulo, para no acceder a él navegando todos los namespaces. Se supone que gana en rendimiento, porque el motor de JavaScript no tiene que estar buscando propiedades en objetos contínuamente
 
 ``` javascript
 // en lugar de:
