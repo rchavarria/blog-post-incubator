@@ -231,41 +231,47 @@ Esto nos da la posibilidad de interactuar indirectamente con subsystemas de una 
 
 - Normalmente, lo que quizá necesites para crear un menú, una lista de componentes, es enlazar el evento del click a cada enlace in el contenedor padre. En lugar de enlazar el evento click a múltiples elementos, podemos enlazar uno que use este patrón en el nivel superior, el cual quedará escuchando todos los eventos que provengan de niveles inferiores.
 
-# MV<something> patterns
+# Patrones MV<algo>
 
-## MVP (model - view - presenter)
+## MVP (modelo - vista - presentador)
 
-- Presenter: is a component which contains the usr-interface business logic for the view
-- la diferencia con MVC es que en MVP la vista es pasiva. En MVC, la vista escucha cambios en el model y tiene lógica de negocio. En MVP no hay data binding, hay que hacerlo manualmente
+- Presentador: es un componente que contiene la lógica de negocio para la vista relativa a la interfaz de usuario
+- La diferencia con MVC es que en MVP la vista es pasiva. En MVC, la vista escucha cambios en el modelo y tiene lógica de negocio. En MVP no hay enlazado de datos (data binding), hay que hacerlo manualmente
 
 ## MVVM
 
-- this pattern make use of declarative data bindidngs to allow a separation of work on Views from other layers
+- Este patrón hace uso de enlazado de datos de forma declarativa para permitir la separación de trabajo en las Vistas con el resto de capas
 
-### Model
+### Modelo
 
-- models hold information, but typically don't handle behavior. they don't format information. Formattin of data is ahndled by the View
-- validation is considered acceptable for the models
+- Los modelos contienen información, pero típicamente no contienen nada de comportamiento. No formatean la información. El formateo de datos se lleva a cabo en la vista
+- Lógica que valide los datos se considera aceptable para estar incluída en el modelo
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
 /!\ NOTA, CONCULSIÓN PARA EL LIBRO: EXPLICA MUY BIEN LAS DIFERENCIAS ENTRE MVC, MVP, MVVM,... /!\ 
 
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 ### View
 
-- Is considrered active
-- it contains the data-bindings, evetns, and behaviors which require an understanding of the model and viewmodel
+- Se considera activa. Contiene enlazado de datos (data binding), eventos y comportamientos que requieren un entendimiento del Modelo y la VistaModelo
 
-### ViewModel
+### VistaModelo
 
-- can be considered a specialized controller that acts as a data converter. it changes model infromation into view information, passing commands from the view to the model
-- View and ViewModel communicate using data-bindings and events
+- Se puede considerar como un controlador especializado que actura como un conversor de datos. Convierte información del Modelo en información de la Vista, pasando comandos desde al Vista al Modelo
+- Vista y VistaModelo se comunican utilizando enlazado de datos y eventos
 
 ## MVC vs. MVP vs. MVVM
 
-- In MVC, Views have direct access to Models
-- In MVP, Presenters listen to evetns from both the View AND Model and mediating the actions between them
-- MVVM allows us to create View-specific subsets of a Model
-- ViewModel is not requeired to referenca a View. the abstraction of the View means there is less logic requiered in the code behind it
-- One of the downsides to this however is that a level of interpreations is needed between the ViewModel and the View
+- En MVC, las Vistas tienen acceso directo al Modelo
+- En MVP, los Presentadores escuchan eventos de la Vista y del Modelo y median en la acciones entre ellos
+- MVVM nos permite crear partes específicas de las Vistas de un Modelo en concreto
+- No es necesario que VistaModelo referencie a una Vista. La abstracción de la Vista significa que hay menos lógica requerida por el código detrás de ella
+- Uno de los inconvenientes de esto es que es necesario un cierto nivel de interpretación entre la Vista y el VistaModelo
 
 # Namespacing patterns
 
