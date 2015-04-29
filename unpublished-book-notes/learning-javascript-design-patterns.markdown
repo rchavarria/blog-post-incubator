@@ -404,9 +404,11 @@ module cakes {
 
 # Referencias
 
+- [Learning JavaScript design patterns] book, by Addy Osmani
 - [sintaxis definitiva de módulos]
 - [Axel Rauschmayer]
 
+[Learning JavaScript design patterns]: http://www.addyosmani.com/resources/essentialjsdesignpatterns/book
 [sintaxis definitiva de módulos]: http://www.2ality.com/2014/09/es6-modules-final.html
 [Axel Rauschmayer]: http://rauschma.de/
 
