@@ -245,6 +245,145 @@ var re = new RegExp("\\\\", "gm");
 
 ## Functions
 
+### Terminology
+
+```
+// function expression, a.k.a. anonymous function
+var add = function (a, b) {
+    return a + b;
+};
+
+// named function expression
+var add = function add(a, b) {
+    return a + b;
+};
+
+// function declaration
+function foo() {
+    // function body goes here
+}
+```
+
+### Declaration Vs Expression: names and hoisting
+
+#### function hoisting
+
+- all variables, no matter where in the funciton body they are declared, get hoisted to the top of the function
+- in a function declaration, the definition of the function also gets hoisted, not only its declaration
+
+```
+function hoistMe() {
+    console.log(typeof foo); // "function"
+    console.log(typeof bar); // "undefined"
+
+    foo(); // "local foo"
+    bar(); // TypeError: bar is not a function
+
+    // function declaration: variable 'foo' and its implementation both get hoisted
+    function foo() { }
+    // function expression: only variable 'bar' gets hoisted, not the implementation
+    var bar = function () { };
+}
+```
+
+### Returning functions
+
+- function are objects, so they can be used as return values
+- becasue `setup()` wraps the returned function, it creates a closure, and you can use this closere to store some private data
+
+```
+var setup = function () {
+    var count = 0;
+    return function () {
+        return (count += 1);
+    };
+};
+```
+
+### Immediate functions
+
+- is a syntax that enables you to execute a function as soon as it is defined
+- it provides a scope sandbox for your initialization code
+- commonly, the global object is passed as an argument
+
+```
+(function (global) {
+ // some initialization with the global object
+}(this));
+```
+
+- an immediate function can return any type of value, including another function, and its scope can be used to store some private data
+- también puede usarse para asignar valores a propiedades de objetos que requeisran varias operaciones
+
+```
+var o = {
+    message: (function () {
+        var who = "me",
+            what = "call";
+        return what + " " + who;
+    }())
+};
+alert(o.message); // call me
+```
+
+### Immediate object initialization
+
+- this pattern uses an object with an `init()` method, which is executed immediately after the object is craeted. the ``init()` function takes care of all initialization tasks
+
+```
+({
+    // initialize
+    init: function () {
+        // more init tasks...
+    }
+}).init();
+```
+
+### Init-time branching
+
+- when you know that a certain condition will not change throughout the life of the program, it makes sense to test the condition only once. browser snifffin (or feature detection) is a typical example, figuring out the computed styles of a DOM elementnt or attaching event handlers are other
+
+### Function properties - a memoization pattern
+
+- one use case for suctom properties is to cache the results (the return value) so the next time the funciton is called, it does not ahve to redo petentially heavy computations. this is called **memoization**
+
+```
+var myFunc = function (param) {
+    if (!myFunc.cache[param]) {
+        // ... expensive operation ...
+        myFunc.cache[param] = result;
+    }
+    return myFunc.cache[param];
+};
+// cache storage
+myFunc.cache = {};
+```
+
+### Curry
+
+#### Function application
+
+- in functional programming, a function is not called or invoked, it is **applied**.
+- `Function.prototype.apply()` has two arguments: object to bind to `this` and an array of arguments
+
+#### Partial application (currying)
+
+- currying is a transformation process, where we transform a function
+
+```
+// accepts partial list of arguments
+function add(x, y) {
+    if (typeof y === "undefined") { // partial
+        return function (y) {
+            return x + y;
+        };
+    }
+    // full application
+    return x + y;
+}
+```
+
+
 
 
 
