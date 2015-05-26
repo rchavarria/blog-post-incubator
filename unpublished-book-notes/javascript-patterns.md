@@ -383,8 +383,127 @@ function add(x, y) {
 }
 ```
 
+## Object creation patterns
+
+### Namespace pattern
+
+- insttead of polluting the global scope, you can create one global object for your application or library
+- before creating a property or creating a namespace, it is best to check first that it does not already exist: `typeof MYAPP === "undefined"`, `var MYAPP = MYAPP || {}`
+
+#### Declaring dependencies
+
+- it is a god idea to declare the modules your code relies on at the top of your function or module
+- it is an exremely simple pattern, pero sobretodo sirve para hacer explícitas las dependencias
+
+### Private properties and methods
+
+#### Private members
+
+- although the language does not have special syntax for private members, you can implement them using a closure
+- *privileged method* is just a name given to the public methods that have access to the private members
+
+```
+function Gadget() {
+    // private member
+    var name = 'iPod';
+    // public function
+    this.getName = function () {
+        return name;
+    };
+}
+var toy = new Gadget();
+console.log(toy.name); // undefined
+```
+
+#### Object literals privacy
+
+- para tener atributos privados en objetos, you can use the closure created by and additional anonymous immediate function. this example is also the bare bones of what is known as *module pattern*
+- el prototype de un objecto también puede ser creado de esta forma, ya que prototype es un objeto y este patrón crea objectos. En el ejemplo, en lugar de asignar el objeto a `myobj` lo asignaríamos a `Gadget.prototype`.
+
+```
+var myobj = (function () {
+    // private members
+    var name = "my, oh my";
+    // implement the public part
+    return {
+        getName: function () {
+            return name;
+        }
+    };
+}());
+```
+
+### Module pattern
+
+- provides the tools to create self-contained decoupled pieces of code, which can be treated as balck boxes of functionality 
+- the first step is setting up a namespace
+- define the module withaq n immediate function that will provide private scope. the immediate funciton returns an object (the actual module with its public interface)
+- otras veces, en lugar de devolver un objeto, se puede devolver una función. De ete modo tenemos un patrón módulo que devuelve funciones constructoras
+- you can pass arguments to the immediate function that wraps teh module to *import* globals into the module
+
+## Sandbox pattern
+
+- it addresses teh drawbacks of the namespacing pattern:
+
+    1. reliance on a single global varialbe
+    2. long, dotted names
+
+### A global constructor
+
+- in the sandbox pattern the single global is a constructor, you create object using that constructor, and you also pass a callback function, which becmoes the isolated sandboxed environment for your code.
 
 
+```
+Sandbox(['ajax', 'event'], function (box) {
+    // console.log(box);
+});
+```
+
+### Static members
+
+#### Private static members
+
+- you can have the same syntax as in a classy language by using a constructor function and adding properties to it
+
+
+```
+// constructor
+var Gadget = function () {};
+// a static method
+Gadget.isShiny = function () {
+    return "you bet";
+};
+// a normal method added to the prototype
+Gadget.prototype.setPrice = function (price) {
+    this.price = price;
+};
+// calling a static method
+Gadget.isShiny(); // "you bet"
+```
+
+#### Private static members
+
+- el truco aquí está en devolver una nueva función en nuestra implementación de una función constructora
+
+
+```
+// constructor
+var Gadget = (function () {
+    // static variable/property
+    var counter = 0,
+        NewGadget;
+    // this will become the new constructor implementation
+    NewGadget = function () {
+        counter += 1;
+    };
+    // a privileged method
+    NewGadget.prototype.getLastId = function () {
+        return counter;
+    };
+    // overwrite the constructor
+    return NewGadget;
+}()); // execute immediately
+```
 
 
 
