@@ -505,5 +505,179 @@ var Gadget = (function () {
 }()); // execute immediately
 ```
 
+## Code reuse patterns
+
+### Classical Vs Modern inheritance patterns
+
+#### Classical pattern #1 - the default pattern
+
+- the mot commonly used method is to create an object using the Parent() constructor and assign this object to the Child()'s prototype
+
+```
+// the parent constructor
+function Parent(name) {
+    this.name = name || 'Adam';
+}
+// adding functionality to the prototype
+Parent.prototype.say = function () {
+    return this.name;
+};
+// empty child constructor
+function Child(name) {}
+// inheritance magic happens here
+inherit(Child, Parent);
+
+function inherit(C, P) {
+    C.prototype = new P();
+}
+```
+
+- using this pattern, you inherit both own properties (using `this` in the constructor parent) and prototype properties and methods
+- el problema de esto es que la propiedad `name` es heredada, pero se encuentra en el prototipo de `Child`. Cuando creamos un nuevo objeto de `Child`, cuando se ejecuta el constructor de `Parent`, la propiedad `name` (que no se encuentra en `Child`) se crea en `Child`, por lo que la propiedad se *duplica* en ambos objectos (`Parent` y `Child`)
+
+#### Classical pattern #2 - rent a constructor
+
+
+```
+function Child(a, c, b, d) {
+    Parent.apply(this, arguments);
+}
+// or, you can also do
+function Child() {
+    Parent.call(this);
+}
+```
+
+- this way you can only inherit properties added to `this` inside the parent constructor. you do not inherit members that were added to the prototype
+- lo que hace este método, es llamar a la función constructora de `Parent` pasándole el `this` de `Child` como parámetro
+- una ventaja que tiene este método, es que se puede *heredar* de varias clases
+
+### Classical pattern #3 - rent and set prototype
+
+- you first borrow the constructor and then also set the child's prottoype to point to a new instance of the constructor
+
+```
+function Child(a, c, b, d) {
+    Parent.apply(this, arguments);
+}
+Child.prototype = new Parent();
+```
+
+- a drawback is that the parent constructor is called twice. at the end, the own properties get inherited twice
+
+#### Classical pattern #4 - share the prototype
+
+/!\ /!\ /!\  /!\  /!\  /!\  /!\  /!\  /!\  /!\  /!\  /!\  /!\  /!\  /!\  /!\  
+- una regla que se repite en muchos patrones: **reusable members should go to the prototype and not `this`**
+/!\ /!\ /!\  /!\  /!\  /!\  /!\  /!\  /!\  /!\  /!\  /!\  /!\  /!\  /!\  /!\  
+
+- lo que se hace es establecer el prototipo de `Child` al prototipo de `Parent`
+
+```
+function inherit(C, P) {
+    C.prototype = P.prototype;
+}
+```
+
+#### Classical pattern #5 - a temporary constructor
+
+- en lugar de llamar al constructor de `Parent`, creamos `F`, que es como `Parent` pero sin las propiedades en `this`
+- the child only inherits propteries of the prototype
+- incluso se puede almacenar una referencia al padre
+- you must reset the pointer to the constructor, otherwise, all children objects will report that `Parent` was their constructor
+
+```
+function inherit(C, P) {
+    var F = function () {};
+    F.prototype = P.prototype;
+    C.prototype = new F();
+    C.uber = P.prototype; // store a reference to parent
+    C.prototype.constructor = C;  // reset constructor reference
+}
+```
+
+### Prototypal inheritance
+
+- you would use an empty temporary constructor funciton `F()`. you then set the prototype of `F()` to be the parent object, finally, you return a new instance of the temporary constructor
+
+```
+function object(o) {
+    function F() {}
+    F.prototype = o;
+    return new F();
+}
+```
+
+- este tipo de herencia se ha implementado en ES5 mediante `Object.create()`
+
+### Inheritance by copying properties
+
+- simplemente, se recorren las propiedades del objeto padre is se crean en el hijo mediante un bucle `for-in`
+- también se pueden hacer *copias profundas* para copiar las propiedades dentro de las propiedades si se tratan de objectos (array, object,...)
+
+### Mixins
+
+- instead of copying from one object, you can copy from any number of objects and mix them all into a new object
+
+### Borrowing methods
+
+- utiliza los métodos `call()` y `apply()` de las funciones
+- la única diferencia es que uno toma los parámetros de uno en uno y el otro en array
+
+```
+// call() example
+notmyobj.doStuff.call(myobj, param1, p2, p3);
+// apply() example
+notmyobj.doStuff.apply(myobj, [param1, p2, p3]);
+```
+
+### Function.prototype.bind()
+
+- hay veces que se utilizan funciones, pero desacopladas de un objeto (bueno, acopladas al objeto global). esto suele pasar mucho cuando usamos callbacks
+
+
+```
+var one = {
+    name: "object",
+    say: function (greet) {
+        return greet + ", " + this.name;
+    }
+};
+// test
+one.say('hi'); // "hi, object"
+// assigning to a variable
+// `this` will point to the global object
+var say = one.say;
+say('hoho'); // "hoho, undefined"
+// passing as a callback
+var yetanother = {
+    name: "Yet another object",
+    method: function (callback) {
+        return callback('Hola');
+    }
+};
+yetanother.method(one.say); // "Holla, undefined"
+```
+
+- ECMAScript 5 adds a method `bind()` to `Function.prototype`, making it easy to use as `apply()` and `call()`:
+
+```
+var newFunc = obj.someFunc.bind(myobj, 1, 2, 3);
+newFunc();
+```
+
+- this binds toghether `someFunc()` and `myobj` and also prefill the first three arguments that `someFunc` expects. this is also an example of partial funcitona applicaton (see Chapter 4 of the bok)
+
+## Desing patterns
+
+
+
+
+
+
+
+
+
+
 
 
