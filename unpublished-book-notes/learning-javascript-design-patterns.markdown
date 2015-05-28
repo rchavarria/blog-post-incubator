@@ -1,3 +1,95 @@
+--
+layout: post
+title: "Learning JavaScript design patterns"
+date: 
+author: Rubén Chavarría
+comments: true
+categories: 
+- personal
+- book reviews
+published: true
+footer: false
+sidebar: true
+---
+
+##### de Addy Osmany
+
+{% img right http://www.addyosmani.com/resources/essentialjsdesignpatterns/cover/cover.jpg %}
+
+## Por qué lo he leído
+
+Ya llevo un tiempo programando con JavaScript de forma profesional, y empiezo
+a sentir que necesito ir un paso más allá con el lenguaje. No creo que conozca
+todo lo que ofrece el lenguaje, todo lo contrario, a veces siento que me queda
+mucho por aprender y que necesito profundizar en muchos y muchos temas. Con
+este libro pretendía trasladar mis conocimientos sobre patrones de diseño con
+Java a JavaScript.
+
+<!-- more -->
+
+## Qué esperaba
+
+Esperaba grandes cosas de este libro. Ya tenía referencias anteriores del autor,
+creo que es un profesional como la copa de un pino. Así que un libro escrito
+por él, pues tenía buena pinta.
+
+Supongo que esperar encontrar una estructura de libro muy parecido a otros:
+clasificaciones, descripciones, catalogaciones,...
+
+## Qué encontré
+
+Encontré un libro con mucho código, cosa que no tiene que ser ni bueno, ni malo.
+En el caso de este libro, es una ayuda muy buena. Las explicaciones de Addy son
+clarísimas y hay multitud de ejemplos y casos reales.
+
+## Conclusiones
+
+Aunque es un libro que no miente, trata sobre patrones de diseño, el libro me
+ha defraudado un poco. Esperaba más del autor. Quizá no he sabido aprovechar
+el contenido del libro, pero me ha parecido superficial en algunos capítulos,
+y en otros ha entrado a describir con mucho detalle librerías como jQuery o
+plugins para él.
+
+En realidad, el libro que andaba buscando era [JavaScript patterns], de
+Stoyan Stefanov, pero me daba más confianza Addy porque era un autor que ya
+conocía. Toca ponerle remedio y ya me he puesto con el libro de Stoyan.
+
+Eso sí, tengo que reconocer que es el primer lugar donde he encontrado una buena
+descripción de lo que son cada una de las arquitecturas MVx (MVC, MVP, MVVM,...)
+
+## Qué he aprendido
+
+- Se pueden añadir propiedades a objetos a través del método
+`Object.defineProperties()`
+- Los métodos de un objeto, no se deben declarar en la función constructor, sino
+modificando el prototipo de la misma
+- Se debe intentar conseguir un bajo acoplamiento, algunos patrones (Observer,
+Mediator,...) ayudan a ello
+- Mixins
+- Patrón Flyweight, consiste en agrupar o manejar conjuntamente funcionalidades
+que pueden compartir un subconjunto de sus datos
+- Diferencias entre los distintos MVx
+
+    - En MVC, las Vistas tienen acceso directo al Modelo
+    - En MVP, los Presentadores escuchan eventos de la Vista y del Modelo y median en la acciones entre ellos
+    - MVVM nos permite crear partes específicas de las Vistas de un Modelo en concreto
+
+- Expresiones de Función Inmediatamente Invocadas (IIFE - Immediately-Invoked Function Expressions)
+
+## Recursos relacionados
+
+- [Learning JavaScript design patterns] book, by Addy Osmani
+- [Sintaxis definitiva de módulos]
+- [Notas tomadas]
+- [JavaScript patterns]
+
+[Learning JavaScript design patterns]: http://www.addyosmani.com/resources/essentialjsdesignpatterns/book
+[Sintaxis definitiva de módulos]: http://www.2ality.com/2014/09/es6-modules-final.html
+[Notas tomadas]: foo-bar-foo-bar
+[JavaScript patterns]: stoyan stefanov
+
+# Notas tomadas
+
 # Learning JavaScript design patterns, by Addy Osmani
 
 ## ¿Qué es un patrón?
@@ -179,11 +271,7 @@ Mediador Vs Observador: el patrón Mediador centraliza en lugar de distribuir. E
 
 ## El patrón comando
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-        ESTE COMANDO ME HA SORPRENDIDO BASTANTE
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Este patrón me ha sorprendido bastante, no se parece en nada al patrón con el mismo nombre que conocía para Java y otros lenguajes orientados a objetos.
 
 Proporciona medios para separar los resultados de la ejecución de un comando del resto de responsabilidades, delegando la responsabilidad del comando a diferentes objetos.
 
@@ -246,15 +334,6 @@ Esto nos da la posibilidad de interactuar indirectamente con subsystemas de una 
 
 - Los modelos contienen información, pero típicamente no contienen nada de comportamiento. No formatean la información. El formateo de datos se lleva a cabo en la vista
 - Lógica que valide los datos se considera aceptable para estar incluída en el modelo
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-/!\ NOTA, CONCULSIÓN PARA EL LIBRO: EXPLICA MUY BIEN LAS DIFERENCIAS ENTRE MVC, MVP, MVVM,... /!\ 
-
-
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 ### View
 
@@ -347,12 +426,12 @@ La versión más simple
 // anonymous
 (function () { /*...*/ })();
 // named
-(function foobar() { /*..*/ })());
+(function foobar() { /*..*/ }());
 ```
 
 6. Injección de espacio de nombres
 
-La injección de espacion de nombres es una variación en IIFE donde se inyectan los métodos y propiedades de un espacio de nombres específico desde una envoltura de la función usando `this` (y el método `apply`, presente en todos los objectos)
+La injección de espacio de nombres es una variación en IIFE donde se inyectan los métodos y propiedades de un espacio de nombres específico desde una envoltura de la función usando `this` (y el método `apply`, presente en todos los objetos)
 
 ```
 (function() {
