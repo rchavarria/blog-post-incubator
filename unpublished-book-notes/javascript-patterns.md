@@ -670,6 +670,242 @@ newFunc();
 
 ## Desing patterns
 
+### Singleton
+
+- creating a simple object using the object literal is an example of a singleton
+- but JavaScript has the `new` syntax for creating objcts using constructor functions. the idea is that whn you use `new` to create several objcets using the same constructor, you should get only new pointers to the exact same object
+- opciones
+
+    1. global variable
+    2. cache in a static property of the constructor
+    3. wrap teh instance in a closure
+
+```
+// instance in a static property
+function Universe() {
+    // do we have an existing instance?
+    if (typeof Universe.instance === "object") {
+        return Universe.instance;
+    }
+    // proceed as normal
+    // cache
+    Universe.instance = this;
+}
+```
+
+#### instance in a closure
+
+- the secret sauce here is to rewrite the constructor
+- the original constructor is called the first time and it returns `this` as usual. then the second, third time and so on the rewritten constructor is executed
+
+```
+function Universe() {
+    // the cached instance
+    var instance = this;
+    // proceed as normal
+    //...
+    // rewrite the constructor
+    Universe = function () {
+        return instance;
+    };
+}
+```
+
+### Factory
+
+- the purpose of the factory is to crate objects that:
+
+    1. performs repeating operations when setting up similar objects
+    2. create objects without knowing the specific type at compile time
+
+- an example implementation : a common constructor `CarMaker`. A static method which creates car objects called `factory()`. Specialized constructors `CarMaker.Compact`,... that inherits from `CarMaker`
+
+```
+// parent constructor
+function CarMaker() {}
+// a method of the parent
+CarMaker.prototype.drive = function () {
+    return "Vroom, I have " + this.doors + " doors";
+};
+// the static factory method
+CarMaker.factory = function (type) {
+    var constr = type,
+        newcar;
+    // error if the constructor doesn't exist
+    if (typeof CarMaker[constr] !== "function") {
+        throw { name: "Error", message: constr + " doesn't exist" };
+    }
+    // at this point the constructor is known to exist
+    // let's have it inherit the parent but only once
+    if (typeof CarMaker[constr].prototype.drive !== "function") {
+        CarMaker[constr].prototype = new CarMaker();
+    }
+    // create a new instance
+    newcar = new CarMaker[constr]();
+    // optionally call some methods and then return...
+    return newcar;
+};
+// define specific car makers
+CarMaker.Compact = function () {
+    this.doors = 4;
+};
+CarMaker.Convertible = function () {
+    this.doors = 2;
+};
+CarMaker.SUV = function () {
+    this.doors = 24;
+};
+```
+
+### Iterator
+
+- in the iterator pattern, you have an object containing some sort of aggragete data
+- your object needs to provide a `next()` method
+- the aggregate object usually also provides a convenience `hasNext()` meothod
+- Echar un vistazo a [Iterables and iterators in ECMAScript 6](http://www.2ality.com/2015/02/es6-iteration.html)
+
+### Decorator
+
+- in the decorator pattern, additional functionality can be added to an object dinamically, at runtime
+- you start with your plain object. then you pick and choose from pool of decorators which ones you want to use to enhance your plain object
+
+```
+var sale = new Sale(100); // the price is 100 dollars
+sale = sale.decorate('fedtax'); // add federal tax
+sale = sale.decorate('quebec'); // add provincial tax
+sale = sale.decorate('money'); // format like money
+sale.getPrice(); // "$112.88"
+```
+
+- one way to implement this is to have each decorator be an object contaiing the methods that should be overwritten. each decorator inherits the object enhanced. each decorated method calls the same method on the `uber` (the inherited object)
+- let's start with a constructor and a prototype method:
+
+```
+function Sale(price) {
+    this.price = price || 100;
+}
+Sale.prototype.getPrice = function () {
+    return this.price;
+};
+// decorator objects will be implemented as properties of a constructor property
+Sale.decorators = {};
+Sale.decorators.quebec = {
+    getPrice: function () {
+        return "$" + this.uber.getPrice().toFixed(2); // access 'uber'
+    }
+};
+Sale.decorators.money = {
+    getPrice: function () { //...  }
+};
+Sale.decorators.cdn = {
+    //...
+};
+```
+
+- the `decorate()` method ties all pieces together:
+- the newly decorated object `newobj` wil inherit the object we have so far, which is the object `this`.
+
+```
+Sale.prototype.decorate = function (decorator) {
+    var F = function () {},
+        overrides = this.constructor.decorators[decorator],
+        i, newobj;
+    F.prototype = this;
+    newobj = new F();
+    newobj.uber = F.prototype;
+    for (i in overrides) {
+        if (overrides.hasOwnProperty(i)) {
+            newobj[i] = overrides[i];
+        }
+    }
+    return newobj;
+};
+```
+
+### Strategy
+
+- enables you to select algorithms at runtime
+
+```
+var data = {
+    first_name: "Super",
+    last_name: "Man",
+    age: "unknown",
+    username: "o_O"
+};
+// configures the validator
+validator.config = {
+    first_name: 'isNonEmpty',
+    age: 'isNumber',
+    username: 'isAlphaNum'
+};
+if (validator.hasErrors()) {
+    console.log(validator.messages.join("\n"));
+}
+// checks for non-empty values
+validator.types.isNonEmpty = {
+    validate: function (value) {
+        return value !== "";
+    },
+    instructions: "the value cannot be empty"
+};
+// checks if a value is a number
+validator.types.isNumber = {
+    validate: function (value) { //...  },
+    instructions: "..."
+};
+// checks if the value contains only letters and numbers
+validator.types.isAlphaNum = {
+    validate: function (value) { //...  },
+    instructions: "..."
+};
+```
+
+- `validator.validate()` recorrería las propiedades a validar, recupera el validador configurado y lo ejecuta. Si va mal, agrega los errores
+
+#### Façade
+
+- it provides only an alternative interface to an object
+- is also helpful with redesign and refactoring efforts when you want to replace an object. start thinking about the new object's API and create a façade in front of the old object that follows the new API
+
+#### Proxy
+
+- one object acts as an interface to another object
+- it is different from Façade, where all you have is convenience methods that combine several other methodscalls. Proxy protects the access to that object
+- one example is *lazy initialization*. client initializes it but never actually uses it. the proxy receives the initialization request but never passes it on until it is used
+
+#### Mediator
+
+- applications are made up of separate object
+- when objects know too much about each other, and communicate directlly, this leads to undesirable *tight coupling*
+- the mediator pattern promoting *loose coupling*. in this pattern the independent objects do not communicate directly, but through a *mediator* class
+
+#### Observer
+
+- all browser events are examples of this patern
+- instead of one object calling another object's method, an object subs cribes to another object's specific activity and gets notified
+- diferencias con mediator: the mediator object had to know about every other object to call the correct methods at the right time and coordinate the whole game. in observer, the object is a little dumber and relies on the objects observing certain events and taking action. this results in even looser coupling at the price of making it a little harder to keep rack of who listens to what event
+
+## DOM and browser patterns
+
+### Separation of concerns
+
+- Content -> HTML, presentation -> CSS, behaviour -> JavaScript
+
+### DOM scripting
+
+#### DOM Access
+
+- avoid DOM access in loops
+- assigning DOM references to local variables and working with the locals (cache DOM references)
+- using selectors API where possible
+- caching the length when iterating over HTML collections
+
+#### DOM manipulation
+
+
+
+
 
 
 
