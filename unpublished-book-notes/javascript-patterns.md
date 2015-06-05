@@ -903,17 +903,119 @@ validator.types.isAlphaNum = {
 
 #### DOM manipulation
 
+- Again, the general rule of thumb is to have fewer DOM updates, which means batching changes and performing them outside of the "live" document tree.
+- for this purpose ou can use a document fragment to contain all our nodes
+- when you add a document fragment to the DOM tree, the content of the fragment gets added, no the fragment itself
+
+```
+var p, t, frag;
+frag = document.createDocumentFragment();
+p = document.createElement('p');
+t = document.createTextNode('first paragraph');
+p.appendChild(t);
+frag.appendChild(p);
+// ...
+frag.appendChild(p);
+document.body.appendChild(frag);
+```
+
+- when you update an existing part of the tree, you can make a clone and swap the original with `oldnode.parentNode.replaceChild(clone, oldnode)`
+
+### Events
+
+#### Event handling
+
+- you can add an inline `onclick` attribute, but will be violating the separation of concerns and the rpgressive enhancement. you should strive or attaching the listener in JavaScript, outside of any markup
+- se debe utilizar `addEventListener` en lugar de sobreescribir el método `onclick` con nuestra implementación
+
+#### Event delegation
+
+- si tengo un div con 3 botones, en lugar de añadir listener a cada botón, añado listener al div y recojo el botón clickeado con el elemento `target` que venga en el evento lanzado
 
 
+```
+// ...
+// get event and source element
+e = e || window.event;
+src = e.target || e.srcElement;
+if (src.nodeName.toLowerCase() !== "button") {
+    return;
+}
+// ...
+```
 
+### Long running scripts
 
+#### setTimeout()
 
+- para no bloquear la interfaz de usuario con un código que tarde mucho en ejecutarse, la idea es dividir el trabajo a realizar en trozos más pequeños y ejecutar cada una de esas tareas con un timeout de 1ms
 
+#### web workers
 
+- provide background thread support in the browser
 
+### Remote scripting
 
+#### XMLHttpRequest
 
+- is a special object which lets you make an HTTP request from JS
+- puede ser síncrono o asíncrono
+- si no hay una muy buena razón, debería ser siempre asíncrono. en algunos navegadores, este tipo de llamadas síncronas están soportadas pero deprecadas
 
+#### JSONP
 
+- (JSON with padding)
+- unlike XHR it's not restricted by the same-domain browser policy, so it should be used carefully because of the security implications of loadking data from third-party sites
+- with JSONP the data is most often JSON wraped in a funcitno call, where the function name is provided with the request
 
+#### Frames and images beacons
+
+- when all you need to do is to send data to the server, and you're not expecting a response, you can create a new image and point its `src` to the script on the server
+
+```
+new Image().src = "http://example.org/foo.php";
+```
+
+### Deploying JavaScript
+
+#### Combining scripts
+
+- the first rule when building fast-loading pages is to have as few external componetns as possible
+- when it comes to JS, that means combiningnexternal script files together
+- you need to come up with some naming and versionning pattern fo rthe bundle, such as using a tiemstamp
+
+#### Minifying and compressing
+
+- it is important to make the minification process also a part of your build go-live process
+- serving the script file compressed is also something you should alwasy do, i is a simple one-time server configuration to enable gzip compression
+
+#### Expires header
+
+- using an `Expires` header is a one-off server configuration you can do in `.htaccess` 
+
+#### Using a CDN (Content Delivery Network)
+
+- hosting service that distribute copies of your files around the world while still keeping the same URL in you code
+
+#### Loading strategies
+
+- you use a `<script>` element
+- `language="JavaScript"` attribute should not be used
+- `type="text/javascript"`. HTML5 is making this attribute not required
+
+#### The place of the `<script>` element
+
+- when browsers encounter an external script, they stop further downoads until the script file is downloaded, parsed, and executed
+- to minimize the blocking effect, you can place the script element right before the closing `body` tag
+- the worst antipattern is to use separate files in the head of the document
+- and the best option is to put the combined script at the very end of the page
+
+#### HTTP chunking
+
+- the HTTP protocol supposts whe so-called chunked encoding. it enables you to send the page in pieces
+- lo ideal sería configurar la carga de la página en tres partes:
+
+    1. `head` element
+    2. elemento `body`
+    3. scripts, al final de la página
 
