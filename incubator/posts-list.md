@@ -63,7 +63,8 @@ c. Observer applied to Angular
 46. JS static analisis tools (JS Inspect)
 47. Screencast about solving Project Euler problems
 48. Some tricks to use in the bash console (search for them, and learn them)
-49. 
+49. lodash, a utility JS library that allow you some refactorings
+50. Comment on this Martin Fowler's post (http://martinfowler.com/articles/refactoring-pipelines.html) and more found on http://refactoring.com or Marting Fowler's blog
 
 # Post already posted
 
