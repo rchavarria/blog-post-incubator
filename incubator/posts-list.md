@@ -65,6 +65,7 @@ c. Observer applied to Angular
 48. Some tricks to use in the bash console (search for them, and learn them)
 49. lodash, a utility JS library that allow you some refactorings
 50. Comment on this Martin Fowler's post (http://martinfowler.com/articles/refactoring-pipelines.html) and more found on http://refactoring.com or Marting Fowler's blog
+51. Myth about a x10 productivity programmer [eferro's blog](http://www.eferro.net/2015/06/un-generador-de-deuda-tecnica-o-el-mito.html)
 
 # Post already posted
 
