@@ -3,6 +3,7 @@
 20. Book review: JS design patterns, by Stoyan Stefanov
 30. How to write ES6 tests with Mocha
 47. Screencast about solving Project Euler problems
+52. AngularJS tests memory consumption
 
 # Possible posts for the blog
 
@@ -66,6 +67,7 @@ c. Observer applied to Angular
 49. lodash, a utility JS library that allow you some refactorings
 50. Comment on this Martin Fowler's post (http://martinfowler.com/articles/refactoring-pipelines.html) and more found on http://refactoring.com or Marting Fowler's blog
 51. Myth about a x10 productivity programmer [eferro's blog](http://www.eferro.net/2015/06/un-generador-de-deuda-tecnica-o-el-mito.html)
+52. AngularJS tests memory consumption
 
 # Post already posted
 
