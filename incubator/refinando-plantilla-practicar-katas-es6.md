@@ -1,3 +1,5 @@
+# Ejecutar tests de mocha con ES6
+
 Me gusta resolver puzzles, pero no puzzles de miles de piezas, si no más bien el
 tipo de puzzle en el que hay unas piezas de madera encajadas y hay que desencajarlas,
 o en el que hay una cuerdecita con una bola y tienes que sacar la bola y volverla
@@ -7,9 +9,9 @@ Creo que de ahí me viene también el gusto de resolver pequeños problemas de
 programación. Me gusta programar. Me gusta aprender. Y qué mejor para aprender
 que practicar. En el mundo de la programación existe un concepto al que llamamos
 [kata] (el concepto ha sido copiado de las artes marciales), el cual significa
-la realización de pequeños ejercicios focalizados en un aspecto concreto. Así
-que me gusta realizar katas de vez en cuando en algún lenguaje de programación
-para practicar.
+la realización de pequeños ejercicios focalizados en la solución a un pequeño
+problema muy concreto. Así que me gusta realizar katas de vez en cuando en algún
+lenguaje de programación para practicar.
 
 <!-- more -->
 
