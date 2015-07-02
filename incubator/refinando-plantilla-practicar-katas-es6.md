@@ -26,7 +26,7 @@ permite practicar con la nueva versión de JavaScript.
 - [ESLint]: estoy convencido de que este tipo de herramientas ayudan en el día a
 día en el desarrollo con JavaScript. Me ayudan a detectar errores tontos a la
 hora de escribir mi código.
-- [TravisCI]: todos los tests serán ejecutados en un servidor de integración
+- [Travis CI]: todos los tests serán ejecutados en un servidor de integración
 contínua, para eliminar para siempre la excusa de *En mi ordenador funciona*
 
 ## Babel
@@ -120,4 +120,9 @@ comando `npm test`. Para ello, modificaremos el fichero `package.json`:
     },
     //...
 
+[kata]: https://en.wikipedia.org/wiki/Kata_%28programming%29
+[cómo crear un módulo NodeJS]: http://rchavarria.github.io/blog/2014/09/24/plantilla-para-modulos-nodejs
+[Babel]: http://babeljs.io
+[ESLint]: http://eslint.org
 [Travis CI]: https://travis-ci.org
+
