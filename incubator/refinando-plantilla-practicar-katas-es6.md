@@ -31,9 +31,32 @@ contínua, para eliminar para siempre la excusa de *En mi ordenador funciona*
 
 ## Babel
 
-- instalarlo
-- configurarlo
-- modificar gulp para lanzarlo
+[Babel] es una herramienta para transformar código escrito en ECMAScript 6 en
+código ECMAScript 5, es decir, para transformar código JavaScript de una versión
+que todavía no está soportada completamente por los navegadores a una versión
+que sí lo está.
+
+Instalarlo es sencillísimo mediante `npm`:
+
+    npm install --save-dev babel gulp-babel
+
+Con este comando instalaremos la herramienta en sí, y un plugin para `gulp` que
+nos permitirá usar Babel desde nuestro script gulp. Modificaremos este script
+para que transforme nuestro código justo antes de ejecutar nuestros tests:
+
+
+    gulp.task('test', function () {
+        return gulp
+            .src([ 'test/bootstrap.js', 'test/scripts/**/*.js' ])
+            .pipe(mocha({
+                reporter: 'spec',
+                compilers: 'js:babel/register'  // tell mocha to compile with babel
+            }));
+    });
+
+La parte diferente de otras configuraciones para lanzar los tests con mocha es
+la parte donde configuramos mocha para que use Babel como compilador de código
+JavaScript.
 
 ## ESLint
 
