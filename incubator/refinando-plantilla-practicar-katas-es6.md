@@ -44,7 +44,6 @@ Con este comando instalaremos la herramienta en sí, y un plugin para `gulp` que
 nos permitirá usar Babel desde nuestro script gulp. Modificaremos este script
 para que transforme nuestro código justo antes de ejecutar nuestros tests:
 
-
     gulp.task('test', function () {
         return gulp
             .src([ 'test/bootstrap.js', 'test/scripts/**/*.js' ])
@@ -60,9 +59,33 @@ JavaScript.
 
 ## ESLint
 
-- instalarlo
-- configurarlo
-- que gulp lo ejecute
+[ESLint] es una herramienta que analiza nuestro código JavaScript y nos avisa de
+violaciones de reglas que tengamos configuradas. Estas reglas nos permiten
+definir patrones para detectar posibles fallos en nuestro código así como forzar
+a que todos los integrantes de nuestro equipo sigan el mismo estilo de programación.
+
+También utilizaremos `nmp` para instalarlo, esta vez instalaremos solamente el
+plugin de `gulp`, que como depende de ESLint directamente, éste se instalará 
+automáticamente:
+
+    npm install --save-dev gulp-eslint
+
+Y podemos crear una nueva tarea en gulp para analizar nuestro código:
+
+    gulp.task('eslint', function () {
+        return gulp
+            .src([ 'gulpfile.js', 'src/scripts/**/*.js', 'test/scripts/**/*.js' ])
+            .pipe(eslint())
+            .pipe(eslint.format())
+            .pipe(eslint.failOnError());
+    });
+
+Ahora, si queremos analizar todo nuestro código antes de lanzar nuestros tests,
+podemos hacer que la tarea `test` dependa de la nueva tarea `eslint`:
+
+    gulp.task('test', [ 'eslint' ], function () {
+        // ...
+    }
 
 ## TravisCI
 
