@@ -89,7 +89,35 @@ podemos hacer que la tarea `test` dependa de la nueva tarea `eslint`:
 
 ## TravisCI
 
-- darte de alta en travis-ci.org
-- añadir repo
-- añadir .travis.yml para node
+[Travis CI] es una herramienta de integración contínua. La herramienta recupera
+nuestro código del repositorio de GitHub que le digamos y ejecuta todos los
+tests.
 
+Para ello debemos darnos de alta en la página. Podemos hacerlo con nuestra
+cuenta de GitHub. Luego, podemos ir a nuestro perfil e indicar a Travis CI
+qué repositorios debe *vigilar* para ejecutar los tests cada vez que hagamos
+un push al repositorio.
+
+Debemos indicar a Travis CI qué lenguaje y plataforma queremos testear, en
+nuestro caso se trata de NodeJS. Como configuración, añadimos simplemente un
+fichero llamado `.travis.yml` en el directorio raiz del proyecto con este
+contenido:
+
+    language: node_js
+    node_js:
+        - "0.12"
+
+De esta forma, cuando hagamos un push a nuestro repositorio en GitHub, Travis CI
+recuperará el código, instalará paquetes Node con `npm` y ejecutará el comando
+`npm test`. 
+
+Para que Travis CI lanze nuestros tests, debemos configurar la respuesta al
+comando `npm test`. Para ello, modificaremos el fichero `package.json`:
+
+    //...
+    "scripts": {
+        "test": "gulp test"
+    },
+    //...
+
+[Travis CI]: https://travis-ci.org
