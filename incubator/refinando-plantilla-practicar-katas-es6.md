@@ -1,4 +1,4 @@
-# Ejecutar tests de mocha con ES6
+# Ejecutar tests de Mocha escritos en ECMAScript 6
 
 Me gusta resolver puzzles, pero no puzzles de miles de piezas, si no más bien el
 tipo de puzzle en el que hay unas piezas de madera encajadas y hay que desencajarlas,
@@ -7,11 +7,11 @@ a meter. Ese tipo de puzzles.
 
 Creo que de ahí me viene también el gusto de resolver pequeños problemas de
 programación. Me gusta programar. Me gusta aprender. Y qué mejor para aprender
-que practicar. En el mundo de la programación existe un concepto al que llamamos
+que practicar. En el mundo de la programación existe un concepto llamado
 [kata] (el concepto ha sido copiado de las artes marciales), el cual significa
 la realización de pequeños ejercicios focalizados en la solución a un pequeño
 problema muy concreto. Así que me gusta realizar katas de vez en cuando en algún
-lenguaje de programación para practicar.
+lenguaje de programación, para practicar.
 
 <!-- more -->
 
@@ -28,6 +28,10 @@ día en el desarrollo con JavaScript. Me ayudan a detectar errores tontos a la
 hora de escribir mi código.
 - [Travis CI]: todos los tests serán ejecutados en un servidor de integración
 contínua, para eliminar para siempre la excusa de *En mi ordenador funciona*
+
+Si quieres dejarte de tonterías y ver todo montado ya y empezar a usar todo ello,
+puedes echar un vistazo a el repositorio [solveet-exercises-js] y jugar con
+él.
 
 ## Babel
 
@@ -64,7 +68,7 @@ violaciones de reglas que tengamos configuradas. Estas reglas nos permiten
 definir patrones para detectar posibles fallos en nuestro código así como forzar
 a que todos los integrantes de nuestro equipo sigan el mismo estilo de programación.
 
-También utilizaremos `nmp` para instalarlo, esta vez instalaremos solamente el
+También utilizaremos `npm` para instalarlo, esta vez instalaremos solamente el
 plugin de `gulp`, que como depende de ESLint directamente, éste se instalará 
 automáticamente:
 
@@ -87,7 +91,11 @@ podemos hacer que la tarea `test` dependa de la nueva tarea `eslint`:
         // ...
     }
 
-## TravisCI
+El siguiente paso es configurar ESLint. Hay infinidad de reglas, incluso podemos
+definir las nuestras propias. Para comenzar, puedes echar un vistazo a un
+fichero [`.eslintrc`] de ejemplo.
+
+## Travis CI
 
 [Travis CI] es una herramienta de integración contínua. La herramienta recupera
 nuestro código del repositorio de GitHub que le digamos y ejecuta todos los
@@ -122,7 +130,9 @@ comando `npm test`. Para ello, modificaremos el fichero `package.json`:
 
 [kata]: https://en.wikipedia.org/wiki/Kata_%28programming%29
 [cómo crear un módulo NodeJS]: http://rchavarria.github.io/blog/2014/09/24/plantilla-para-modulos-nodejs
+[solveet-exercises-js]: https://github.com/rchavarria/solveet-exercises-js
 [Babel]: http://babeljs.io
 [ESLint]: http://eslint.org
+[`.eslintrc`]: https://raw.githubusercontent.com/rchavarria/solveet-exercises-js/master/.eslintrc
 [Travis CI]: https://travis-ci.org
 
