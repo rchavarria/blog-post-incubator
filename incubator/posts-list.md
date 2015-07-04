@@ -68,6 +68,8 @@ c. Observer applied to Angular
 50. Comment on this Martin Fowler's post (http://martinfowler.com/articles/refactoring-pipelines.html) and more found on http://refactoring.com or Marting Fowler's blog
 51. Myth about a x10 productivity programmer [eferro's blog](http://www.eferro.net/2015/06/un-generador-de-deuda-tecnica-o-el-mito.html)
 52. AngularJS tests memory consumption
+53. Code review best practices (). I could have my own list, and publish it
+54. Giving/Receiving feedback. How I could give feedback, positive one, and how I could react when I'm given feedback
 
 # Post already posted
 
