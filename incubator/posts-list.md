@@ -1,9 +1,9 @@
 # Most immediate ideas for blog posts
 
 20. Book review: JS design patterns, by Stoyan Stefanov
-30. How to write ES6 tests with Mocha
-47. Screencast about solving Project Euler problems
 52. AngularJS tests memory consumption
+56. Notes on the talk: Therapeutical refactoring, by Katrina Owen
+<>. Add notes on the talk to the Vim post: Mastering the Vim language, by Chris Toomey
 
 # Possible posts for the blog
 
@@ -32,7 +32,6 @@ b. Use events
 c. (there can be lots of blog posts here)
 18. Describe configuration groups for ESLint
 19. Comments on Xavi Ghost's video: Masterclass programmer mindset
-20. Book review: JS design patterns, by Stoyan Stefanov
 21. Book review: Notes to a software team leader, by Roy Osherove
 22. In my current project, how we improved our PHP code when introducing phpcs and what cycles can we observe
 23. Refactorings provided by the IDE, or even Vim
@@ -42,7 +41,6 @@ c. (there can be lots of blog posts here)
 27. Greatest cost in software development is understanding the code (Sandi Metz)
 28. Code kata, by Emily Bache
 29. Coding dojos, code retreats
-30. How to write ES6 tests with Mocha
 31. JS design patterns
 a. Flyweight
 b. Factory ¿? Kind of. It's not the same as the traditional Factory pattern
@@ -62,14 +60,17 @@ c. Observer applied to Angular
 44. Real refactorings with ES6
 45. Code comments
 46. JS static analisis tools (JS Inspect)
-47. Screencast about solving Project Euler problems
 48. Some tricks to use in the bash console (search for them, and learn them)
 49. lodash, a utility JS library that allow you some refactorings
 50. Comment on this Martin Fowler's post (http://martinfowler.com/articles/refactoring-pipelines.html) and more found on http://refactoring.com or Marting Fowler's blog
 51. Myth about a x10 productivity programmer [eferro's blog](http://www.eferro.net/2015/06/un-generador-de-deuda-tecnica-o-el-mito.html)
-52. AngularJS tests memory consumption
 53. Code review best practices (). I could have my own list, and publish it
 54. Giving/Receiving feedback. How I could give feedback, positive one, and how I could react when I'm given feedback
+55. Book review: Passionate programmer, Chad Fowler
+57. Notes on the talk: A short history on Software Engineering, by Paolo Perrota
 
 # Post already posted
+
+30. How to write ES6 tests with Mocha
+47.X Screencast about solving Project Euler problems
 
