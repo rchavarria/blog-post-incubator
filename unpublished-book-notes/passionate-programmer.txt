@@ -21,11 +21,11 @@ The employees have to deliver.
 
 Market!
 
-Part 1Choosing Your Market
+# Part 1 Choosing Your Market
 
 Which technologies should we invest in? Which domain should we develop expertise in? Should we go broad or deep with our knowledge? These are questions we really should be asking ourselves.
 
-Tip 1:   Lead or Bleed?
+## Tip 1:   Lead or Bleed?
 
 the difference between choosing technologies that are still on the bleeding edge and technologies that are firmly entrenched. Picking a stable technology that has already wedged itself into the production systems of businesses worldwide is a safer, but potentially less rewarding, choice than picking a flashy new technology that nobody has deployed yet.
 
@@ -37,14 +37,13 @@ Someone has to know how to make the new speak to the old, and vice versa.
 
 there’s a role to be filled by a calculating technologist: technology hospice.
 
-
 Act on It!
 
 Make a list of early, middle, and late adoption technologies based on today’s market. Map them out on paper from left to right; the left is bleeding edge, and the right is filled by technologies that are in their sunsets.
 
 Are there any technologies around the far edges that you have some special interest in?
 
-Tip 2:   Supply and Demand
+## Tip 2:   Supply and Demand
 
 There are usually more buyers for any given thing at a lower price than at a higher one.
 
@@ -78,7 +77,7 @@ Use job posting and career websites to find out which skills are in high demand 
 
 Make note of which skills appear to be in high demand domestically with little penetration offshore.
 
-Tip 3:   Coding Don’t Cut It Anymore
+## Tip 3:   Coding Don’t Cut It Anymore
 
 If you want to stay relevant, you’re going to have to dive into the domain of the business you’re in.
 
@@ -104,7 +103,7 @@ Make lists of questions you can ask your management or business clients.
 
 What’s the hot new issue right now? Whatever it is, bring it up with your business clients. Ask them to explain it and to give you their opinions.
 
-Tip 4:   Be the Worst
+## Tip 4:   Be the Worst
 
 Legendary jazz guitarist Pat Metheny
 
@@ -125,2599 +124,1000 @@ Find a “be the worst” situation
 find a volunteer project on which you can work with other developers who will make you better
 
 Pick an open source project
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 29 | posición 435-435 | Añadido el domingo, 21 de junio de 2015 17:53:21
 
 Go through the project’s to-do list
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 29 | posición 436-437 | Añadido el domingo, 21 de junio de 2015 17:54:17
 
 Make your design and code so indistinguishable from the rest of the project
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 29 | posición 441-441 | Añadido el domingo, 21 de junio de 2015 17:54:28
 
 You’ll be amazed at what you can learn from a remote set of senior developers,
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 29 | posición 442-442 | Añadido el domingo, 21 de junio de 2015 17:54:44
 
-Tip 5:   Invest in Your Intelligence
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu nota en la página 29 | posición 445 | Añadido el domingo, 21 de junio de 2015 17:56:35
+## Tip 5:   Invest in Your Intelligence
 
 con esto el autor quiere decir un tecnologia muy muy especiica.muy especializada. donde no hay mucjo mercado pero se puede ganar mucjo dinero
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 29 | posición 445-445 | Añadido el domingo, 21 de junio de 2015 17:56:35
 
 niche technology,
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu nota en la página 30 | posición 454 | Añadido el domingo, 21 de junio de 2015 17:57:55
 
 libro recomendao para leer
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 30 | posición 454-454 | Añadido el domingo, 21 de junio de 2015 17:57:55
 
 “Great Hackers,”[4] Paul Graham
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 31 | posición 472-474 | Añadido el domingo, 21 de junio de 2015 18:02:19
 
 either good people seek out diversity, because they love to learn new things, or being forced into alien experiences and environments created more mature, well-rounded software developers.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu nota en la página 32 | posición 476 | Añadido el domingo, 21 de junio de 2015 18:05:56
 
 tecnlogias muy separadas de las  qu sueles trabajar generalmnte
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 31 | posición 476-476 | Añadido el domingo, 21 de junio de 2015 18:05:56
 
 fringe technologies
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 31 | posición 476-476 | Añadido el domingo, 21 de junio de 2015 18:06:01
 
 why else would you want to invest in fringe technologies that you may rarely or never have an opportunity to actually get paid to use?
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 32 | posición 481-482 | Añadido el domingo, 21 de junio de 2015 18:06:11
 
 exposure to these fringe technologies and methodologies actually makes you deeper, better, smarter, and more creative.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 32 | posición 483-483 | Añadido el domingo, 21 de junio de 2015 18:07:11
 
 Act on It!
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu nota en la página 32 | posición 484 | Añadido el domingo, 21 de junio de 2015 18:16:20
 
 pero no uno cualuiera. uno que rompa todos tus esquemas. por ejemplo haskell
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 32 | posición 484-484 | Añadido el domingo, 21 de junio de 2015 18:16:20
 
 Learn a new programming language.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 32 | posición 489-490 | Añadido el domingo, 21 de junio de 2015 18:16:40
 
 Ask old-timers to review your code and make suggestions that would make it more idiomatically correct.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 32 | posición 490-490 | Añadido el domingo, 21 de junio de 2015 18:16:44
 
-Tip 6:   Don’t Listen to Your Parents
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 33 | posición 494-495 | Añadido el domingo, 21 de junio de 2015 18:24:18
+## Tip 6:   Don’t Listen to Your Parents
 
 your parents are going to give you fear-driven advice.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 33 | posición 494-495 | Añadido el domingo, 21 de junio de 2015 18:28:20
 
 your parents are going to give you fear-driven advice. Fear-driven advice is geared toward not losing. Thinking about not losing is not the way to win! Winners take risks.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 33 | posición 502-503 | Añadido el domingo, 21 de junio de 2015 18:29:38
 
 Another career decision-making factor that is likely not in line with your parents’ view of the working world is that it’s OK (and often preferable) to change jobs.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 34 | posición 519-519 | Añadido el domingo, 21 de junio de 2015 18:33:44
 
 And if you’re not having fun, you’re not going to be excellent.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 34 | posición 519-520 | Añadido el domingo, 21 de junio de 2015 18:33:54
 
 Act on It!
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 34 | posición 520-521 | Añadido el domingo, 21 de junio de 2015 18:37:37
 
 What are your biggest career fears? Think about the last few career choices you made.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 35 | posición 523-524 | Añadido el domingo, 21 de junio de 2015 18:37:41
 
 What would you have done if fear had not been a factor?
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 35 | posición 526-526 | Añadido el domingo, 21 de junio de 2015 18:37:49
 
 Tom Preston-Werner
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 38 | posición 579-579 | Añadido el domingo, 21 de junio de 2015 18:45:55
 
-Tip 7:   Be a Generalist
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 40 | posición 607-607 | Añadido el domingo, 21 de junio de 2015 18:50:39
+## Tip 7:   Be a Generalist
 
 software projects are usually very cyclical. Not only is the actual flow of projects cyclical, but the work inside a project is cyclical.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 41 | posición 623-624 | Añadido el domingo, 21 de junio de 2015 18:53:49
 
 The way to become a generalist is to not label yourself with a specific role or technology.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 42 | posición 629-630 | Añadido el domingo, 21 de junio de 2015 18:53:58
 
 First, you can choose to either be a leader or manager type or be a technical person.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 42 | posición 637-638 | Añadido el domingo, 21 de junio de 2015 18:55:06
 
 Being a UNIX Guy who refuses to do Windows is increasingly more impractical.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 42 | posición 638-639 | Añadido el domingo, 21 de junio de 2015 18:55:17
 
 Longevity is going to require that you are platform neutral in the workplace.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 43 | posición 649-650 | Añadido el domingo, 21 de junio de 2015 18:56:47
 
 It’s rare, and refreshing, to find a developer who truly understands the platform on which he or she is working.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 43 | posición 652-653 | Añadido el domingo, 21 de junio de 2015 18:57:09
 
 Act on It!
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 43 | posición 653-654 | Añadido el domingo, 21 de junio de 2015 18:59:52
 
 list the dimensions on which you may or may not be generalizing your knowledge and abilities. For each dimension, write your specialty.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 43 | posición 655-656 | Añadido el domingo, 21 de junio de 2015 19:00:06
 
 to the right of your specialty, write one or more topics you should put into your “To Learn” list.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 44 | posición 660-660 | Añadido el domingo, 21 de junio de 2015 19:00:12
 
-Tip 8:   Be a Specialist
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu marcador en la página 43 | posición 658 | Añadido el domingo, 21 de junio de 2015 19:00:21
-
-
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 45 | posición 686-687 | Añadido el lunes, 22 de junio de 2015 23:00:18
+## Tip 8:   Be a Specialist
 
 Unfortunately, the software industry has churned out a whole lot of these shallow specialists, who use the term specialist as an excuse for knowing only one thing.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 46 | posición 692-693 | Añadido el lunes, 22 de junio de 2015 23:01:22
 
 I wanted someone who, when dealing with high-level abstractions, would also understand the low-level details of what went into the implementation of those abstractions.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 46 | posición 699-699 | Añadido el lunes, 22 de junio de 2015 23:01:53
 
 Act on It!
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 46 | posición 702-703 | Añadido el lunes, 22 de junio de 2015 23:02:15
 
 Whether your language relies on a VM or not, take some time to study just what happens when you compile a source file.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu marcador en la página 64 | posición 971 | Añadido el lunes, 22 de junio de 2015 23:03:14
-
-
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 47 | posición 707-708 | Añadido el lunes, 22 de junio de 2015 23:04:55
 
 teach a class on some aspect of a technology that you would like to develop some depth in.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 47 | posición 708-709 | Añadido el lunes, 22 de junio de 2015 23:05:05
 
-, teaching is one of the best ways to learn. Tip 9:   Don’t Put All Your Eggs in Someone Else’s Basket
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu marcador en la página 46 | posición 702 | Añadido el lunes, 22 de junio de 2015 23:06:42
-
-
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 47 | posición 715-716 | Añadido el martes, 23 de junio de 2015 19:12:49
+, teaching is one of the best ways to learn.
+## Tip 9:   Don’t Put All Your Eggs in Someone Else’s Basket
 
 we fool ourselves into thinking market leader is the same thing as standard. So, to some people, it seems rational to make another company’s product part of their identities.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 48 | posición 727-728 | Añadido el martes, 23 de junio de 2015 19:13:43
 
 although a single-minded investment in one particular technology is almost always a bad idea, if you must do so, consider focusing on an open source option,
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 48 | posición 736-738 | Añadido el martes, 23 de junio de 2015 19:15:36
 
 You start to realize that these concepts and patterns that your brain is sorting through and making sense of are much more scalable and universal than any specific vendor’s technology.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu nota en la página 49 | posición 738 | Añadido el martes, 23 de junio de 2015 19:17:12
 
 cuando estudias soluciones de codigo aberto en lugar de propietarias en profundidad. empiezas  reconocer patrones que te siren msas alla de la tecnologia
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 48 | posición 736-738 | Añadido el martes, 23 de junio de 2015 19:17:13
 
 You start to realize that these concepts and patterns that your brain is sorting through and making sense of are much more scalable and universal than any specific vendor’s technology.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 49 | posición 738-739 | Añadido el martes, 23 de junio de 2015 19:17:23
 
 Act on It!
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 49 | posición 739-740 | Añadido el martes, 23 de junio de 2015 19:17:33
 
 Try a small project, twice. Try it once in your home base technology and then once, as idiomatically as possible, in a competing technology.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 49 | posición 740-741 | Añadido el martes, 23 de junio de 2015 19:17:37
 
-Tip 10:   Love It or Leave It
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 49 | posición 742-743 | Añadido el martes, 23 de junio de 2015 19:18:05
+## Tip 10:   Love It or Leave It
 
 You have to be passionate about your work if you want to be great at your work.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 50 | posición 766-767 | Añadido el martes, 23 de junio de 2015 19:21:03
 
 I was obsessed with learning anything and everything I could.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 51 | posición 768-769 | Añadido el martes, 23 de junio de 2015 19:21:12
 
 This was the difference between me and my overeducated, underperforming colleagues at work. Passion.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 51 | posición 774-775 | Añadido el martes, 23 de junio de 2015 19:21:54
 
 We can’t all be Mozart or Coltrane. But, we can all take a big step away from mediocrity by finding work we are passionate about.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 51 | posición 778-779 | Añadido el martes, 23 de junio de 2015 19:22:20
 
 Act on It! Go find a job
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 51 | posición 778-778 | Añadido el martes, 23 de junio de 2015 19:22:33
 
 Act on It!
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 51 | posición 779-779 | Añadido el martes, 23 de junio de 2015 19:22:41
 
 find a job you’re actually passionate about.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 51 | posición 780-781 | Añadido el martes, 23 de junio de 2015 19:23:54
 
 keep two weeks of a simple log. Every workday when you wake up, rate your level of excitement on a scale from 1 to 10—1
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 52 | posición 783-784 | Añadido el martes, 23 de junio de 2015 19:24:37
 
 For the next two weeks, every morning plan how you’re going to make tomorrow a 10.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 52 | posición 786-786 | Añadido el martes, 23 de junio de 2015 19:24:42
 
 Being a Serial Opportunist
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 55 | posición 840-840 | Añadido el martes, 23 de junio de 2015 19:31:02
 
-Part 2Investing in Your Product
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu marcador en la página 55 | posición 840 | Añadido el martes, 23 de junio de 2015 19:31:06
-
-
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu marcador en la página 58 | posición 877 | Añadido el martes, 23 de junio de 2015 21:45:37
-
-
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu nota en la página 57 | posición 864 | Añadido el miércoles, 24 de junio de 2015 21:39:46
+# Part 2 Investing in Your Product
 
 vmos. qu por mucho talento naturl qu tengas. un inversion en tus hbilidades merece la pema
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 57 | posición 863-864 | Añadido el miércoles, 24 de junio de 2015 21:39:46
 
 The structured me who invests in his abilities (even as a hobby) completely wipes the floor with the me who bets it all on natural talent and ability.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 57 | posición 869-870 | Añadido el miércoles, 24 de junio de 2015 21:41:14
 
-Tip 11:   Learn to Fish
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 57 | posición 870-871 | Añadido el miércoles, 24 de junio de 2015 21:43:17
+## Tip 11:   Learn to Fish
 
 Lao Tzu said, “Give a man a fish; feed him for a day. Teach a man to fish; feed him for a lifetime.”
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 58 | posición 880-881 | Añadido el miércoles, 24 de junio de 2015 21:44:43
 
 The most obvious place to start is in learning the tools of your trade.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 58 | posición 881-881 | Añadido el miércoles, 24 de junio de 2015 21:45:07
 
 Source control,
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 58 | posición 882-883 | Añadido el miércoles, 24 de junio de 2015 21:45:16
 
 It’s an integral part of your development process. Don’t let such an important thing—the authoritative repository of your work—be like voodoo to you.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 59 | posición 891-892 | Añadido el miércoles, 24 de junio de 2015 21:46:40
 
 A particularly easy way to get lazy is to use a lot of wizards that generate code for you.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 59 | posición 900-901 | Añadido el miércoles, 24 de junio de 2015 21:47:35
 
 imagine how much faster you could go if you actually knew the ins and outs of the business domain you’re working
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 60 | posición 907-907 | Añadido el miércoles, 24 de junio de 2015 21:48:31
 
 Act on It!
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 60 | posición 908-910 | Añadido el miércoles, 24 de junio de 2015 21:49:26
 
 You can ask yourself two extremely useful questions about any given area to drill down into the murky layers: How does it work? and Why does this (have to) happen?
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 60 | posición 915-916 | Añadido el miércoles, 24 de junio de 2015 21:51:45
 
 time—Pick one of the most critical but neglected tools in your toolbox to focus on.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 60 | posición 917-918 | Añadido el miércoles, 24 de junio de 2015 21:51:58
 
 allot yourself a small period of time each day to learn one new thing about the tool
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 61 | posición 922-923 | Añadido el miércoles, 24 de junio de 2015 21:52:10
 
-Tip 12:   Learn How Businesses Really Work
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 61 | posición 927-927 | Añadido el miércoles, 24 de junio de 2015 21:56:24
+## Tip 12:   Learn How Businesses Really Work
 
 basics of business
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 61 | posición 928-929 | Añadido el miércoles, 24 de junio de 2015 21:57:01
 
 itself a domain of knowledge that one can—indeed, must—learn.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 62 | posición 945-945 | Añadido el miércoles, 24 de junio de 2015 21:57:52
 
 Act on It!
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 62 | posición 947-948 | Añadido el miércoles, 24 de junio de 2015 22:00:09
 
 One such book that I found particularly useful (and pleasantly short) is The Ten-Day MBA: A Step-By-step Guide To Mastering The Skills Taught In America’s Top Business Schools [Sil99].
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 63 | posición 952-952 | Añadido el miércoles, 24 de junio de 2015 22:00:46
 
-Tip 13:   Find a Mentor
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 64 | posición 972-973 | Añadido el miércoles, 24 de junio de 2015 22:05:10
+## Tip 13:   Find a Mentor
 
 Without a role model, there’s no incentive to get better.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 64 | posición 973-973 | Añadido el miércoles, 24 de junio de 2015 22:05:29
 
 A mentor can also give structure to your learning process.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 65 | posición 988-989 | Añadido el miércoles, 24 de junio de 2015 22:08:20
 
 not only do you create a personal attachment and responsibility to your mentor, but the reverse happens as well.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 66 | posición 997-997 | Añadido el miércoles, 24 de junio de 2015 22:09:22
 
 Act on It!
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 66 | posición 998-998 | Añadido el miércoles, 24 de junio de 2015 22:11:11
 
 Mentoring yourself—We’d
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 67 | posición 1013-1013 | Añadido el miércoles, 24 de junio de 2015 22:11:32
 
-Tip 14:   Be a Mentor
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu marcador en la página 66 | posición 1010 | Añadido el miércoles, 24 de junio de 2015 22:12:29
-
-
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 67 | posición 1015-1016 | Añadido el miércoles, 24 de junio de 2015 22:24:32
+## Tip 14:   Be a Mentor
 
 The simple act of speaking is a known elixir for treating an unclear mind.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 67 | posición 1020-1021 | Añadido el miércoles, 24 de junio de 2015 22:24:39
 
 We learn by teaching. It’s ironic, because we expect a teacher to already know things.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 67 | posición 1023-1023 | Añadido el miércoles, 24 de junio de 2015 22:25:22
 
 We look for analogies to express complex concepts,
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 68 | posición 1032-1033 | Añadido el miércoles, 24 de junio de 2015 22:27:09
 
 You find a mentee not by going out and declaring yourself a guru but by being knowledgeable and willing to patiently share that knowledge.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 68 | posición 1038-1038 | Añadido el miércoles, 24 de junio de 2015 22:28:30
 
 Keep in mind, though, that mentoring is about people.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 68 | posición 1040-1041 | Añadido el miércoles, 24 de junio de 2015 22:28:42
 
 Act on It!
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 68 | posición 1041-1041 | Añadido el miércoles, 24 de junio de 2015 22:29:04
 
 Look for someone to take under your wing.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 69 | posición 1043-1044 | Añadido el miércoles, 24 de junio de 2015 22:29:18
 
 Start helping. Become known for your desire and ability to patiently help people learn.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 69 | posición 1044-1045 | Añadido el miércoles, 24 de junio de 2015 22:29:22
 
-Tip 15:   Practice, Practice, Practice
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 69 | posición 1052-1052 | Añadido el miércoles, 24 de junio de 2015 22:30:55
+## Tip 15:   Practice, Practice, Practice
 
 Our industry tends to practice on the job.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 70 | posición 1065-1066 | Añadido el miércoles, 24 de junio de 2015 22:32:47
 
 if I sit down to practice coding and nothing but elegant code comes out, I’m probably sitting somewhere near the center of my current capabilities instead of the edges, where a good practice session should place me.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 70 | posición 1066-1067 | Añadido el miércoles, 24 de junio de 2015 22:34:52
 
 how do you know what to practice?
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 70 | posición 1068-1070 | Añadido el miércoles, 24 de junio de 2015 22:35:07
 
 I’d break jazz practice down into the following categories (simplified for the nonmusicians among us): Physical/coordination Sight reading Improvisation
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 70 | posición 1071-1071 | Añadido el miércoles, 24 de junio de 2015 22:35:19
 
 Physical/coordination:
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 70 | posición 1073-1074 | Añadido el miércoles, 24 de junio de 2015 22:36:09
 
 What about the dusty corners of your primary programming language that you rarely visit?
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 71 | posición 1074-1074 | Añadido el miércoles, 24 de junio de 2015 22:36:16
 
 Regular expressions
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 71 | posición 1077-1077 | Añadido el miércoles, 24 de junio de 2015 22:36:23
 
 your language’s APIs or function libraries.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 71 | posición 1079-1080 | Añadido el miércoles, 24 de junio de 2015 22:36:30
 
 how about stream libraries, network programming APIs, or even the set of utilities available for dealing with collections or lists?
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 71 | posición 1082-1083 | Añadido el miércoles, 24 de junio de 2015 22:36:39
 
 Sight reading:
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 71 | posición 1088-1090 | Añadido el miércoles, 24 de junio de 2015 22:38:28
 
 open source software? How about trying to add a feature? Go look at the to-do list for a piece of software you’d like to practice with, and give yourself a constrained amount of time to implement the new feature (or at least to determine what it would take to implement
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 72 | posición 1090-1092 | Añadido el miércoles, 24 de junio de 2015 22:38:44
 
 After choosing a feature, download the source code for the software, and start exploring. How do you know where to look? What tricks do you use to find your way around a significant body of code? What’s your starting place?
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 72 | posición 1093-1094 | Añadido el miércoles, 24 de junio de 2015 22:39:16
 
 The real goal is to understand what you’re looking at as quickly as possible.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 72 | posición 1096-1097 | Añadido el miércoles, 24 de junio de 2015 22:39:47
 
 Improvisation:
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 72 | posición 1097-1097 | Añadido el miércoles, 24 de junio de 2015 22:40:14
 
 taking some structure or constraint and creating something new, on the fly, on top of that structure.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 72 | posición 1102-1103 | Añadido el miércoles, 24 de junio de 2015 22:40:47
 
 Pick a simple program, and try to write it with these constraints.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 73 | posición 1108-1108 | Añadido el miércoles, 24 de junio de 2015 22:41:30
 
 You have to make time for practice. It’s your responsibility.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 73 | posición 1109-1109 | Añadido el miércoles, 24 de junio de 2015 22:41:34
 
 Act on It!
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 73 | posición 1120-1120 | Añadido el miércoles, 24 de junio de 2015 22:43:01
 
-Tip 16:   The Way That You Do It
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 73 | posición 1115-1117 | Añadido el miércoles, 24 de junio de 2015 22:44:00
+## Tip 16:   The Way That You Do It
 
 Dave has created twenty-one such kata and has made them available for free on his weblog (http://codekata.pragprog.com/).
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu marcador en la página 73 | posición 1119 | Añadido el miércoles, 24 de junio de 2015 22:44:05
-
-
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 75 | posición 1137-1138 | Añadido el jueves, 25 de junio de 2015 22:22:11
 
 The truth is that for a software process to have any chance of being implemented successfully, it has to be embraced by the people who are using the process—people
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 75 | posición 1138-1138 | Añadido el jueves, 25 de junio de 2015 22:22:43
 
 The best way to feel ownership of processes is to help implement them.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 75 | posición 1141-1142 | Añadido el jueves, 25 de junio de 2015 22:23:36
 
 Alternatively, you might work in an environment where a process is passed down from on high.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 75 | posición 1144-1144 | Añadido el jueves, 25 de junio de 2015 22:23:42
 
 Again, this is an opportunity to take the initiative.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 76 | posición 1158-1159 | Añadido el jueves, 25 de junio de 2015 22:25:13
 
 The best process to follow is the one that makes your team most productive and results in the best products.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 76 | posición 1159-1161 | Añadido el jueves, 25 de junio de 2015 22:25:25
 
 The only way to find that hybrid (short of revelationary epiphany) is to study the available options, pick out the pieces that make sense to you and your team, and continuously refine them based on real experience.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 76 | posición 1163-1163 | Añadido el jueves, 25 de junio de 2015 22:25:42
 
 Act on It!
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu nota en la página 76 | posición 1162 | Añadido el jueves, 25 de junio de 2015 22:26:22
 
 pues aqui temos una oportunidsd para desarrollar un carrera
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 76 | posición 1161-1162 | Añadido el jueves, 25 de junio de 2015 22:26:22
 
 It’s much easier to find someone who can make software work than it is to find someone who can make the making of software work.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 77 | posición 1167-1167 | Añadido el jueves, 25 de junio de 2015 22:26:49
 
-Tip 17:   On the Shoulders of Giants
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 77 | posición 1177-1177 | Añadido el jueves, 25 de junio de 2015 22:28:24
+## Tip 17:   On the Shoulders of Giants
 
 Studying the work of masters is an essential part of becoming a master.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 77 | posición 1181-1181 | Añadido el jueves, 25 de junio de 2015 22:29:13
 
 Software design and programming have a lot in common with the arts in this way.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu nota en la página 77 | posición 1181 | Añadido el jueves, 25 de junio de 2015 22:30:34
 
 tienen en comun que hy mucho marerial de maestros ue se puede estudiar
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 78 | posición 1193-1194 | Añadido el jueves, 25 de junio de 2015 22:32:12
 
 The act of learning from the work that came before you works well in the arts world,
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 79 | posición 1198-1199 | Añadido el jueves, 25 de junio de 2015 22:32:49
 
 As you look at this code with a critical eye, you will start to develop your own tastes, just as you would for music, art, or literature.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 79 | posición 1207-1208 | Añadido el jueves, 25 de junio de 2015 22:34:35
 
 Sir Isaac Newton said, “If I have seen further, it is by standing on the shoulders of giants.” Smart guys like Isaac know that there is much to be learned from those who came before us.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 79 | posición 1209-1209 | Añadido el jueves, 25 de junio de 2015 22:35:17
 
 Pick a project, and read it like a book. Make notes.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 79 | posición 1210-1210 | Añadido el jueves, 25 de junio de 2015 22:35:28
 
 Write a critique, and publish it.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu nota en la página 80 | posición 1212 | Añadido el jueves, 25 de junio de 2015 22:36:18
 
 como un gripo de estudio de un kengyaje de prigramacion
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 79 | posición 1211-1212 | Añadido el jueves, 25 de junio de 2015 22:36:18
 
 Find a group of like-minded people, and meet once a month.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 80 | posición 1214-1214 | Añadido el jueves, 25 de junio de 2015 22:36:24
 
-Tip 18:   Automate Yourself into a Job
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 79 | posición 1208-1209 | Añadido el jueves, 25 de junio de 2015 22:36:42
+## Tip 18:   Automate Yourself into a Job
 
 Act on It!
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu marcador en la página 79 | posición 1208 | Añadido el jueves, 25 de junio de 2015 22:36:50
-
-
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 80 | posición 1225-1227 | Añadido el jueves, 25 de junio de 2015 22:40:22
 
 If the goal is to enhance software development throughput, you can get faster people to do the work, get more people to do the work, or automate the work.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 81 | posición 1232-1233 | Añadido el jueves, 25 de junio de 2015 22:40:28
 
 the faster programmer approach is too hard to prove, and we don’t want to encourage the add more cheap programmers approach. This leaves us with automation.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 82 | posición 1244-1244 | Añadido el jueves, 25 de junio de 2015 22:42:05
 
 Act on It!
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 82 | posición 1245-1245 | Añadido el jueves, 25 de junio de 2015 22:42:46
 
 Pick a task you normally do repetitively, and write a code generator for it.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 83 | posición 1262-1264 | Añadido el jueves, 25 de junio de 2015 22:45:40
 
 I learned that no matter how cool the technology seemed to be, it was valuable only if it solved a real problem that was urgent and provided quantifiable benefits. Over time, this helped me change my way of thinking from being technology-centric to being solution-centric.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 86 | posición 1313-1313 | Añadido el jueves, 25 de junio de 2015 22:49:44
 
-Part 3Executing
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu marcador en la página 86 | posición 1313 | Añadido el jueves, 25 de junio de 2015 22:49:51
-
-
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 87 | posición 1325-1326 | Añadido el viernes, 26 de junio de 2015 17:55:03
+# Part 3 Executing
 
 The craft we’ve chosen isn’t usually coupled with the domain in which we’re applying that craft.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 87 | posición 1327-1328 | Añadido el viernes, 26 de junio de 2015 17:55:54
 
 This identity observation creates some subtle problems, because our macro-goals may conflict with our micro-responsibilities.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 87 | posición 1333-1334 | Añadido el viernes, 26 de junio de 2015 17:56:33
 
-Tip 19:   Right Now
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 88 | posición 1349-1350 | Añadido el viernes, 26 de junio de 2015 18:02:14
+## Tip 19:   Right Now
 
 In the case of a weekend coding race, you don’t have time to put tasks off, so you don’t. You can’t delay making a decision, so you don’t. You can’t avoid the boring work,
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 89 | posición 1354-1355 | Añadido el viernes, 26 de junio de 2015 18:02:30
 
 Create movement. Be the one who pushes. Don’t get comfortable.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 89 | posición 1355-1356 | Añadido el viernes, 26 de junio de 2015 18:02:38
 
 Act on It!
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 89 | posición 1356-1357 | Añadido el viernes, 26 de junio de 2015 18:03:25
 
 Examine the tasks that have been sitting on it for a long time,
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 89 | posición 1358-1359 | Añadido el viernes, 26 de junio de 2015 18:04:00
 
 Find one that you could just do in between the cracks of your normal work, when you would normally be browsing the Web, checking your e-mail, or taking a long lunch.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 89 | posición 1360-1360 | Añadido el viernes, 26 de junio de 2015 18:04:33
 
-Tip 20:   Mind Reader
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 90 | posición 1375-1376 | Añadido el viernes, 26 de junio de 2015 18:08:38
+## Tip 20:   Mind Reader
 
 the trick was that he was only doing things that I had already said I wanted. I had just said them in ways that were subtle enough that even I didn’t realize I had said them.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 90 | posición 1380-1380 | Añadido el viernes, 26 de junio de 2015 18:08:52
 
 Mind reading not only applies to your managers but also to your customers.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 90 | posición 1380-1381 | Añadido el viernes, 26 de junio de 2015 18:09:44
 
 If they’re giving you the right cues, you might be able to add features that they’re either going to ask
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 91 | posición 1393-1394 | Añadido el viernes, 26 de junio de 2015 18:12:04
 
 People who can keep a project moving in the right direction without being given much guidance are highly valued and appreciated by their often overworked managers and customers.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 91 | posición 1395-1395 | Añadido el viernes, 26 de junio de 2015 18:12:20
 
 It’s a skill worth exploring and developing.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 92 | posición 1397-1398 | Añadido el viernes, 26 de junio de 2015 18:13:14
 
 start making some notes about what you think your users and managers are going to ask for. Be creative.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 92 | posición 1400-1400 | Añadido el viernes, 26 de junio de 2015 18:13:24
 
 track your hit rate.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 92 | posición 1402-1402 | Añadido el viernes, 26 de junio de 2015 18:13:35
 
-Tip 21:   Daily Hit
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 93 | posición 1411-1412 | Añadido el viernes, 26 de junio de 2015 18:16:36
+## Tip 21:   Daily Hit
 
 Without warning his manager, he started tracking daily hits.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 93 | posición 1415-1416 | Añadido el viernes, 26 de junio de 2015 18:18:48
 
 Simply setting a goal (daily, weekly, or whatever you’re capable of) and tracking this type of accomplishment can radically change your behavior. When
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 93 | posición 1421-1422 | Añadido el viernes, 26 de junio de 2015 18:19:08
 
 Act on It!
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 93 | posición 1423-1424 | Añadido el viernes, 26 de junio de 2015 18:19:42
 
 Think about the little nitpicky problems your team puts up with on a daily basis. Write them down.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 93 | posición 1425-1425 | Añadido el viernes, 26 de junio de 2015 18:20:03
 
 are you doing something manually that could be automated? Write it down. How
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 94 | posición 1428-1429 | Añadido el viernes, 26 de junio de 2015 18:22:42
 
 Next week, on Monday, take the first item from the list, and do something about it. On Tuesday,
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 94 | posición 1430-1430 | Añadido el viernes, 26 de junio de 2015 18:22:53
 
-Tip 22:   Remember Who You Work For
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 94 | posición 1430-1431 | Añadido el viernes, 26 de junio de 2015 18:26:55
+## Tip 22:   Remember Who You Work For
 
 It’s really easy to say “Make sure your goals and your work align with the goals of your business.”
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu nota en la página 95 | posición 1444 | Añadido el viernes, 26 de junio de 2015 18:28:21
 
 cuando dice puddle. se refier aque cambiar toda la empres pued ser muho. qu hay que empezar por partes mas pequeñas
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 95 | posición 1444-1444 | Añadido el viernes, 26 de junio de 2015 18:28:22
 
 The most obvious puddle to start with is your own team.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 95 | posición 1445-1445 | Añadido el viernes, 26 de junio de 2015 18:28:38
 
 You most likely understand the problems the team faces.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 95 | posición 1446-1447 | Añadido el viernes, 26 de junio de 2015 18:28:44
 
 If you’re not sure, you have one obvious place to go to find out: your manager.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 95 | posición 1455-1456 | Añadido el viernes, 26 de junio de 2015 18:32:50
 
 The role of a good manager is to set priorities for the team, make sure the team has what it needs to get the job done, and do what it takes to keep the team motivated and productive,
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 96 | posición 1464-1464 | Añadido el viernes, 26 de junio de 2015 18:33:50
 
 Act on It!
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 96 | posición 1464-1465 | Añadido el viernes, 26 de junio de 2015 18:34:13
 
 Schedule a meeting with your manager.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 96 | posición 1465-1465 | Añadido el viernes, 26 de junio de 2015 18:34:17
 
 understand your manager’s goals for the team
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 96 | posición 1467-1467 | Añadido el viernes, 26 de junio de 2015 18:34:25
 
-Tip 23:   Be Where You’re At
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 96 | posición 1468-1469 | Añadido el viernes, 26 de junio de 2015 18:54:33
+## Tip 23:   Be Where You’re At
 
 an employee who’s always aiming for the next rung on the ladder.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 96 | posición 1471-1471 | Añadido el viernes, 26 de junio de 2015 18:54:46
 
 He complains about the incompetence of The Management
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 96 | posición 1472-1473 | Añadido el viernes, 26 de junio de 2015 18:54:59
 
 He thinks many tasks are beneath him. He avoids them when possible
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 97 | posición 1475-1475 | Añadido el viernes, 26 de junio de 2015 18:55:26
 
 because he’s living in the next job, he’s usually doing a mediocre job in his current role.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 97 | posición 1483-1483 | Añadido el viernes, 26 de junio de 2015 18:59:59
 
 how do you think his management is going to view him?
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 97 | posición 1485-1485 | Añadido el viernes, 26 de junio de 2015 19:00:06
 
 He’s a mediocre performer with a bad attitude.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 98 | posición 1488-1488 | Añadido el viernes, 26 de junio de 2015 19:00:19
 
 I’ve been this guy myself to some extent.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 98 | posición 1493-1493 | Añadido el viernes, 26 de junio de 2015 19:01:19
 
 Here’s a secret: that feeling will never end.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 98 | posición 1498-1498 | Añadido el viernes, 26 de junio de 2015 19:02:34
 
 It’s good to have goals,
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 98 | posición 1500-1501 | Añadido el viernes, 26 de junio de 2015 19:02:41
 
 It seems backward, but keeping your mind focused on the present will get you further toward your goals than keeping your mind focused on the goal itself.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 98 | posición 1502-1503 | Añadido el viernes, 26 de junio de 2015 19:04:04
 
 Focusing on the present allows you to enjoy the small victories of daily work life:
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 99 | posición 1510-1510 | Añadido el viernes, 26 de junio de 2015 19:05:43
 
 Act on It!
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 99 | posición 1511-1511 | Añadido el viernes, 26 de junio de 2015 19:06:33
 
 Write down your goals for your current job.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 99 | posición 1512-1513 | Añadido el viernes, 26 de junio de 2015 19:13:56
 
 What can you have produced in this job that will be great?
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 99 | posición 1513-1514 | Añadido el viernes, 26 de junio de 2015 19:14:27
 
 Spend the week implementing these tactics in support of the long-term goal of “finishing” this job.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu nota en la página 99 | posición 1510 | Añadido el viernes, 26 de junio de 2015 19:18:21
 
 no entiendo muy bien el act on it deeste capitulo. objetivos del actual traajo? planificarlos...
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 99 | posición 1517-1518 | Añadido el viernes, 26 de junio de 2015 19:18:32
 
-Tip 24:   How Good a Job Can I Do Today?
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu marcador en la página 99 | posición 1513 | Añadido el viernes, 26 de junio de 2015 19:19:20
-
-
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 100 | posición 1527-1528 | Añadido el sábado, 27 de junio de 2015 15:33:41
+## Tip 24:   How Good a Job Can I Do Today?
 
 When we have more fun, we do better work. So, when we have no interest in a task, we’re bored, and our work suffers as a result.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 100 | posición 1531-1531 | Añadido el sábado, 27 de junio de 2015 15:37:45
 
 the boring work is boring for two primary reasons.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu nota en la página 100 | posición 1534 | Añadido el sábado, 27 de junio de 2015 15:38:18
 
 tareas que no dejan lugsr a la imaginacoon
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 100 | posición 1534-1534 | Añadido el sábado, 27 de junio de 2015 15:38:18
 
 probably not tasks that leave much to the imagination.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 101 | posición 1535-1536 | Añadido el sábado, 27 de junio de 2015 15:38:30
 
 tasks are not challenging.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu nota en la página 101 | posición 1540 | Añadido el sábado, 27 de junio de 2015 15:40:44
 
 que puddes hacer para que las taress aburridas no o sean tanto?
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 101 | posición 1540-1540 | Añadido el sábado, 27 de junio de 2015 15:40:44
 
 What if you tried to do the boring stuff perfectly?
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 102 | posición 1551-1551 | Añadido el sábado, 27 de junio de 2015 15:41:14
 
 Act on It!
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 102 | posición 1552-1552 | Añadido el sábado, 27 de junio de 2015 15:41:59
 
 visible—Turn those boring tasks into a competition with your co-workers. See who can do them better.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 102 | posición 1555-1555 | Añadido el sábado, 27 de junio de 2015 15:42:09
 
-Tip 25:   How Much Are You Worth?
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 103 | posición 1566-1568 | Añadido el sábado, 27 de junio de 2015 15:44:55
+## Tip 25:   How Much Are You Worth?
 
 How much money did you cause the company to save? How much more in revenues did you contribute? Is that number bigger than twice your salary?
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu nota en la página 104 | posición 1582 | Añadido el sábado, 27 de junio de 2015 15:47:36
 
 cuantificsr el valor que aportss a la empresa
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 104 | posición 1582-1582 | Añadido el sábado, 27 de junio de 2015 15:47:36
 
 Talk to your manager about how to best quantify it.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 104 | posición 1583-1583 | Añadido el sábado, 27 de junio de 2015 15:47:42
 
 How could you creatively save the company money?
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 104 | posición 1594-1594 | Añadido el sábado, 27 de junio de 2015 15:48:56
 
-Tip 26:   A Pebble in a Bucket of Water
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 105 | posición 1599-1600 | Añadido el sábado, 27 de junio de 2015 15:50:39
+## Tip 26:   A Pebble in a Bucket of Water
 
 do the companies they leave actually feel a significant impact as a result of their departure. In most cases, even in critical positions, the effect is surprisingly low.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 105 | posición 1605-1606 | Añadido el sábado, 27 de junio de 2015 15:54:22
 
 if you left tomorrow, the difference would be (on the average) no more or less impactful than if any of your co-workers left.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu nota en la página 105 | posición 1610 | Añadido el sábado, 27 de junio de 2015 15:56:34
 
 un consejo que le daba un super cio
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 105 | posición 1610-1610 | Añadido el sábado, 27 de junio de 2015 15:56:34
 
 you should never get too comfortable.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 106 | posición 1622-1623 | Añadido el sábado, 27 de junio de 2015 15:57:17
 
 Attempting to be irreplaceable is a defensive maneuver that creates a hostile relationship with your employer
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 107 | posición 1626-1627 | Añadido el sábado, 27 de junio de 2015 15:57:40
 
 Act on It!
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 107 | posición 1628-1628 | Añadido el sábado, 27 de junio de 2015 15:57:57
 
 Make a note of anything for which the team is completely dependent on you.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu marcador en la página 107 | posición 1630 | Añadido el sábado, 27 de junio de 2015 15:59:04
-
-
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 107 | posición 1630-1631 | Añadido el sábado, 27 de junio de 2015 16:00:31
 
 Document, automate, or refactor each piece of code or task so that it could be easily understood by anyone on your team.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 107 | posición 1633-1633 | Añadido el sábado, 27 de junio de 2015 16:00:36
 
-Tip 27:   Learn to Love Maintenance
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 108 | posición 1646-1647 | Añadido el sábado, 27 de junio de 2015 16:03:04
+## Tip 27:   Learn to Love Maintenance
 
 Maintenance work is typically littered with old, rotting systems and pushy end users.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 108 | posición 1647-1648 | Añadido el sábado, 27 de junio de 2015 16:04:05
 
 departments are usually focused on reducing the cost of maintaining these systems,
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 108 | posición 1650-1650 | Añadido el sábado, 27 de junio de 2015 16:04:15
 
 Project work, on the other hand, is where you start with a nice, clean, green field.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 109 | posición 1667-1668 | Añadido el sábado, 27 de junio de 2015 16:09:54
 
 As long as you’re keeping it running and responding to user requests in a timely fashion, maintenance mode is a place of freedom and creativity.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 109 | posición 1669-1670 | Añadido el sábado, 27 de junio de 2015 16:10:28
 
 measurable success or failure of the system is yours to bear. When you’re maintaining a system, you can also plan for more visible improvements.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 110 | posición 1676-1677 | Añadido el sábado, 27 de junio de 2015 16:10:49
 
 the maintenance programmer often has the opportunity to interact directly with his or her customers.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 110 | posición 1678-1678 | Añadido el sábado, 27 de junio de 2015 16:11:12
 
 It also puts you in a prime spot for truly learning the inner workings of your business.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 110 | posición 1687-1687 | Añadido el sábado, 27 de junio de 2015 16:12:15
 
 Act on It!
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 111 | posición 1687-1689 | Añadido el sábado, 27 de junio de 2015 16:13:16
 
 Measure, improve, measure—For the most critical application or code that you maintain, make a list of measurable factors that represent the quality of the application.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 111 | posición 1692-1693 | Añadido el sábado, 27 de junio de 2015 16:13:32
 
 set a realistic goal, and improve the application’s (or your own) performance to meet that goal.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 111 | posición 1695-1696 | Añadido el sábado, 27 de junio de 2015 16:13:37
 
-Tip 28:   Eight-Hour Burn
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu marcador en la página 111 | posición 1692 | Añadido el sábado, 27 de junio de 2015 16:13:43
-
-
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 111 | posición 1701-1702 | Añadido el domingo, 28 de junio de 2015 8:36:45
+## Tip 28:   Eight-Hour Burn
 
 “eight-hour burn.” The idea is that you should work so relentlessly that there is no way that you could continue longer than eight hours.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 112 | posición 1707-1708 | Añadido el domingo, 28 de junio de 2015 8:38:02
 
 Most projects last a long time. You can’t keep up the pace of a sprint and finish a marathon.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 112 | posición 1715-1715 | Añadido el domingo, 28 de junio de 2015 8:39:44
 
 We treat scarce resources as being more valuable, and we make more efficient use of them.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 112 | posición 1715-1716 | Añadido el domingo, 28 de junio de 2015 8:39:48
 
 we can also apply this to our time.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 112 | posición 1717-1718 | Añadido el domingo, 28 de junio de 2015 8:39:54
 
 It’s 10:30 a.m., and I know I’m going to be here for hours after everyone else goes home. I think I’ll check out the latest technology news for a while.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 113 | posición 1721-1722 | Añadido el domingo, 28 de junio de 2015 8:42:23
 
 Bob Martin’s eight-hour burn places a constraint on you and gives you a strategy for dealing with that constraint. You get to work and think, I’ve only got eight hours! Go, go, go! With
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 113 | posición 1728-1728 | Añadido el domingo, 28 de junio de 2015 8:43:23
 
 As thought workers,
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 113 | posición 1729-1730 | Añadido el domingo, 28 de junio de 2015 8:43:34
 
 You might be working while you’re driving to dinner with your spouse or while you’re watching a movie.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 113 | posición 1732-1733 | Añadido el domingo, 28 de junio de 2015 8:43:44
 
 If you work intensely every day, you’ll find that the work doesn’t follow you home.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 114 | posición 1735-1735 | Añadido el domingo, 28 de junio de 2015 8:43:58
 
 Act on It!
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 114 | posición 1737-1737 | Añadido el domingo, 28 de junio de 2015 8:44:33
 
 Work intensely for four hours. Take an hour lunch. Then work for four more hours so intensely that you are absolutely exhausted
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 114 | posición 1738-1738 | Añadido el domingo, 28 de junio de 2015 8:44:38
 
-Tip 29:   Learn How to Fail
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 114 | posición 1746-1747 | Añadido el domingo, 28 de junio de 2015 8:48:17
+## Tip 29:   Learn How to Fail
 
 The little failures we encounter also teach us what kind of failures to expect.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 115 | posición 1752-1753 | Añadido el domingo, 28 de junio de 2015 8:48:47
 
 A craftsperson is really put to the test when the errors arise. Learning to deal with mistakes is a skill that is both highly valuable and difficult to teach.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 115 | posición 1760-1762 | Añadido el domingo, 28 de junio de 2015 8:48:58
 
 Because we all make mistakes, we also know that everyone else makes mistakes. So, within reason, we don’t judge each other on the mistakes we make. We judge each other on how we deal with those inevitable mistakes.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu nota en la página 115 | posición 1763 | Añadido el domingo, 28 de junio de 2015 8:50:08
 
 es como una excepcion. cuanto antes explote. menos daño y mas barata sera
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 115 | posición 1763-1763 | Añadido el domingo, 28 de junio de 2015 8:50:08
 
 Raise the issue as early as you know about it.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 116 | posición 1765-1765 | Añadido el domingo, 28 de junio de 2015 8:50:35
 
 Take the blame.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 116 | posición 1767-1767 | Añadido el domingo, 28 de junio de 2015 8:50:45
 
 A problem needs a resolution. Lingering on whose fault it is only prolongs the issue.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 116 | posición 1767-1768 | Añadido el domingo, 28 de junio de 2015 8:50:50
 
 Offer a solution.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 116 | posición 1771-1771 | Añadido el domingo, 28 de junio de 2015 8:52:29
 
 Ask for help.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 116 | posición 1771-1772 | Añadido el domingo, 28 de junio de 2015 8:52:37
 
 don’t let your pride make it worse by refusing help
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 117 | posición 1782-1782 | Añadido el domingo, 28 de junio de 2015 8:53:42
 
-Tip 30:   Say “No”
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 117 | posición 1783-1783 | Añadido el domingo, 28 de junio de 2015 8:54:35
+## Tip 30:   Say “No”
 
 The quickest path to missing your commitments is to make commitments that you know you can’t meet.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 117 | posición 1784-1785 | Añadido el domingo, 28 de junio de 2015 8:54:49
 
 don’t want to disappoint our leaders, so we agree to impossible work being done in impossible timelines.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 118 | posición 1807-1808 | Añadido el domingo, 28 de junio de 2015 8:58:53
 
 If I have a team member who has the strength to say “no” when that’s the truth, then I know that when they say “yes,” they really mean it.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 119 | posición 1824-1824 | Añadido el domingo, 28 de junio de 2015 9:01:42
 
 Be courageous enough to be honest.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 119 | posición 1824-1824 | Añadido el domingo, 28 de junio de 2015 9:01:49
 
 Act on It!
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 119 | posición 1825-1825 | Añadido el domingo, 28 de junio de 2015 9:02:25
 
 keeping a list of every commitment you make:
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 120 | posición 1826-1827 | Añadido el domingo, 28 de junio de 2015 9:02:41
 
 record both what you thought and what you were told to accept. Record when you delivered.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 120 | posición 1829-1829 | Añadido el domingo, 28 de junio de 2015 9:02:49
 
-Tip 31:   Don’t Panic
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 120 | posición 1836-1837 | Añadido el domingo, 28 de junio de 2015 9:04:16
+## Tip 31:   Don’t Panic
 
 Like most skills, a great way to get good at it is to watch masters at work.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 121 | posición 1845-1846 | Añadido el domingo, 28 de junio de 2015 9:06:08
 
 Now if you think about other games, particularly sports, you’ll recognize that the best players all share this quality.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 121 | posición 1846-1847 | Añadido el domingo, 28 de junio de 2015 9:06:15
 
 Heroes never panic.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 122 | posición 1859-1859 | Añadido el domingo, 28 de junio de 2015 9:07:57
 
 We panic because we lose perspective.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 122 | posición 1859-1861 | Añadido el domingo, 28 de junio de 2015 9:08:21
 
 to focus all attention on the problem. To some extent, that’s a good way to solve problems. Unfortunately, it also makes the problem, no matter how small, seem more important than it is.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 123 | posición 1872-1872 | Añadido el domingo, 28 de junio de 2015 9:10:38
 
 When something bad happens and I start to feel that sinking, stressed-out feeling that leads to panic,
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 123 | posición 1873-1873 | Añadido el domingo, 28 de junio de 2015 9:10:43
 
 I analyze the situation from the third-person perspective,
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 123 | posición 1875-1875 | Añadido el domingo, 28 de junio de 2015 9:11:26
 
 I often find that the solution simple and staring me in the face
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 123 | posición 1876-1877 | Añadido el domingo, 28 de junio de 2015 9:11:32
 
 Act on It!
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 123 | posición 1877-1877 | Añadido el domingo, 28 de junio de 2015 9:11:39
 
 Keep a panic journal.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu nota en la página 123 | posición 1883 | Añadido el domingo, 28 de junio de 2015 9:14:18
 
 la idea es identificar las fuentes de panico antes d que ocurrn
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 123 | posición 1882-1883 | Añadido el domingo, 28 de junio de 2015 9:14:18
 
 Each day at a specific time (use a calendar with a reminder!), open up a text file and record any situation that caused you to panic, even if only a little bit.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 124 | posición 1887-1888 | Añadido el domingo, 28 de junio de 2015 9:14:50
 
-Tip 32:   Say It, Do It, Show It
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 124 | posición 1888-1889 | Añadido el domingo, 28 de junio de 2015 9:15:56
+## Tip 32:   Say It, Do It, Show It
 
 If you don’t have a deadline, you don’t have any pressure or much incentive to finish something.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 124 | posición 1894-1895 | Añadido el domingo, 28 de junio de 2015 9:19:09
 
 a plan can make the difference between confused ambiguity at the start of a workday and clear-headed confidence when attacking the tasks ahead.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 124 | posición 1896-1896 | Añadido el domingo, 28 de junio de 2015 9:19:15
 
 Plans don’t have to be big and drawn out.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 124 | posición 1896-1897 | Añadido el domingo, 28 de junio de 2015 9:19:21
 
 Plans don’t have to cover a large span of time.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 125 | posición 1915-1916 | Añadido el domingo, 28 de junio de 2015 9:20:38
 
 move the incomplete items from today (if they’re still relevant) onto tomorrow’s list, and start the process again.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 126 | posición 1918-1919 | Añadido el domingo, 28 de junio de 2015 9:21:26
 
 Having established a rhythm of plan and attack, you are ready to start thinking in terms of weeks and even months.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 126 | posición 1926-1927 | Añadido el domingo, 28 de junio de 2015 9:22:38
 
 You should start communicating your plans to your management. The best time to start communicating the plans is after you have executed at least one cycle of the plan.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 126 | posición 1931-1932 | Añadido el domingo, 28 de junio de 2015 9:23:12
 
 Always state these long-term plans as proposals to your manager, and ask for feedback.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 127 | posición 1934-1935 | Añadido el domingo, 28 de junio de 2015 9:23:41
 
 Every item must be either visibly completed, delayed, removed, or replaced. No items should go unaccounted for.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 127 | posición 1935-1936 | Añadido el domingo, 28 de junio de 2015 9:23:58
 
 items show up on a plan and are never mentioned again, people will stop trusting your plans,
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 128 | posición 1961-1961 | Añadido el domingo, 28 de junio de 2015 9:28:11
 
 Your leaders want you to have independence and ownership. Making, executing, and communicating plans will help you attain both.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 128 | posición 1962-1962 | Añadido el domingo, 28 de junio de 2015 9:28:31
 
 Failing and Copying
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 128 | posición 1963-1964 | Añadido el domingo, 28 de junio de 2015 9:29:28
 
 Larry Wall wrote that the traits of a great programmer are laziness, impatience, and hubris.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 129 | posición 1965-1966 | Añadido el domingo, 28 de junio de 2015 9:29:36
 
 instead of looking at traits, we should look at activities that will help in improvement. If I had to pick two, I’d pick failing and copying.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 129 | posición 1973-1973 | Añadido el domingo, 28 de junio de 2015 9:33:19
 
 Commercial failure tends to build a very direct kind of experience.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 129 | posición 1974-1975 | Añadido el domingo, 28 de junio de 2015 9:33:24
 
 with programming, it’s not so much the experience of failing that’s valuable as the knowledge gained in working on the kind of projects that are likely to fail.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 130 | posición 1992-1992 | Añadido el domingo, 28 de junio de 2015 9:35:47
 
 To become a better programmer,
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 131 | posición 1994-1994 | Añadido el domingo, 28 de junio de 2015 9:35:59
 
 I think you have to actively copy, widely and unashamedly.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 131 | posición 2001-2001 | Añadido el domingo, 28 de junio de 2015 9:37:44
 
 Copying lets you go further with projects that are likely to fail.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 131 | posición 2003-2004 | Añadido el domingo, 28 de junio de 2015 9:38:52
 
 At its best, this leads to a sort of virtuous cycle of failing and copying,
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 131 | posición 2004-2005 | Añadido el domingo, 28 de junio de 2015 9:39:21
 
 You tackle something hard, stumble up against some insurmountable problem, copy someone else’s solution, and, hey, you now know how to do whatever it was.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 132 | posición 2020-2020 | Añadido el domingo, 28 de junio de 2015 9:39:42
 
-Part 4Marketing… Not Just for Suits
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu nota en la página 132 | posición 2015 | Añadido el domingo, 28 de junio de 2015 9:40:17
+# Part 4 Marketing… Not Just for Suits
 
 sera este el blog de andy hunt?
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 132 | posición 2014-2015 | Añadido el domingo, 28 de junio de 2015 9:40:17
 
 Thanks to Andy Hunt for this idea (http://blog.toolshed.com/2003/07/how_good_a_job_.html).
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 132 | posición 2020-2020 | Añadido el domingo, 28 de junio de 2015 9:40:23
-
-Part 4Marketing… Not Just for Suits
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu marcador en la página 132 | posición 2020 | Añadido el domingo, 28 de junio de 2015 9:40:35
-
-
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 133 | posición 2031-2031 | Añadido el lunes, 29 de junio de 2015 7:45:44
 
 it’s stupid not to let people know what you’re capable of doing.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 134 | posición 2041-2042 | Añadido el lunes, 29 de junio de 2015 7:47:12
 
 You have only two goals: to let people know you exist and to let them know you are the person who can solve the tough problems that keep them up at night.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 134 | posición 2047-2047 | Añadido el lunes, 29 de junio de 2015 7:47:41
 
-Tip 33:   Perceptions, Perschmeptions
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 134 | posición 2049-2049 | Añadido el lunes, 29 de junio de 2015 7:48:02
+## Tip 33:   Perceptions, Perschmeptions
 
 You should care what other people think about you. Perception is reality.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 135 | posición 2064-2065 | Añadido el lunes, 29 de junio de 2015 7:50:56
 
 There is no way to objectively measure the quality of a knowledge worker, and there is no way to objectively measure the quality of their work.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 135 | posición 2066-2067 | Añadido el lunes, 29 de junio de 2015 7:51:23
 
 That means you are always going to be measured based on someone else’s perception of you.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 136 | posición 2077-2078 | Añadido el lunes, 29 de junio de 2015 7:53:51
 
 We’ve culturally trained ourselves to perceive that managing perception is somehow a dirty and shameful activity. But, as you can see, managing perception is just practical.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 136 | posición 2083-2084 | Añadido el lunes, 29 de junio de 2015 7:53:54
 
 Act on It!
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 137 | posición 2087-2087 | Añadido el martes, 30 de junio de 2015 7:47:35
 
 Think about the different classes of relationships you generally have with people in the office.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 137 | posición 2089-2090 | Añadido el martes, 30 de junio de 2015 7:48:02
 
 write down which of your attributes is most likely to drive that group’s perception of you.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 137 | posición 2093-2093 | Añadido el martes, 30 de junio de 2015 7:49:06
 
-Tip 34:   Adventure Tour Guide
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 138 | posición 2102-2103 | Añadido el martes, 30 de junio de 2015 7:51:00
+## Tip 34:   Adventure Tour Guide
 
 They’re going to be looking for someone who can make them comfortable about the project they’re working on.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 138 | posición 2104-2104 | Añadido el martes, 30 de junio de 2015 7:51:08
 
 they are afraid of you.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 138 | posición 2106-2108 | Añadido el martes, 30 de junio de 2015 7:52:11
 
 Your job is to be your customer’s tour guide through the unforgiving terrain of the information technology world. You will make your customers comfortable while guiding them through an unfamiliar place.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 138 | posición 2115-2116 | Añadido el martes, 30 de junio de 2015 7:53:37
 
 My advice is to reverse the relationship.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 139 | posición 2117-2118 | Añadido el martes, 30 de junio de 2015 7:53:43
 
 working in the insurance industry, think of your customer as a subject matter expert in insurance from which you have to learn in order to get your job done.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 139 | posición 2125-2125 | Añadido el martes, 30 de junio de 2015 7:55:04
 
 Check yourself—Are
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 139 | posición 2126-2127 | Añadido el martes, 30 de junio de 2015 7:55:11
 
 find examples of e-mails that you have sent to less-technical co-workers,
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 139 | posición 2129-2129 | Añadido el martes, 30 de junio de 2015 7:55:16
 
 show the e-mails to your mom.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 139 | posición 2130-2130 | Añadido el martes, 30 de junio de 2015 7:55:20
 
 Hop the fence—Find
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 139 | posición 2130-2131 | Añadido el martes, 30 de junio de 2015 7:56:01
 
 Hop the fence—Find an opportunity to be flung into a situation in which you are not the expert and are thus dependent on others who are.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 140 | posición 2133-2133 | Añadido el martes, 30 de junio de 2015 7:56:06
 
-Tip 35:   Me Rite Reel Nice
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu nota en la página 140 | posición 2133 | Añadido el miércoles, 1 de julio de 2015 7:44:47
+## Tip 35:   Me Rite Reel Nice
 
 i write really nice?
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 140 | posición 2138-2138 | Añadido el miércoles, 1 de julio de 2015 7:45:10
 
 grammar and spelling are important.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 140 | posición 2143-2144 | Añadido el miércoles, 1 de julio de 2015 7:45:24
 
 writing skills are both necessary and are in short supply.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 141 | posición 2148-2149 | Añadido el miércoles, 1 de julio de 2015 7:46:14
 
 The ability to write creates both a superficial perception of you and a real insight into how your mind works.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 141 | posición 2155-2156 | Añadido el miércoles, 1 de julio de 2015 7:46:38
 
 Act on It!
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 141 | posición 2156-2157 | Añadido el miércoles, 1 de julio de 2015 7:47:52
 
 development diary. Write a little in it each day, explaining what you’ve been working on, justifying your design decisions, and vetting tough technical or professional decisions.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 142 | posición 2164-2164 | Añadido el miércoles, 1 de julio de 2015 7:48:18
 
-Tip 36:   Being Present
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 143 | posición 2185-2185 | Añadido el miércoles, 1 de julio de 2015 7:51:18
+## Tip 36:   Being Present
 
 Physical proximity is an advantage in the workplace.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 143 | posición 2188-2188 | Añadido el miércoles, 1 de julio de 2015 7:51:57
 
 face-to-face communication is incredibly effective.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 145 | posición 2209-2211 | Añadido el miércoles, 1 de julio de 2015 7:54:57
 
 If you’re locked up in an office, accessible only by phone (if you answer) or e-mail and perhaps even working all hours of the night and sleeping late as a result, there’s no difference between you being onsite with your bosses and your customers and being offshore.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu marcador en la página 145 | posición 2210 | Añadido el miércoles, 1 de julio de 2015 7:55:13
-
-
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 145 | posición 2212-2212 | Añadido el jueves, 2 de julio de 2015 0:39:10
 
 you need to make it personal,
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 145 | posición 2219-2220 | Añadido el jueves, 2 de julio de 2015 0:39:49
 
 Try to actually learn about the people you work with.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 145 | posición 2221-2221 | Añadido el jueves, 2 de julio de 2015 0:39:59
 
 Act on It!
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 146 | posición 2226-2226 | Añadido el jueves, 2 de julio de 2015 0:40:37
 
-Tip 37:   Suit Speak
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 146 | posición 2234-2234 | Añadido el jueves, 2 de julio de 2015 0:41:59
+## Tip 37:   Suit Speak
 
 Businesspeople
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 146 | posición 2234-2235 | Añadido el jueves, 2 de julio de 2015 0:42:19
 
 like it when their applications are fast,
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 146 | posición 2236-2236 | Añadido el jueves, 2 de julio de 2015 0:42:26
 
 But, they don’t care how many requests per second your new custom application server process can handle.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 147 | posición 2239-2240 | Añadido el jueves, 2 de julio de 2015 0:43:37
 
 to sell a product to an audience, you have to speak to that audience in a language they can both understand and relate to.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 147 | posición 2249-2250 | Añadido el jueves, 2 de julio de 2015 0:45:30
 
 would you be able to explain the business benefit of the tasks you are doing or the tasks you had recently done?
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 147 | posición 2251-2251 | Añadido el jueves, 2 de julio de 2015 0:45:36
 
 Act on It!
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 147 | posición 2251-2252 | Añadido el jueves, 2 de julio de 2015 0:45:51
 
 Make a list of your recent accomplishments. Write the business benefit for each.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 147 | posición 2252-2253 | Añadido el jueves, 2 de julio de 2015 0:46:00
 
 ask a manager or trusted acquaintance how they would frame the benefit.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 147 | posición 2253-2253 | Añadido el jueves, 2 de julio de 2015 0:46:05
 
 Make your elevator speech, and memorize it.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 147 | posición 2254-2254 | Añadido el jueves, 2 de julio de 2015 0:46:08
 
-Tip 38:   Change the World
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu marcador en la página 147 | posición 2254 | Añadido el jueves, 2 de julio de 2015 0:46:44
-
-
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 148 | posición 2261-2262 | Añadido el jueves, 2 de julio de 2015 7:08:29
+## Tip 38:   Change the World
 
 if you want to be a software developer in a high-cost country, you need to come to work with a mission.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 148 | posición 2262-2263 | Añadido el jueves, 2 de julio de 2015 7:08:55
 
 You need to effect visible change through your team, organization, or company.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 148 | posición 2266-2267 | Añadido el jueves, 2 de julio de 2015 7:10:01
 
 You can’t stand back and watch the people in your company do things wrong. You know things could be better, and you have to change them.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 149 | posición 2272-2272 | Añadido el jueves, 2 de julio de 2015 7:10:16
 
 Act on It!
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 149 | posición 2273-2274 | Añadido el jueves, 2 de julio de 2015 7:11:29
 
 Think of the most driven and effective people in the places where you’ve worked. What were their missions?
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 149 | posición 2276-2276 | Añadido el jueves, 2 de julio de 2015 7:11:37
 
-Tip 39:   Let Your Voice Be Heard
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 149 | posición 2281-2283 | Añadido el jueves, 2 de julio de 2015 22:47:31
+## Tip 39:   Let Your Voice Be Heard
 
 Set your sights higher. Don’t think of yourself as a programmer at a specific company—after all, it’s not likely that you’ll be at the same place forever—but as a participating member of an industry.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 150 | posición 2289-2290 | Añadido el jueves, 2 de julio de 2015 22:49:25
 
 saw a lot of overlap between the way you have to get your name out in music and in the computer industry.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 150 | posición 2291-2292 | Añadido el jueves, 2 de julio de 2015 22:49:34
 
 The best saxophonist doesn’t always get the gig.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 150 | posición 2292-2292 | Añadido el jueves, 2 de julio de 2015 22:49:42
 
 Who you’ve played with is at least as important as how well you play;
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 150 | posición 2293-2293 | Añadido el jueves, 2 de julio de 2015 22:49:51
 
 the better musicians are overlooked for work because everyone assumes they won’t be available
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 150 | posición 2294-2295 | Añadido el jueves, 2 de julio de 2015 22:50:17
 
 If your social/music network terminates before reaching someone, it’s not likely you’ll ever be asked to perform with that person until an intermediary connection is made.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 150 | posición 2299-2300 | Añadido el jueves, 2 de julio de 2015 22:51:02
 
 What better ways than publishing and public speaking are there for your name to be propagated and your voice to be heard?
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 151 | posición 2308-2308 | Añadido el jueves, 2 de julio de 2015 22:52:10
 
 The weblog is a training ground.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 151 | posición 2309-2309 | Añadido el jueves, 2 de julio de 2015 22:52:14
 
 Practice the craft of writing. Your skill will increase, and your confidence will grow.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 151 | posición 2310-2311 | Añadido el jueves, 2 de julio de 2015 22:52:50
 
 Now that you’re writing in your own forum, you might as well take your writing to community websites, magazines, or even books.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 151 | posición 2312-2314 | Añadido el jueves, 2 de julio de 2015 22:52:58
 
 More writing leads to more writing opportunities. And all of these lead to the opportunity to speak at conferences. Just as we started easily with the
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 152 | posición 2321-2321 | Añadido el jueves, 2 de julio de 2015 22:54:08
 
 Act on It!
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 152 | posición 2329-2330 | Añadido el jueves, 2 de julio de 2015 22:55:07
 
-Tip 40:   Build Your Brand
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 153 | posición 2340-2341 | Añadido el jueves, 2 de julio de 2015 22:56:45
+## Tip 40:   Build Your Brand
 
 What you want is both recognition and respect. Your name is your brand.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 154 | posición 2347-2348 | Añadido el jueves, 2 de julio de 2015 22:58:37
 
 remember that the things you choose to do and associate yourself with have a lasting impact on what your name means to people.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 154 | posición 2351-2351 | Añadido el jueves, 2 de julio de 2015 22:58:42
 
 Act on It!
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 154 | posición 2352-2352 | Añadido el jueves, 2 de julio de 2015 22:59:14
 
 Google yourself—Search
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 154 | posición 2356-2356 | Añadido el jueves, 2 de julio de 2015 22:59:23
 
-Tip 41:   Release Your Code
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 154 | posición 2361-2362 | Añadido el jueves, 2 de julio de 2015 23:00:57
+## Tip 41:   Release Your Code
 
 You don’t have to work for the Big Guys to develop popular, name-brand software anymore. Now there’s another outlet: open source.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 155 | posición 2369-2370 | Añadido el jueves, 2 de julio de 2015 23:01:43
 
 They are building a name for themselves. They are building a reputation in the industry. They may not be doing it on purpose, but they are marketing themselves in the process.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 155 | posición 2375-2375 | Añadido el jueves, 2 de julio de 2015 23:02:17
 
 Open source contributions demonstrate skill.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 156 | posición 2377-2378 | Añadido el jueves, 2 de julio de 2015 23:02:39
 
 Leading an open source project can demonstrate much more than technical ability.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 156 | posición 2377-2380 | Añadido el jueves, 2 de julio de 2015 23:04:27
 
 Leading an open source project can demonstrate much more than technical ability. It takes skills in leadership, release management, documentation, and product and community support to foster a community around your efforts. And, if you do these things successfully—in your spare time as a hobby—you’ll be amazingly different from most of the other people competing for the same
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 156 | posición 2388-2388 | Añadido el jueves, 2 de julio de 2015 23:04:33
 
 Act on It!
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 156 | posición 2390-2392 | Añadido el jueves, 2 de julio de 2015 23:05:32
 
 Take a piece of open source software with unit tests. Run the unit tests through a code coverage analyzer. Find the least-tested part of the system and write tests to improve the coverage of that code.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 157 | posición 2394-2394 | Añadido el jueves, 2 de julio de 2015 23:05:36
 
-Tip 42:   Remarkability
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu marcador en la página 156 | posición 2386 | Añadido el jueves, 2 de julio de 2015 23:05:43
-
-
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 157 | posición 2394-2396 | Añadido el viernes, 3 de julio de 2015 7:39:41
+## Tip 42:   Remarkability
 
 Traditional marketing curricula refer to the four p’s of marketing: product, price, promotion, and placement. The idea is that if you cover all four of these categories, you’ll have
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 157 | posición 2396-2397 | Añadido el viernes, 3 de julio de 2015 7:40:45
 
 what is the goal of marketing? Its purpose is to create a connection between producers and consumers of a product or service.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 157 | posición 2400-2400 | Añadido el viernes, 3 de julio de 2015 7:41:00
 
 Viral marketing happens when an idea is remarkable enough that consumers spread it from one person to the next.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 158 | posición 2410-2410 | Añadido el viernes, 3 de julio de 2015 7:41:49
 
 Remarkable definitely doesn’t mean the same thing as good.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 158 | posición 2411-2411 | Añadido el viernes, 3 de julio de 2015 7:41:56
 
 To be remarkable means that something is worthy of attention.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 158 | posición 2413-2414 | Añadido el viernes, 3 de julio de 2015 7:42:20
 
 remarkability means that people talk about you before they are asked.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 158 | posición 2411-2412 | Añadido el viernes, 3 de julio de 2015 7:42:49
 
 You will not become a remarkable software developer by simply being better than all
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 158 | posición 2413-2414 | Añadido el viernes, 3 de julio de 2015 7:42:52
 
 remarkability means that people talk about you before they are asked.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 159 | posición 2426-2426 | Añadido el viernes, 3 de julio de 2015 7:44:33
 
 Act on It!
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 159 | posición 2427-2427 | Añadido el viernes, 3 de julio de 2015 7:45:10
 
 Start small, but try to do something remarkable on your current project or job.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 159 | posición 2430-2430 | Añadido el viernes, 3 de julio de 2015 7:45:18
 
 See whether people “remark.” If not, why not? If so, in what ways?
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 159 | posición 2431-2431 | Añadido el viernes, 3 de julio de 2015 7:45:22
 
-Tip 43:   Making the Hang
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 161 | posición 2459-2461 | Añadido el viernes, 3 de julio de 2015 7:50:40
+## Tip 43:   Making the Hang
 
 the really good people won’t mind if you want to know them. People like to be appreciated, and they like to talk about the topics they are passionate about. The fact that they are the professional or the guru or the leader or the renowned author doesn’t change that they’re human and like to interact with other humans.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 161 | posición 2462-2462 | Añadido el viernes, 3 de julio de 2015 7:50:53
 
 the most serious barrier between us mortals and the people we admire is our own fear.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 161 | posición 2466-2467 | Añadido el viernes, 3 de julio de 2015 7:52:43
 
 you don’t want to just randomly start babbling at these people. You’ll obviously want to seek out the ones with which you have something in common.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 161 | posición 2469-2469 | Añadido el viernes, 3 de julio de 2015 7:52:57
 
 you can make the hang online as well as in person.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 162 | posición 2471-2472 | Añadido el viernes, 3 de julio de 2015 7:53:16
 
 software developers have the advantage of being able to easily reach each other no matter where we may be.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 162 | posición 2476-2476 | Añadido el viernes, 3 de julio de 2015 7:53:48
 
 Act on It!
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 162 | posición 2477-2477 | Añadido el viernes, 3 de julio de 2015 7:54:02
 
 Pick one of your favorite pieces of software and e-mail its creator.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 162 | posición 2480-2481 | Añadido el viernes, 3 de julio de 2015 7:54:31
 
 Look for a situation where you can see the person (a users’ group meeting or speech are good possibilities), and go out of your way to start a conversation,
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 162 | posición 2482-2482 | Añadido el viernes, 3 de julio de 2015 7:54:35
 
 Can't We Just....
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu marcador en la página 162 | posición 2481 | Añadido el viernes, 3 de julio de 2015 7:54:42
-
-
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 164 | posición 2505-2507 | Añadido el viernes, 3 de julio de 2015 22:40:19
 
 “Can’t we just....” The operative word in the phrase is actually we. This word implies that the business is reaching out to IT as a critical part of their team.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 165 | posición 2519-2520 | Añadido el viernes, 3 de julio de 2015 22:41:11
 
-Part 5Maintaining Your Edge
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 165 | posición 2528-2529 | Añadido el viernes, 3 de julio de 2015 22:45:53
+# Part 5 Maintaining Your Edge
 
 The process in this book is a loop that repeats until you retire. Research, invest, execute, market, repeat. Spending too much time inside any iteration of the loop puts you at risk of becoming suddenly obsolete.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 166 | posición 2533-2533 | Añadido el viernes, 3 de julio de 2015 22:46:22
 
-Tip 44:   Already Obsolete
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu nota en la página 167 | posición 2552 | Añadido el viernes, 3 de julio de 2015 22:53:36
+## Tip 44:   Already Obsolete
 
 cuanto ma popuar es un tecnologia. mas peligro cores de convertirte en un javasaurio. pero tampoo hay que darse prisa. lo popular da trabajo 
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 167 | posición 2551-2552 | Añadido el viernes, 3 de julio de 2015 22:53:36
 
 I will say that the more mainstream your knowledge, the greater risk you have of being left in the technology stone age.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 167 | posición 2558-2560 | Añadido el viernes, 3 de julio de 2015 22:54:48
 
 You have to start by realizing that even if you’re on the bleeding edge of today’s wave, you’re already probably behind on the next one. Timing being everything, start thinking ahead with your study.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 168 | posición 2566-2566 | Añadido el viernes, 3 de julio de 2015 22:55:33
 
 Act on It!
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 168 | posición 2567-2568 | Añadido el viernes, 3 de julio de 2015 22:55:53
 
 Carve out weekly time to investigate the bleeding edge. Make room for at least two hours each week in order to research new technologies and to start to develop skills in them.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 168 | posición 2570-2571 | Añadido el viernes, 3 de julio de 2015 22:56:09
 
-Tip 45:   You’ve Already Lost Your Job
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 168 | posición 2575-2576 | Añadido el viernes, 3 de julio de 2015 22:57:11
+## Tip 45:   You’ve Already Lost Your Job
 
 if you were hired to be a programmer, don’t think of yourself as a programmer. Think of yourself as maybe not a programmer anymore. Keep doing your job, but don’t get too comfortable.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 169 | posición 2586-2586 | Añadido el viernes, 3 de julio de 2015 22:59:24
 
 Act on It!
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 169 | posición 2587-2588 | Añadido el viernes, 3 de julio de 2015 22:59:49
 
 you’re a programmer, try a day or two of doing your job as if you were a tester or a project manager.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 169 | posición 2590-2590 | Añadido el viernes, 3 de julio de 2015 22:59:55
 
-Tip 46:   Path with No Destination
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 169 | posición 2590-2591 | Añadido el viernes, 3 de julio de 2015 23:02:16
+## Tip 46:   Path with No Destination
 
 One of America’s biggest problems is that it is a goal-oriented society.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 170 | posición 2594-2594 | Añadido el viernes, 3 de julio de 2015 23:02:27
 
 You typically spend all your time doing things and little of your time actually reaching goals.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 170 | posición 2596-2597 | Añadido el viernes, 3 de julio de 2015 23:02:42
 
 The real meat of your career is not the promotions and salary advances. It’s the time you spend working toward those advances.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 170 | posición 2599-2600 | Añadido el viernes, 3 de julio de 2015 23:03:15
 
 What most of us fail to realize is that the path is the end.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 170 | posición 2603-2604 | Añadido el viernes, 3 de julio de 2015 23:04:25
 
 Focusing on the ending makes you forget to make the process good. And, bad processes create bad products.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 171 | posición 2609-2609 | Añadido el viernes, 3 de julio de 2015 23:05:11
 
 Act on It!
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 171 | posición 2613-2613 | Añadido el viernes, 3 de julio de 2015 23:06:05
 
 time tracking and expense reporting,
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 171 | posición 2613-2615 | Añadido el viernes, 3 de julio de 2015 23:06:11
 
 average day, such as time tracking and expense reporting, for example. The next time you have to do a task like this, see whether you can find a way to focus on the task as you do it instead of anxiously rushing to finish it.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 171 | posición 2613-2613 | Añadido el viernes, 3 de julio de 2015 23:06:45
 
 time tracking and expense reporting,
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 171 | posición 2614-2615 | Añadido el viernes, 3 de julio de 2015 23:06:50
 
 The next time you have to do a task like this, see whether you can find a way to focus on the task as you do it instead of anxiously rushing to finish it.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 171 | posición 2615-2615 | Añadido el viernes, 3 de julio de 2015 23:06:54
 
-Tip 47:   Make Yourself a Map
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu marcador en la página 171 | posición 2609 | Añadido el viernes, 3 de julio de 2015 23:06:58
-
-
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 171 | posición 2620-2621 | Añadido el domingo, 5 de julio de 2015 11:24:48
+## Tip 47:   Make Yourself a Map
 
 Unless you’re looking to exit the industry, you need a road map.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 172 | posición 2623-2623 | Añadido el domingo, 5 de julio de 2015 11:26:41
 
 Your personal product road map is what you use to tell whether you’ve moved.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 172 | posición 2628-2628 | Añadido el domingo, 5 de julio de 2015 11:26:59
 
 each choice should be part of a greater whole.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 172 | posición 2631-2632 | Añadido el domingo, 5 de julio de 2015 11:27:14
 
 this an address book or a chat application? Is it a game or a web browser? A personal product road map not only can help you stay on track, constantly evolving, but it can also show you the bigger picture of what you have to offer.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 172 | posición 2632-2633 | Añadido el domingo, 5 de julio de 2015 11:27:23
 
 Each new investment is part of a larger whole.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 172 | posición 2637-2637 | Añadido el domingo, 5 de julio de 2015 11:27:31
 
 Act on It!
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 173 | posición 2638-2638 | Añadido el domingo, 5 de julio de 2015 11:28:17
 
 map out where you’ve been.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 173 | posición 2639-2639 | Añadido el domingo, 5 de julio de 2015 11:28:33
 
 Show where you started and what your skills and jobs were at each step.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 173 | posición 2641-2643 | Añadido el domingo, 5 de julio de 2015 11:28:44
 
 Once you’ve created this historical map, keep it updated. It’s a great way to reflect on your progress as you move toward your newly defined goals.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 173 | posición 2643-2643 | Añadido el domingo, 5 de julio de 2015 11:28:48
 
-Tip 48:   Watch the Market
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 173 | posición 2649-2650 | Añadido el domingo, 5 de julio de 2015 11:31:01
+## Tip 48:   Watch the Market
 
 As the conditions of the market change, not paying attention could result in money lost or money that could have been earned missed.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 173 | posición 2650-2651 | Añadido el domingo, 5 de julio de 2015 11:31:11
 
 The same holds true for your knowledge investments.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 174 | posición 2660-2661 | Añadido el domingo, 5 de julio de 2015 11:32:25
 
 Watch the technology news, both the business side and the purely technical side,
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 174 | posición 2662-2663 | Añadido el domingo, 5 de julio de 2015 11:32:36
 
 watch the alpha geeks. Alpha geeks are those super-nerds who are always on the bloodiest tip of the bleeding edge,
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 174 | posición 2667-2667 | Añadido el domingo, 5 de julio de 2015 11:32:58
 
 Act on It!
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 174 | posición 2668-2668 | Añadido el domingo, 5 de julio de 2015 11:33:07
 
 Spend the next year trying to become one of the alpha geeks. Or at least make the hang with one.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 175 | posición 2669-2669 | Añadido el domingo, 5 de julio de 2015 11:33:13
 
-Tip 49:   That Fat Man in the Mirror
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 175 | posición 2676-2677 | Añadido el domingo, 5 de julio de 2015 11:34:47
+## Tip 49:   That Fat Man in the Mirror
 
 If you’re constantly exposed to something, it’s hard to see it changing unless change happens rapidly.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 175 | posición 2678-2680 | Añadido el domingo, 5 de julio de 2015 11:35:10
 
 You’ll notice the same phenomenon with your career. Actually, you won’t notice it. That’s the problem. You might look at yourself in the metaphorical mirror each day and not see an ounce of change.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 175 | posición 2681-2681 | Añadido el domingo, 5 de julio de 2015 11:35:25
 
 Then, suddenly, one day your job (or your industry) doesn’t fit you anymore.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 176 | posición 2686-2686 | Añadido el domingo, 5 de julio de 2015 11:36:02
 
 An easy way to measure your progress is to use a trusted third party.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 176 | posición 2686-2687 | Añadido el domingo, 5 de julio de 2015 11:38:24
 
 A mentor or a close colleague doesn’t live in your head with you and can help give you a more objective look at where you stand.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 176 | posición 2691-2691 | Añadido el domingo, 5 de julio de 2015 11:39:00
 
 The most important thing to ferret out as you go through a process like this (either alone or with help) is where your blind spots are.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 177 | posición 2703-2703 | Añadido el domingo, 5 de julio de 2015 11:39:19
 
 Act on It!
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 177 | posición 2703-2703 | Añadido el domingo, 5 de julio de 2015 11:41:49
 
 Do a 360 review:
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 177 | posición 2704-2704 | Añadido el domingo, 5 de julio de 2015 11:41:53
 
 Make a list of trusted people who you feel comfortable asking for feedback.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 177 | posición 2705-2706 | Añadido el domingo, 5 de julio de 2015 11:42:00
 
 Make another list of about ten characteristics you believe are important measurements of you as a professional.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 177 | posición 2706-2706 | Añadido el domingo, 5 de julio de 2015 11:42:05
 
 Convert this list to a questionnaire.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 177 | posición 2708-2709 | Añadido el domingo, 5 de julio de 2015 11:42:22
 
 What you need is honest feedback—not
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 177 | posición 2711-2712 | Añadido el domingo, 5 de julio de 2015 11:43:18
 
 Share the outcome of your questionnaire with your reviewers—not the answers but the resultant changes you plan to make.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 177 | posición 2712-2712 | Añadido el domingo, 5 de julio de 2015 11:44:03
 
 Start keeping a journal.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 177 | posición 2713-2714 | Añadido el domingo, 5 de julio de 2015 11:44:17
 
 Write about what you’re working
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 178 | posición 2715-2716 | Añadido el domingo, 5 de julio de 2015 11:45:07
 
-Tip 50:   The South Indian Monkey Trap
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu nota en la página 179 | posición 2731 | Añadido el domingo, 5 de julio de 2015 11:55:02
+## Tip 50:   The South Indian Monkey Trap
 
 como los monos valoran la comida asra el punto de morir por un puñao
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 179 | posición 2730-2731 | Añadido el domingo, 5 de julio de 2015 11:55:02
 
 Value rigidity is what happens when you believe in the value of something so strongly that you can no longer objectively question it.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 179 | posición 2737-2738 | Añadido el domingo, 5 de julio de 2015 11:56:30
 
 But not all rigidly held values are good ones. Also, many times something that is good in one set of circumstances is not good in another.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 179 | posición 2739-2739 | Añadido el domingo, 5 de julio de 2015 11:56:42
 
 it’s easy to get hung up on technology choices.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 179 | posición 2739-2740 | Añadido el domingo, 5 de julio de 2015 11:57:14
 
 We love the technology so much and place such a high value on defending it
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 180 | posición 2757-2757 | Añadido el domingo, 5 de julio de 2015 11:59:15
 
 Act on It!
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 180 | posición 2757-2758 | Añadido el domingo, 5 de julio de 2015 11:59:50
 
 Find your monkey traps—What are your rigid assumptions?
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 180 | posición 2759-2759 | Añadido el domingo, 5 de julio de 2015 11:59:56
 
 Make a table with two columns, “Career” and “Technology.”
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 180 | posición 2759-2760 | Añadido el domingo, 5 de julio de 2015 12:00:10
 
 Under each heading list the values that you hold unfalteringly true.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 181 | posición 2765-2765 | Añadido el domingo, 5 de julio de 2015 12:00:46
 
 go one at a time through the list and mentally reverse each statement.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 181 | posición 2766-2767 | Añadido el domingo, 5 de julio de 2015 12:01:28
 
 Know your enemy—Pick the technology you hate most, and do a project in
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 181 | posición 2772-2773 | Añadido el domingo, 5 de julio de 2015 12:01:34
 
-Tip 51:   Avoid Waterfall Career Planning
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu marcador en la página 181 | posición 2773 | Añadido el domingo, 5 de julio de 2015 12:01:47
-
-
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 182 | posición 2791-2792 | Añadido el domingo, 5 de julio de 2015 13:05:30
+## Tip 51:   Avoid Waterfall Career Planning
 
 Early in my own conversion to agile methodologies (specifically Extreme Programming), I started to see everything through the lens of agile development.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 183 | posición 2795-2796 | Añadido el domingo, 5 de julio de 2015 13:06:38
 
 I had designed my career up front like a software waterfall project.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 183 | posición 2800-2801 | Añadido el domingo, 5 de julio de 2015 13:08:14
 
 What I was doing to myself was the same thing heavy processes did to their customers. I was doing an excellent job at delivering a career to myself that I didn’t want.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 183 | posición 2801-2802 | Añadido el domingo, 5 de julio de 2015 13:08:19
 
 It was unintuitive to me at first, but the solution to such a problem is to simply change your career.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 184 | posición 2810-2811 | Añadido el domingo, 5 de julio de 2015 13:08:51
 
 The important thing to realize is that change is not only possible in your career but necessary.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 184 | posición 2812-2813 | Añadido el domingo, 5 de julio de 2015 13:09:05
 
 Set big goals, but make constant corrections along the way. Learn from the experience, and change the goals as you go.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 184 | posición 2814-2815 | Añadido el domingo, 5 de julio de 2015 13:09:10
 
-Tip 52:   Better Than Yesterday
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu marcador en la página 184 | posición 2815 | Añadido el domingo, 5 de julio de 2015 13:09:21
-
-
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 184 | posición 2817-2818 | Añadido el lunes, 6 de julio de 2015 20:30:06
+## Tip 52:   Better Than Yesterday
 
 Most important challenges in life manifest themselves as large, insurmountable amorphous blobs of potential failure.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 185 | posición 2822-2823 | Añadido el lunes, 6 de julio de 2015 20:30:14
 
 Because of this complexity, we easily become demotivated by the bigger issues and turn our attention instead to things that are easier to measure and easier to quickly fix.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu nota en la página 185 | posición 2831 | Añadido el lunes, 6 de julio de 2015 20:33:29
 
 es como cuando haces diea. por muy esrricto que seas. no vas a ver resultados inmediatamente 
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 185 | posición 2830-2831 | Añadido el lunes, 6 de julio de 2015 20:33:29
 
 But even when I’m getting with the program in a serious way, it’s hard to see the results.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 185 | posición 2837-2837 | Añadido el lunes, 6 de julio de 2015 20:33:43
 
 The secret is to focus on making whatever it is you’re trying to improve better today than it was yesterday.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 186 | posición 2850-2851 | Añadido el lunes, 6 de julio de 2015 20:36:31
 
 You might not be able to see a noticeable difference in the whole with each incremental change, though.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 187 | posición 2853-2855 | Añadido el lunes, 6 de julio de 2015 20:36:57
 
 for most of the big, difficult goals you’re striving for, it’s important to think not about getting closer each day to the goal as it is to think about doing better in your efforts toward that goal than yesterday.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 187 | posición 2862-2863 | Añadido el lunes, 6 de julio de 2015 20:38:22
 
 So, make your improvements small and incremental but daily. Small improvements also decrease the cost of failure.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 188 | posición 2869-2869 | Añadido el lunes, 6 de julio de 2015 20:38:26
 
 Act on It!
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 188 | posición 2869-2870 | Añadido el lunes, 6 de julio de 2015 20:38:54
 
 Make a list of the difficult or complex improvements you’d like to make;
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 188 | posición 2870-2871 | Añadido el lunes, 6 de julio de 2015 20:39:05
 
 for each item in the list, think about what you could do today to make yourself or that item better than yesterday.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 188 | posición 2873-2873 | Añadido el lunes, 6 de julio de 2015 20:39:10
 
-Tip 53:   Go Independent
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 188 | posición 2875-2875 | Añadido el lunes, 6 de julio de 2015 20:40:37
+## Tip 53:   Go Independent
 
 in a big company a smart person could get by with hardly getting anything done.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 188 | posición 2881-2882 | Añadido el lunes, 6 de julio de 2015 20:40:54
 
 If you can hide behind the shield of mediocrity that most corporate divisions wield, there’s not much incentive to excel.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 189 | posición 2884-2885 | Añadido el lunes, 6 de julio de 2015 20:41:37
 
 But if you’re striving to be remarkable (which you are!), a big company is a hard place to find the right groove
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 189 | posición 2885-2886 | Añadido el lunes, 6 de julio de 2015 20:41:54
 
 Go independent!
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 189 | posición 2894-2895 | Añadido el lunes, 6 de julio de 2015 20:44:46
 
 Going independent is hard. It puts all your skills as a professional to the test. You might not be ready for it yet.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 189 | posición 2895-2896 | Añadido el lunes, 6 de julio de 2015 20:45:06
 
 Consider it a personal development project, and put yourself in the market in your spare time.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 189 | posición 2897-2897 | Añadido el lunes, 6 de julio de 2015 20:45:16
 
 Work on it at night or on the weekends
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 190 | posición 2903-2903 | Añadido el lunes, 6 de julio de 2015 20:45:24
 
 Curiosity Is a Strength
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 190 | posición 2906-2907 | Añadido el lunes, 6 de julio de 2015 20:47:45
 
 believe curiosity can be a strength.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 191 | posición 2917-2917 | Añadido el lunes, 6 de julio de 2015 20:47:52
 
 Whenever I get comfortable, I know it’s time to try something new.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 192 | posición 2944-2944 | Añadido el lunes, 6 de julio de 2015 20:51:38
 
 decide what you do for a living is a great privilege which very few people enjoy.
-==========
-The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) (Fowler, Chad)
-- Tu subrayado en la página 193 | posición 2948-2950 | Añadido el lunes, 6 de julio de 2015 20:52:14
 
 Software development is both challenging and rewarding. It’s creative like an art-form, but (unlike art) it provides concrete, measurable value.
-==========
