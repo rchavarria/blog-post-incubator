@@ -4,6 +4,7 @@
 52. AngularJS tests memory consumption
 56. Notes on the talk: Therapeutical refactoring, by Katrina Owen
 <>. Add notes on the talk to the Vim post: Mastering the Vim language, by Chris Toomey
+58. Gather bash/shell commands to do very different tasks. How to move in the command line, git commands, `find`, `grep`,...
 
 # Possible posts for the blog
 
