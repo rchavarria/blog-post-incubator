@@ -36,9 +36,27 @@ fuera un catálogo de patrones disponibles, con sus descripciones, situaciones
 donde es recomendable usarlos y también, por qué no, ejemplos de proyectos
 reales.
 
-## Qué encontre
+## Qué encontré
+
+Por supuesto, encontré muchos patrones, pero eso no es lo más llamativo.
+
+El autor comenta varios aspectos del lenguaje que son cuanto menos, curiosos. No
+sé si llegan al nivel de [JavaScript, the good parts], pero deben de andar 
+cerca. 
+
+Además, alguno de los patrones difieren de la idea que yo tenía, son muy
+distintos a patrones con el mismo nombre, pero en otros lenguajes de
+programación.
 
 ## Conclusiones
+
+Junto con [JavaScript, the good parts], considero que éste es un libro imprescindible
+para cualquier desarrollador que quiera dominar el lenguaje.
+
+Explica en profundidad algunos de los patrones más usados en todo tipo de
+proyectos. Quizá, con el nuevo estándard recién aprobado, algunos de ellos
+(como la *herencia por prototipos*) queden algo obsoletos, creo que es
+un libro imprescindible para entender el lenguaje.
 
 ## Qué he aprendido
 
@@ -49,6 +67,7 @@ reales.
 [titulo sobre el enlace a las notas]: foo-bar-foo-bar
 [Learning JavaScript design patterns]: /blog/2015/05/29/learning-javascript-design-patterns/
 [Design patterns]: http://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented-ebook/dp/B000SEIBB8
+[JavaScript, the good parts]: http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742
 
 # Notas tomadas
 
