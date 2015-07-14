@@ -7,6 +7,7 @@ comments: true
 categories: 
 - personal
 - book reviews
+- javascript
 published: true
 footer: false
 sidebar: true
@@ -14,13 +15,26 @@ sidebar: true
 
 ##### de Stoyan Stefanov
 
-{% img left http://s1.hubimg.com/u/11789820_f260.jpg 260 392 Stop stealing dreams %}
+{% img left http://akamaicovers.oreilly.com/images/9780596806767/lrg.jpg %}
 
 ## Por qué lo he leído
+
+Cuando leí [Learning JavaScript design patterns], de Addy Osmany, me quedé con
+ganas de más, me equivoqué de libro. El que realmente quería leerme para
+aprender sobre patrones en JavaScript era éste. Pero me dejé llevar por la
+*fama* de Addy.
+
+El objetivo de leer estos dos libros era el de profundizar en el uso de patrones
+en JavaScript, poder trasladar conocimientos adquiridos en Java, a JavaScript.
 
 <!-- more -->
 
 ## Qué esperaba
+
+Esperaba que fuera un libro muy parecido al mítico [Design patterns], como si
+fuera un catálogo de patrones disponibles, con sus descripciones, situaciones
+donde es recomendable usarlos y también, por qué no, ejemplos de proyectos
+reales.
 
 ## Qué encontre
 
@@ -33,21 +47,22 @@ sidebar: true
 ## Recursos relacionados
 
 [titulo sobre el enlace a las notas]: foo-bar-foo-bar
+[Learning JavaScript design patterns]: /blog/2015/05/29/learning-javascript-design-patterns/
+[Design patterns]: http://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented-ebook/dp/B000SEIBB8
 
 # Notas tomadas
 
 ## Essentials
 
-### writing maintainable code
+### Writing maintainable code
 
-maintainable code means code that is readable, consistent, predictable, looks as if it was written by the same person and it's docuemtned
+Maintainable code means code that is readable, consistent, predictable, looks as if it was written by the same person and it is documented
 
-### minimizing globals
+### Minimizing globals
 
-#### problem with globals
+#### Problem with globals
 
-they're shared among all the code, there is always a chance of naming collisisions (same name, different purposes)
-the most important pattern for having fewer globals is to always use `var` to declare variables, para que no se declaren por defecto como globales
+They are shared among all the code, there is always a chance of naming collisisions (same name, different purposes) the most important pattern for having fewer globals is to always use `var` to declare variables, otherwise, they will be declared as globals
 
 #### single `var` pattern
 
@@ -88,7 +103,7 @@ Añadir métodos a `Object`, `Array` o `Function` daña la mantenibilidad, porqu
 - `eval()` is evil
 - there is often a better way to achieve the goal without `eval()`, for example, using square bracket notation to access properties
 - it is also impotant to remember that passing strings to `setInterval()`, `setTimeout()` and the `Function` constructor is similar to using `eval()`.
-- if you absolutely must use `eval()``, you can consider using `new Function()` instead. The code evaluated will be running in a local funciton scope, lo que significa que no va a inerferir con el objeto global y tampoco va a tener acceso a vbles locales
+- if you absolutely must use `eval()`, you can consider using `new Function()` instead. The code evaluated will be running in a local funciton scope, lo que significa que no va a inerferir con el objeto global y tampoco va a tener acceso a vbles locales
 
 ### Number conversions with `parseInt()`
 
@@ -119,7 +134,6 @@ function func() {
 
 - significa escoger nombres para variables, métodos, clases,.. de una forma consistente
 - tener una convención y seguirla de forma consistente es mucho más importante que la convención en sí misma
-
 - Capitalizing constructors
 - separating words: [camel case](https://en.wikipedia.org/wiki/CamelCase)
 
@@ -151,7 +165,7 @@ function func() {
 
 - Hay otras herramientas a parte de [JSLint](http://jslint.com): [JSHint](http://jshint.com), [ESLint](http://eslint.org),...
 
-## Literals and Constructurs
+## Literals and Constructors
 
 ### Object literal
 
@@ -159,7 +173,7 @@ function func() {
 
 #### `Object()` constructor catch
 
-- existe una funcionalidad en el constructor `Object()` que admite un parámetro, y dependiendo de ese parámetro, `Object` delega la cración del objeto a otro constructor:
+- existe una funcionalidad en el constructor `Object()` que admite un parámetro, y dependiendo de ese parámetro, `Object` delega la creación del objeto a otro constructor:
 
 ```
 // Warning: antipatterns ahead
@@ -313,7 +327,7 @@ var setup = function () {
 ```
 
 - an immediate function can return any type of value, including another function, and its scope can be used to store some private data
-- también puede usarse para asignar valores a propiedades de objetos que requeisran varias operaciones
+- también puede usarse para asignar valores a propiedades de objetos que requieran varias operaciones
 
 ```
 var o = {
@@ -341,11 +355,11 @@ alert(o.message); // call me
 
 ### Init-time branching
 
-- when you know that a certain condition will not change throughout the life of the program, it makes sense to test the condition only once. browser snifffin (or feature detection) is a typical example, figuring out the computed styles of a DOM elementnt or attaching event handlers are other
+- when you know that a certain condition will not change throughout the life of the program, it makes sense to test the condition only once. browser snifffing (or feature detection) is a typical example, figuring out the computed styles of a DOM elementnt or attaching event handlers are other
 
 ### Function properties - a memoization pattern
 
-- one use case for suctom properties is to cache the results (the return value) so the next time the funciton is called, it does not ahve to redo petentially heavy computations. this is called **memoization**
+- one use case for custom properties is to cache the results (the return value) so the next time the funciton is called, it does not ahve to redo petentially heavy computations. this is called **memoization**
 
 ```
 var myFunc = function (param) {
@@ -443,15 +457,14 @@ var myobj = (function () {
 
 ## Sandbox pattern
 
-- it addresses teh drawbacks of the namespacing pattern:
+- it addresses the drawbacks of the namespacing pattern:
 
-    1. reliance on a single global varialbe
+    1. reliance on a single global variable
     2. long, dotted names
 
 ### A global constructor
 
 - in the sandbox pattern the single global is a constructor, you create object using that constructor, and you also pass a callback function, which becmoes the isolated sandboxed environment for your code.
-
 
 ```
 Sandbox(['ajax', 'event'], function (box) {
@@ -484,7 +497,6 @@ Gadget.isShiny(); // "you bet"
 #### Private static members
 
 - el truco aquí está en devolver una nueva función en nuestra implementación de una función constructora
-
 
 ```
 // constructor
@@ -635,7 +647,6 @@ notmyobj.doStuff.apply(myobj, [param1, p2, p3]);
 
 - hay veces que se utilizan funciones, pero desacopladas de un objeto (bueno, acopladas al objeto global). esto suele pasar mucho cuando usamos callbacks
 
-
 ```
 var one = {
     name: "object",
@@ -656,7 +667,7 @@ var yetanother = {
         return callback('Hola');
     }
 };
-yetanother.method(one.say); // "Holla, undefined"
+yetanother.method(one.say); // "Hola, undefined"
 ```
 
 - ECMAScript 5 adds a method `bind()` to `Function.prototype`, making it easy to use as `apply()` and `call()`:
@@ -713,7 +724,7 @@ function Universe() {
 
 ### Factory
 
-- the purpose of the factory is to crate objects that:
+- the purpose of the factory is to create objects that:
 
     1. performs repeating operations when setting up similar objects
     2. create objects without knowing the specific type at compile time
@@ -761,7 +772,7 @@ CarMaker.SUV = function () {
 
 - in the iterator pattern, you have an object containing some sort of aggragete data
 - your object needs to provide a `next()` method
-- the aggregate object usually also provides a convenience `hasNext()` meothod
+- the aggregate object usually also provides a convenience `hasNext()` method
 - Echar un vistazo a [Iterables and iterators in ECMAScript 6](http://www.2ality.com/2015/02/es6-iteration.html)
 
 ### Decorator
@@ -931,7 +942,6 @@ document.body.appendChild(frag);
 #### Event delegation
 
 - si tengo un div con 3 botones, en lugar de añadir listener a cada botón, añado listener al div y recojo el botón clickeado con el elemento `target` que venga en el evento lanzado
-
 
 ```
 // ...
