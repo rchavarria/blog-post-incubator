@@ -1,4 +1,6 @@
-# [JavaScript patterns](http://www.amazon.co.uk/JavaScript-Patterns-Stoyan-Stefanov/dp/0596806752), de Stoyan Stefanov
+# JavaScript patterns, de Stoyan Stefanov
+
+[![JavaScript patterns](http://ecx.images-amazon.com/images/I/51ACzMjH6rL._SX379_BO1,204,203,200_.jpg)](http://www.amazon.co.uk/JavaScript-Patterns-Stoyan-Stefanov/dp/0596806752)
 
 ## Essentials
 
