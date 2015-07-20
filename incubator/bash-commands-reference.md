@@ -47,3 +47,9 @@ $ git push origin --delete <feature-branch>
 $ git remote prune <remote-name>
 ```
 
+Borrar una rama en local:
+
+```bash
+$ git branch -d <local-branch>
+```
+
