@@ -1,6 +1,5 @@
 # Most immediate ideas for blog posts
 
-20. Book review: JS design patterns, by Stoyan Stefanov
 52. AngularJS tests memory consumption
 <>. Add notes on the talk to the Vim post: Mastering the Vim language, by Chris Toomey
 58. Gather bash/shell commands to do very different tasks. How to move in the command line, git commands, `find`, `grep`,...
@@ -74,4 +73,5 @@ c. Observer applied to Angular
 30. How to write ES6 tests with Mocha
 47.X Screencast about solving Project Euler problems
 56. Notes on the talk: Therapeutical refactoring, by Katrina Owen
+20. Book review: JS design patterns, by Stoyan Stefanov
 
