@@ -1,7 +1,17 @@
-- hoy en día, no concibo desarrollar una aplicación sin tests automáticos
-- y si la aplicación está escrita en JS menos todavía
-- AngularJS es un framework que pone las cosas fáciles para comenzar a escribirlos. la propia aplicación de ejemplo ya viene preparada para escribir tests con jasmine y ejecutarlos con karma en tu navegador
-- si el proyecto es muy grande, llegará unpunto en el que haya cientos de tests automáticos, quizá miles, por lo que ejecutar todos los tests en el navegador se puede considerar como la ejecución de una gran aplicación. y habra que tener en cuenta aspectos de rendimiento, consumo de memoria (y liberación de la misma), posibles *memory leaks*,...
+Hoy en día no concibo desarrollar una aplicación sin una batería de tests
+automáticos (unitarios, de integración, end-to-end, del tipo que sean). 
+Da igual el tamaño del proyecto. Pero además, si se trata de una aplicación
+JavaScript, tener tests es una obligación.
+
+[AngularJS] es un framework que pone las cosas fáciles para comenzar a escribir
+tests. Incluso la propia aplicación de ejemplo ya viene preparada para
+escribir tests con [Jasmine] y ejecutarlos con [Karma] en tu navegador.
+
+Si el proyecto es muy grande, llegará un punto en el que haya cientos de tests
+automáticos, quizá miles, por lo que ejecutar todos los tests en el navegador
+se puede considerar como la ejecución de una gran aplicación. Por lo tanto
+habrá que tener en cuenta aspectos de rendimiento, consumo de memoria (y
+liberación de la misma), posibles *memory leaks*,...
 
 <!-- more -->
 
