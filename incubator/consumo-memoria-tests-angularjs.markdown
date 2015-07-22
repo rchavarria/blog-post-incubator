@@ -15,18 +15,32 @@ liberación de la misma), posibles *memory leaks*,...
 
 <!-- more -->
 
-- eso justo es lo que ha pasado en mi equipo en nuestro proyecto
-- el proyecto ya está en un estado avanzado de desarrollo, y comenzamos a tneer un número considerable de tests automáticos en el front end
-- utilizamos PhantomJS para ejecutar los tests en el servidor CI
-- y debido a algunos problemillas que tiene PhatomJS con la gestión de memoria, hemos sobrepasado su límite
-- con lo que hemos empezado a plantearnos que quizá son nuestros tests quien tienen al´gun problema con la memoria
-- así que tenemos que probar varias ideas para solucionarlo
+Eso justo es lo que está pasando en mi equipo. Nuestro proyecto está en un
+estado avanzado de desarrollo, y comenzamos a tener un número considerable de
+tests automáticos en la parte cliente. Para ejecutar los tests en el servidor
+de integración contínua utilizamos [PhantomJS]. Pero parece ser que PhantomJS
+tiene algunos problemillascon la gestión de memoria, y hemos sobrepasado su
+límite. PhantomJS no puede ejecutar toda nuestra batería de tests de una sola
+vez. Así que nos estamos planteando si quizá son nuestros tests quienes tienen
+algún problema con la memoria, quizá podríamos hacer algo para no consumir
+tantos recursos.
 
-- HIPOTESIS
-- una de estas ideas es reducir la cantidad de código JS a cargar y ejecutar en cada test
-- en lugar de cargar el módulo AngularJS completo, con todo el codigo de la aplicación, cargar solamente aquel módulo que contenga la funcionalidad a probrar en el test
-- pero esto es solo una hipótesis, no vamos a modularizar toda la aplicación en módulos minúsculos sin tener ningún dato sobre el que apyarnos
-- por lo tanto, vamos a realizar la siguiente prueba: añadiremos un nuevo módulo, minúsculo. y en ese módulo crearemos una factoría, con un método al que llamaremos unas cuantas veces para hacer que los tests consuman una cantidad apreciable de memoria y CPU. ejecutaremos dos baterías de tests, una cargando el módulo que contiene toda la aplicación, una cargando solamente el módulo minúsculo
+## Hipótesis
+
+Una idea para solucionarlo pasa por reducir la cantidad de código JavaScript a
+cargar y ejecutar en cada test. ¿Qué tal si en lugar de cargar el módulo
+principal de AngularJS completo (donde está contenida toda nuestra aplicación),
+cargamos solamente aquel módulo que contenga la funcionalidad a probar en el
+test?
+
+Pero esto es sólo una hipótesis, no vamos a modularizar toda la aplición en
+módulos minúsculos sin tener ningún dato sobre el que apoyarnos. Por lo tanto,
+vamos a realizar la siguiente prueba: añadiremos un nuevo módulo, minúsculo. En
+este módulo crearemos una factoría, con un método al que llamaremos tantas veces
+sea necesario para hacer que los tests consuman una cantidad apreciable de
+memoria y CPU. Ejecutaremos dos baterías de tests, con los mismos tests: una
+cargando el módulo que contiene toda la aplicación, otra cargando solamente el
+módulo pequeño.
 
 - TODO EL MODULO
 > imagen con el consumo de memoria y tiempo de los tests
