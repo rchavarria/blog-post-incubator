@@ -42,15 +42,53 @@ memoria y CPU. Ejecutaremos dos baterías de tests, con los mismos tests: una
 cargando el módulo que contiene toda la aplicación, otra cargando solamente el
 módulo pequeño.
 
-- TODO EL MODULO
-> imagen con el consumo de memoria y tiempo de los tests
-- algún comentario sobre la imagen
+## Aplicación completa
 
-- MODULO PEQUEÑO
-> imagen con el cosnumo de memorioa y tpo de tests
-- comentarios
+{% img center /images/2015/memory-benchmark-big.thumbnail.png %}
 
-- CONCLUSIONES
-- gana por goleada (memoria y cpu) el módulo pequeñito)
-- recomendación: modulariza tu aplicación cuando vaya creciendo de tamaño. al ejecutar los tests, carga solo los módulos necesarios para que se ejecute esa suite de tests
+Podemos apreciar como la ejecución de la batería de tests dura aproximadamente
+unos 8 segundos (desde 4.5s hasta 12.25s). En cuanto a consumo de memoria, el
+rango va de un mínimo de 10Mb a un máximo de 108Mb.
+
+Se puede apreciar cómo el consumo de memoria va dibujando unos dientes de sierra.
+Éste dibujo es muy típico en los análisis de memoria (hay momentos en los que
+se reserva memoria y el consumo aumenta, pasado un pequeño espacio de tiempo,
+objetos en memoria se dejan de usar y ésta es liberada, que es cuando la gráfica
+baja de golpe). Pero la mala noticia es que el consumo va cada vez a más, no se
+libera la misma cantidad que se reserva, lo que indica que hay muchas referencias
+a objectos que no se eliminan correctamente. Incluso después de haber terminado
+la ejecución de los tests, el navegador no considera que deba liberar memoria.
+
+## Módulo pequeño
+
+{% img center /images/2015/memory-benchmark-small.thumbnail.png %}
+
+El tiempo de ejecución de esta batería de tests es de 1s, de 3.25s a 4.25s,
+(esta gráfica muestra intervalos de 500ms). El consumo de memoria sube
+rápidamente, con un mínimo de 11Mb y un máximo de 42.5Mb.
+
+Esta vez, casi no se aprecian los dientes de sierra, quizá porque la ejecución
+es mucho más rápida y el navegador no considera que haya que liberar memoria de
+forma agresiva durante el tiempo que dura la ejecución. Aquí se puede observar
+claramente cómo después de que los tests hayan terminado, pasado un tiempo, el
+navegador es capaz de liberar prácticamente toda la memoria consumida por los
+tests. Esto es muy buena señal.
+
+## Conclusiones
+
+Con este pequeño análisis queda bastante claro que tener módulos pequeños hace
+que nuestros tests se ejecuten mucho más rápido (el tiempo de ejecución baja de
+8s a 1s) y consuman mucha menos memoria (el máximo baja de 108Mb a 42.5Mb).
+También se puede deducir que en módulos pequeños hay un riesgo más bajo de sufrir *memory leaks*.
+
+En este caso, al usar un módulo muy pequeño y no observar *memory leaks*, se
+deduce que los *leaks* que se observan en la aplicación en su conjunto deben de
+estar en otro módulo. Esto nos ayuda a aislar partes de nuestra aplicación y
+poder reducir la cantidad de código a analizar para encontrar el problema.
+
+Estábamos en lo cierto con nuestra hipótesis, módulos pequeños hacen que los
+tests sean más rápidos y más eficientes en el consumo de memoria. Por lo tanto,
+parece buena idea *modularizar una aplicación* con un tamaño considerable, y al
+ejecutar los tests *cargar sólo los módulos necesarios* para que se ejecute esa
+suite de tests, no cargar módulos redundantes.
 
