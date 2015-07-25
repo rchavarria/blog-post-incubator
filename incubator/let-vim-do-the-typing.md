@@ -1,4 +1,4 @@
-# [Let Vim do the typing](https://www.youtube.com/watch?v=3TX3kV3TICU), by George Brocklehurst
+# (Julio 2015) [Let Vim do the typing](https://www.youtube.com/watch?v=3TX3kV3TICU), by George Brocklehurst
 
 - `"a` + `p`: pega lo que hay en el registro `a`
 - ¿por qué no funciona `CTRL + r` para insertar de un registro?, creo que es `CTRL + r` + `<letra del registro>`

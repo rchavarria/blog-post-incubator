@@ -1,6 +1,6 @@
 ALGUNOS LINKS E IDEAS PARA INCLUIR EN MI POST SOBRE VIM
 
-# [Mastering the Vim language], Chris Toomey
+# (Julio 2015) [Mastering the Vim language], Chris Toomey
 
 - prefer text objects frente a movimientos (`iw` frente a `w`), hacen que los comandos sean más repetibles, ya que seleccionan mejor. el movimiento `w` sólo selecciona la palabra si el cursor está al inicio de la misma
 - [repeat.vim] or plugin repeating, visit the website
