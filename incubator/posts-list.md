@@ -1,6 +1,5 @@
 # Most immediate ideas for blog posts
 
-52. AngularJS tests memory consumption
 58. Create a list of PHP_CodeSniffer rules available by default, and then reply this StackOverflow question (http://stackoverflow.com/questions/16427207/php-codesniffer-rules-documentation), `-s` option outputs sniff codes in the report, and that will help to identify them. Looking at the source code, under Standards folder, each standard has a `ruleset.xml` file, that includes all rules with their indexes. Very nice place to look for rules to include/exclude
 <>. Add notes on the talk to the Vim post: Mastering the Vim language, by Chris Toomey
 58. Gather bash/shell commands to do very different tasks. How to move in the command line, git commands, `find`, `grep`,...
@@ -68,7 +67,7 @@ c. Observer applied to Angular
 54. Giving/Receiving feedback. How I could give feedback, positive one, and how I could react when I'm given feedback
 55. Book review: Passionate programmer, Chad Fowler
 57. Notes on the talk: A short history on Software Engineering, by Paolo Perrota
-58. Create a list of PHP_CodeSniffer rules available by default, and then reply this StackOverflow question (http://stackoverflow.com/questions/16427207/php-codesniffer-rules-documentation)
+59. ¿?
 
 # Post already posted
 
@@ -76,4 +75,5 @@ c. Observer applied to Angular
 47.X Screencast about solving Project Euler problems
 56. Notes on the talk: Therapeutical refactoring, by Katrina Owen
 20. Book review: JS design patterns, by Stoyan Stefanov
+52. AngularJS tests memory consumption
 
