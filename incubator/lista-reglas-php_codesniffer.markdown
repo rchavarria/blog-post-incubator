@@ -18,12 +18,13 @@
 ## Reglas
 
 - cada una de esas reglas puede hacer referencia a aspectos muy distintos de nuestro código: indentación con espacios o tabuladores, apertua de llaves (`{`) en la misma línea o en la siguiente, sintaxis a la hora de manipular arrays (`array()` o `[]`),... 
+- las reglas a utilizar en nuestro proyecto, las definiermos en un fichero llamado `ruleset.xml` que pasaremos como parámetro a la herramienta `phpcs`.
 
 - a la hora de poder definir un conjunto de reglas a utilizar en el equipo, sería conveniente tener una lista de todas ellas y una breve descripción
 - lamentablemente, la documentación de la herramienta no proporciona esa lista
 - pero existen algunas posibilidades que nos pueden facilitar este trabajo
 
-**Opción `-s`**
+### Opción `-s`
 
 - El comando `phpcs` se puede ejecutar con la opción `-s`, con la cual la herramienta indica qué regla (o *sniff*) estamos incumpliendo en cada violación que aparece en el informe de la herramienta
 
@@ -35,7 +36,7 @@ $ phpcs -s blablablalbalbablababalbalbal
 
 ```
 
-**Código fuente**
+### Código fuente
 
 - al final, la documentación más fiable, más actualizada, más detallada y más de todo es el código fuente
 - puede asustar un poco tener que mirar el código fuente, pero [el código de PHP_CodeSniffer] es código abierto y se puede navegar en Github de forma sencilla
@@ -76,7 +77,43 @@ $ phpcs -s blablablalbalbablababalbalbal
 </ruleset>
 ```
 
+- en este fichero podemos ver que se importan todas las reglas definidas en el estándar *PSR1* con `<rule ref="PSR1">`
+- y que se importan reglas individuales de otros estándares, por ejemplo `<rule ref="Squiz.Scope.MethodScope"/>
+- o que incluso se pueden pasar parámetros a algunas reglas, como se hace con `Generic.Files.LineLengh`
+
+### Guía definitiva
+
+- si con todo esto todavía no has dado con las reglas que quieres, o si necesitas conocer alguna regla más en profundidad, podemos echar un vistazo a cómo se generan las referencias de las reglas para poder incluirlas, excluirlas, parametrizarlas,... en nuestro `ruleset.xml`.
+
+- tomemos como ejemplo las reglas *Generic*, ya que son las más utilizadas, más concretamente la regla `Generic.Files.LineLength`
+- las reglas del estándar *Generic* están definidas en el directorio: `CodeSniffer/Standards/Generic`
+- y dentro de él, en el directorio `Sniffs`
+- el siguiente token, `Files`, indica un nuevo subdirectorio dentro de `Sniffs` con el mismo nombre
+- y por último, `LineLength`, indica una clase PHP con ese mismo nombre más el sufijo `Sniff`.
+
+- así pues, para la regla `Generic.Files.LineLength`, encontraremos una clase PHP en 
+`CodeSniffer/Standards/Generic/Sniffs/Files/LineLengthSniff.php` [[[ ¿¿¿¿¿ SE PODRÍA CONSEGUIR ESTO CON FORMATO DE CÓDIGO PERO CON LETRA NEGRITA Y DEMÁS ????  ]]]]
+
+Otros ejemplos podrían ser:
+
+- `PEAR.Commenting.InlineComment`: clase `CodeSniffer/Standards/PEAR/Sniffs/Commenting/InlineCommentSniff.php`
+- `PSR1.Classes.ClassDeclaration`: clase `CodeSniffer/Standards/PSR1/Sniffs/Classes/ClassDeclarationSniff.php`
+- `Zend.Debug.CodeAnalyzer`: clase `CodeSniffer/Standards/Zend/Sniffs/Debug/CodeAnalyzerSniff.php`
+
+- Pero aún hay más. En el `ruleset.xml` de ejemplo, veíamos cómo se pasaban parámetros a la regla `Generic.Files.LineLength` 
+- ahora ya conocemos la clase PHP que cnotiene el código que ejecuta esa regla: `CodeSniffer/Standards/Generic/Sniffs/Files/LineLengthSniff.php` 
+- dicha clase tiene dos variables públicas: `lineLimit` y `absoluteLineLimit`.
+- que precismanete son los parámetros que se pueden configurar
+- así pues, variables públicas en las clases `*Sniff` no son más que posibles parámetros a usar en el `ruleset.xml` de nuestro proyecto
+
+### Referencias y enlaces relacionados
+
+- [Mejora contínua y análisis estático de código]
+- [Documentación de las reglas de PHP_CodeSniffer] en Stack Overflow
+
 
 
 [el código de PHP_CodeSniffer]: https://github.com/squizlabs/PHP_CodeSniffer
+[Mejora contínua y análisis estático de código]: http://rchavarria.github.io/blog/2014/05/05/mejora-continua-y-analisis-estatico-de-codigo
+[Documentación de las reglas de PHP_CodeSniffer]: http://stackoverflow.com/questions/16427207/php-codesniffer-rules-documentation
 
