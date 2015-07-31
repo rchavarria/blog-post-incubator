@@ -17,6 +17,16 @@ $ find . -path '*/any-depth/*' -exec grep <some-text> {} +
 
 ## Bash - `grep`
 
+## Bash - `du`
+
+*Disk usage*, informa del uso del disco, es decir, del tamaño que ocupan ficheros
+o directorios en disco. La opción `-s` hace un resumen (**s**ummary) y la opción
+`-h` lo formatea para **h**umanos.
+
+```bash
+$ du -sh /path/to/directory
+```
+
 ## Git
 
 Pasar al área de *stage* algunos cambios de un fichero en concreto (entra en un
