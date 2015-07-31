@@ -17,6 +17,21 @@ $ find . -path '*/any-depth/*' -exec grep <some-text> {} +
 
 ## Bash - `grep`
 
+## Bash - `tar`
+
+Empaqueta un directorio en un fichero `.tar`, incluso permite comprimirlo en
+formato gzip. También permite descomprimirlo.
+
+```bash
+$ tar -zvcf compressed-file.tar.gz /path/to/directory
+$ tar -xvcf compressed-file-to-extract.tar.gz
+```
+
+Y como regla mnemotécnica:
+
+<blockquote class="twitter-tweet" lang="es"><p lang="en" dir="ltr">how to remember tar flags 🎏&#10;&#10;tar -xzf 👈 eXtract Ze Files!&#10;tar -czf 👈 Compress Ze Files!</p>&mdash; Tess Rinearson (@_tessr) <a href="https://twitter.com/_tessr/status/626076327133577216">julio 28, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Bash - `du`
 
 *Disk usage*, informa del uso del disco, es decir, del tamaño que ocupan ficheros
