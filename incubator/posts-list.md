@@ -1,8 +1,9 @@
 # Most immediate ideas for blog posts
 
 58. Create a list of PHP_CodeSniffer rules available by default, and then reply this StackOverflow question (http://stackoverflow.com/questions/16427207/php-codesniffer-rules-documentation), `-s` option outputs sniff codes in the report, and that will help to identify them. Looking at the source code, under Standards folder, each standard has a `ruleset.xml` file, that includes all rules with their indexes. Very nice place to look for rules to include/exclude
-<>. Add notes on the talk to the Vim post: Mastering the Vim language, by Chris Toomey
 59. Gather bash/shell commands to do very different tasks. How to move in the command line, git commands, `find`, `grep`,...
+60. Research and document how a CTAGS file can be used in Vim (new post, do not edit the learning post)
+<>. Add notes on the talk to the Vim post: My first Vim plugin, by Chris Toomey
 
 # Possible posts for the blog
 
@@ -68,7 +69,7 @@ c. Observer applied to Angular
 55. Book review: Passionate programmer, Chad Fowler
 57. Notes on the talk: A short history on Software Engineering, by Paolo Perrota
 59. When to create `static` methods, take a look at http://javarevisited.blogspot.com.es/2013/07/when-to-make-method-static-in-java.html, and discuss all points made by the article. Is still a point to create static methods? Do you really need one?
-60. ¿?
+61. ¿?
 
 # Post already posted
 
