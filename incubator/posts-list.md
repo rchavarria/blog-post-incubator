@@ -1,8 +1,7 @@
 # Most immediate ideas for blog posts
 
-58. Create a list of PHP_CodeSniffer rules available by default, and then reply this StackOverflow question (http://stackoverflow.com/questions/16427207/php-codesniffer-rules-documentation), `-s` option outputs sniff codes in the report, and that will help to identify them. Looking at the source code, under Standards folder, each standard has a `ruleset.xml` file, that includes all rules with their indexes. Very nice place to look for rules to include/exclude
-59. Gather bash/shell commands to do very different tasks. How to move in the command line, git commands, `find`, `grep`,...
 60. Research and document how a CTAGS file can be used in Vim (new post, do not edit the learning post)
+59. Gather bash/shell commands to do very different tasks. How to move in the command line, git commands, `find`, `grep`,...
 <>. Add notes on the talk to the Vim post: My first Vim plugin, by Chris Toomey
 
 # Possible posts for the blog
@@ -78,4 +77,5 @@ c. Observer applied to Angular
 56. Notes on the talk: Therapeutical refactoring, by Katrina Owen
 20. Book review: JS design patterns, by Stoyan Stefanov
 52. AngularJS tests memory consumption
+58. Create a list of PHP_CodeSniffer rules available by default, and then reply this StackOverflow question (http://stackoverflow.com/questions/16427207/php-codesniffer-rules-documentation), `-s` option outputs sniff codes in the report, and that will help to identify them. Looking at the source code, under Standards folder, each standard has a `ruleset.xml` file, that includes all rules with their indexes. Very nice place to look for rules to include/exclude
 
