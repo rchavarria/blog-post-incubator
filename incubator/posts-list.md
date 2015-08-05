@@ -68,7 +68,9 @@ c. Observer applied to Angular
 55. Book review: Passionate programmer, Chad Fowler
 57. Notes on the talk: A short history on Software Engineering, by Paolo Perrota
 59. When to create `static` methods, take a look at http://javarevisited.blogspot.com.es/2013/07/when-to-make-method-static-in-java.html, and discuss all points made by the article. Is still a point to create static methods? Do you really need one?
-61. ¿?
+61. SonarCube: how to install it, use it to measure JS code quality, what is measured, ...
+62. How to improve your unit tests: write down all your tests,... some remarks by J.B.Rainsberger about how to clear you mind to keep the focus on your tasks
+63. ¿?
 
 # Post already posted
 
