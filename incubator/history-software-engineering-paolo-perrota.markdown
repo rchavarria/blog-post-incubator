@@ -1,65 +1,46 @@
 # Charla técnica: A short history of software engineering
 
-[A short history of software engineering](https://www.youtube.com/watch?v=9IPn5Gk_OiM)
-Paolo Perrota
-recomendadop or J.B.Rainsberger
+Estas son las notas de una charla técnica titulada [A short history of software engineering][1], por Paolo Perrota. La charla, creo que la encontré por un tweet de [J.B.Rainsberger][2] recomendándola.
 
-1968, la primera vez que alguien (la OTAN) dijo que el software se entregaba tarde, fuera de presuupuesto, con baja calidad y que no hacía exactamente lo que tenía que hacer (bugs, vamos)
+La charla trata sobre la historia de la Ingeniería del Software. Un poco lo de siempre, que la Ingeniería de Software quizá no debiera llamarse *Ingeniería*, similitudes y diferencias con otras ingenierías,... Pero Paolo hace una presentación muy amena y divertida, sin duda merece la pena ver la charla para saber un poco más sobre nuestra pasión: el desarrollo de software.
 
-la solucion propuesta fue una nueva disciplina, que llamaron sw engineering
+<!-- more -->
 
-despues de más de 20 años, decidieron que y ano era un acrisis, que era el estado del arte. una crisis no dura 20 años
+INSERTAR VÍDEO AQUÍ
 
-sw eng trata de solucionar 3 problemas:
-º
-1. eliminar complejidad interna (si no hay código fuente, no hay problema. de ahí que hayan intentado crear "lenguajes" con los que no se necesitarían progrmadores. lo llevan diciendo desde los 1950, con cobol, que era un lenguaje que hasta lo smanagers podrían entender.
-el problema es que la complejidad no es accidental (no es introducida por los programers), sino esencial, existe en el problema mismo
+## Notas
 
-2. eliminar errores humanos
+**1968** fue la primera vez que alguien (la OTAN) dijo que el software se entregaba tarde, fuera de presupuesto, con baja calidad y que no hacía exactamente lo que tenía que hacer (es decir, que contenía bugs)
 
-intentaron utilizar las matemáticas, para probar que el sw era correcto. y vinieron los *formal methods*, pero es muy caro. 
+La solucion propuesta fue una nueva disciplina, que llamaron **Ingeniería del Software**, para tratar de salir de esa crisis de proyectos fallidos. Despues de más de 20 años, decidieron que ya no era una crisis, que era el estado del arte, que una crisis no dura 20 años.
 
-aparentemente, un monton de matemáticas no pueden reemplazar los tests. las matemáticas no pueden solucionar todos los problemas humanos
+La Ingeniería del Software trata de solucionar 3 problemas:
 
-3. eliminar variabilidad en el proyecto
+1. Eliminar complejidad interna: si no hay código fuente, no hay complejidad interna, no hay problema. De ahí que hayan intentado crear *lenguajes* con los que no se necesitarían progrmadores. Empezaron diciéndolo en los años 50, con Cobol. Lo vendían como que era un lenguaje que hasta los managers podrían entender. El problema es que el desarrollo de software no es solamente **complejidad accidental** (no toda la complejidad es introducida por los programadores), sino también **complejidad esencial**, existe en el problema mismo.
+2. Eliminar errores humanos: intentaron utilizar las matemáticas, para probar que el software era correcto. Y vinieron los *formal methods*, pero es muy caro. Aparentemente, un monton de matemáticas no pueden reemplazar los tests. Las matemáticas no pueden solucionar todos los problemas humanos.
+3. Eliminar variabilidad en el proyecto: otras ingenierías lo hacen: Ingeniería Civil, Ingeniería mecánica,... En Ingeniería Civil dicen que hay dos tipos de proyectos: los repetibles y los únicos. Adivinas qué tipo de proyectos no van tan bien, adivinas qué tipo se pasan de presupuesto. Si vas a hacer algo único, va a llover dentro (anécdota de aquella casa única que hicieron, con tantas goteras).
 
-otras ingenierías lo hacen: civil eng, mechanical eng, 
+En Ingeniería Civil hay dos fases: proyecto y construcción. Similarmente, en Ingeniería del Software podríamos traducirlas a: diseño e implementación. ¡Pues no! Las fases, en realidad, son: desarrollo y compilación.
 
-civil eng dicen que hay dos tipos de proyectos: los repetibles, y los únicos (y algunos de ellos no van tan bien, muchos se pasan de presupuesto)
+Las economías de ambas ingenierías son muy distintas. En la charla hace referencia a otra charla, creo que es ésta: [][3], donde habla precisamente de éstas diferencias económicas. Mientras que en Ingeniería Civil el mayor coste es el de construcción, en Ingeniería del Software, el mayor coste es el desarrollo, el diseño.
 
-si vas a hacer algo único, va a llover dentro (es como la casa única que hicieron, con tantas goteras)
+Si en un proyecto software tienes 100 programadores, por analogías anticuadas, quizá creas que tienes 100 albañiles, pero en realidad es como si tuvieras 100 arquitectos para diseñar el mismo edificio. ¿A que eso ya parece algo más complejo de gestionar?
 
-en civil eng hay dos fases : projecto y construcción
-en sw eng podríamos traducirlas a: diseño e implementación. NO! las fases serían desarrollo y compilación
+A continuación, pasa a hablar de metodologías (RUP, DSDM, Prince2, CMMI,...). Al final, no pudieron eliminar ninguna de las 3 cosas. Pero, y si en lugar de eliminarlas, ¿las aceptamos?
 
-the economics are completely different
+Las metodologías Agile se basan en 3 puntos:
 
-si tienes 100 programadores, no tienes 100 curritos, es como si tuvieras 100 arquitectos para una casa
+1. Observa, mira alrededor
+2. Haz una hipótesis
+3. Haz un experimento
 
-### metodologías
+Estos 3 puntos no son más que el método científico. Por lo que el desarrollo de software es empírico, no es *Ingeniería*.
 
-rup, dsdm, prince 2, cmmi, 
+## Referencias
 
----
+- [A short history of software engineering][1]
+- [FALTA ENLACE AL VÍDEO AQUEL DE QUE EL SW SÍ QUE ERA ING, PERO ERA UNA INGENIERÁI DIFERENTE][3]
 
-al final, no pudieron eliminar ninguna de las 3 cosas
-
-y qué si en lugar de eliminarlo, lo aceptamos? (embrace)
-
-el desarrollo es empírico, por lo que no es *ingeniería*
-
-¿qué dice agile?
-
-1. observa, mira alrededor
-
-2. haz una hipótesis
-
-3. haz un experimento
-
-los 3 puntos no son más que el método científico
-
-
-
-
-
+[1]: https://www.youtube.com/watch?v=9IPn5Gk_OiM
+[2]: https://twitter.com/jbrains
 
