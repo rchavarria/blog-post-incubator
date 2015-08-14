@@ -1,4 +1,44 @@
-﻿# Notes taken on Notes to a software team leader, by Roy Osherove
+﻿--
+layout: post
+title: "book title"
+date: 
+author: Rubén Chavarría
+comments: true
+categories: 
+- personal
+- book reviews
+published: true
+footer: false
+sidebar: true
+---
+
+##### de <el autor>
+
+{% img left http://s1.hubimg.com/u/11789820_f260.jpg 260 392 Stop stealing dreams %}
+
+## Por qué lo he leído
+
+<!-- more -->
+
+## Qué esperaba
+
+## Qué encontre
+
+## Conclusiones
+
+## Qué he aprendido
+
+## Frases que me gustaría recordar
+
+- El autor identifica tres formas de liderar un equipo: comando y control, coach y facilitador. Simétricamente, identifica tres fases en las que se puede encontrar un equipo: supervivencia, aprendizaje, auto-organización.
+- Para salir de la fase de supervivencia, hay que preocuparse de una cosa: crear tiempo libre (*slack time*) como un estándar en tu flujo de trabajo.
+- Esto es por lo que te pagan: para hacer las cosas mejor y de la forma más profesional, clara y transparente posible. Te pagan por llevar al equipo a un nivel donde hacen las cosas profesionalmente, para llevar al equipo al próximo nivel de rendimiento y profesionalismo. Para ello, quizá tengas que tomar algunos riesgos.
+
+[titulo sobre el enlace a las notas]: foo-bar-foo-bar
+
+# Notas tomadas
+
+# Notes taken on Notes to a software team leader, by Roy Osherove
 
 ## Introduction
 
@@ -8,34 +48,25 @@ Doing your job as a leader and asking people to accomplish tasks or to challenge
 
 ### 2 Elastic Leadership
 
-I believe the role of a team leader is vastly different from simply solving problems and getting out of the way.
-A team leader grows the people on their team.
-To grow people at work means to help them acquire new skills. For them to acquire skills you must challenge them.
+I believe the role of a team leader is vastly different from simply solving problems and getting out of the way. A team leader grows the people on their team. To grow people at work means to help them acquire new skills. For them to acquire skills you must challenge them.
 
 Challenging people is one style of leadership. Let’s talk about two more: Command and control leadership Facilitating leadership
 
-facilitation, can be described by many agile consultants as “Just lock the team in a room, give them a goal, and get the hell out of their way.” Agile methodologies sometimes call this a “self-organizing” team.
+Facilitation, can be described by many agile consultants as “Just lock the team in a room, give them a goal, and get the hell out of their way.” Agile methodologies sometimes call this a “self-organizing” team.
 
-**Command and control**
+**Command and control**: You tell people what to do. This approach won’t work if your team already knows what they’re doing or if they expect to learn new things and be challenged to become better.
 
-You tell people what to do.
-This approach won’t work if your team already knows what they’re doing or if they expect to learn new things and be challenged to become better.
+**Coach**: The coach is also known as “the teacher” and is great at teaching new things to others.
 
-**Coach**
-
-The coach is also known as “the teacher” and is great at teaching new things to others.
-
-Facilitator
-
-The facilitator doesn’t solve the team’s problems but instead relies on the team’s existing skills to solve their own problems.
+**Facilitator**: The facilitator doesn’t solve the team’s problems but instead relies on the team’s existing skills to solve their own problems.
 
 2.6 The three team phases
 
-Survival phase (no time to learn). You need to make time to learn. In order to slack time, you will most likely need to use a command and control style of leadership.
+**Survival phase** (no time to learn). You need to make time to learn. In order to slack time, you will most likely need to use a command and control style of leadership.
 
-Learning phase (learning to solve your own problems). Grow the team to be self-organizing by teaching and challenging them to solve their own problems. You need to become more of a coaching style leader, with the occasional intervention of the controlling leader,
+**Learning phase** (learning to solve your own problems). Grow the team to be self-organizing by teaching and challenging them to solve their own problems. You need to become more of a coaching style leader, with the occasional intervention of the controlling leader,
 
-Self-organizing phase (facilitate, experiment)
+**Self-organizing phase**. Facilitate, experiment.
 
 2.7 When does a team move between phases?
 
@@ -47,77 +78,41 @@ Let’s say you or someone else is changing deadlines on known goals. You might 
 
 ### 3 Survival mode
 
-what I define as “not having enough time to learn.”
+It is what I define as “not having enough time to learn.”
 
 3.1 Are you in survival mode?
 
 The comfortable zone
 
-en el modo de supervivencia. uno tiene sentimirntos de superpoderees. laas cosas sse ponen feas.va uno y las resuelve . y va uno y en lugar de sentrs mal por los problemasse siente bien por haberlo solucooao. peo el problma esta ahi
-
-Survival mode is a warm and fuzzy place where only those who painfully learned how to handle things just right can tread without fear and walk between the drops. Always within a hair of failure, they magically come, tired and fuzzy eyed, out of the fog of war, saying, “It was tough, but I got it working.” That warm and fuzzy feeling of knowing what should be done when the crap hits the fan is what helps perpetuate this.
-
-The survival mode addiction
+En el modo de supervivencia, uno tiene sentimientos de superpoderes. Las cosas se ponen feas, va uno y las resuelve. Y en lugar de sentirse mal por los problemas, se siente bien por haberlo solucionado. Ahí está el problema, es como una adicción a estar siempre apagando fuegos. Uno se siente mejor solucionando problemas sin pensar que en parar un tiempo para solucionarlos para siempre.
 
 3.2 Getting out of survival mode
 
 To get out of survival mode, you have to worry about one thing: creating slack time as a standard in your work process.
 
-How much slack time do you need?
-
-3.3 Making slack time—required actions
+3.3 Making slack time
 
 You can start by understanding the mess you’re currently in.
 
-Find out your current commitments
+Find out your current commitments. Making slack time is about getting rid of some of the commitments you already have.
 
-Making slack time is about getting rid of some of the commitments you already have,
+Find out your current risks: “Imagine it is six months from now, and our project has failed completely. Why did it fail?”
 
-Find out your current risks
-
-“Imagine it is six months from now, and our project has failed completely. Why did it fail?”
-
-Plan a red line
-
-Now that you know your current commitments as a team, it’s time to plan a red line.
-
-Once you have a red line, you have a deadline. Your job is to clear enough fires before the red line so that when you hit the red line, you feel comfortable having learning time.
-
-Past the line, your schedule will include tasks, but fewer than usual.
-
-How do you remove commitments?
+Now that you know your current commitments as a team, it’s time to plan a red line. Once you have a red line, you have a deadline. Your job is to clear enough fires before the red line so that when you hit the red line, you feel comfortable having learning time. Past the line, your schedule will include tasks, but fewer than usual.
 
 3.4 Why slack?
 
-Remember why you’re doing this
+Remember why you’re doing this. You can become the team leader you wish you always were: someone who fights for the team’s right to learn and to always improve.
 
-you can become the team leader you wish you always were—someone who fights for the team’s right to learn and to always improve.
+That’s what you get paid to do: make things better, in the most professional, clear, and transparent way. This is what you are being paid to do. You are being paid to get your team to a level where they do things professionally. You are being paid to keep taking the team to the next level of performance and professionalism,
 
-The risk of losing face to upper management
+Realize that you are going to break your own patterns. The same applies to what you’re about to do as a team leader. You’re about to take a risk, do something you’ve never done before, and change circumstances that seem almost unchangeable. Eventually, you realize that in life you always have to get uncomfortable before you learn new skills, and that this is just a phase of learning. Es como aprender a jugar. Aprendes una nueva regla que te da mas puntos. Cambia tu forma de jugar. Hasta que te acostumbras a esta nueva regla, te cuesta más y juegas peor. Pero luego eres mucho mejor.
 
-that’s what you get paid to do: make things better, in the most professional, clear, and transparent way.
+As you break your and your team’s patterns, you might get into some arguments with the folks who don’t like change or don’t trust you. Be prepared for this to happen. Don’t stay where you’re not appreciated and where you cannot change things. Don’t despair in the face of nitpickers (criticón, sacafaltas).
 
-The risk of failing
 
-This is what you are being paid to do
+V O Y   P O R    A Q U I I I  I II I I I I  
 
-You are being paid to get your team to a level where they do things professionally. You are being paid to keep taking the team to the next level of performance and professionalism,
-
-Realize that you are going to break your own patterns
-
-level. The same applies to what you’re about to do as a team leader. You’re about to take a risk, do something you’ve never done before, and change circumstances that seem almost unchangeable.
-
-es como prender a jugar. aprendes una nueva reha que te da as puktosby cmbia tu forma de jugar.hasta que te ace con esto te cuesa mas y juegas eor. peo luego ere mucho .as mejor
-
-Eventually, you realize that in life you always have to get uncomfortable before you learn new skills, and that this is just a phase of learning—
-
-Do not fear confrontation
-
-As you break your and your team’s patterns, you might get into some arguments with the folks who don’t like change or don’t trust you. Be prepared for this to happen.
-
-Don’t stay where you’re not appreciated and where you cannot change things.
-
-Don’t despair in the face of nitpickers
 
 3.5 Command and control leadership
 
