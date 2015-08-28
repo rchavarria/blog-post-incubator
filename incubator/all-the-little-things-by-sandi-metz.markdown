@@ -12,6 +12,8 @@ La charla trata de una refactorización siguiendo la kata [The Gilded Rose](). L
 
 La duplicación es fácil de detectar y de eliminar llegado el caso. Una mala abstracción al arrastraremos toda la vida del proyecto.
 
+Unos días después, Sandi publicó un [artículo en forma de newsletter](http://us3.campaign-archive2.com/?u=1090565ccff48ac602d0a84b4&id=92902a19e4&e=072f6853e8) explicando algo más esta frase, porque parece que creó confusión o al menos, causó reacciones que hicieron pensar a Sandi que la gente no entendió realmente lo que ella quería transmitir.
+
 > Que tu objetivo sea llegar a Open/Closed
 
 Uno de los principios de la OOP, es el Open/Closed Principle. Que para añadir nueva funcionalidad, no tengas que modificar código existente (abierto a expansión, cerrado a modificación). Lo ideal es que toda la aplicación siguiera este principio, no vas a llegar nunca, pero cuanto más lo sigas, más fácil será añadir nueva funcionalidad sin romper la existente.
