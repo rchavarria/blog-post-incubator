@@ -47,4 +47,3 @@ de indentación
 ventanas en Vim y enviando comandos a ellas
 - 
 
-
