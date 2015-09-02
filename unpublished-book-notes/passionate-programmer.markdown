@@ -1,4 +1,65 @@
-﻿
+﻿--
+layout: post
+title: "The passionate programmer"
+date: 
+author: Rubén Chavarría
+comments: true
+categories: 
+- personal
+- book reviews
+published: true
+footer: false
+sidebar: true
+---
+
+##### de Chad Fowler
+
+{% img left http://chadfowler.com/images/books/passionate-programmer.jpg %}
+
+## Por qué lo he leído
+
+Suelo elegir los libros por el título, por lo que me sugiera. Y el título de este libro me sugiere todo: pasión y programación. ¿Qué más se puede pedir?. Uno de mis libros favoritos es [The pragmatic programmer][1], que más adelante dió lugar a una editorial de libros técnicos. *The passionate programmer* tenía la misma pinta, así que seguro que lo tenía que leer, tarde o temprano.
+
+<!-- more -->
+
+## Qué esperaba
+
+Me esperaba un libro con una estructura parecida a *The pragmatic programmer*, con capítulos cortos, y cada capítulo finalizando con una serie de posibles acciones para mejorar en tu carrera profesional. Bueno, esta vez, en lugar de mejorar, esperaba que estuviera relacionado con sentir la pasión por la programación.
+
+## Qué encontre
+
+El libro está organizado en 5 grandes secciones:
+
+1. Elige tu mercado
+2. Invierte en tu producto
+3. Ejecución
+4. El marketing... no es sólo para los trajeados
+5. Manteniéndote al día
+
+Cada uno de ellos está dividido en capítulos más pequeños (lo que me imaginaba), y cada uno de ellos termina en uno o varios consejos para que aprendas el concepto que desarrolla el capítulo. Idéntica estructura a *The pragmatic programmer* que tanto me gustó y tanto me ayudó.
+
+Cada una de las secciones anteriores explorar un aspecto de la carrera de un profesional del desarrollo software, aunque no cubre todos. Guía al lector sobre cómo y por qué debe elegir un mercado, una industria, ya que el software se encuentra en todas partes hoy en día. Hay consejos sobre cómo deberías trabajar, qué actitud deberías tener, tanto si trabajas por cuenta ajena como por tu propia cuenta y también cómo poder *venderte* dentro y fuera de tu empresa. 
+
+## Conclusiones
+
+Me parece un libro muy recomendable. Está enfocado al desarrollo del software, pero podría ser aplicable (más o menos) a otras profesiones. De lo que trata es de buscar la pasión por lo que haces.
+
+Cada capítulo termina con una o varias acciones a tomar, algunas son sencillas, otras te llevarán cierto tiempo, otras son arriesgadas y no todo el mundo se sentiría cómodo llevándolas a cabo. No creo que tenga tiempo ni energía para llevarlas todas a cabo, pero sí que me gustaría poner en práctica algunas de ellas: comunicarme más con gente de negocio, ponerme en situaciones donde yo sea el *peor*, invertir en mi conocimiento, encontrar un mentor, seguir alguno de los consejos para contribuir a algún proyecto de software libre,...
+
+Creo que este es un libro para tener al lado de *The pragmatic programmer* y releerlos de vez en cuando. 
+
+## Qué he aprendido
+
+## Frases que me gustaría recordar
+
+## Recursos relacionados
+
+[titulo sobre el enlace a las notas]: foo-bar-foo-bar
+
+[1]: https://pragprog.com/book/tpp/the-pragmatic-programmer
+
+# Notas tomadas
+
 This book is about finding fulfillment and happiness in your career. Fulfillment and happiness don’t (often) come by chance. They require thought, intention, action, and a willingness to change
 
 You might make more money if you follow this advice. You might gain more recognition or even become famous. But please don’t forget that these are not the goals. They’re a means to an end.
