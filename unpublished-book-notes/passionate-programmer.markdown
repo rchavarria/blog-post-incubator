@@ -52,17 +52,46 @@ Creo que este es un libro para tener al lado de *The pragmatic programmer* y rel
 
 ## Frases que me gustaría recordar
 
+> At least when starting out, greatness is binary in the music world. A musician wants to either be great (and famous for it!) or not do it at all. I’m often asked why it is that there are so many good musicians who are also good software developers. That’s the reason.
+
+> Think of your career as if it is the life cycle of a product that you are creating. That product is made up of you and your skills.
+
+> You can’t compete on price, but you can compete on ability.
+
+> If you want to stay relevant, you’re going to have to dive into the domain of the business you’re in.
+
+> Legendary jazz guitarist Pat Metheny: “Always be the worst guy in every band you’re in.”
+
+> Fear-driven advice is geared toward not losing. Thinking about not losing is not the way to win!
+
+> Teaching is one of the best ways to learn.
+
+> Cuando estudias soluciones de código abierto, en lugar de propietarias, en profundidad empiezas a reconocer patrones que te sirven más allá de la tecnología.
+
+> You have to be passionate about your work if you want to be great at your work.
+
+> The most obvious place to start your lifelong learning is in learning the tools of your trade.
+
+> Without a role model, there’s no incentive to get better.
+
+> You find a mentee not by going out and declaring yourself a guru but by being knowledgeable and willing to patiently share that knowledge.
+
+> You have to make time for practice. It’s your responsibility.
+
+> It’s much easier to find someone who can make software work than it is to find someone who can make the making of software work.
+
+> 
+
 ## Recursos relacionados
 
-[titulo sobre el enlace a las notas]: foo-bar-foo-bar
+- [titulo sobre el enlace a las notas][2]
 
 [1]: https://pragprog.com/book/tpp/the-pragmatic-programmer
+[2]: foo-bar-foo-bar
 
 # Notas tomadas
 
-This book is about finding fulfillment and happiness in your career. Fulfillment and happiness don’t (often) come by chance. They require thought, intention, action, and a willingness to change
-
-You might make more money if you follow this advice. You might gain more recognition or even become famous. But please don’t forget that these are not the goals. They’re a means to an end.
+This book is about finding fulfillment and happiness in your career. Fulfillment and happiness don’t (often) come by chance. They require thought, intention, action, and a willingness to change. But please don’t forget that these are not the goals. They’re a means to an end.
 
 At least when starting out, greatness is binary in the music world. A musician wants to either be great (and famous for it!) or not do it at all. I’m often asked why it is that there are so many good musicians who are also good software developers. That’s the reason.
 
@@ -70,250 +99,123 @@ To excel at a company, you’re going to have to understand how you fit into the
 
 Think of your career as if it is the life cycle of a product that you are creating. That product is made up of you and your skills.
 
-Choose your market. Pick the technologies and the business domains
-
-Invest in your product. Your knowledge and skills
-
-Invest in your product. Your knowledge and skills are the cornerstone of your product.
-
-Execute.
-
-The employees have to deliver.
-
-Market!
-
 # Part 1 Choosing Your Market
-
-Which technologies should we invest in? Which domain should we develop expertise in? Should we go broad or deep with our knowledge? These are questions we really should be asking ourselves.
 
 ## Tip 1:   Lead or Bleed?
 
-the difference between choosing technologies that are still on the bleeding edge and technologies that are firmly entrenched. Picking a stable technology that has already wedged itself into the production systems of businesses worldwide is a safer, but potentially less rewarding, choice than picking a flashy new technology that nobody has deployed yet.
+You can choose between technologies that are still on the bleeding edge and technologies that are firmly entrenched. Picking a stable technology that has already wedged itself into the production systems of businesses worldwide is a safer, but potentially less rewarding, choice than picking a flashy new technology that nobody has deployed yet.
 
-what about the technologies that have run their courses?
+What about the technologies that have run their courses? the old systems don’t just die. They are replaced. Someone has to know how to make the new speak to the old, and vice versa. there’s a role to be filled by a calculating technologist: **technology hospice**.
 
-the old systems don’t just die. They are replaced.
+**Act on It!**
 
-Someone has to know how to make the new speak to the old, and vice versa.
-
-there’s a role to be filled by a calculating technologist: technology hospice.
-
-Act on It!
-
-Make a list of early, middle, and late adoption technologies based on today’s market. Map them out on paper from left to right; the left is bleeding edge, and the right is filled by technologies that are in their sunsets.
-
-Are there any technologies around the far edges that you have some special interest in?
+Make a list of early, middle, and late adoption technologies based on today’s market. Map them out on paper from left to right; the left is bleeding edge, and the right is filled by technologies that are in their sunsets. Are there any technologies around the far edges that you have some special interest in?
 
 ## Tip 2:   Supply and Demand
 
-There are usually more buyers for any given thing at a lower price than at a higher one.
+There are usually more buyers for any given thing at a lower price than at a higher one. The offshore software trend has just injected a large supply of low-cost IT people into our economy. You can’t compete on price. You can’t afford it. So, what do you do?
 
-The offshore software trend has just injected a large supply of low-cost IT people into our economy.
+Puedes decir india o suramerica. Ellos buscan tecnologías muy establecidas para competir en precio. No econtrarás empresas de *ofshoring* trabajando para tecnologías punteras. Based on this observation, you might choose to compete in segments of the job market in which there is actually lower demand.
 
-You can’t compete on price. You can’t afford it. So, what do you do?
+You can’t compete on price, but you can compete on ability. Razonamiento: con la bajada del precio medio por programador en tecnologías establecidas, la demanda sobre esas tecnologías crecerá. Un crecimiento de la demanda hará crecer el número de puestos de trabajo *en casa*. Para hacer que las subcontratas trabajen bien, muchas empresas se dan cuenta de que necesitan muy buenos técnicos que establezcan estándares. Ahí está la comptencia en habilidad y no en precio. Busca eso.
 
-puedes decir india o suramerica. ellos buscan tecnoologias muy establecidas para competir en precio
+**Act on It!**
 
-India caters to the already balanced IT services markets. You don’t find mainstream Indian offshoring companies jumping on unconventional technologies.
-
-Based on this observation, you might choose to compete in segments of the job market in which there is actually lower demand.
-
-sound, if you’re worried about losing employment to offshoring, one strategy would be to avoid the types of work that offshore companies are doing.
-
-change the focus of the competition from price to ability.
-
-You can’t compete on price, but you can compete on ability.
-
-with the average price of these mainstream programmers decreasing, the demand will increase. An overall increase in demand
-
-might actually result in more jobs (of a certain type) at home,
-
-To make offshoring work well, many companies realize the need for a reserve of high-end, onshore developers who can set standards, ensure quality, and provide technical leadership.
-
-competition would shift from price to ability.
-
-Act on It!
-
-Use job posting and career websites to find out which skills are in high demand and in low demand.
-
-Make note of which skills appear to be in high demand domestically with little penetration offshore.
+Use job posting and career websites to find out which skills are in high demand and in low demand. Make note of which skills appear to be in high demand domestically with little penetration offshore.
 
 ## Tip 3:   Coding Don’t Cut It Anymore
 
-If you want to stay relevant, you’re going to have to dive into the domain of the business you’re in.
+If you want to stay relevant, you’re going to have to dive into the domain of the business you’re in. You should think of your business domain experience as an important part of your repertoire.
 
-You should think of your business domain experience as an important part of your repertoire.
+You should put the same level of care into selecting which industry to serve as you put into selecting which technologies to master. The company and industry you choose to work for becomes a significant investment on your part.
 
-You should put the same level of care into selecting which industry to serve as you put into selecting which technologies to master.
+**Act on It!**
 
-the company and industry you choose to work for becomes a significant investment on your part.
+Talk to businesspeople about how they do their job. Ask yourself what you would have to change or learn if you aspired to have their job. Do this regularly. This may seem like an awkward or uncomfortable idea. That’s OK.
 
-Act on It!
-
-businessperson. Talk to them about how they do their job.
-
-ask yourself what you would have to change or learn if you aspired to have their job.
-
-Do this regularly. This may seem like an awkward or uncomfortable idea. That’s OK. I
-
-Do this regularly.
-
-Pick up a trade magazine for your company’s industry.
-
-Make lists of questions you can ask your management or business clients.
-
-What’s the hot new issue right now? Whatever it is, bring it up with your business clients. Ask them to explain it and to give you their opinions.
+Pick up a trade magazine for your company’s industry. Make lists of questions you can ask your management or business clients. What’s the hot new issue right now? Whatever it is, bring it up with your business clients. Ask them to explain it and to give you their opinions.
 
 ## Tip 4:   Be the Worst
 
-Legendary jazz guitarist Pat Metheny
+Legendary jazz guitarist Pat Metheny: “Always be the worst guy in every band you’re in.”
 
-“Always be the worst guy in every band you’re in.”
+I would fit in. I wouldn’t stand out among the other musicians as a star. On the other hand, I wouldn’t be obviously outclassed, either. The more interesting reason that I would fit in with these superior musicians—my heroes, in some cases—is that my playing would transform itself to be more like theirs.
 
-I would fit in. I wouldn’t stand out among the other musicians as a star.
+I learned from this that people can significantly improve or regress in skill, purely based on who they are performing with.
 
-I would fit in. I wouldn’t stand out among the other musicians as a star. On the other hand, I wouldn’t be obviously outclassed, either.
+**Act on It!**
 
-The more interesting reason that I would fit in with these superior musicians—my heroes, in some cases—is that my playing would transform itself to be more like theirs.
+Find a “be the worst” situation. Find a volunteer project on which you can work with other developers who will make you better
 
-learned from this that people can significantly improve or regress in skill, purely based on who they are performing with. And, prolonged experience
-
-Act on It!
-
-Find a “be the worst” situation
-
-find a volunteer project on which you can work with other developers who will make you better
-
-Pick an open source project
-
-Go through the project’s to-do list
-
-Make your design and code so indistinguishable from the rest of the project
-
-You’ll be amazed at what you can learn from a remote set of senior developers,
+Pick an open source project. Go through the project’s to-do list. Make your design and code so indistinguishable from the rest of the project. You’ll be amazed at what you can learn from a remote set of senior developers,
 
 ## Tip 5:   Invest in Your Intelligence
 
-con esto el autor quiere decir un tecnologia muy muy especiica.muy especializada. donde no hay mucjo mercado pero se puede ganar mucjo dinero
+**niche technology**: tecnología muy muy específica. Muy especializada. Donde no hay mucho mercado pero se puede ganar mucho dinero.
 
-niche technology,
+**fringe technologies**: tecnlogias muy separadas de las que sueles trabajar generalmente. Why else would you want to invest in fringe technologies that you may rarely or never have an opportunity to actually get paid to use? Exposure to these fringe technologies and methodologies actually makes you deeper, better, smarter, and more creative.
 
-libro recomendao para leer
+**Act on It!**
 
-“Great Hackers,”[4] Paul Graham
-
-either good people seek out diversity, because they love to learn new things, or being forced into alien experiences and environments created more mature, well-rounded software developers.
-
-tecnlogias muy separadas de las  qu sueles trabajar generalmnte
-
-fringe technologies
-
-why else would you want to invest in fringe technologies that you may rarely or never have an opportunity to actually get paid to use?
-
-exposure to these fringe technologies and methodologies actually makes you deeper, better, smarter, and more creative.
-
-Act on It!
-
-pero no uno cualuiera. uno que rompa todos tus esquemas. por ejemplo haskell
-
-Learn a new programming language.
-
-Ask old-timers to review your code and make suggestions that would make it more idiomatically correct.
+Learn a new programming language: pero no uno cualuiera, uno que rompa todos tus esquemas, por ejemplo haskell. Ask old-timers to review your code and make suggestions that would make it more idiomatically correct.
 
 ## Tip 6:   Don’t Listen to Your Parents
 
-your parents are going to give you fear-driven advice.
-
-your parents are going to give you fear-driven advice. Fear-driven advice is geared toward not losing. Thinking about not losing is not the way to win! Winners take risks.
+Your parents are going to give you fear-driven advice. Fear-driven advice is geared toward not losing. Thinking about not losing is not the way to win! Winners take risks.
 
 Another career decision-making factor that is likely not in line with your parents’ view of the working world is that it’s OK (and often preferable) to change jobs.
 
 And if you’re not having fun, you’re not going to be excellent.
 
-Act on It!
+**Act on It!**
 
-What are your biggest career fears? Think about the last few career choices you made.
-
-What would you have done if fear had not been a factor?
-
-Tom Preston-Werner
+What are your biggest career fears? Think about the last few career choices you made. What would you have done if fear had not been a factor?
 
 ## Tip 7:   Be a Generalist
 
-software projects are usually very cyclical. Not only is the actual flow of projects cyclical, but the work inside a project is cyclical.
-
-The way to become a generalist is to not label yourself with a specific role or technology.
-
 First, you can choose to either be a leader or manager type or be a technical person.
 
-Being a UNIX Guy who refuses to do Windows is increasingly more impractical.
+Software projects are usually very cyclical. Not only is the actual flow of projects cyclical, but the work inside a project is cyclical.
 
-Longevity is going to require that you are platform neutral in the workplace.
+The way to become a generalist is to not label yourself with a specific role or technology. Longevity is going to require that you are platform neutral in the workplace.
 
-It’s rare, and refreshing, to find a developer who truly understands the platform on which he or she is working.
+**Act on It!**
 
-Act on It!
-
-list the dimensions on which you may or may not be generalizing your knowledge and abilities. For each dimension, write your specialty.
-
-to the right of your specialty, write one or more topics you should put into your “To Learn” list.
+List the dimensions on which you may or may not be generalizing your knowledge and abilities. For each dimension, write your specialty. to the right of your specialty, write one or more topics you should put into your “To Learn” list.
 
 ## Tip 8:   Be a Specialist
 
-Unfortunately, the software industry has churned out a whole lot of these shallow specialists, who use the term specialist as an excuse for knowing only one thing.
+Unfortunately, the software industry has churned out a whole lot of these shallow specialists, who use the term specialist as an excuse for knowing only one thing. I wanted someone who, when dealing with high-level abstractions, would also understand the low-level details of what went into the implementation of those abstractions.
 
-I wanted someone who, when dealing with high-level abstractions, would also understand the low-level details of what went into the implementation of those abstractions.
-
-Act on It!
+**Act on It!**
 
 Whether your language relies on a VM or not, take some time to study just what happens when you compile a source file.
 
-teach a class on some aspect of a technology that you would like to develop some depth in.
+Teach a class on some aspect of a technology that you would like to develop some depth in. Teaching is one of the best ways to learn.
 
-, teaching is one of the best ways to learn.
 ## Tip 9:   Don’t Put All Your Eggs in Someone Else’s Basket
 
-we fool ourselves into thinking market leader is the same thing as standard. So, to some people, it seems rational to make another company’s product part of their identities.
-
-although a single-minded investment in one particular technology is almost always a bad idea, if you must do so, consider focusing on an open source option,
+We fool ourselves into thinking market leader is the same thing as standard. So, to some people, it seems rational to make another company’s product part of their identities. Although a single-minded investment in one particular technology is almost always a bad idea, if you must do so, consider focusing on an open source option.
 
 You start to realize that these concepts and patterns that your brain is sorting through and making sense of are much more scalable and universal than any specific vendor’s technology.
 
-cuando estudias soluciones de codigo aberto en lugar de propietarias en profundidad. empiezas  reconocer patrones que te siren msas alla de la tecnologia
-
-You start to realize that these concepts and patterns that your brain is sorting through and making sense of are much more scalable and universal than any specific vendor’s technology.
-
-Act on It!
+**Act on It!**
 
 Try a small project, twice. Try it once in your home base technology and then once, as idiomatically as possible, in a competing technology.
 
 ## Tip 10:   Love It or Leave It
 
-You have to be passionate about your work if you want to be great at your work.
+You have to be passionate about your work if you want to be great at your work. I was obsessed with learning anything and everything I could. This was the difference between me and my overeducated, underperforming colleagues at work. Passion. We can’t all be Mozart or Coltrane. But, we can all take a big step away from mediocrity by finding work we are passionate about.
 
-I was obsessed with learning anything and everything I could.
+**Act on It!**
 
-This was the difference between me and my overeducated, underperforming colleagues at work. Passion.
+Find a job you’re actually passionate about.
 
-We can’t all be Mozart or Coltrane. But, we can all take a big step away from mediocrity by finding work we are passionate about.
-
-Act on It! Go find a job
-
-Act on It!
-
-find a job you’re actually passionate about.
-
-keep two weeks of a simple log. Every workday when you wake up, rate your level of excitement on a scale from 1 to 10—1
-
-For the next two weeks, every morning plan how you’re going to make tomorrow a 10.
-
-Being a Serial Opportunist
+Keep two weeks of a simple log. Every workday when you wake up, rate your level of excitement on a scale from 1 to 10. For the next two weeks, every morning plan how you’re going to make tomorrow a 10.
 
 # Part 2 Investing in Your Product
 
-vmos. qu por mucho talento naturl qu tengas. un inversion en tus hbilidades merece la pema
-
-The structured me who invests in his abilities (even as a hobby) completely wipes the floor with the me who bets it all on natural talent and ability.
+The structured me who invests in his abilities (even as a hobby) completely wipes the floor with the me who bets it all on natural talent and ability. Vamos, que por mucho talento natural que tengas, un inversión en tus habilidades merece la pena.
 
 ## Tip 11:   Learn to Fish
 
@@ -321,121 +223,75 @@ Lao Tzu said, “Give a man a fish; feed him for a day. Teach a man to fish; fee
 
 The most obvious place to start is in learning the tools of your trade.
 
-Source control,
-
-It’s an integral part of your development process. Don’t let such an important thing—the authoritative repository of your work—be like voodoo to you.
+**Source control**: It’s an integral part of your development process. Don’t let such an important thing—the authoritative repository of your work—be like voodoo to you.
 
 A particularly easy way to get lazy is to use a lot of wizards that generate code for you.
 
-imagine how much faster you could go if you actually knew the ins and outs of the business domain you’re working
+Imagine how much faster you could go if you actually knew the ins and outs of the business domain you’re working, so learn your business domain
 
-Act on It!
+**Act on It!**
 
-You can ask yourself two extremely useful questions about any given area to drill down into the murky layers: How does it work? and Why does this (have to) happen?
+You can ask yourself two extremely useful questions about any given area to drill down into the murky layers: **How does it work?** and **Why does this (have to) happen?**
 
-time—Pick one of the most critical but neglected tools in your toolbox to focus on.
-
-allot yourself a small period of time each day to learn one new thing about the tool
+Pick one of the most critical but neglected tools in your toolbox to focus on. Allot yourself a small period of time each day to learn one new thing about the tool.
 
 ## Tip 12:   Learn How Businesses Really Work
 
-basics of business
-
-itself a domain of knowledge that one can—indeed, must—learn.
-
-Act on It!
-
-One such book that I found particularly useful (and pleasantly short) is The Ten-Day MBA: A Step-By-step Guide To Mastering The Skills Taught In America’s Top Business Schools [Sil99].
+Basics of business: itself a domain of knowledge that one can, indeed, must—learn.
 
 ## Tip 13:   Find a Mentor
 
-Without a role model, there’s no incentive to get better.
+Without a role model, there’s no incentive to get better. A mentor can also give structure to your learning process. Not only do you create a personal attachment and responsibility to your mentor, but the reverse happens as well.
 
-A mentor can also give structure to your learning process.
+**Act on It!**
 
-not only do you create a personal attachment and responsibility to your mentor, but the reverse happens as well.
-
-Act on It!
-
-Mentoring yourself—We’d
+Mentoring yourself
 
 ## Tip 14:   Be a Mentor
 
-The simple act of speaking is a known elixir for treating an unclear mind.
-
-We learn by teaching. It’s ironic, because we expect a teacher to already know things.
-
-We look for analogies to express complex concepts,
+The simple act of speaking is a known elixir for treating an unclear mind. We learn by teaching. It’s ironic, because we expect a teacher to already know things. We look for analogies to express complex concepts.
 
 You find a mentee not by going out and declaring yourself a guru but by being knowledgeable and willing to patiently share that knowledge.
 
 Keep in mind, though, that mentoring is about people.
 
-Act on It!
+**Act on It!**
 
-Look for someone to take under your wing.
-
-Start helping. Become known for your desire and ability to patiently help people learn.
+Look for someone to take under your wing. Start helping. Become known for your desire and ability to patiently help people learn.
 
 ## Tip 15:   Practice, Practice, Practice
 
 Our industry tends to practice on the job.
 
-if I sit down to practice coding and nothing but elegant code comes out, I’m probably sitting somewhere near the center of my current capabilities instead of the edges, where a good practice session should place me.
+If I sit down to practice coding and nothing but elegant code comes out, I’m probably sitting somewhere near the center of my current capabilities instead of the edges, where a good practice session should place me.
 
-how do you know what to practice?
+how do you know what to practice? I’d break jazz practice down into the following categories (simplified for the nonmusicians among us), and apply it to software
 
-I’d break jazz practice down into the following categories (simplified for the nonmusicians among us): Physical/coordination Sight reading Improvisation
+1. Physical/coordination: What about the dusty corners of your primary programming language that you rarely visit?, Regular expressions, Your language’s APIs or function libraries, How about stream libraries, network programming APIs, or even the set of utilities available for dealing with collections or lists?
 
-Physical/coordination:
+2. Sight reading: The real goal is to understand what you’re looking at as quickly as possible. Open source software? How about trying to add a feature? Go look at the to-do list for a piece of software you’d like to practice with, and give yourself a constrained amount of time to implement the new feature (or at least to determine what it would take to implement), After choosing a feature, download the source code for the software, and start exploring. How do you know where to look? What tricks do you use to find your way around a significant body of code? What’s your starting place? 
 
-What about the dusty corners of your primary programming language that you rarely visit?
-
-Regular expressions
-
-your language’s APIs or function libraries.
-
-how about stream libraries, network programming APIs, or even the set of utilities available for dealing with collections or lists?
-
-Sight reading:
-
-open source software? How about trying to add a feature? Go look at the to-do list for a piece of software you’d like to practice with, and give yourself a constrained amount of time to implement the new feature (or at least to determine what it would take to implement
-
-After choosing a feature, download the source code for the software, and start exploring. How do you know where to look? What tricks do you use to find your way around a significant body of code? What’s your starting place?
-
-The real goal is to understand what you’re looking at as quickly as possible.
-
-Improvisation:
-
-taking some structure or constraint and creating something new, on the fly, on top of that structure.
-
-Pick a simple program, and try to write it with these constraints.
+3. Improvisation: Taking some structure or constraint and creating something new, on the fly, on top of that structure. Pick a simple program, and try to write it with these constraints.
 
 You have to make time for practice. It’s your responsibility.
 
-Act on It!
+**Act on It!**
 
 ## Tip 16:   The Way That You Do It
 
-Dave has created twenty-one such kata and has made them available for free on his weblog (http://codekata.pragprog.com/).
+The truth is that for a software process to have any chance of being implemented successfully, it has to be embraced by the people who are using the process.
 
-The truth is that for a software process to have any chance of being implemented successfully, it has to be embraced by the people who are using the process—people
-
-The best way to feel ownership of processes is to help implement them.
-
-Alternatively, you might work in an environment where a process is passed down from on high.
-
-Again, this is an opportunity to take the initiative.
+The best way to feel ownership of processes is to help implement them. Alternatively, you might work in an environment where a process is passed down from on high. Again, this is an opportunity to take the initiative.
 
 The best process to follow is the one that makes your team most productive and results in the best products.
 
 The only way to find that hybrid (short of revelationary epiphany) is to study the available options, pick out the pieces that make sense to you and your team, and continuously refine them based on real experience.
 
-Act on It!
+**Act on It!**
 
 pues aqui temos una oportunidsd para desarrollar un carrera
 
-It’s much easier to find someone who can make software work than it is to find someone who can make the making of software work.
+It’s much easier to find someone who can make software work than it is to find someone who can make the making of software work (pues aquí vemos una oportunidad para desarrollar un carrera).
 
 ## Tip 17:   On the Shoulders of Giants
 
@@ -461,13 +317,13 @@ Find a group of like-minded people, and meet once a month.
 
 ## Tip 18:   Automate Yourself into a Job
 
-Act on It!
+**Act on It!**
 
 If the goal is to enhance software development throughput, you can get faster people to do the work, get more people to do the work, or automate the work.
 
 the faster programmer approach is too hard to prove, and we don’t want to encourage the add more cheap programmers approach. This leaves us with automation.
 
-Act on It!
+**Act on It!**
 
 Pick a task you normally do repetitively, and write a code generator for it.
 
@@ -485,7 +341,7 @@ In the case of a weekend coding race, you don’t have time to put tasks off, so
 
 Create movement. Be the one who pushes. Don’t get comfortable.
 
-Act on It!
+**Act on It!**
 
 Examine the tasks that have been sitting on it for a long time,
 
@@ -513,7 +369,7 @@ Without warning his manager, he started tracking daily hits.
 
 Simply setting a goal (daily, weekly, or whatever you’re capable of) and tracking this type of accomplishment can radically change your behavior. When
 
-Act on It!
+**Act on It!**
 
 Think about the little nitpicky problems your team puts up with on a daily basis. Write them down.
 
@@ -535,7 +391,7 @@ If you’re not sure, you have one obvious place to go to find out: your manager
 
 The role of a good manager is to set priorities for the team, make sure the team has what it needs to get the job done, and do what it takes to keep the team motivated and productive,
 
-Act on It!
+**Act on It!**
 
 Schedule a meeting with your manager.
 
@@ -565,7 +421,7 @@ It seems backward, but keeping your mind focused on the present will get you fur
 
 Focusing on the present allows you to enjoy the small victories of daily work life:
 
-Act on It!
+**Act on It!**
 
 Write down your goals for your current job.
 
@@ -591,7 +447,7 @@ que puddes hacer para que las taress aburridas no o sean tanto?
 
 What if you tried to do the boring stuff perfectly?
 
-Act on It!
+**Act on It!**
 
 visible—Turn those boring tasks into a competition with your co-workers. See who can do them better.
 
@@ -617,7 +473,7 @@ you should never get too comfortable.
 
 Attempting to be irreplaceable is a defensive maneuver that creates a hostile relationship with your employer
 
-Act on It!
+**Act on It!**
 
 Make a note of anything for which the team is completely dependent on you.
 
@@ -639,7 +495,7 @@ the maintenance programmer often has the opportunity to interact directly with h
 
 It also puts you in a prime spot for truly learning the inner workings of your business.
 
-Act on It!
+**Act on It!**
 
 Measure, improve, measure—For the most critical application or code that you maintain, make a list of measurable factors that represent the quality of the application.
 
@@ -665,7 +521,7 @@ You might be working while you’re driving to dinner with your spouse or while 
 
 If you work intensely every day, you’ll find that the work doesn’t follow you home.
 
-Act on It!
+**Act on It!**
 
 Work intensely for four hours. Take an hour lunch. Then work for four more hours so intensely that you are absolutely exhausted
 
@@ -701,7 +557,7 @@ If I have a team member who has the strength to say “no” when that’s the t
 
 Be courageous enough to be honest.
 
-Act on It!
+**Act on It!**
 
 keeping a list of every commitment you make:
 
@@ -725,7 +581,7 @@ I analyze the situation from the third-person perspective,
 
 I often find that the solution simple and staring me in the face
 
-Act on It!
+**Act on It!**
 
 Keep a panic journal.
 
@@ -797,7 +653,7 @@ That means you are always going to be measured based on someone else’s percept
 
 We’ve culturally trained ourselves to perceive that managing perception is somehow a dirty and shameful activity. But, as you can see, managing perception is just practical.
 
-Act on It!
+**Act on It!**
 
 Think about the different classes of relationships you generally have with people in the office.
 
@@ -835,7 +691,7 @@ writing skills are both necessary and are in short supply.
 
 The ability to write creates both a superficial perception of you and a real insight into how your mind works.
 
-Act on It!
+**Act on It!**
 
 development diary. Write a little in it each day, explaining what you’ve been working on, justifying your design decisions, and vetting tough technical or professional decisions.
 
@@ -851,7 +707,7 @@ you need to make it personal,
 
 Try to actually learn about the people you work with.
 
-Act on It!
+**Act on It!**
 
 ## Tip 37:   Suit Speak
 
@@ -865,7 +721,7 @@ to sell a product to an audience, you have to speak to that audience in a langua
 
 would you be able to explain the business benefit of the tasks you are doing or the tasks you had recently done?
 
-Act on It!
+**Act on It!**
 
 Make a list of your recent accomplishments. Write the business benefit for each.
 
@@ -881,7 +737,7 @@ You need to effect visible change through your team, organization, or company.
 
 You can’t stand back and watch the people in your company do things wrong. You know things could be better, and you have to change them.
 
-Act on It!
+**Act on It!**
 
 Think of the most driven and effective people in the places where you’ve worked. What were their missions?
 
@@ -909,7 +765,7 @@ Now that you’re writing in your own forum, you might as well take your writing
 
 More writing leads to more writing opportunities. And all of these lead to the opportunity to speak at conferences. Just as we started easily with the
 
-Act on It!
+**Act on It!**
 
 ## Tip 40:   Build Your Brand
 
@@ -917,7 +773,7 @@ What you want is both recognition and respect. Your name is your brand.
 
 remember that the things you choose to do and associate yourself with have a lasting impact on what your name means to people.
 
-Act on It!
+**Act on It!**
 
 Google yourself—Search
 
@@ -933,7 +789,7 @@ Leading an open source project can demonstrate much more than technical ability.
 
 Leading an open source project can demonstrate much more than technical ability. It takes skills in leadership, release management, documentation, and product and community support to foster a community around your efforts. And, if you do these things successfully—in your spare time as a hobby—you’ll be amazingly different from most of the other people competing for the same
 
-Act on It!
+**Act on It!**
 
 Take a piece of open source software with unit tests. Run the unit tests through a code coverage analyzer. Find the least-tested part of the system and write tests to improve the coverage of that code.
 
@@ -955,7 +811,7 @@ You will not become a remarkable software developer by simply being better than 
 
 remarkability means that people talk about you before they are asked.
 
-Act on It!
+**Act on It!**
 
 Start small, but try to do something remarkable on your current project or job.
 
@@ -973,7 +829,7 @@ you can make the hang online as well as in person.
 
 software developers have the advantage of being able to easily reach each other no matter where we may be.
 
-Act on It!
+**Act on It!**
 
 Pick one of your favorite pieces of software and e-mail its creator.
 
@@ -995,7 +851,7 @@ I will say that the more mainstream your knowledge, the greater risk you have of
 
 You have to start by realizing that even if you’re on the bleeding edge of today’s wave, you’re already probably behind on the next one. Timing being everything, start thinking ahead with your study.
 
-Act on It!
+**Act on It!**
 
 Carve out weekly time to investigate the bleeding edge. Make room for at least two hours each week in order to research new technologies and to start to develop skills in them.
 
@@ -1003,7 +859,7 @@ Carve out weekly time to investigate the bleeding edge. Make room for at least t
 
 if you were hired to be a programmer, don’t think of yourself as a programmer. Think of yourself as maybe not a programmer anymore. Keep doing your job, but don’t get too comfortable.
 
-Act on It!
+**Act on It!**
 
 you’re a programmer, try a day or two of doing your job as if you were a tester or a project manager.
 
@@ -1019,7 +875,7 @@ What most of us fail to realize is that the path is the end.
 
 Focusing on the ending makes you forget to make the process good. And, bad processes create bad products.
 
-Act on It!
+**Act on It!**
 
 time tracking and expense reporting,
 
@@ -1041,7 +897,7 @@ this an address book or a chat application? Is it a game or a web browser? A per
 
 Each new investment is part of a larger whole.
 
-Act on It!
+**Act on It!**
 
 map out where you’ve been.
 
@@ -1059,7 +915,7 @@ Watch the technology news, both the business side and the purely technical side,
 
 watch the alpha geeks. Alpha geeks are those super-nerds who are always on the bloodiest tip of the bleeding edge,
 
-Act on It!
+**Act on It!**
 
 Spend the next year trying to become one of the alpha geeks. Or at least make the hang with one.
 
@@ -1077,7 +933,7 @@ A mentor or a close colleague doesn’t live in your head with you and can help 
 
 The most important thing to ferret out as you go through a process like this (either alone or with help) is where your blind spots are.
 
-Act on It!
+**Act on It!**
 
 Do a 360 review:
 
@@ -1107,7 +963,7 @@ it’s easy to get hung up on technology choices.
 
 We love the technology so much and place such a high value on defending it
 
-Act on It!
+**Act on It!**
 
 Find your monkey traps—What are your rigid assumptions?
 
@@ -1151,7 +1007,7 @@ for most of the big, difficult goals you’re striving for, it’s important to 
 
 So, make your improvements small and incremental but daily. Small improvements also decrease the cost of failure.
 
-Act on It!
+**Act on It!**
 
 Make a list of the difficult or complex improvements you’d like to make;
 
