@@ -39,7 +39,7 @@ c. (there can be lots of blog posts here)
 25. John Papa's Angular style guide
 26. Write code to be read (Sandi Metz idea, podcast, ...)
 27. Greatest cost in software development is understanding the code (Sandi Metz)
-28. Code kata, by Emily Bache
+28. Code kata, by Emily Bache. Enlaces relacionados con katas: http://codekata.com (the Pragmatice Dave), https://github.com/emilybache/Racing-Car-Katas, ¿?
 29. Coding dojos, code retreats
 31. JS design patterns
 a. Flyweight
