@@ -79,49 +79,49 @@ releerlos de vez en cuando.
 > You can’t compete on price, but you can compete on ability.
 
 > You have to be passionate about your work if you want to be great at your
-> work.
+work.
 
 > You find a mentee not by going out and declaring yourself a guru but by being
-> knowledgeable and willing to patiently share that knowledge.
+knowledgeable and willing to patiently share that knowledge.
 
 > It’s much easier to find someone who can make software work than it is to
-> find someone who can make the making of software work.
+find someone who can make the making of software work.
 
 > Create movement. Be the one who pushes. Don’t get comfortable. 
 
 > The most serious barrier between us mortals and the people we admire is our
-> own fear.
+own fear.
 
 > The process in this book is a loop that repeats until you retire. Research,
-> invest, execute, market, repeat.
+invest, execute, market, repeat.
 
 ## Frases que me gustaría recordar
 
 > At least when starting out, greatness is binary in the music world. A
-> musician wants to either be great (and famous for it!) or not do it at all.
-> I’m often asked why it is that there are so many good musicians who are also
-> good software developers. That’s the reason.
+musician wants to either be great (and famous for it!) or not do it at all.
+I’m often asked why it is that there are so many good musicians who are also
+good software developers. That’s the reason.
 
 > Think of your career as if it is the life cycle of a product that you are
-> creating. That product is made up of you and your skills.
+creating. That product is made up of you and your skills.
 
 > If you want to stay relevant, you’re going to have to dive into the domain of
-> the business you’re in.
+the business you’re in.
 
 > Legendary jazz guitarist Pat Metheny: “Always be the worst guy in every band
-> you’re in.”
+you’re in.”
 
 > Fear-driven advice is geared toward not losing. Thinking about not losing is
-> not the way to win!
+not the way to win!
 
 > Teaching is one of the best ways to learn.
 
 > Cuando estudias soluciones de código abierto, en lugar de propietarias, en
-> profundidad empiezas a reconocer patrones que te sirven más allá de la
-> tecnología.
+profundidad empiezas a reconocer patrones que te sirven más allá de la
+tecnología.
 
 > The most obvious place to start your lifelong learning is in learning the
-> tools of your trade.
+tools of your trade.
 
 > Without a role model, there’s no incentive to get better.
 
@@ -130,31 +130,31 @@ releerlos de vez en cuando.
 > Studying the work of masters is an essential part of becoming a master.
 
 > I learned that no matter how cool the technology seemed to be, it was
-> valuable only if it solved a real problem that was urgent and provided
-> quantifiable benefits. Over time, this helped me change my way of thinking
-> from being technology-centric to being solution-centric.
+valuable only if it solved a real problem that was urgent and provided
+quantifiable benefits. Over time, this helped me change my way of thinking
+from being technology-centric to being solution-centric.
 
 > Attempting to be irreplaceable is a defensive maneuver that creates a hostile
-> relationship with your employer.
+relationship with your employer.
 
 > We judge each other on how we deal with those inevitable mistakes.
 
 > If you don’t have a deadline, you don’t have any pressure or much incentive
-> to finish something.
+to finish something.
 
 > There is no way to objectively measure the quality of a knowledge worker, and
-> there is no way to objectively measure the quality of their work. That means
-> you are always going to be measured based on someone else’s perception of
-> you.
+there is no way to objectively measure the quality of their work. That means
+you are always going to be measured based on someone else’s perception of
+you.
 
 > You need to make it personal. Try to actually learn about the people you work
-> with.
+with.
 
 > Set big goals, but make constant corrections along the way. Learn from the
-> experience, and change the goals as you go.
+experience, and change the goals as you go.
 
 > Software development is both challenging and rewarding. It’s creative like an
-> art-form, but (unlike art) it provides concrete, measurable value.
+art-form, but (unlike art) it provides concrete, measurable value.
 
 ## Recursos relacionados
 
