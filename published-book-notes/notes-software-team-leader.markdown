@@ -4,7 +4,7 @@
 
 Notas tomadas del libro [Notes to a software team leader][1].
 
-{% img left https://s3.amazonaws.com/titlepages.leanpub.com/teamleader/large?1438389048 %}
+![Notes to a software team leader](https://s3.amazonaws.com/titlepages.leanpub.com/teamleader/large?1438389048)
 
 ## Introduction
 
