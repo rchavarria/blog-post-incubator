@@ -1,6 +1,6 @@
 # The passionate programmer, by Chad Fowler
 
-[![The passionate programmer](http://chadfowler.com/images/books/passionate-programmer.jpg)]
+![The passionate programmer](http://www.codeodor.com/images/passionate_programmer.jpg)
 
 This book is about finding fulfillment and happiness in your career. Fulfillment and happiness don’t (often) come by chance. They require thought, intention, action, and a willingness to change. But please don’t forget that these are not the goals. They’re a means to an end.
 
