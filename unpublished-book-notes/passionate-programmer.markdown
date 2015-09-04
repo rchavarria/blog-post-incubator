@@ -50,13 +50,25 @@ Creo que este es un libro para tener al lado de *The pragmatic programmer* y rel
 
 ## Qué he aprendido
 
+> You can’t compete on price, but you can compete on ability.
+
+> You have to be passionate about your work if you want to be great at your work.
+
+> You find a mentee not by going out and declaring yourself a guru but by being knowledgeable and willing to patiently share that knowledge.
+
+> It’s much easier to find someone who can make software work than it is to find someone who can make the making of software work.
+
+> Create movement. Be the one who pushes. Don’t get comfortable. 
+
+> The most serious barrier between us mortals and the people we admire is our own fear.
+
+> The process in this book is a loop that repeats until you retire. Research, invest, execute, market, repeat.
+
 ## Frases que me gustaría recordar
 
 > At least when starting out, greatness is binary in the music world. A musician wants to either be great (and famous for it!) or not do it at all. I’m often asked why it is that there are so many good musicians who are also good software developers. That’s the reason.
 
 > Think of your career as if it is the life cycle of a product that you are creating. That product is made up of you and your skills.
-
-> You can’t compete on price, but you can compete on ability.
 
 > If you want to stay relevant, you’re going to have to dive into the domain of the business you’re in.
 
@@ -68,23 +80,33 @@ Creo que este es un libro para tener al lado de *The pragmatic programmer* y rel
 
 > Cuando estudias soluciones de código abierto, en lugar de propietarias, en profundidad empiezas a reconocer patrones que te sirven más allá de la tecnología.
 
-> You have to be passionate about your work if you want to be great at your work.
-
 > The most obvious place to start your lifelong learning is in learning the tools of your trade.
 
 > Without a role model, there’s no incentive to get better.
 
-> You find a mentee not by going out and declaring yourself a guru but by being knowledgeable and willing to patiently share that knowledge.
-
 > You have to make time for practice. It’s your responsibility.
 
-> It’s much easier to find someone who can make software work than it is to find someone who can make the making of software work.
+> Studying the work of masters is an essential part of becoming a master.
 
-> 
+> I learned that no matter how cool the technology seemed to be, it was valuable only if it solved a real problem that was urgent and provided quantifiable benefits. Over time, this helped me change my way of thinking from being technology-centric to being solution-centric.
+
+> Attempting to be irreplaceable is a defensive maneuver that creates a hostile relationship with your employer.
+
+> We judge each other on how we deal with those inevitable mistakes.
+
+> If you don’t have a deadline, you don’t have any pressure or much incentive to finish something.
+
+> There is no way to objectively measure the quality of a knowledge worker, and there is no way to objectively measure the quality of their work. That means you are always going to be measured based on someone else’s perception of you.
+
+> You need to make it personal. Try to actually learn about the people you work with.
+
+> Set big goals, but make constant corrections along the way. Learn from the experience, and change the goals as you go.
+
+> Software development is both challenging and rewarding. It’s creative like an art-form, but (unlike art) it provides concrete, measurable value.
 
 ## Recursos relacionados
 
-- [titulo sobre el enlace a las notas][2]
+- [Notas tomadas sobre el libro][2]
 
 [1]: https://pragprog.com/book/tpp/the-pragmatic-programmer
 [2]: foo-bar-foo-bar
@@ -297,31 +319,17 @@ It’s much easier to find someone who can make software work than it is to find
 
 Studying the work of masters is an essential part of becoming a master.
 
-Software design and programming have a lot in common with the arts in this way.
-
-tienen en comun que hy mucho marerial de maestros ue se puede estudiar
-
-The act of learning from the work that came before you works well in the arts world,
-
-As you look at this code with a critical eye, you will start to develop your own tastes, just as you would for music, art, or literature.
+Software design and programming have a lot in common with the arts in this way. Tienen en común que hay mucho material de maestros que se puede estudiar. The act of learning from the work that came before you works well in the arts world. As you look at this code with a critical eye, you will start to develop your own tastes, just as you would for music, art, or literature.
 
 Sir Isaac Newton said, “If I have seen further, it is by standing on the shoulders of giants.” Smart guys like Isaac know that there is much to be learned from those who came before us.
 
-Pick a project, and read it like a book. Make notes.
+**Act on It!**
 
-Write a critique, and publish it.
-
-como un gripo de estudio de un kengyaje de prigramacion
-
-Find a group of like-minded people, and meet once a month.
+Pick a project, and read it like a book. Make notes. Write a critique, and publish it. Como un grupo de estudio de un lenguaje de programación.
 
 ## Tip 18:   Automate Yourself into a Job
 
-**Act on It!**
-
-If the goal is to enhance software development throughput, you can get faster people to do the work, get more people to do the work, or automate the work.
-
-the faster programmer approach is too hard to prove, and we don’t want to encourage the add more cheap programmers approach. This leaves us with automation.
+If the goal is to enhance software development throughput, you can get faster people to do the work, get more people to do the work, or automate the work. The faster programmer approach is too hard to prove, and we don’t want to encourage the add more cheap programmers approach. This leaves us with automation.
 
 **Act on It!**
 
@@ -331,411 +339,198 @@ I learned that no matter how cool the technology seemed to be, it was valuable o
 
 # Part 3 Executing
 
-The craft we’ve chosen isn’t usually coupled with the domain in which we’re applying that craft.
-
-This identity observation creates some subtle problems, because our macro-goals may conflict with our micro-responsibilities.
+The craft we’ve chosen isn’t usually coupled with the domain in which we’re applying that craft. This identity observation creates some subtle problems, because our macro-goals may conflict with our micro-responsibilities.
 
 ## Tip 19:   Right Now
 
-In the case of a weekend coding race, you don’t have time to put tasks off, so you don’t. You can’t delay making a decision, so you don’t. You can’t avoid the boring work,
-
-Create movement. Be the one who pushes. Don’t get comfortable.
+In the case of a weekend coding race, you don’t have time to put tasks off, so you don’t. You can’t delay making a decision, so you don’t. You can’t avoid the boring work. Create movement. Be the one who pushes. Don’t get comfortable.
 
 **Act on It!**
 
-Examine the tasks that have been sitting on it for a long time,
-
-Find one that you could just do in between the cracks of your normal work, when you would normally be browsing the Web, checking your e-mail, or taking a long lunch.
+Examine the tasks that have been sitting on it for a long time. Find one that you could just do in between the cracks of your normal work, when you would normally be browsing the Web, checking your e-mail, or taking a long lunch.
 
 ## Tip 20:   Mind Reader
 
-the trick was that he was only doing things that I had already said I wanted. I had just said them in ways that were subtle enough that even I didn’t realize I had said them.
+The trick was that he was only doing things that I had already said I wanted. I had just said them in ways that were subtle enough that even I didn’t realize I had said them. Mind reading not only applies to your managers but also to your customers. If they’re giving you the right cues, you might be able to add features that they’re either going to ask. People who can keep a project moving in the right direction without being given much guidance are highly valued and appreciated by their often overworked managers and customers. It’s a skill worth exploring and developing.
 
-Mind reading not only applies to your managers but also to your customers.
+**Act on It!**
 
-If they’re giving you the right cues, you might be able to add features that they’re either going to ask
-
-People who can keep a project moving in the right direction without being given much guidance are highly valued and appreciated by their often overworked managers and customers.
-
-It’s a skill worth exploring and developing.
-
-start making some notes about what you think your users and managers are going to ask for. Be creative.
-
-track your hit rate.
+Start making some notes about what you think your users and managers are going to ask for. Be creative. Track your hit rate.
 
 ## Tip 21:   Daily Hit
 
-Without warning his manager, he started tracking daily hits.
-
-Simply setting a goal (daily, weekly, or whatever you’re capable of) and tracking this type of accomplishment can radically change your behavior. When
+Without warning his manager, he started tracking daily hits. Simply setting a goal (daily, weekly, or whatever you’re capable of) and tracking this type of accomplishment can radically change your behavior.
 
 **Act on It!**
 
-Think about the little nitpicky problems your team puts up with on a daily basis. Write them down.
-
-are you doing something manually that could be automated? Write it down. How
-
-Next week, on Monday, take the first item from the list, and do something about it. On Tuesday,
+Think about the little nitpicky problems your team puts up with on a daily basis. Write them down. Are you doing something manually that could be automated? Write it down. Next week, on Monday, take the first item from the list, and do something about it. On Tuesday,...
 
 ## Tip 22:   Remember Who You Work For
 
-It’s really easy to say “Make sure your goals and your work align with the goals of your business.”
+It’s really easy to say “Make sure your goals and your work align with the goals of your business.”. The most obvious puddle (se refiere a que cambiar toda la empresa puede ser mucho, que hay que empezar por partes más pequeñas) to start with is your own team. You most likely understand the problems the team faces.
 
-cuando dice puddle. se refier aque cambiar toda la empres pued ser muho. qu hay que empezar por partes mas pequeñas
-
-The most obvious puddle to start with is your own team.
-
-You most likely understand the problems the team faces.
-
-If you’re not sure, you have one obvious place to go to find out: your manager.
-
-The role of a good manager is to set priorities for the team, make sure the team has what it needs to get the job done, and do what it takes to keep the team motivated and productive,
+If you’re not sure, you have one obvious place to go to find out: your manager. The role of a good manager is to set priorities for the team, make sure the team has what it needs to get the job done, and do what it takes to keep the team motivated and productive,
 
 **Act on It!**
 
-Schedule a meeting with your manager.
-
-understand your manager’s goals for the team
+Schedule a meeting with your manager. Understand your manager’s goals for the team
 
 ## Tip 23:   Be Where You’re At
 
-an employee who’s always aiming for the next rung on the ladder.
+An employee who’s always aiming for the next rung on the ladder. He complains about the incompetence of The Management. He thinks many tasks are beneath him. He avoids them when possible. Because he’s living in the next job, he’s usually doing a mediocre job in his current role.
 
-He complains about the incompetence of The Management
+how do you think his management is going to view him? He’s a mediocre performer with a bad attitude. I’ve been this guy myself to some extent. Here’s a secret: that feeling will never end.
 
-He thinks many tasks are beneath him. He avoids them when possible
-
-because he’s living in the next job, he’s usually doing a mediocre job in his current role.
-
-how do you think his management is going to view him?
-
-He’s a mediocre performer with a bad attitude.
-
-I’ve been this guy myself to some extent.
-
-Here’s a secret: that feeling will never end.
-
-It’s good to have goals,
-
-It seems backward, but keeping your mind focused on the present will get you further toward your goals than keeping your mind focused on the goal itself.
-
-Focusing on the present allows you to enjoy the small victories of daily work life:
+It’s good to have goals. It seems backward, but keeping your mind focused on the present will get you further toward your goals than keeping your mind focused on the goal itself. Focusing on the present allows you to enjoy the small victories of daily work life.
 
 **Act on It!**
 
-Write down your goals for your current job.
-
-What can you have produced in this job that will be great?
-
-Spend the week implementing these tactics in support of the long-term goal of “finishing” this job.
-
-no entiendo muy bien el act on it deeste capitulo. objetivos del actual traajo? planificarlos...
+Write down your goals for your current job. What can you have produced in this job that will be great? Spend the week implementing these tactics in support of the long-term goal of “finishing” this job.
 
 ## Tip 24:   How Good a Job Can I Do Today?
 
-When we have more fun, we do better work. So, when we have no interest in a task, we’re bored, and our work suffers as a result.
-
-the boring work is boring for two primary reasons.
-
-tareas que no dejan lugsr a la imaginacoon
-
-probably not tasks that leave much to the imagination.
-
-tasks are not challenging.
-
-que puddes hacer para que las taress aburridas no o sean tanto?
-
-What if you tried to do the boring stuff perfectly?
+When we have more fun, we do better work. So, when we have no interest in a task, we’re bored, and our work suffers as a result. The boring work is boring for two primary reasons. Tareas que no dejan lugar a la imagincación. Tasks are not challenging. Que puedes hacer para que las tareas aburridas no lo sean tanto? What if you tried to do the boring stuff perfectly?
 
 **Act on It!**
 
-visible—Turn those boring tasks into a competition with your co-workers. See who can do them better.
+Turn those boring tasks into a competition with your co-workers. See who can do them better.
 
 ## Tip 25:   How Much Are You Worth?
 
-How much money did you cause the company to save? How much more in revenues did you contribute? Is that number bigger than twice your salary?
+How much money did you cause the company to save? How much more in revenues did you contribute? Is that number bigger than twice your salary? Cuantificar el valor que aportas a la empresa.
 
-cuantificsr el valor que aportss a la empresa
+**Act on It!**
 
-Talk to your manager about how to best quantify it.
-
-How could you creatively save the company money?
+Talk to your manager about how to best quantify it. How could you creatively save the company money?
 
 ## Tip 26:   A Pebble in a Bucket of Water
 
-do the companies they leave actually feel a significant impact as a result of their departure. In most cases, even in critical positions, the effect is surprisingly low.
+Do the companies they leave actually feel a significant impact as a result of their departure. In most cases, even in critical positions, the effect is surprisingly low. If you left tomorrow, the difference would be (on the average) no more or less impactful than if any of your co-workers left. Attempting to be irreplaceable is a defensive maneuver that creates a hostile relationship with your employer.
 
-if you left tomorrow, the difference would be (on the average) no more or less impactful than if any of your co-workers left.
-
-un consejo que le daba un super cio
-
-you should never get too comfortable.
-
-Attempting to be irreplaceable is a defensive maneuver that creates a hostile relationship with your employer
+Un consejo que le daba un super CIO: You should never get too comfortable.
 
 **Act on It!**
 
-Make a note of anything for which the team is completely dependent on you.
-
-Document, automate, or refactor each piece of code or task so that it could be easily understood by anyone on your team.
+Make a note of anything for which the team is completely dependent on you. Document, automate, or refactor each piece of code or task so that it could be easily understood by anyone on your team.
 
 ## Tip 27:   Learn to Love Maintenance
 
-Maintenance work is typically littered with old, rotting systems and pushy end users.
+Maintenance work is typically littered with old, rotting systems and pushy end users. Departments are usually focused on reducing the cost of maintaining these systems. Project work, on the other hand, is where you start with a nice, clean, green field.
 
-departments are usually focused on reducing the cost of maintaining these systems,
-
-Project work, on the other hand, is where you start with a nice, clean, green field.
-
-As long as you’re keeping it running and responding to user requests in a timely fashion, maintenance mode is a place of freedom and creativity.
-
-measurable success or failure of the system is yours to bear. When you’re maintaining a system, you can also plan for more visible improvements.
-
-the maintenance programmer often has the opportunity to interact directly with his or her customers.
-
-It also puts you in a prime spot for truly learning the inner workings of your business.
+As long as you’re keeping it running and responding to user requests in a timely fashion, maintenance mode is a place of freedom and creativity. Measurable success or failure of the system is yours to bear. When you’re maintaining a system, you can also plan for more visible improvements. The maintenance programmer often has the opportunity to interact directly with his or her customers. It also puts you in a prime spot for truly learning the inner workings of your business.
 
 **Act on It!**
 
-Measure, improve, measure—For the most critical application or code that you maintain, make a list of measurable factors that represent the quality of the application.
-
-set a realistic goal, and improve the application’s (or your own) performance to meet that goal.
+Measure, improve, measure: For the most critical application or code that you maintain, make a list of measurable factors that represent the quality of the application. Set a realistic goal, and improve the application’s (or your own) performance to meet that goal.
 
 ## Tip 28:   Eight-Hour Burn
 
-“eight-hour burn.” The idea is that you should work so relentlessly that there is no way that you could continue longer than eight hours.
+**eight-hour burn** The idea is that you should work so relentlessly that there is no way that you could continue longer than eight hours. We treat scarce resources as being more valuable, and we make more efficient use of them. We can also apply this to our time.
 
-Most projects last a long time. You can’t keep up the pace of a sprint and finish a marathon.
-
-We treat scarce resources as being more valuable, and we make more efficient use of them.
-
-we can also apply this to our time.
-
-It’s 10:30 a.m., and I know I’m going to be here for hours after everyone else goes home. I think I’ll check out the latest technology news for a while.
-
-Bob Martin’s eight-hour burn places a constraint on you and gives you a strategy for dealing with that constraint. You get to work and think, I’ve only got eight hours! Go, go, go! With
-
-As thought workers,
-
-You might be working while you’re driving to dinner with your spouse or while you’re watching a movie.
+Alguna gente piensa: It’s 10:30 a.m., and I know I’m going to be here for hours after everyone else goes home. I think I’ll check out the latest technology news for a while.
 
 If you work intensely every day, you’ll find that the work doesn’t follow you home.
 
 **Act on It!**
 
-Work intensely for four hours. Take an hour lunch. Then work for four more hours so intensely that you are absolutely exhausted
+Work intensely for four hours. Take an hour lunch. Then work for four more hours so intensely that you are absolutely exhausted.
 
 ## Tip 29:   Learn How to Fail
 
-The little failures we encounter also teach us what kind of failures to expect.
+The little failures we encounter also teach us what kind of failures to expect. A craftsperson is really put to the test when the errors arise. Learning to deal with mistakes is a skill that is both highly valuable and difficult to teach. Because we all make mistakes, we also know that everyone else makes mistakes. So, within reason, we don’t judge each other on the mistakes we make. We judge each other on how we deal with those inevitable mistakes.
 
-A craftsperson is really put to the test when the errors arise. Learning to deal with mistakes is a skill that is both highly valuable and difficult to teach.
+¿Cómo aprender a fallar?
 
-Because we all make mistakes, we also know that everyone else makes mistakes. So, within reason, we don’t judge each other on the mistakes we make. We judge each other on how we deal with those inevitable mistakes.
-
-es como una excepcion. cuanto antes explote. menos daño y mas barata sera
-
-Raise the issue as early as you know about it.
-
-Take the blame.
-
-A problem needs a resolution. Lingering on whose fault it is only prolongs the issue.
-
-Offer a solution.
-
-Ask for help.
-
-don’t let your pride make it worse by refusing help
+- Raise the issue as early as you know about it.
+- Take the blame.
+- A problem needs a resolution. Lingering on whose fault it is only prolongs the issue.
+- Offer a solution.
+- Ask for help.
+- Don’t let your pride make it worse by refusing help
 
 ## Tip 30:   Say “No”
 
-The quickest path to missing your commitments is to make commitments that you know you can’t meet.
+The quickest path to missing your commitments is to make commitments that you know you can’t meet. We don’t want to disappoint our leaders, so we agree to impossible work being done in impossible timelines.
 
-don’t want to disappoint our leaders, so we agree to impossible work being done in impossible timelines.
-
-If I have a team member who has the strength to say “no” when that’s the truth, then I know that when they say “yes,” they really mean it.
-
-Be courageous enough to be honest.
+If I have a team member who has the strength to say “no” when that’s the truth, then I know that when they say “yes,” they really mean it. Be courageous enough to be honest.
 
 **Act on It!**
 
-keeping a list of every commitment you make:
-
-record both what you thought and what you were told to accept. Record when you delivered.
+Keeping a list of every commitment you make. Record both what you thought and what you were told to accept. Record when you delivered.
 
 ## Tip 31:   Don’t Panic
 
-Like most skills, a great way to get good at it is to watch masters at work.
+You’ll recognize that the best players all share this quality: Heroes never panic. We panic because we lose perspective. To focus all attention on the problem. To some extent, that’s a good way to solve problems. Unfortunately, it also makes the problem, no matter how small, seem more important than it is.
 
-Now if you think about other games, particularly sports, you’ll recognize that the best players all share this quality.
-
-Heroes never panic.
-
-We panic because we lose perspective.
-
-to focus all attention on the problem. To some extent, that’s a good way to solve problems. Unfortunately, it also makes the problem, no matter how small, seem more important than it is.
-
-When something bad happens and I start to feel that sinking, stressed-out feeling that leads to panic,
-
-I analyze the situation from the third-person perspective,
-
-I often find that the solution simple and staring me in the face
+When something bad happens and I start to feel that sinking, stressed-out feeling that leads to panic, I analyze the situation from the third-person perspective, I often find that the solution simple and staring me in the face.
 
 **Act on It!**
 
-Keep a panic journal.
-
-la idea es identificar las fuentes de panico antes d que ocurrn
-
-Each day at a specific time (use a calendar with a reminder!), open up a text file and record any situation that caused you to panic, even if only a little bit.
+Keep a panic journal. Each day at a specific time (use a calendar with a reminder!), open up a text file and record any situation that caused you to panic, even if only a little bit. La idea es identificar las fuentes de panico antes d que ocurrn
 
 ## Tip 32:   Say It, Do It, Show It
 
-If you don’t have a deadline, you don’t have any pressure or much incentive to finish something.
+If you don’t have a deadline, you don’t have any pressure or much incentive to finish something. A plan can make the difference between confused ambiguity at the start of a workday and clear-headed confidence when attacking the tasks ahead.
 
-a plan can make the difference between confused ambiguity at the start of a workday and clear-headed confidence when attacking the tasks ahead.
-
-Plans don’t have to be big and drawn out.
-
-Plans don’t have to cover a large span of time.
-
-move the incomplete items from today (if they’re still relevant) onto tomorrow’s list, and start the process again.
-
-Having established a rhythm of plan and attack, you are ready to start thinking in terms of weeks and even months.
-
-You should start communicating your plans to your management. The best time to start communicating the plans is after you have executed at least one cycle of the plan.
-
-Always state these long-term plans as proposals to your manager, and ask for feedback.
-
-Every item must be either visibly completed, delayed, removed, or replaced. No items should go unaccounted for.
-
-items show up on a plan and are never mentioned again, people will stop trusting your plans,
-
-Your leaders want you to have independence and ownership. Making, executing, and communicating plans will help you attain both.
+Plans don’t have to cover a large span of time. Move the incomplete items from today (if they’re still relevant) onto tomorrow’s list, and start the process again. Having established a rhythm of plan and attack, you are ready to start thinking in terms of weeks and even months. You should start communicating your plans to your management. The best time to start communicating the plans is after you have executed at least one cycle of the plan. Always state these long-term plans as proposals to your manager, and ask for feedback. Every item must be either visibly completed, delayed, removed, or replaced. No items should go unaccounted for. If items show up on a plan and are never mentioned again, people will stop trusting your plans. Your leaders want you to have independence and ownership. Making, executing, and communicating plans will help you attain both.
 
 Failing and Copying
 
-Larry Wall wrote that the traits of a great programmer are laziness, impatience, and hubris.
+Larry Wall wrote that the traits of a great programmer are laziness, impatience, and hubris. Instead of looking at traits, we should look at activities that will help in improvement. If I had to pick two, I’d pick failing and copying. Commercial failure tends to build a very direct kind of experience. With programming, it’s not so much the experience of failing that’s valuable as the knowledge gained in working on the kind of projects that are likely to fail.
 
-instead of looking at traits, we should look at activities that will help in improvement. If I had to pick two, I’d pick failing and copying.
-
-Commercial failure tends to build a very direct kind of experience.
-
-with programming, it’s not so much the experience of failing that’s valuable as the knowledge gained in working on the kind of projects that are likely to fail.
-
-To become a better programmer,
-
-I think you have to actively copy, widely and unashamedly.
-
-Copying lets you go further with projects that are likely to fail.
-
-At its best, this leads to a sort of virtuous cycle of failing and copying,
-
-You tackle something hard, stumble up against some insurmountable problem, copy someone else’s solution, and, hey, you now know how to do whatever it was.
+To become a better programmer, I think you have to actively copy, widely and unashamedly. Copying lets you go further with projects that are likely to fail. At its best, this leads to a sort of virtuous cycle of failing and copying. You tackle something hard, stumble up against some insurmountable problem, copy someone else’s solution, and, hey, you now know how to do whatever it was.
 
 # Part 4 Marketing… Not Just for Suits
 
-sera este el blog de andy hunt?
-
-Thanks to Andy Hunt for this idea (http://blog.toolshed.com/2003/07/how_good_a_job_.html).
-
-it’s stupid not to let people know what you’re capable of doing.
-
-You have only two goals: to let people know you exist and to let them know you are the person who can solve the tough problems that keep them up at night.
+It’s stupid not to let people know what you’re capable of doing. You have only two goals: to let people know you exist and to let them know you are the person who can solve the tough problems that keep them up at night.
 
 ## Tip 33:   Perceptions, Perschmeptions
 
-You should care what other people think about you. Perception is reality.
-
-There is no way to objectively measure the quality of a knowledge worker, and there is no way to objectively measure the quality of their work.
-
-That means you are always going to be measured based on someone else’s perception of you.
+You should care what other people think about you. Perception is reality. There is no way to objectively measure the quality of a knowledge worker, and there is no way to objectively measure the quality of their work. That means you are always going to be measured based on someone else’s perception of you.
 
 We’ve culturally trained ourselves to perceive that managing perception is somehow a dirty and shameful activity. But, as you can see, managing perception is just practical.
 
 **Act on It!**
 
-Think about the different classes of relationships you generally have with people in the office.
-
-write down which of your attributes is most likely to drive that group’s perception of you.
+Think about the different classes of relationships you generally have with people in the office. Write down which of your attributes is most likely to drive that group’s perception of you.
 
 ## Tip 34:   Adventure Tour Guide
 
-They’re going to be looking for someone who can make them comfortable about the project they’re working on.
+Managers/Customers are going to be looking for someone who can make them comfortable about the project they’re working on. They are afraid of you. Your job is to be your customer’s tour guide through the unforgiving terrain of the information technology world. You will make your customers comfortable while guiding them through an unfamiliar place.
 
-they are afraid of you.
+My advice is to reverse the relationship. Working in the insurance industry, think of your customer as a subject matter expert in insurance from which you have to learn in order to get your job done.
 
-Your job is to be your customer’s tour guide through the unforgiving terrain of the information technology world. You will make your customers comfortable while guiding them through an unfamiliar place.
+**Acto on It!**
 
-My advice is to reverse the relationship.
+Check yourself: Find examples of e-mails that you have sent to less-technical co-workers. Show the e-mails to your mom.
 
-working in the insurance industry, think of your customer as a subject matter expert in insurance from which you have to learn in order to get your job done.
+Hop the fence: Find an opportunity to be flung into a situation in which you are not the expert and are thus dependent on others who are.
 
-Check yourself—Are
+## Tip 35:   Me Rite Reel Nice (I write really nice?)
 
-find examples of e-mails that you have sent to less-technical co-workers,
-
-show the e-mails to your mom.
-
-Hop the fence—Find
-
-Hop the fence—Find an opportunity to be flung into a situation in which you are not the expert and are thus dependent on others who are.
-
-## Tip 35:   Me Rite Reel Nice
-
-i write really nice?
-
-grammar and spelling are important.
-
-writing skills are both necessary and are in short supply.
-
-The ability to write creates both a superficial perception of you and a real insight into how your mind works.
+Grammar and spelling are important. Writing skills are both necessary and are in short supply. The ability to write creates both a superficial perception of you and a real insight into how your mind works.
 
 **Act on It!**
 
-development diary. Write a little in it each day, explaining what you’ve been working on, justifying your design decisions, and vetting tough technical or professional decisions.
+Development diary. Write a little in it each day, explaining what you’ve been working on, justifying your design decisions, and vetting tough technical or professional decisions.
 
 ## Tip 36:   Being Present
 
-Physical proximity is an advantage in the workplace.
+Physical proximity is an advantage in the workplace. Face-to-face communication is incredibly effective. If you’re locked up in an office, accessible only by phone (if you answer) or e-mail and perhaps even working all hours of the night and sleeping late as a result, there’s no difference between you being onsite with your bosses and your customers and being offshore.
 
-face-to-face communication is incredibly effective.
-
-If you’re locked up in an office, accessible only by phone (if you answer) or e-mail and perhaps even working all hours of the night and sleeping late as a result, there’s no difference between you being onsite with your bosses and your customers and being offshore.
-
-you need to make it personal,
-
-Try to actually learn about the people you work with.
-
-**Act on It!**
+You need to make it personal. Try to actually learn about the people you work with.
 
 ## Tip 37:   Suit Speak
 
-Businesspeople
-
-like it when their applications are fast,
-
-But, they don’t care how many requests per second your new custom application server process can handle.
-
-to sell a product to an audience, you have to speak to that audience in a language they can both understand and relate to.
-
-would you be able to explain the business benefit of the tasks you are doing or the tasks you had recently done?
+Businesspeople like it when their applications are fast. But, they don’t care how many requests per second your new custom application server process can handle. To sell a product to an audience, you have to speak to that audience in a language they can both understand and relate to. Would you be able to explain the business benefit of the tasks you are doing or the tasks you had recently done?
 
 **Act on It!**
 
-Make a list of your recent accomplishments. Write the business benefit for each.
-
-ask a manager or trusted acquaintance how they would frame the benefit.
-
-Make your elevator speech, and memorize it.
+Make a list of your recent accomplishments. Write the business benefit for each. Ask a manager or trusted acquaintance how they would frame the benefit. Make your elevator speech, and memorize it.
 
 ## Tip 38:   Change the World
 
-if you want to be a software developer in a high-cost country, you need to come to work with a mission.
-
-You need to effect visible change through your team, organization, or company.
-
-You can’t stand back and watch the people in your company do things wrong. You know things could be better, and you have to change them.
+If you want to be a software developer in a high-cost country, you need to come to work with a mission. You need to effect visible change through your team, organization, or company. You can’t stand back and watch the people in your company do things wrong. You know things could be better, and you have to change them.
 
 **Act on It!**
 
@@ -745,49 +540,29 @@ Think of the most driven and effective people in the places where you’ve worke
 
 Set your sights higher. Don’t think of yourself as a programmer at a specific company—after all, it’s not likely that you’ll be at the same place forever—but as a participating member of an industry.
 
-saw a lot of overlap between the way you have to get your name out in music and in the computer industry.
+Saw a lot of overlap between the way you have to get your name out in music and in the computer industry. The best saxophonist doesn’t always get the gig. Who you’ve played with is at least as important as how well you play. The better musicians are overlooked for work because everyone assumes they won’t be available.
 
-The best saxophonist doesn’t always get the gig.
+If your social/music network terminates before reaching someone, it’s not likely you’ll ever be asked to perform with that person until an intermediary connection is made. What better ways than publishing and public speaking are there for your name to be propagated and your voice to be heard?
 
-Who you’ve played with is at least as important as how well you play;
-
-the better musicians are overlooked for work because everyone assumes they won’t be available
-
-If your social/music network terminates before reaching someone, it’s not likely you’ll ever be asked to perform with that person until an intermediary connection is made.
-
-What better ways than publishing and public speaking are there for your name to be propagated and your voice to be heard?
-
-The weblog is a training ground.
-
-Practice the craft of writing. Your skill will increase, and your confidence will grow.
-
-Now that you’re writing in your own forum, you might as well take your writing to community websites, magazines, or even books.
-
-More writing leads to more writing opportunities. And all of these lead to the opportunity to speak at conferences. Just as we started easily with the
+The weblog is a training ground. Practice the craft of writing. Your skill will increase, and your confidence will grow. Now that you’re writing in your own forum, you might as well take your writing to community websites, magazines, or even books. More writing leads to more writing opportunities. And all of these lead to the opportunity to speak at conferences.
 
 **Act on It!**
+
+Escribe un blog, da charlas, cursos o talleres.
 
 ## Tip 40:   Build Your Brand
 
-What you want is both recognition and respect. Your name is your brand.
-
-remember that the things you choose to do and associate yourself with have a lasting impact on what your name means to people.
+What you want is both recognition and respect. Your name is your brand. Remember that the things you choose to do and associate yourself with have a lasting impact on what your name means to people.
 
 **Act on It!**
 
-Google yourself—Search
+Google yourself
 
 ## Tip 41:   Release Your Code
 
-You don’t have to work for the Big Guys to develop popular, name-brand software anymore. Now there’s another outlet: open source.
+You don’t have to work for the Big Guys to develop popular, name-brand software anymore. Now there’s another outlet: open source. They are building a name for themselves. They are building a reputation in the industry. They may not be doing it on purpose, but they are marketing themselves in the process.
 
-They are building a name for themselves. They are building a reputation in the industry. They may not be doing it on purpose, but they are marketing themselves in the process.
-
-Open source contributions demonstrate skill.
-
-Leading an open source project can demonstrate much more than technical ability.
-
-Leading an open source project can demonstrate much more than technical ability. It takes skills in leadership, release management, documentation, and product and community support to foster a community around your efforts. And, if you do these things successfully—in your spare time as a hobby—you’ll be amazingly different from most of the other people competing for the same
+Open source contributions demonstrate skill. Leading an open source project can demonstrate much more than technical ability. It takes skills in leadership, release management, documentation, and product and community support to foster a community around your efforts. And, if you do these things successfully—in your spare time as a hobby—you’ll be amazingly different from most of the other people competing for the same.
 
 **Act on It!**
 
@@ -795,47 +570,29 @@ Take a piece of open source software with unit tests. Run the unit tests through
 
 ## Tip 42:   Remarkability
 
-Traditional marketing curricula refer to the four p’s of marketing: product, price, promotion, and placement. The idea is that if you cover all four of these categories, you’ll have
+Traditional marketing curricula refer to the four p’s of marketing: product, price, promotion, and placement.
 
-what is the goal of marketing? Its purpose is to create a connection between producers and consumers of a product or service.
+What is the goal of marketing? Its purpose is to create a connection between producers and consumers of a product or service. Viral marketing happens when an idea is remarkable enough that consumers spread it from one person to the next.
 
-Viral marketing happens when an idea is remarkable enough that consumers spread it from one person to the next.
+Remarkable definitely doesn’t mean the same thing as good. To be remarkable means that something is worthy of attention. Remarkability means that people talk about you before they are asked.
 
-Remarkable definitely doesn’t mean the same thing as good.
-
-To be remarkable means that something is worthy of attention.
-
-remarkability means that people talk about you before they are asked.
-
-You will not become a remarkable software developer by simply being better than all
-
-remarkability means that people talk about you before they are asked.
+You will not become a remarkable software developer by simply being better than all.
 
 **Act on It!**
 
-Start small, but try to do something remarkable on your current project or job.
-
-See whether people “remark.” If not, why not? If so, in what ways?
+Start small, but try to do something remarkable on your current project or job. See whether people “remark.” If not, why not? If so, in what ways?
 
 ## Tip 43:   Making the Hang
 
-the really good people won’t mind if you want to know them. People like to be appreciated, and they like to talk about the topics they are passionate about. The fact that they are the professional or the guru or the leader or the renowned author doesn’t change that they’re human and like to interact with other humans.
+The really good people won’t mind if you want to know them. People like to be appreciated, and they like to talk about the topics they are passionate about. The fact that they are the professional or the guru or the leader or the renowned author doesn’t change that they’re human and like to interact with other humans.
 
-the most serious barrier between us mortals and the people we admire is our own fear.
+The most serious barrier between us mortals and the people we admire is our own fear.
 
-you don’t want to just randomly start babbling at these people. You’ll obviously want to seek out the ones with which you have something in common.
-
-you can make the hang online as well as in person.
-
-software developers have the advantage of being able to easily reach each other no matter where we may be.
+You don’t want to just randomly start babbling at these people. You’ll obviously want to seek out the ones with which you have something in common. You can make the hang online as well as in person. Software developers have the advantage of being able to easily reach each other no matter where we may be.
 
 **Act on It!**
 
-Pick one of your favorite pieces of software and e-mail its creator.
-
-Look for a situation where you can see the person (a users’ group meeting or speech are good possibilities), and go out of your way to start a conversation,
-
-Can't We Just....
+Pick one of your favorite pieces of software and e-mail its creator. Look for a situation where you can see the person (a users’ group meeting or speech are good possibilities), and go out of your way to start a conversation,
 
 “Can’t we just....” The operative word in the phrase is actually we. This word implies that the business is reaching out to IT as a critical part of their team.
 
@@ -845,9 +602,7 @@ The process in this book is a loop that repeats until you retire. Research, inve
 
 ## Tip 44:   Already Obsolete
 
-cuanto ma popuar es un tecnologia. mas peligro cores de convertirte en un javasaurio. pero tampoo hay que darse prisa. lo popular da trabajo 
-
-I will say that the more mainstream your knowledge, the greater risk you have of being left in the technology stone age.
+Cuanto más popular es un tecnología, más peligro corres de convertirte en un javasaurio, pero tampoco hay que darse prisa. Lo popular da trabajo.
 
 You have to start by realizing that even if you’re on the bleeding edge of today’s wave, you’re already probably behind on the next one. Timing being everything, start thinking ahead with your study.
 
@@ -857,63 +612,37 @@ Carve out weekly time to investigate the bleeding edge. Make room for at least t
 
 ## Tip 45:   You’ve Already Lost Your Job
 
-if you were hired to be a programmer, don’t think of yourself as a programmer. Think of yourself as maybe not a programmer anymore. Keep doing your job, but don’t get too comfortable.
+If you were hired to be a programmer, don’t think of yourself as a programmer. Think of yourself as maybe not a programmer anymore. Keep doing your job, but don’t get too comfortable.
 
 **Act on It!**
 
-you’re a programmer, try a day or two of doing your job as if you were a tester or a project manager.
+You’re a programmer, try a day or two of doing your job as if you were a tester or a project manager.
 
 ## Tip 46:   Path with No Destination
 
-One of America’s biggest problems is that it is a goal-oriented society.
-
-You typically spend all your time doing things and little of your time actually reaching goals.
-
-The real meat of your career is not the promotions and salary advances. It’s the time you spend working toward those advances.
-
-What most of us fail to realize is that the path is the end.
-
-Focusing on the ending makes you forget to make the process good. And, bad processes create bad products.
+One of America’s biggest problems is that it is a goal-oriented society. You typically spend all your time doing things and little of your time actually reaching goals. The real meat of your career is not the promotions and salary advances. It’s the time you spend working toward those advances. What most of us fail to realize is that the path is the end. Focusing on the ending makes you forget to make the process good. And, bad processes create bad products.
 
 **Act on It!**
 
-time tracking and expense reporting,
-
-average day, such as time tracking and expense reporting, for example. The next time you have to do a task like this, see whether you can find a way to focus on the task as you do it instead of anxiously rushing to finish it.
-
-time tracking and expense reporting,
-
-The next time you have to do a task like this, see whether you can find a way to focus on the task as you do it instead of anxiously rushing to finish it.
+Time tracking and expense reporting, average day, such as time tracking and expense reporting, for example. The next time you have to do a task like this, see whether you can find a way to focus on the task as you do it instead of anxiously rushing to finish it.
 
 ## Tip 47:   Make Yourself a Map
 
-Unless you’re looking to exit the industry, you need a road map.
+Unless you’re looking to exit the industry, you need a road map. Your personal product road map is what you use to tell whether you’ve moved. Each choice should be part of a greater whole.
 
-Your personal product road map is what you use to tell whether you’ve moved.
-
-each choice should be part of a greater whole.
-
-this an address book or a chat application? Is it a game or a web browser? A personal product road map not only can help you stay on track, constantly evolving, but it can also show you the bigger picture of what you have to offer.
+This an address book or a chat application? Is it a game or a web browser? A personal product road map not only can help you stay on track, constantly evolving, but it can also show you the bigger picture of what you have to offer.
 
 Each new investment is part of a larger whole.
 
 **Act on It!**
 
-map out where you’ve been.
-
-Show where you started and what your skills and jobs were at each step.
-
-Once you’ve created this historical map, keep it updated. It’s a great way to reflect on your progress as you move toward your newly defined goals.
+Map out where you’ve been. Show where you started and what your skills and jobs were at each step. Once you’ve created this historical map, keep it updated. It’s a great way to reflect on your progress as you move toward your newly defined goals.
 
 ## Tip 48:   Watch the Market
 
-As the conditions of the market change, not paying attention could result in money lost or money that could have been earned missed.
+As the conditions of the market change, not paying attention could result in money lost or money that could have been earned missed. The same holds true for your knowledge investments. Watch the technology news, both the business side and the purely technical side,
 
-The same holds true for your knowledge investments.
-
-Watch the technology news, both the business side and the purely technical side,
-
-watch the alpha geeks. Alpha geeks are those super-nerds who are always on the bloodiest tip of the bleeding edge,
+Watch the alpha geeks. Alpha geeks are those super-nerds who are always on the bloodiest tip of the bleeding edge,
 
 **Act on It!**
 
@@ -921,120 +650,53 @@ Spend the next year trying to become one of the alpha geeks. Or at least make th
 
 ## Tip 49:   That Fat Man in the Mirror
 
-If you’re constantly exposed to something, it’s hard to see it changing unless change happens rapidly.
+If you’re constantly exposed to something, it’s hard to see it changing unless change happens rapidly. You’ll notice the same phenomenon with your career. Actually, you won’t notice it. That’s the problem. You might look at yourself in the metaphorical mirror each day and not see an ounce of change. Then, suddenly, one day your job (or your industry) doesn’t fit you anymore.
 
-You’ll notice the same phenomenon with your career. Actually, you won’t notice it. That’s the problem. You might look at yourself in the metaphorical mirror each day and not see an ounce of change.
-
-Then, suddenly, one day your job (or your industry) doesn’t fit you anymore.
-
-An easy way to measure your progress is to use a trusted third party.
-
-A mentor or a close colleague doesn’t live in your head with you and can help give you a more objective look at where you stand.
-
-The most important thing to ferret out as you go through a process like this (either alone or with help) is where your blind spots are.
+An easy way to measure your progress is to use a trusted third party. A mentor or a close colleague doesn’t live in your head with you and can help give you a more objective look at where you stand. The most important thing to ferret out as you go through a process like this (either alone or with help) is where your blind spots are.
 
 **Act on It!**
 
-Do a 360 review:
-
-Make a list of trusted people who you feel comfortable asking for feedback.
-
-Make another list of about ten characteristics you believe are important measurements of you as a professional.
-
-Convert this list to a questionnaire.
-
-What you need is honest feedback—not
-
-Share the outcome of your questionnaire with your reviewers—not the answers but the resultant changes you plan to make.
-
-Start keeping a journal.
-
-Write about what you’re working
+Do a 360 review: Make a list of trusted people who you feel comfortable asking for feedback. Make another list of about ten characteristics you believe are important measurements of you as a professional. Convert this list to a questionnaire. What you need is honest feedback. Share the outcome of your questionnaire with your reviewers—not the answers but the resultant changes you plan to make.
 
 ## Tip 50:   The South Indian Monkey Trap
 
-como los monos valoran la comida asra el punto de morir por un puñao
+Fábula sobre cómo los monos valoran la comida asta el punto de morir por un puñao.
 
-Value rigidity is what happens when you believe in the value of something so strongly that you can no longer objectively question it.
+Value rigidity is what happens when you believe in the value of something so strongly that you can no longer objectively question it. But not all rigidly held values are good ones. Also, many times something that is good in one set of circumstances is not good in another.
 
-But not all rigidly held values are good ones. Also, many times something that is good in one set of circumstances is not good in another.
-
-it’s easy to get hung up on technology choices.
-
-We love the technology so much and place such a high value on defending it
+It’s easy to get hung up on technology choices. We love the technology so much and place such a high value on defending it.
 
 **Act on It!**
 
-Find your monkey traps—What are your rigid assumptions?
+Find your monkey traps: What are your rigid assumptions? Make a table with two columns, “Career” and “Technology.”. Under each heading list the values that you hold unfalteringly true. Go one at a time through the list and mentally reverse each statement.
 
-Make a table with two columns, “Career” and “Technology.”
-
-Under each heading list the values that you hold unfalteringly true.
-
-go one at a time through the list and mentally reverse each statement.
-
-Know your enemy—Pick the technology you hate most, and do a project in
+Know your enemy: Pick the technology you hate most, and do a project in it.
 
 ## Tip 51:   Avoid Waterfall Career Planning
 
-Early in my own conversion to agile methodologies (specifically Extreme Programming), I started to see everything through the lens of agile development.
-
-I had designed my career up front like a software waterfall project.
-
-What I was doing to myself was the same thing heavy processes did to their customers. I was doing an excellent job at delivering a career to myself that I didn’t want.
-
-It was unintuitive to me at first, but the solution to such a problem is to simply change your career.
-
-The important thing to realize is that change is not only possible in your career but necessary.
+Early in my own conversion to agile methodologies (specifically Extreme Programming), I started to see everything through the lens of agile development. I had designed my career up front like a software waterfall project. What I was doing to myself was the same thing heavy processes did to their customers. I was doing an excellent job at delivering a career to myself that I didn’t want. It was unintuitive to me at first, but the solution to such a problem is to simply change your career. The important thing to realize is that change is not only possible in your career but necessary.
 
 Set big goals, but make constant corrections along the way. Learn from the experience, and change the goals as you go.
 
 ## Tip 52:   Better Than Yesterday
 
-Most important challenges in life manifest themselves as large, insurmountable amorphous blobs of potential failure.
+Most important challenges in life manifest themselves as large, insurmountable amorphous blobs of potential failure. Because of this complexity, we easily become demotivated by the bigger issues and turn our attention instead to things that are easier to measure and easier to quickly fix. But even when I’m getting with the program in a serious way, it’s hard to see the results (es como cuando haces diea. por muy esrricto que seas. no vas a ver resultados inmediatamente).
 
-Because of this complexity, we easily become demotivated by the bigger issues and turn our attention instead to things that are easier to measure and easier to quickly fix.
-
-es como cuando haces diea. por muy esrricto que seas. no vas a ver resultados inmediatamente 
-
-But even when I’m getting with the program in a serious way, it’s hard to see the results.
-
-The secret is to focus on making whatever it is you’re trying to improve better today than it was yesterday.
-
-You might not be able to see a noticeable difference in the whole with each incremental change, though.
-
-for most of the big, difficult goals you’re striving for, it’s important to think not about getting closer each day to the goal as it is to think about doing better in your efforts toward that goal than yesterday.
+The secret is to focus on making whatever it is you’re trying to improve better today than it was yesterday. You might not be able to see a noticeable difference in the whole with each incremental change, though. For most of the big, difficult goals you’re striving for, it’s important to think not about getting closer each day to the goal as it is to think about doing better in your efforts toward that goal than yesterday.
 
 So, make your improvements small and incremental but daily. Small improvements also decrease the cost of failure.
 
 **Act on It!**
 
-Make a list of the difficult or complex improvements you’d like to make;
-
-for each item in the list, think about what you could do today to make yourself or that item better than yesterday.
+Make a list of the difficult or complex improvements you’d like to make. For each item in the list, think about what you could do today to make yourself or that item better than yesterday.
 
 ## Tip 53:   Go Independent
 
-in a big company a smart person could get by with hardly getting anything done.
+In a big company a smart person could get by with hardly getting anything done. If you can hide behind the shield of mediocrity that most corporate divisions wield, there’s not much incentive to excel. But if you’re striving to be remarkable (which you are!), a big company is a hard place to find the right groove
 
-If you can hide behind the shield of mediocrity that most corporate divisions wield, there’s not much incentive to excel.
+Go independent! Going independent is hard. It puts all your skills as a professional to the test. You might not be ready for it yet. Consider it a personal development project, and put yourself in the market in your spare time. Work on it at night or on the weekends.
 
-But if you’re striving to be remarkable (which you are!), a big company is a hard place to find the right groove
-
-Go independent!
-
-Going independent is hard. It puts all your skills as a professional to the test. You might not be ready for it yet.
-
-Consider it a personal development project, and put yourself in the market in your spare time.
-
-Work on it at night or on the weekends
-
-Curiosity Is a Strength
-
-believe curiosity can be a strength.
-
-Whenever I get comfortable, I know it’s time to try something new.
-
-decide what you do for a living is a great privilege which very few people enjoy.
+Curiosity Is a Strength: I believe curiosity can be a strength. Whenever I get comfortable, I know it’s time to try something new. Decide what you do for a living is a great privilege which very few people enjoy.
 
 Software development is both challenging and rewarding. It’s creative like an art-form, but (unlike art) it provides concrete, measurable value.
+
