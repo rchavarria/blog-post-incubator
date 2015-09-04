@@ -160,6 +160,6 @@ art-form, but (unlike art) it provides concrete, measurable value.
 
 - [Notas tomadas sobre el libro][2]
 
-[1]: https://pragprog.com/book/tpp/the-pragmatic-programmer [2]:
-https://github.com/rchavarria/blog-post-incubator/blob/master/published-book-notes/passionate-programmer-by-chad-fowler.markdown
+[1]: https://pragprog.com/book/tpp/the-pragmatic-programmer
+[2]: https://github.com/rchavarria/blog-post-incubator/blob/master/published-book-notes/passionate-programmer-by-chad-fowler.markdown
 
