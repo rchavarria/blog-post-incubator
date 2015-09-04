@@ -52,6 +52,8 @@ c. Observer applied to Angular
 36. How duplicated code evolve with time in our project (similar to phpcs)
 37. Code reviews
 38. Pair programming
+  38.a. [Efective navigation in pair programming](http://www.thoughtworks.com/insights/blog/effective-navigation-in-pair-programming)
+  38.b. Post de Carlos Blé hablando sobre las pausas de la pareja
 39. Mob programming
 40. Cyclomatic complexity in PHP, how to compute it, tools, and description
 41. Cyclomatic complexity in JS, how to compute it, tools, and description
