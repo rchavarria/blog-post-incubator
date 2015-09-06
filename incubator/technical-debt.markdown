@@ -24,7 +24,6 @@ Artículo que habla de la importancia del *naming* y de su relación con la deud
 
 Describe 7 fases en el nombrado:
 
-
 1. Missing
 2. Nonsense
 3. Honest
@@ -39,4 +38,8 @@ El proceso al que se refiere tendría los siguientes pasos:
 2. Have an insight.
 3. Write it down (name something).
 4. Check it in.
+
+## [To manage technical debt all we need is discipline](https://blog.svpino.com/2015/09/04/to-manage-technical-debt-all-we-need-is-discipline)
+
+Artículo de **svipino** que dice que la lucha contra la deuda técnica es sobretodo **diciplina**. También comenta cómo luchan contra ella en su equipo, y parece una buena idea. Difícil de llevar a cabo, pero buena idea.
 
