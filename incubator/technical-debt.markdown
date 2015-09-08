@@ -43,3 +43,8 @@ El proceso al que se refiere tendría los siguientes pasos:
 
 Artículo de **svipino** que dice que la lucha contra la deuda técnica es sobretodo **diciplina**. También comenta cómo luchan contra ella en su equipo, y parece una buena idea. Difícil de llevar a cabo, pero buena idea.
 
+## [Cómo explicar la deuda técnica a un cliente](https://twitter.com/khellang/status/626716128379830273)
+
+
+Una imagen muy clara de qué visión tienen los clientes de un producto software y qué visión tienen los desarrolladores del mismo. Puede servir para explicar a un cliente qué es la deuda técnia, más o menos.
+
