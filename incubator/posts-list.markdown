@@ -1,6 +1,5 @@
 # Most immediate ideas for blog posts
 
-63. Notes on the talk: Workflows of refactoring, by Martin Fowler
 55. Book review: Passionate programmer, Chad Fowler
 59. Gather bash/shell commands to do very different tasks. How to move in the command line, git commands, `find`, `grep`,...
 <>. Add notes on the talk to the Vim post: My first Vim plugin, by Chris Toomey
@@ -15,7 +14,7 @@
 5. SOLID principles
 6. YAGNI principle
 7. KISS principle
-8. DRY principle
+8. DRY principle, and what about WET? (Write Everything Twice)
 9. Other similar principles
 10. XP, principles, values and practices
 11. ESLint, how to install and use it
@@ -71,7 +70,9 @@ c. Observer applied to Angular
 59. When to create `static` methods, take a look at http://javarevisited.blogspot.com.es/2013/07/when-to-make-method-static-in-java.html, and discuss all points made by the article. Is still a point to create static methods? Do you really need one?
 61. SonarCube: how to install it, use it to measure JS code quality, what is measured, ...
 62. How to improve your unit tests: write down all your tests,... some remarks by J.B.Rainsberger about how to clear you mind to keep the focus on your tasks
-65. ¿?
+65. Boy Scout rule. Make a reference from post about tech talk "Workflows of refactorings".
+66. Evolutionary design. Make a reference from post about tech talk "Workflows of refactorings".
+67. ¿?
 
 # Post already posted
 
@@ -84,4 +85,18 @@ c. Observer applied to Angular
 60. Research and document how a CTAGS file can be used in Vim (new post, do not edit the learning post)
 57. Notes on the talk: A short history on Software Engineering, by Paolo Perrota
 21. Book review: Notes to a software team leader, by Roy Osherove
+
+
+# Post already posted
+
+30. How to write ES6 tests with Mocha
+47.X Screencast about solving Project Euler problems
+56. Notes on the talk: Therapeutical refactoring, by Katrina Owen
+20. Book review: JS design patterns, by Stoyan Stefanov
+52. AngularJS tests memory consumption
+58. Create a list of PHP_CodeSniffer rules available by default, and then reply this StackOverflow question (http://stackoverflow.com/questions/16427207/php-codesniffer-rules-documentation), `-s` option outputs sniff codes in the report, and that will help to identify them. Looking at the source code, under Standards folder, each standard has a `ruleset.xml` file, that includes all rules with their indexes. Very nice place to look for rules to include/exclude
+60. Research and document how a CTAGS file can be used in Vim (new post, do not edit the learning post)
+57. Notes on the talk: A short history on Software Engineering, by Paolo Perrota
+21. Book review: Notes to a software team leader, by Roy Osherove
+63. Notes on the talk: Workflows of refactoring, by Martin Fowler
 
