@@ -48,3 +48,9 @@ Artículo de **svipino** que dice que la lucha contra la deuda técnica es sobre
 
 Una imagen muy clara de qué visión tienen los clientes de un producto software y qué visión tienen los desarrolladores del mismo. Puede servir para explicar a un cliente qué es la deuda técnia, más o menos.
 
+## [Tweet de Gregory Brown](https://twitter.com/practicingruby/status/644259978337869824)
+
+> We throw around the term "technical debt" but rarely do I hear "technical overinvestment". Both are real.
+
+Otros usuarios lo relacionan con el concepto YAGNI (overinvestment === YAGNI).
+
