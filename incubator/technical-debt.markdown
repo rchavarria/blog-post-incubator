@@ -1,4 +1,28 @@
- ## [Technical debt 101](https://medium.com/@joaomilho/festina-lente-e29070811b84)
+
+La **deuda técnica** es un concepto que fue usado por primera vez por [Ward Cunningham] en la [OOPSLA 1992](http://c2.com/doc/oopsla92.html). He estado buscando una definicón del término, pero parece que no hay una definición clara. Lo más parecido a una es:
+
+>   DEFINICION ENCONTRADA EN ALGUN LADO, AUNQUE SEA EN EL ENLACE DEL 92, SI NO LO HAY, PONER CAUSAS MÁS COMUNES Y CONSECUENCIAS MÁS COMUNES Y DESPUÉS DE ESTA CABECERA DESARROLLAR MI PROPIA DEFINICIÓN
+
+<!-- more -->
+
+Aunque parezca que no hay una definición clara, en algo en lo que sí está de acuerdo la gente es en varias causas y consecuencias.
+
+La principal causa en la que está de acuerdo la gente es en fechas de entrega excesivamente cortas y no realistas.
+
+- También describir por encima el cuadrante de la deuda técnica de Martin Fowler
+
+# Referencias:
+
+- [Wikipedia en español sobre la deuda técnica](https://es.wikipedia.org/wiki/Deuda_t%C3%A9cnica)
+- [Javier Garzás sobre la deuda](http://www.javiergarzas.com/2012/11/deuda-tecnica-2.html)
+- [Wikipedia en inglés](https://en.wikipedia.org/wiki/Technical_debt)
+- [Martin Fowler sobre la deuda](http://martinfowler.com/bliki/TechnicalDebt.html)
+- [Martin Fowler y su cuadrante](http://martinfowler.com/bliki/TechnicalDebtQuadrant.html)
+- [Deuda técnica en Cunningham & Cunningham wiki](http://www.c2.com/cgi/wiki?TechnicalDebt)
+
+# Charlas y artículos interesantes sobre la deuda técnica
+
+## [Technical debt 101](https://medium.com/@joaomilho/festina-lente-e29070811b84)
 
 > every time you don’t write software based on the best possible practices and understanding of the business domain, you incur it in a technical debt. This debt keeps increasing over time, just like an interest. If you ignore it long enough, you can go technically bankrupt
 
