@@ -1,6 +1,5 @@
 # Most immediate ideas for blog posts
 
-55. Book review: Passionate programmer, Chad Fowler
 59. Gather bash/shell commands to do very different tasks. How to move in the command line, git commands, `find`, `grep`,...
 <>. Add notes on the talk to the Vim post: My first Vim plugin, by Chris Toomey
 64. Technical talk: All the little things, by Sandi Metz
@@ -49,7 +48,7 @@ c. Observer applied to Angular
 34. Translate JS garden
 35. Translate Angular style guide
 36. How duplicated code evolve with time in our project (similar to phpcs)
-37. Code reviews
+37. Code reviews. References: [Codurance](http://codurance.com/2015/09/29/codereview/)
 38. Pair programming
   38.a. [Efective navigation in pair programming](http://www.thoughtworks.com/insights/blog/effective-navigation-in-pair-programming)
   38.b. Post de Carlos Blé hablando sobre las pausas de la pareja
@@ -99,4 +98,5 @@ c. Observer applied to Angular
 57. Notes on the talk: A short history on Software Engineering, by Paolo Perrota
 21. Book review: Notes to a software team leader, by Roy Osherove
 63. Notes on the talk: Workflows of refactoring, by Martin Fowler
+55. Book review: Passionate programmer, Chad Fowler
 
