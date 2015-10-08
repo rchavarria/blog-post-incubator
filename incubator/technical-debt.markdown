@@ -1,3 +1,20 @@
+Indice
+
+1. exposición del problema (martin fowler)
+2. definición (martin fowler mas wikipedia es)
+3. debajo el --more-- no todo el mundo cree que es mala, e intentar llevarlo al cuadrante
+4. causas
+5. consecuencias
+6. ¿soluciones?
+7. referencias
+8. a ver cómo queda de largo, si eso se puede meter algún video o artículo que originó esto
+
+Cuando hay que implementar una funcionalidad nueva en una aplicación software existen básicamente dos maneras de hacerlo: la rápida (el *hack*, la *ñapa*) y la correcta. Esta última más costosa y generalmente más compleja de llevar a cabo.
+
+La *deuda técnica* es una metáfora en el mundo del software que nos permite discutir sobre este problema. Mediante la cual, se establece que implementar rápidamente una funcionalidad es como pedir un préstamo, el cual genera unos intereses que habría que pagar en el futuro en forma de un trabajo extra para mejorar o arreglar los atajos tomados al no haber hecho la funcionalidad de una forma más correcta.
+
+<!-- more -->
+
 
 La **deuda técnica** es un concepto que fue usado por primera vez por [Ward Cunningham] en la [OOPSLA 1992](http://c2.com/doc/oopsla92.html). He estado buscando una definicón del término, pero parece que no hay una definición clara. Lo más parecido a una es:
 
