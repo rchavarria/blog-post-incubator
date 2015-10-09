@@ -1,13 +1,3 @@
-Indice
-
-1. exposición del problema (martin fowler)
-2. definición (martin fowler mas wikipedia es)
-3. debajo el --more-- no todo el mundo cree que es mala, e intentar llevarlo al cuadrante
-4. causas
-5. consecuencias
-6. ¿soluciones?
-7. referencias
-8. a ver cómo queda de largo, si eso se puede meter algún video o artículo que originó esto
 
 Cuando hay que implementar una funcionalidad nueva en una aplicación software existen básicamente dos maneras de hacerlo: la rápida (el *hack*, la *ñapa*) y la correcta. Esta última más costosa y generalmente más compleja de llevar a cabo.
 
@@ -15,27 +5,60 @@ La *deuda técnica* es una metáfora en el mundo del software que nos permite di
 
 <!-- more -->
 
+La metáfora fue propuesta por Ward Cunningham en un informe para la [OOPSLA 1992]. Se suele utilizar para explicar a la gente *no técnica* la necesidad de refactorizar. Ya ha llovido desde entonces, y se ha discutido mucho sobre el tema. Así que también hay gente que no está de acuerdo con la metáfora. Yo creo que como todas las metáforas, flaquea si uno empieza a profundizar en el tema. Martin Fowler responde a los contrarios a la metáfora documentando que hay más de una forma de deuda técnica en su famoso [cuadrante de la deuda técnica].
 
-La **deuda técnica** es un concepto que fue usado por primera vez por [Ward Cunningham] en la [OOPSLA 1992](http://c2.com/doc/oopsla92.html). He estado buscando una definicón del término, pero parece que no hay una definición clara. Lo más parecido a una es:
+Mucho antes que Cunningham, Meir Manny Lehman, en el 1980 ya comentaba conceptos relacionados:
 
->   DEFINICION ENCONTRADA EN ALGUN LADO, AUNQUE SEA EN EL ENLACE DEL 92, SI NO LO HAY, PONER CAUSAS MÁS COMUNES Y CONSECUENCIAS MÁS COMUNES Y DESPUÉS DE ESTA CABECERA DESARROLLAR MI PROPIA DEFINICIÓN
+> Un programa en evolución está en contínuo cambio, por lo tanto, su complejidad (reflejada en una estructura que se deteriora) se incrementa a no ser que se haga un trabajo para mantenerla o reducirla
 
-<!-- more -->
+## Causas
 
-Aunque parezca que no hay una definición clara, en algo en lo que sí está de acuerdo la gente es en varias causas y consecuencias.
+- Presión en fechas y planes
+- Recortar procesos de pruebas, o falta total de ellas, lo que hace muy difícil y extremadamente caro la detección y corrección de errores
+- Recortar control de calidad
+- No verificación de la calidad
+- Recortar documentación, y esta falta de documentación es una deuda que habrá que pagar en el futuro
+- Falta de educación, de cuidado, de colaboración con otros departamentos
+- Incompetencia, poca profesionalidad. Hablando de profesionalidad, hay una cita Robert C. Martin que me encanta: *La única forma de ir rápido, es hacer las cosas bien* (The only way to go fast is to go well).
+- Procesos pobres o falta de entendimiento: donde ciertos negocios toman decisiones sin pensar en las implicaciones
+- Presiones de negocio: la gente de negocio considera necesario publicar una versión antes de que se pueda hacer correctamente todas las funcionalidades
+- Postponer trabajo necesario
+- Refactorizaciones retrasadas en el tiempo, ya que para adaptarse a los cambios, a veces hay que refactorizar. Cuanto más se retrasa esta refactorización, más cambios habrá que hacer y más caro será el cambio
+- Falta de cumplimiento con los estándares, tarde o temprano, hay que cumplir con ellos
+- Código confuso
 
-La principal causa en la que está de acuerdo la gente es en fechas de entrega excesivamente cortas y no realistas.
+## Consecuencias
 
-- También describir por encima el cuadrante de la deuda técnica de Martin Fowler
+- Un desarrollo previsiblemente corto puede llevar mucho más tiempo de lo previsto
+- Muy relacionado con el anterior, es una de las causas más comunes de que los proyectos no se entreguen a tiempo
+- El mayor coste de la deuda técnica es el hecho de que ralentiza el desarrollo de futuras funcionalidades
+- Documentación desactualizada, escasa o inservible
+- Errores no subsanados o desconocidos
+- Problemas al incorporar nuevas funcionalidades
+- Inestabilidad del producto desarrollado
+- Compromete la viabilidad del proyecto a largo plazo
 
-# Referencias:
+## Soluciones
+
+- (reescribir con mis palabras) Las herramientas de análisis de código no son suficientes para la identificación de la deuda técnica. La mayoría de las veces, la deuda técnica no e relaciona con ccódigo y sus cualidades intrínsecas, sino a opciones estructurarales, arquitecturales o brechas tecnológicas
+- La única forma de pagar la deuda contraída es completando el trabajo que no se hizo correctamente
+- Refactorizar, para mejorar el trabajo que se dejó pendiente. El mejor momento para refactorizar es justo antes de comenzar una nueva funcionalidad, adaptando el código a los nuevos requerimientos
+- Hacer la deuda visible. Mantener una lista explícita sobre tareas necesarias para reducir la deuda
+- Hacer entender a marketing y otros departamentos de negocio que si no se planifica cierto tiempo para reducir la deuda técnica se corre el riesgo de que no sea posible entregar todas las funcionalidades que ellos quieren
+
+## Referencias:
 
 - [Wikipedia en español sobre la deuda técnica](https://es.wikipedia.org/wiki/Deuda_t%C3%A9cnica)
 - [Javier Garzás sobre la deuda](http://www.javiergarzas.com/2012/11/deuda-tecnica-2.html)
+- [OOPSLA 1992]
 - [Wikipedia en inglés](https://en.wikipedia.org/wiki/Technical_debt)
 - [Martin Fowler sobre la deuda](http://martinfowler.com/bliki/TechnicalDebt.html)
-- [Martin Fowler y su cuadrante](http://martinfowler.com/bliki/TechnicalDebtQuadrant.html)
 - [Deuda técnica en Cunningham & Cunningham wiki](http://www.c2.com/cgi/wiki?TechnicalDebt)
+- [Cálculo de la deuda técnica basado en fórmulas](http://docs.sonarqube.org/display/SONARQUBE44/Technical+Debt+Calculation)
+- [Technical Debt: From Metaphor to Theory and Practice](http://www.computer.org/csdl/mags/so/2012/06/mso2012060018.html)
+
+[cuadrante de la deuda técnica]: http://martinfowler.com/bliki/TechnicalDebtQuadrant.html
+[OOPSLA 1992]: http://c2.com/doc/oopsla92.html
 
 # Charlas y artículos interesantes sobre la deuda técnica
 
@@ -85,7 +108,6 @@ El proceso al que se refiere tendría los siguientes pasos:
 Artículo de **svipino** que dice que la lucha contra la deuda técnica es sobretodo **diciplina**. También comenta cómo luchan contra ella en su equipo, y parece una buena idea. Difícil de llevar a cabo, pero buena idea.
 
 ## [Cómo explicar la deuda técnica a un cliente](https://twitter.com/khellang/status/626716128379830273)
-
 
 Una imagen muy clara de qué visión tienen los clientes de un producto software y qué visión tienen los desarrolladores del mismo. Puede servir para explicar a un cliente qué es la deuda técnia, más o menos.
 
