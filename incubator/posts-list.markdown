@@ -1,12 +1,12 @@
 # Most immediate ideas for blog posts
 
+1. Technical debt, looking for my own definition
 59. Gather bash/shell commands to do very different tasks. How to move in the command line, git commands, `find`, `grep`,...
 <>. Add notes on the talk to the Vim post: My first Vim plugin, by Chris Toomey
 64. Technical talk: All the little things, by Sandi Metz
 
 # Possible posts for the blog
 
-1. Technical debt, looking for my own definition
 2. How to compute the technical debt
 3. Code smells
 4. Refactoring
@@ -71,20 +71,13 @@ c. Observer applied to Angular
 62. How to improve your unit tests: write down all your tests,... some remarks by J.B.Rainsberger about how to clear you mind to keep the focus on your tasks
 65. Boy Scout rule. Make a reference from post about tech talk "Workflows of refactorings".
 66. Evolutionary design. Make a reference from post about tech talk "Workflows of refactorings".
-67. ¿?
-
-# Post already posted
-
-30. How to write ES6 tests with Mocha
-47.X Screencast about solving Project Euler problems
-56. Notes on the talk: Therapeutical refactoring, by Katrina Owen
-20. Book review: JS design patterns, by Stoyan Stefanov
-52. AngularJS tests memory consumption
-58. Create a list of PHP_CodeSniffer rules available by default, and then reply this StackOverflow question (http://stackoverflow.com/questions/16427207/php-codesniffer-rules-documentation), `-s` option outputs sniff codes in the report, and that will help to identify them. Looking at the source code, under Standards folder, each standard has a `ruleset.xml` file, that includes all rules with their indexes. Very nice place to look for rules to include/exclude
-60. Research and document how a CTAGS file can be used in Vim (new post, do not edit the learning post)
-57. Notes on the talk: A short history on Software Engineering, by Paolo Perrota
-21. Book review: Notes to a software team leader, by Roy Osherove
-
+67. Gran bola de lodo (big ball of mud)
+68. Entropía del software
+69. Pudrición / Oxidación del software
+70. Fragilidad del software
+71. Principio del Peter del software
+72. Leyes de Lehman de la evolución del software
+73. Cuadrante de la deuda técnica de Martin Fowler (http://martinfowler.com/bliki/TechnicalDebtQuadrant.html)
 
 # Post already posted
 
