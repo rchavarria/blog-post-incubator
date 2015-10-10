@@ -39,25 +39,32 @@ La documentación entregada también se resiente, ya que se suele encontrar desa
 
 ## Soluciones
 
-- (reescribir con mis palabras) Las herramientas de análisis de código no son suficientes para la identificación de la deuda técnica. La mayoría de las veces, la deuda técnica no e relaciona con ccódigo y sus cualidades intrínsecas, sino a opciones estructurarales, arquitecturales o brechas tecnológicas
-- La única forma de pagar la deuda contraída es completando el trabajo que no se hizo correctamente
-- Refactorizar, para mejorar el trabajo que se dejó pendiente. El mejor momento para refactorizar es justo antes de comenzar una nueva funcionalidad, adaptando el código a los nuevos requerimientos
-- Hacer la deuda visible. Mantener una lista explícita sobre tareas necesarias para reducir la deuda
-- Hacer entender a marketing y otros departamentos de negocio que si no se planifica cierto tiempo para reducir la deuda técnica se corre el riesgo de que no sea posible entregar todas las funcionalidades que ellos quieren
+La única forma de pagar la deuda contraída es completando el trabajo que no se hizo correctamente. Y esto se hace refactorizando para mejorar el trabajo que se dejó pendiente. El mejor momento para refactorizar es justo antes de comenzar una nueva funcionalidad, adaptando el código a los nuevos requerimientos.
+
+Existen herramientas que permiten atacar ciertos puntos de la deuda técnica, las herramientas de análisis estático del código. Pero por sí solas no son suficientes, ya que la mayoría de las veces, la deuda técnia no se refleja directamente en el código, sino también en la arquitectura, en componentes desactualizados o en ciertas estructuras que estas herramientas no son capaces de analizar.
+
+Desde el punto de vista del equipo de desarrollo, hacer la deuda visible puede ayudar. Podría ser intersante mantener una lista explícita sobre tareas necesarias para reducir la deuda. Y a un nivel más alto, hacer entender a marketing y otros departamentos de negocio que si no se planifica cierto tiempo para reducir la deuda técnica se corre el riesgo de que no sea posible entregar todas las funcionalidades que ellos quieren.
 
 ## Referencias:
 
-- [Wikipedia en español sobre la deuda técnica](https://es.wikipedia.org/wiki/Deuda_t%C3%A9cnica)
-- [Javier Garzás sobre la deuda](http://www.javiergarzas.com/2012/11/deuda-tecnica-2.html)
+- [Wikipedia en español sobre la deuda técnica]
+- [Javier Garzás sobre la deuda]
 - [OOPSLA 1992]
-- [Wikipedia en inglés](https://en.wikipedia.org/wiki/Technical_debt)
-- [Martin Fowler sobre la deuda](http://martinfowler.com/bliki/TechnicalDebt.html)
-- [Deuda técnica en Cunningham & Cunningham wiki](http://www.c2.com/cgi/wiki?TechnicalDebt)
-- [Cálculo de la deuda técnica basado en fórmulas](http://docs.sonarqube.org/display/SONARQUBE44/Technical+Debt+Calculation)
-- [Technical Debt: From Metaphor to Theory and Practice](http://www.computer.org/csdl/mags/so/2012/06/mso2012060018.html)
+- [Wikipedia en inglés]
+- [Martin Fowler sobre la deuda]
+- [Deuda técnica en Cunningham & Cunningham wiki]
+- [Cálculo de la deuda técnica basado en fórmulas]
+- [Technical Debt: From Metaphor to Theory and Practice]
 
+[Wikipedia en español sobre la deuda técnica]: https://es.wikipedia.org/wiki/Deuda_t%C3%A9cnica
+[Javier Garzás sobre la deuda]: http://www.javiergarzas.com/2012/11/deuda-tecnica-2.html
 [cuadrante de la deuda técnica]: http://martinfowler.com/bliki/TechnicalDebtQuadrant.html
 [OOPSLA 1992]: http://c2.com/doc/oopsla92.html
+[Wikipedia en inglés]: https://en.wikipedia.org/wiki/Technical_debt
+[Martin Fowler sobre la deuda]: http://martinfowler.com/bliki/TechnicalDebt.html
+[Deuda técnica en Cunningham & Cunningham wiki]: http://www.c2.com/cgi/wiki?TechnicalDebt
+[Cálculo de la deuda técnica basado en fórmulas]: http://docs.sonarqube.org/display/SONARQUBE44/Technical+Debt+Calculation
+[Technical Debt: From Metaphor to Theory and Practice]: http://www.computer.org/csdl/mags/so/2012/06/mso2012060018.html
 
 # Charlas y artículos interesantes sobre la deuda técnica
 
