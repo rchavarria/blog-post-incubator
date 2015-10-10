@@ -23,20 +23,19 @@ También existe quien le echa la culpa a la cultura de la empresa: procesos pobr
 
 Hablando de profesionalidad, hay una cita Robert C. Martin que me encanta:
 
-> La única forma de ir rápido, es hacer las cosas bien
-
 > The only way to go fast is to go well
+
+> La única forma de ir rápido, es hacer las cosas bien
 
 ## Consecuencias
 
-- Un desarrollo previsiblemente corto puede llevar mucho más tiempo de lo previsto
-- Muy relacionado con el anterior, es una de las causas más comunes de que los proyectos no se entreguen a tiempo
-- El mayor coste de la deuda técnica es el hecho de que ralentiza el desarrollo de futuras funcionalidades
-- Documentación desactualizada, escasa o inservible
-- Errores no subsanados o desconocidos
-- Problemas al incorporar nuevas funcionalidades
-- Inestabilidad del producto desarrollado
-- Compromete la viabilidad del proyecto a largo plazo
+Estoy de acuerdo con que la principal causa por la que se genera deuda técnica es por *atajos* que se toman para poder entregar más de lo que se debería en plazos cortos de tiempo. Pues aunque parezca contradictorio, la mayor consecuencia de la deuda técnica es precisamente que los proyectos no se entreguen a tiempo.
+
+La deuda incurrida puede hacer que un desarrollo previsiblemente corto pueda llevar mucho más tiempo de lo previsto en implementarse, ya que el mayor coste de la deuda técnica es el hecho de que ralentiza el desarrollo de futuras funcionalidades. Comprometiendo la viabilidad del proyecto a largo plazo. Justamente como una deuda financiera, que produce un beneficio a corto plazo pero puede tener resultados desastrosos a largo plazo si la deuda contraída no se va pagando.
+
+Otras consecuencias no tan mortales incluirían errores no subsanados o desconocidos, que harían que el producto fuera inestable. Lo cual tiene sentido, recortando o eliminando tests automáticos y calidad no se puede esperar obtener mejores resultados.
+
+La documentación entregada también se resiente, ya que se suele encontrar desactualizada, escasa o inservible.
 
 ## Soluciones
 
