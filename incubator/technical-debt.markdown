@@ -13,19 +13,19 @@ Mucho antes que Cunningham, Meir Manny Lehman, en el 1980 ya comentaba conceptos
 
 ## Causas
 
-- Presión en fechas y planes
-- Recortar procesos de pruebas, o falta total de ellas, lo que hace muy difícil y extremadamente caro la detección y corrección de errores
-- Recortar control de calidad
-- No verificación de la calidad
-- Recortar documentación, y esta falta de documentación es una deuda que habrá que pagar en el futuro
-- Falta de educación, de cuidado, de colaboración con otros departamentos
-- Incompetencia, poca profesionalidad. Hablando de profesionalidad, hay una cita Robert C. Martin que me encanta: *La única forma de ir rápido, es hacer las cosas bien* (The only way to go fast is to go well).
-- Procesos pobres o falta de entendimiento: donde ciertos negocios toman decisiones sin pensar en las implicaciones
-- Presiones de negocio: la gente de negocio considera necesario publicar una versión antes de que se pueda hacer correctamente todas las funcionalidades
-- Postponer trabajo necesario
-- Refactorizaciones retrasadas en el tiempo, ya que para adaptarse a los cambios, a veces hay que refactorizar. Cuanto más se retrasa esta refactorización, más cambios habrá que hacer y más caro será el cambio
-- Falta de cumplimiento con los estándares, tarde o temprano, hay que cumplir con ellos
-- Código confuso
+La principal culpable en la generación de deuda técnica, y así coinciden muchos autores, es en la presión en plazos y planes de entrega que el departamento de desarrollo se *deja* imponer por parte de negocio (marketing, ventas,...). Estas presiones ocasionan que se publiquen versiones del software sin que se implementen correctamente las funcionalidades.
+
+Casi todas las causas se pueden derivar de esta primera, por ejemplo: recortes en procesos de pruebas, incluso eliminación de pruebas automáticas, lo cual hace muy difícil y extremadamente caro la detección y corrección de errores. Los procesos de aseguramiento de la calidad también se ven recortados, así como la documentación.
+
+Las prisas también ocasionan que se pospongan trabajos necesarios o que se retrasen refactorizaciones en el tiempo, ya que para adaptarse a los cambios, a veces hay que refactorizar. Cuanto más se retrasa esta refactorización, más cambios habrá que hacer y más caro será el cambio. Esto puede llevar a que ciertas partes del código sean confusas.
+
+También existe quien le echa la culpa a la cultura de la empresa: procesos pobres, falta de entendimiento, falta de educación, de cuidado y de colaboración con otros departamentos. Mientras existen otras causas maś atribuibles a individuos: incompetencia y falta de profesionalidad.
+
+Hablando de profesionalidad, hay una cita Robert C. Martin que me encanta:
+
+> La única forma de ir rápido, es hacer las cosas bien
+
+> The only way to go fast is to go well
 
 ## Consecuencias
 
