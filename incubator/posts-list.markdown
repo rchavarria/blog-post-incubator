@@ -1,6 +1,5 @@
 # Most immediate ideas for blog posts
 
-1. Technical debt, looking for my own definition
 59. Gather bash/shell commands to do very different tasks. How to move in the command line, git commands, `find`, `grep`,...
 <>. Add notes on the talk to the Vim post: My first Vim plugin, by Chris Toomey
 64. Technical talk: All the little things, by Sandi Metz
@@ -92,4 +91,5 @@ c. Observer applied to Angular
 21. Book review: Notes to a software team leader, by Roy Osherove
 63. Notes on the talk: Workflows of refactoring, by Martin Fowler
 55. Book review: Passionate programmer, Chad Fowler
+1. Technical debt, looking for my own definition
 
