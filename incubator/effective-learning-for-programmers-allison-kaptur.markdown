@@ -1,63 +1,64 @@
-# Effective learning for programmers, by Allison Kaptur
+# Charla técnica: Effective learning for programmers
 
-Allison da una charla acerca de encontrar ciertas estrategias para el aprendizaje en un grupo de usuarios de Python de Nueva Zelanda.
+Me gustaría compartir una charla de [Allison Kaptur], en un grupo de usuarios de Python de Nueva Zelanda, titulada [Effective learning for programmers], donde habla acerca de encontrar ciertas estrategias para el aprendizaje.
 
-https://www.youtube.com/watch?v=Mcc6JEhDSpo
+<iframe width="420"
+        height="315"
+        src="https://www.youtube.com/embed/Mcc6JEhDSpo"
+        frameborder="0"
+        allowfullscreen></iframe>
 
-La charla consta de dos partes: mindset y estrategias
+<!-- more -->
 
-# Mindset
+## Notas tomadas
 
-1. Growth mindset: la inteligencia es algo que se puede trabajar y desarrollar con **esfuerzo**
-2. Fix mindset: la inteligencia es la que es y no puede ir a más, la inteligencia es fija, y cada uno tiene una cierta cantidad de ella
+La charla consta de dos partes: mentalidad (*mindset*) y estrategias
 
-(1) piensa que si algo no es fácil, puede trabajar duro para aprenderlo
-(2) piensa que si algo es fácil es que es de lo suyo
+### Mentalidad
 
-praise that backfires: alabar los efectos indeseados. ante alabanzas de tu trabajo, los del grupo (2) se contentan, mientras que los del grupo (1) se sienten animados para superarse a sí mismos.
+Allison habla de dos tipos:
 
-response to confusion: los del grupo (2) se quedan bloqueados, y los del grupo (1) se esfuerzan en entender la parte complicada, hasta que superan el obstáculo
+1. Mentalidad de crecimiento: la inteligencia es algo que se puede trabajar y desarrollar con **esfuerzo**
+2. Mentalidad fija: la inteligencia es la que es y no puede ir a más, la inteligencia es fija, y cada uno tiene una cierta cantidad de ella
 
-programmers need a growth minset, hombre, por supuesto
+La diferencia fundamental radica en que quien posee una mentalidad de crecimiento, piensa que si algo no es fácil, puede trabajar duro para aprenderlo. Mientras que quien posee una mentalidad fija, piensa que si algo es fácil, se trata de una cualidad con la que ha nacido, que es de lo suyo.
 
-¿se puede cambiar una fixed mindset?
+Alabanzas contraproducentes: ante alabanzas de un trabajo realizado, los de mentalidad fija se contentan, mientras que los de mentalidad de crecimiento se sienten animados para superarse a sí mismos.
 
-1. (reframe praise) cuando alaben tu trabajo: "eres un máquina",... te dices a tí internamente: "no soy un máquina, he trabajado duro para llegar hasta aquí"
-2. (reframe failure) 
-3. celebrate challenges: cuando te toca arreglar un bug, decirte a tí mismo: "genial! que se prepare ese bug, porque le voy a patear el culo"
-4. ask about processes: pregunta siempre, "¿cómo has hecho eso?", "¿cómo funciona eso?"
+Respuesta a la confusión: los de mentalidad fija se quedan bloqueados, y los de mentalidad de crecimiento se esfuerzan en entender la parte complicada, hasta que superan el obstáculo.
 
-# Estrategias
+**Está claro que los desarrolladores necesitamos una mentalidad de crecimiento**. Pero, ¿se puede cambiar una fixed mindset?
 
-1. learning is an acquired skill, you can get better by practicing it
+1. Reformula las alabanzas: cuando alaben tu trabajo: "eres un máquina",... te dices a tí internamente: "no soy un máquina, he trabajado duro para llegar hasta aquí"
+2. Reformula los fallos
+3. Celebra los desafíos: cuando te toca arreglar un bug, decirte a tí mismo: "genial! que se prepare ese bug, porque le voy a patear el culo"
+4. Pregunta sobre el proceso seguido: pregunta siempre, "¿cómo has hecho eso?", "¿cómo funciona eso?", muestra curiosidad por cómo se hacen las cosas, aprende de los que más saben
 
-1. effortful retrieval (preguntas que te obligan a encontrar una respuesta) es maś efectivo que una relectura, incluso mejor que una relectura de las notas que has tomado en una clase. la relectura te da la ilusión de que ya te sabes la lección. 
-2. spaced practice es mejor que massed practice. spaced, varied, interleaved. es mejor un curso de 1h durante 5 días que uno de 5 horas en un día. 
-3. difficulty is (usually) desirable. cometer errores suele tambien recomendable durante el aprendizaje. 
+### Estrategias
 
-## implementando *effortful retrieval*
+El aprendizaje es una habilidad adquirida, por lo que se puede mejorar practicando:
 
-flashcards es un ejemplo de esto, pero quizá no es la mejor forma de implementarlo
+1. Recuperación con esfuerzo (*effortful retrieval*): aprender mediante preguntas que te obligan a encontrar una respuesta. Es maś efectivo que una relectura, incluso mejor que una relectura de las notas que has tomado en una clase. La relectura te da la ilusión de que ya te sabes la lección. 
+2. Práctica espaciada (*spaced practice*): es mejor que una práctica masiva. La práctica debe ser espaciada en el tiempo, variada y que mezcle conceptos de todo el proceso de aprendizaje. Es mejor un curso de 1h durante 5 días que uno de 5 horas en un día. 
+3. Dificultad y errores: cierta dificultad suele ser lo deseable. Cometer errores suele ser también recomendable durante el aprendizaje. 
 
-cuando no sabes a ciencia cierta algo, intenta adivinarlo. por ejemplo, los argumentos de un comando, o intentar deducir algún aspecto de la lección que estas estudiando
+#### Implementando *recuperación con esfuerzo*
 
-intentar adivinar cual es la causa de un bug
+- Las tarjetas de conceptos (*flashcards*) es un ejemplo de esto, pero quizá no es la mejor forma de implementarlo
+- Cuando no sabes a ciencia cierta algo, intenta adivinarlo. Por ejemplo, los argumentos de un comando, o intentar deducir algún aspecto de la lección que estas estudiando
+- Intentar adivinar cual es la causa de un bug antes siquiera de empezar a solucionarlo
+- Cuando te preguntan por algún concepto que te suena, pero no lo conoces en profundidad, puedes intentar deducir de qué trata y así confirmar tus suposiciones
 
-cuando te preguntan por algún concepto que te suena, pero no lo conoces en profundidad, puedes intentar deducir de qué trata y así confirmar tus suposiciones
+#### Implementando *práctica espaciada*
 
-## implementnado *space practice*
+- Trabajar en tus proyectos personales los fines de semana. Así cuando vayas a comenzar el sábado, debes recordar lo que trabajaste hace un tiempo. Eso ayuda al aprendizaje.
 
-side projects
+#### Implementando *dificultad y errores*
 
-trabajar en tus side projects los fines de semana, así cuando vayas a comenzar el sabado, debes recordar lo que trabjaste hace un tiempo. eso ayuda al aprendizaje
+- La dificultad vienen implícita en muchos de nuestros aprendizajes, así que no hace falta que hagamos algo extra para ello
+- Para descubrir errores: intentar buscar un feedback rápido, revisiones de código, post-mortems,...
+- Generar un entorno donde los pequeños errores no tienen consecuencias, o que cuando tú sepas algo que tus compañeros no saben, no te burles de ellos
 
-## implementando *dificultad y errores*
-
-la dificultad vienen impl´icita en muchos de nuestros aprendizajes, así que...
-
-errores, intentar buscar un feedback rápido, code reviews, post-mortems,...
-
-generar un entorno donde los pequeños errores no tienen consecuenicas, o que cuando tú sepas algo que tus compañeros no saben, no te burles de ellos
-
-
+[Allison Kaptur]: http://akaptur.com/
+[Effective learning for programmers]: https://www.youtube.com/embed/Mcc6JEhDSpo
 
