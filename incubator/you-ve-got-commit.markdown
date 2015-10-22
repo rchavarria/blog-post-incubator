@@ -1,3 +1,12 @@
+Una de las mejores formas de aprender es haciendo cosas (*learning by doing* dicen los gurús). Y otra forma muy buena es manteniendo conversaciones con profesionales de tu sector. Por todo lo aprendido hay que estar agradecido, y qué mejor forma de agradecer que contribuir a la comunidad, a tu profesión, realizando algún trabajo del que se puedan beneficiar otros. La siguiente historia cuenta un camino que estoy recorriendo, de cómo empezé algo por el simple hecho de aprender y terminé participando en un proyecto open source como es [exercism.io].
+
+> IMAGEN DE EXERCISM.IO, CENTRADA, PARA SEPARAR UN POCO EL CONTENIDO QUE VIENE. MENUDO DIABLO!!!
+
+<!-- more -->
+
+
+
+
 una de las mejores formas de aprender es haciendo cosas y una de las mejores formase de agradecimiento es contribuir algo a la comunidad
 en esta historia se mezclan ambas
 esta es al historia de como consegui permisos de escritura en un proyecto open source
