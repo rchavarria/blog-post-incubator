@@ -3444,3 +3444,3358 @@ How you burn out
 
 
 ==========
+﻿Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4134-4134 | Añadido el lunes, 5 de octubre de 2015 21:52:55
+
+we tend to get really excited and motivated about new things at first,
+==========
+﻿Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4134-4134 | Añadido el lunes, 5 de octubre de 2015 21:53:04
+
+but then
+==========
+﻿Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4135-4135 | Añadido el lunes, 5 de octubre de 2015 21:54:01
+
+despise them.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu nota en la posición 4135 | Añadido el lunes, 5 de octubre de 2015 22:00:00
+
+nos repugnan 
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4135-4135 | Añadido el lunes, 5 de octubre de 2015 22:00:00
+
+despise them.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4145-4145 | Añadido el lunes, 5 de octubre de 2015 22:00:33
+
+the more work you get done, the faster you accelerate the pace of this feeling of being burned out.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4147-4147 | Añadido el lunes, 5 de octubre de 2015 22:00:40
+
+In reality, you’re just hitting a wall
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4153-4154 | Añadido el lunes, 5 de octubre de 2015 22:03:03
+
+The truth is that most of us, in any endeavor we pursue, eventually hit a wall, a point where our initial interest and motivation have dropped off
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4162-4162 | Añadido el lunes, 5 de octubre de 2015 22:03:10
+
+On the other side of the wall
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4166-4166 | Añadido el lunes, 5 de octubre de 2015 22:03:58
+
+Remember that cure for burnout I promised you?
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4167-4167 | Añadido el lunes, 5 de octubre de 2015 22:04:01
+
+Push through the wall.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4168-4169 | Añadido el lunes, 5 de octubre de 2015 22:04:27
+
+Notice what happens right after the wall, if you can manage to get through it? All of the sudden, results shoot up extremely fast.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4179-4180 | Añadido el lunes, 5 de octubre de 2015 22:05:51
+
+Pushing through the pain is the secret to overcoming burnout.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4181-4182 | Añadido el lunes, 5 de octubre de 2015 22:06:05
+
+Pushing past the wall
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4190-4191 | Añadido el lunes, 5 de octubre de 2015 22:07:37
+
+You might want to review chapter 40 on holding yourself accountable, but essentially, you need to create a set of rules for yourself that will ensure you keep moving forward.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4200-4201 | Añadido el lunes, 5 de octubre de 2015 22:08:37
+
+Taking action
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4203-4204 | Añadido el lunes, 5 de octubre de 2015 22:09:09
+
+Decide that next time you take on a project, you’re going to take to completion or mastery. Set up rules and constraints that will force you to overcome the walls you’ll inevitably hit.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4204-4205 | Añadido el lunes, 5 de octubre de 2015 22:09:25
+
+If you’re facing a wall of some sort in your career or personal life, try and push past it.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4207-4207 | Añadido el lunes, 5 de octubre de 2015 22:09:40
+
+Chapter 43. How you’re wasting your time
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4213-4213 | Añadido el lunes, 5 de octubre de 2015 22:10:19
+
+The biggest time waster of all
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4214-4214 | Añadido el lunes, 5 de octubre de 2015 22:10:28
+
+watching television!
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4227-4227 | Añadido el lunes, 5 de octubre de 2015 22:12:01
+
+Giving up the TV
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4232-4232 | Añadido el lunes, 5 de octubre de 2015 22:12:54
+
+TV programs short-circuit the problem-solving part of your brain
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4232-4232 | Añadido el lunes, 5 de octubre de 2015 22:13:06
+
+Everything
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4233-4233 | Añadido el lunes, 5 de octubre de 2015 22:13:18
+
+is directly influenced by TV.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4246-4246 | Añadido el lunes, 5 de octubre de 2015 22:14:44
+
+Other time wasters
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4249-4249 | Añadido el lunes, 5 de octubre de 2015 22:15:16
+
+social media.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4252-4253 | Añadido el lunes, 5 de octubre de 2015 22:15:46
+
+One good strategy, which applies to email as well, is to batch up your social media activities to one or two times during the day.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4254-4254 | Añadido el lunes, 5 de octubre de 2015 22:16:09
+
+meetings.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4256-4257 | Añadido el lunes, 5 de octubre de 2015 22:16:40
+
+One of the best ways to stop letting meetings waste your time is to simply not go to them.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4277-4277 | Añadido el lunes, 5 de octubre de 2015 22:18:19
+
+Tracking your time
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4278-4279 | Añadido el lunes, 5 de octubre de 2015 22:18:38
+
+You can use a tool like RescueTime (http://simpleprogrammer.com/ss-rescue-time)
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4281-4281 | Añadido el lunes, 5 de octubre de 2015 22:18:53
+
+The best way to eliminate the time wasters in your life is to identify them.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4288-4289 | Añadido el lunes, 5 de octubre de 2015 22:19:38
+
+Taking action
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4289-4289 | Añadido el lunes, 5 de octubre de 2015 22:19:48
+
+For the next week, meticulously track your time.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4291-4291 | Añadido el lunes, 5 de octubre de 2015 22:20:05
+
+Have a “no TV” week and see how you do.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4292-4293 | Añadido el lunes, 5 de octubre de 2015 22:20:29
+
+Figure out if you can buy back more time by hiring someone to do your yard work or cleaning for you.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4295-4295 | Añadido el lunes, 5 de octubre de 2015 22:20:33
+
+Chapter 44. The importance of having a routine
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4302-4302 | Añadido el lunes, 5 de octubre de 2015 22:21:22
+
+Routines make you
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4308-4308 | Añadido el lunes, 5 de octubre de 2015 22:22:11
+
+What you do every day defines and shapes who you are over time.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4313-4314 | Añadido el lunes, 5 de octubre de 2015 22:22:45
+
+Creating a routine
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4316-4316 | Añadido el lunes, 5 de octubre de 2015 22:23:10
+
+A good routine begins with a big goal.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4319-4319 | Añadido el lunes, 5 de octubre de 2015 22:23:35
+
+figure out how you can make incremental steps toward that goal
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4321-4322 | Añadido el lunes, 5 de octubre de 2015 22:24:37
+
+You’ll build your schedule around this goal.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4327-4327 | Añadido el lunes, 5 de octubre de 2015 22:25:32
+
+next task is to actually schedule that time.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4333-4334 | Añadido el lunes, 5 de octubre de 2015 22:25:54
+
+Getting more detailed
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4343-4344 | Añadido el lunes, 5 de octubre de 2015 22:28:48
+
+I’d highly recommend scheduling out your workday so that you know what you’re going to be doing each day and each week.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4353-4354 | Añadido el lunes, 5 de octubre de 2015 22:28:56
+
+The more structured your day is, the more control you’ll have over your life.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4376-4376 | Añadido el lunes, 5 de octubre de 2015 22:29:55
+
+Taking action
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4377-4377 | Añadido el lunes, 5 de octubre de 2015 22:30:10
+
+Track your daily activities and see how much of a routine you’re already following.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4377-4379 | Añadido el lunes, 5 de octubre de 2015 22:30:23
+
+Pick one big goal and work it into your routine at least every week day. Calculate how much progress you’ll make in a year if you make a daily step toward your goal.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4380-4380 | Añadido el lunes, 5 de octubre de 2015 22:30:57
+
+Chapter 45. Developing habits: Brushing your code
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4388-4388 | Añadido el lunes, 5 de octubre de 2015 22:32:05
+
+Understanding habits
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4390-4391 | Añadido el lunes, 5 de octubre de 2015 22:32:24
+
+Habits basically consist of three things: a cue, a routine, and a reward.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4391-4391 | Añadido el lunes, 5 de octubre de 2015 22:32:33
+
+A cue is something that causes your habit to be triggered.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4393-4393 | Añadido el lunes, 5 de octubre de 2015 22:32:52
+
+A routine is something you do—the actual habit itself.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4394-4395 | Añadido el lunes, 5 de octubre de 2015 22:33:00
+
+reward. This is the anchor that actually keeps the habit in place.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4405-4406 | Añadido el lunes, 5 de octubre de 2015 22:34:08
+
+Recognizing bad habits and altering them
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4418-4419 | Añadido el lunes, 5 de octubre de 2015 22:35:43
+
+instead of trying to completely eliminate it, I can change the routine.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4419-4420 | Añadido el lunes, 5 de octubre de 2015 22:36:01
+
+I could leave the cue in place and have the cue direct me toward another action—a more productive action.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu nota en la posición 4435 | Añadido el lunes, 5 de octubre de 2015 22:38:56
+
+a la hora de cambiar el mal hábito . busca otro hboto con recompens similar
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4435-4435 | Añadido el lunes, 5 de octubre de 2015 22:38:56
+
+try to find something that you can do that will carry a similar reward or even the same type of reward.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4438-4438 | Añadido el lunes, 5 de octubre de 2015 22:39:09
+
+Forming new habits
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4441-4441 | Añadido el lunes, 5 de octubre de 2015 22:39:40
+
+forming new habits by just sticking with a routine long enough.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4450-4451 | Añadido el lunes, 5 de octubre de 2015 22:40:51
+
+Once you’ve picked out a habit that you’d like to develop, think of a reward that will help motivate you to start the habit.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4454-4454 | Añadido el lunes, 5 de octubre de 2015 22:41:16
+
+figure out the cue for your new habit. What’s going to trigger the habit? Make this cue something constant that you can rely on.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4458-4459 | Añadido el lunes, 5 de octubre de 2015 22:41:49
+
+Taking action
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4459-4460 | Añadido el lunes, 5 de octubre de 2015 22:42:06
+
+What are the most influential habits that currently make up your life? How many of them would you consider good habits and how many would you consider bad habits?
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4461-4461 | Añadido el lunes, 5 de octubre de 2015 22:42:12
+
+Take one of your bad habits and try to turn it around into a good habit.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4463-4464 | Añadido el lunes, 5 de octubre de 2015 22:42:25
+
+Chapter 46. Breaking down things: How to eat an elephant
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu marcador en la posición 4463 | Añadido el lunes, 5 de octubre de 2015 22:42:29
+
+
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4470-4470 | Añadido el martes, 6 de octubre de 2015 7:31:14
+
+Why bigger isn’t always better
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4473-4474 | Añadido el martes, 6 de octubre de 2015 7:31:50
+
+A large task can seem almost impossible when you look at it in its entirety.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu nota en la posición 4486 | Añadido el martes, 6 de octubre de 2015 7:34:08
+
+otra razon por la q grandes tareas son mlas
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4486-4486 | Añadido el martes, 6 de octubre de 2015 7:34:08
+
+The bigger a task, the less it tends to be defined.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4491-4492 | Añadido el martes, 6 de octubre de 2015 7:34:35
+
+Big tasks also tend to be very difficult to estimate.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4496-4496 | Añadido el martes, 6 de octubre de 2015 7:35:01
+
+Breaking down things
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4498-4498 | Añadido el martes, 6 de octubre de 2015 7:35:40
+
+Breaking down large tasks into smaller ones
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4499-4499 | Añadido el martes, 6 de octubre de 2015 7:35:48
+
+get more work done and to have more accurate estimates
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4512-4512 | Añadido el martes, 6 de octubre de 2015 7:37:33
+
+How to break down things
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4516-4517 | Añadido el martes, 6 de octubre de 2015 7:38:20
+
+you need to start by determining what steps need to be done to complete the task.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu nota en la posición 4518 | Añadido el martes, 6 de octubre de 2015 7:38:48
+
+la clave aqui es .secuencial.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4518-4518 | Añadido el martes, 6 de octubre de 2015 7:38:48
+
+smaller sequential pieces.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4528-4530 | Añadido el martes, 6 de octubre de 2015 7:40:14
+
+Remember how I said that bigger tasks are usually less defined? A critical step of breaking down a large task into smaller ones is identifying what information is missing that’s preventing you from creating smaller,
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4537-4537 | Añadido el martes, 6 de octubre de 2015 7:41:04
+
+Breaking down problems
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4548-4548 | Añadido el martes, 6 de octubre de 2015 7:42:33
+
+Taking action
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4548-4549 | Añadido el martes, 6 de octubre de 2015 7:42:38
+
+What large tasks are you avoiding right now because the size of them intimidates you?
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4550-4551 | Añadido el martes, 6 de octubre de 2015 7:42:48
+
+Pick a large problem you’re facing now and see if you can figure out a good way to decompose it into smaller tasks.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4552-4552 | Añadido el martes, 6 de octubre de 2015 7:43:00
+
+Chapter 47. The value of hard work and why you keep avoiding it
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4561-4562 | Añadido el martes, 6 de octubre de 2015 7:44:11
+
+Why is hard work so darn...hard?
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4572-4572 | Añadido el martes, 6 de octubre de 2015 7:45:38
+
+the work that we consider hard is the work that’s most likely to benefit us.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu nota en la posición 4573 | Añadido el martes, 6 de octubre de 2015 7:46:00
+
+es como m comida. si est buen engorda
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4573-4573 | Añadido el martes, 6 de octubre de 2015 7:46:00
+
+All the work that doesn’t have any benefit always seems so easy.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4574-4574 | Añadido el martes, 6 de octubre de 2015 7:46:06
+
+I’ll just work “smarter”
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4579-4579 | Añadido el martes, 6 de octubre de 2015 7:47:05
+
+if we want to actually see results from our actions, we have to be willing to work hard.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4580-4580 | Añadido el martes, 6 de octubre de 2015 7:47:08
+
+Being smart isn’t enough.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4582-4582 | Añadido el martes, 6 de octubre de 2015 7:47:14
+
+Hard work is boring
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu marcador en la posición 4582 | Añadido el martes, 6 de octubre de 2015 7:47:23
+
+
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4583-4583 | Añadido el martes, 6 de octubre de 2015 22:29:48
+
+why we avoid hard work, I’d say it’s because hard work is generally boring.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4592-4592 | Añadido el martes, 6 de octubre de 2015 22:29:55
+
+The reality
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4594-4595 | Añadido el martes, 6 de octubre de 2015 22:30:42
+
+You might have to spend a few years of your career doing 60- or 70-hour weeks. You might have to forgo watching TV or hanging out with friends for a few years to pull ahead.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4602-4602 | Añadido el martes, 6 de octubre de 2015 22:31:25
+
+Working hard: How to do it
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4616-4616 | Añadido el martes, 6 de octubre de 2015 22:32:51
+
+You just have to decide that you’re going to do the work that needs to be done.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4616-4617 | Añadido el martes, 6 de octubre de 2015 22:33:07
+
+You have to realize that the work must eventually be done, so it might as well get done now instead of later.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4619-4620 | Añadido el martes, 6 de octubre de 2015 22:33:11
+
+Taking action
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4620-4620 | Añadido el martes, 6 de octubre de 2015 22:33:26
+
+What kind of hard work are you putting off? What
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4621-4622 | Añadido el martes, 6 de octubre de 2015 22:33:35
+
+Get in the habit of not delaying, but immediately executing on work that needs to be done.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4623-4624 | Añadido el martes, 6 de octubre de 2015 22:33:39
+
+Chapter 48. Any action is better than no action
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4631-4632 | Añadido el martes, 6 de octubre de 2015 22:34:24
+
+Why we refuse to take action
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4635-4635 | Añadido el martes, 6 de octubre de 2015 22:34:46
+
+too—the reason is pretty simple: fear.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4636-4637 | Añadido el martes, 6 de octubre de 2015 22:35:07
+
+Fear is probably the biggest reason that we refuse to take action when we know we should.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4641-4641 | Añadido el martes, 6 de octubre de 2015 22:35:31
+
+What happens when you don’t take action
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4660-4660 | Añadido el martes, 6 de octubre de 2015 22:37:19
+
+What is the worst that could happen?
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4661-4661 | Añadido el martes, 6 de octubre de 2015 22:37:52
+
+You should always ask yourself this question if you’re stuck on making a decision.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4675-4676 | Añadido el martes, 6 de octubre de 2015 22:39:44
+
+Even some seemingly important choices—life-altering ones—are better off left to a random roll of the die than indecision and inaction.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4679-4679 | Añadido el martes, 6 de octubre de 2015 22:40:07
+
+It’s easier to steer a moving car
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4680-4680 | Añadido el martes, 6 de octubre de 2015 22:40:27
+
+Often not taking action is like sitting in a parked car and turning the steering wheel.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4688-4689 | Añadido el martes, 6 de octubre de 2015 22:41:01
+
+Sometimes, when you’re completely unsure about what to do, the best course of action is to do something and course-correct along the way.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4693-4693 | Añadido el martes, 6 de octubre de 2015 22:41:24
+
+What can you do now?
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4709-4709 | Añadido el martes, 6 de octubre de 2015 22:41:54
+
+Taking action
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4713-4714 | Añadido el martes, 6 de octubre de 2015 22:42:25
+
+If an action goal is too complex to decide on today, what smaller decision can you make to still move forward?
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4716-4716 | Añadido el martes, 6 de octubre de 2015 22:42:37
+
+Section 5. Financial
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4737-4737 | Añadido el martes, 6 de octubre de 2015 22:44:34
+
+Chapter 49. What are you going to do with your paycheck?
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4743-4743 | Añadido el martes, 6 de octubre de 2015 22:45:10
+
+Stop thinking short term
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu nota en la posición 4764 | Añadido el martes, 6 de octubre de 2015 22:48:17
+
+si cuanto mas gsnas . mas gsstss. es una gorma muy nala de pensar. solo te llevaa a la ruina
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4764-4765 | Añadido el martes, 6 de octubre de 2015 22:48:17
+
+It’s a short-term way of thinking about finances that never lets us get ahead, because the more we make, the more we spend.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4772-4772 | Añadido el martes, 6 de octubre de 2015 22:49:13
+
+They were literally living paycheck to paycheck,
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4772-4773 | Añadido el martes, 6 de octubre de 2015 22:49:18
+
+The more money they made, the more money they spent.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4774-4774 | Añadido el martes, 6 de octubre de 2015 22:49:28
+
+Assets and liabilities
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4779-4779 | Añadido el martes, 6 de octubre de 2015 22:50:46
+
+asset, it has to be able to provide more dollars of value than it costs to own.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4779-4780 | Añadido el martes, 6 de octubre de 2015 22:50:55
+
+A liability, on the other hand, is just the opposite. It’s something that costs more than the value it provides.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4775-4776 | Añadido el martes, 6 de octubre de 2015 22:51:24
+
+You can think in the long term
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4777-4777 | Añadido el martes, 6 de octubre de 2015 22:51:28
+
+around the idea of assets and liabilities.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu nota en la posición 4813 | Añadido el martes, 6 de octubre de 2015 22:55:11
+
+si con tu suelo compras assets. cada ve tendras ma dinero porque los assets generan dineo... si con tu suelo compras liabilities. cad e tendra mnos dineo
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4812-4813 | Añadido el martes, 6 de octubre de 2015 22:55:11
+
+When you have this viewpoint, you’re more likely to think in the long term rather than the short term.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4819-4819 | Añadido el martes, 6 de octubre de 2015 22:55:25
+
+Back to your paycheck
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4837-4838 | Añadido el martes, 6 de octubre de 2015 22:57:52
+
+If you want to be financially successful, you have to learn how to invest.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4840-4840 | Añadido el martes, 6 de octubre de 2015 22:58:08
+
+Taking action
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4841-4841 | Añadido el martes, 6 de octubre de 2015 22:58:24
+
+Follow the cash that goes through your hands every month.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4841-4842 | Añadido el martes, 6 de octubre de 2015 22:58:28
+
+Does most of your money go toward liabilities instead of investing in assets?
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4844-4845 | Añadido el martes, 6 de octubre de 2015 22:58:51
+
+Start asking yourself “How much can I save?” rather than “How much can I afford?”
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4846-4846 | Añadido el martes, 6 de octubre de 2015 22:58:55
+
+Chapter 50. How to negotiate your salary
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4853-4854 | Añadido el martes, 6 de octubre de 2015 22:59:41
+
+Negotiations begin before you even apply for the job
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu marcador en la posición 4853 | Añadido el martes, 6 de octubre de 2015 22:59:44
+
+
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4856-4857 | Añadido el miércoles, 7 de octubre de 2015 7:36:16
+
+The more recognized your name, the more power you’ll have when it comes to negotiations.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4868-4868 | Añadido el miércoles, 7 de octubre de 2015 7:37:58
+
+How you get the job is extremely important
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4870-4870 | Añadido el miércoles, 7 de octubre de 2015 7:38:30
+
+There are many different ways to get a job and
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4871-4871 | Añadido el miércoles, 7 de octubre de 2015 7:38:44
+
+seeing a job posting and cold-applying to that job
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4872-4872 | Añadido el miércoles, 7 de octubre de 2015 7:38:52
+
+This is, in fact, the worst way to get a job.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4876-4876 | Añadido el miércoles, 7 de octubre de 2015 7:39:36
+
+Another way to get a job is through personal referral.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4880-4880 | Añadido el miércoles, 7 de octubre de 2015 7:40:14
+
+you already have some credibility.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4883-4883 | Añadido el miércoles, 7 de octubre de 2015 7:40:53
+
+When the company that offers you a job finds you
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4889-4890 | Añadido el miércoles, 7 de octubre de 2015 7:41:38
+
+First person to name a number loses
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4906-4906 | Añadido el miércoles, 7 de octubre de 2015 7:43:59
+
+What about when you’re asked to name a number first?
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4902-4903 | Añadido el miércoles, 7 de octubre de 2015 7:44:36
+
+The only exception to this is when an employer is purposely going to low-ball you.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4903-4904 | Añadido el miércoles, 7 de octubre de 2015 7:44:42
+
+you may want to name a number first to set an anchor point.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4906-4906 | Añadido el miércoles, 7 de octubre de 2015 7:44:53
+
+What about when you’re asked to name a number first?
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4927-4928 | Añadido el miércoles, 7 de octubre de 2015 7:48:17
+
+What if you’re asked about your current salary?
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu marcador en la posición 4927 | Añadido el miércoles, 7 de octubre de 2015 7:48:21
+
+
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu nota en la posición 4928 | Añadido el miércoles, 7 de octubre de 2015 19:56:36
+
+intenar evitarlo. si hay q decir algo di. si es mas de lo que vais a ofrecer. no quiero ser descartado de un puestl interesante. si es menos. no quiero venderme barato 
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4927-4928 | Añadido el miércoles, 7 de octubre de 2015 19:56:36
+
+What if you’re asked about your current salary?
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4938-4938 | Añadido el miércoles, 7 de octubre de 2015 19:56:44
+
+When you have an offer
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4942-4944 | Añadido el miércoles, 7 de octubre de 2015 19:57:37
+
+Once you have an offer in hand, you’ll almost always want to counter. What you counter with is up to you, but I’d highly recommend countering as high as your stomach will allow.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4951-4953 | Añadido el miércoles, 7 de octubre de 2015 19:58:53
+
+when you counter with your high counter, you’ll get back another response with a slightly higher offer. You can accept this offer, but in most cases, I’d recommend countering just one more time.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4960-4960 | Añadido el miércoles, 7 de octubre de 2015 19:59:42
+
+Some final advice
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4961-4962 | Añadido el miércoles, 7 de octubre de 2015 19:59:52
+
+Know your numbers well. Research as much as possible what the salary ranges are at the company you’re applying for and what the salary ranges are for comparable positions.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4964-4965 | Añadido el miércoles, 7 de octubre de 2015 20:00:29
+
+A reason for the salary you’re requesting is never because you “need” that much money.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4965-4966 | Añadido el miércoles, 7 de octubre de 2015 20:00:32
+
+Instead, talk about why you’re worth a certain amount or what benefit you can bring to the table.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4966-4966 | Añadido el miércoles, 7 de octubre de 2015 20:00:42
+
+Talk about what you’ve done for past employers
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4972-4972 | Añadido el miércoles, 7 de octubre de 2015 20:01:13
+
+Taking action
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4973-4973 | Añadido el miércoles, 7 de octubre de 2015 20:01:21
+
+Practice negotiating as much as you can so that you can get over the fear of doing it.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4974-4975 | Añadido el miércoles, 7 de octubre de 2015 20:01:31
+
+Carefully research salaries so that you know what you’re worth.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4976-4976 | Añadido el miércoles, 7 de octubre de 2015 20:01:41
+
+Try to get a few interviews, even if you aren’t looking for a new job.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4979-4979 | Añadido el miércoles, 7 de octubre de 2015 20:01:53
+
+Chapter 51. Options: Where all the fun is
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu marcador en la posición 4979 | Añadido el miércoles, 7 de octubre de 2015 20:01:56
+
+
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4988-4989 | Añadido el miércoles, 7 de octubre de 2015 22:53:13
+
+Option basics
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 4989-4990 | Añadido el miércoles, 7 de octubre de 2015 22:54:59
+
+The basic idea behind an option is to allow someone to pay for the option of either buying or selling a stock by a later date in the future.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5016-5016 | Añadido el miércoles, 7 de octubre de 2015 22:58:04
+
+Digging a little deeper
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5017-5018 | Añadido el miércoles, 7 de octubre de 2015 22:58:57
+
+Options basically give you the option to buy a certain number of shares of a stock by some date in the future for a fixed price. But you can also buy an option that lets you sell a certain number of shares of a stock by some day in the future for a fixed price as well.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5039-5040 | Añadido el miércoles, 7 de octubre de 2015 23:02:09
+
+Selling options
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5059-5059 | Añadido el miércoles, 7 de octubre de 2015 23:04:36
+
+More complex options
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5081-5081 | Añadido el miércoles, 7 de octubre de 2015 23:07:26
+
+Taking action
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5082-5083 | Añadido el miércoles, 7 de octubre de 2015 23:07:43
+
+Look up a stock you’re familiar with and see if you can find what is called an option chain for it.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5083-5084 | Añadido el miércoles, 7 de octubre de 2015 23:07:50
+
+Take a look at the option chain and calculate how much it costs to buy an option on that stock that’s one month in the future.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5086-5086 | Añadido el miércoles, 7 de octubre de 2015 23:08:03
+
+Chapter 52. Bits and bytes of real estate investing
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu marcador en la posición 5086 | Añadido el miércoles, 7 de octubre de 2015 23:08:08
+
+
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5102-5102 | Añadido el jueves, 8 de octubre de 2015 7:32:16
+
+Why real estate investment?
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5105-5105 | Añadido el jueves, 8 de octubre de 2015 7:32:36
+
+the biggest reason I’m going to suggest is stability.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5107-5108 | Añadido el jueves, 8 de octubre de 2015 7:33:03
+
+the kind of income that’s stable about those kinds of properties is...rent.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5134-5135 | Añadido el jueves, 8 de octubre de 2015 7:42:51
+
+If you experience a high period of inflation, but you’re holding a real estate loan,
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5135-5135 | Añadido el jueves, 8 de octubre de 2015 7:43:00
+
+your cash in the bank is diminished in value, your real estate loan is also reduced
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu nota en la posición 5136 | Añadido el jueves, 8 de octubre de 2015 7:44:55
+
+en un perioo d inflaccion. tu dinero bajq. pero elnvalo d tu propiedad y el del lquiler sjbe
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5135-5136 | Añadido el jueves, 8 de octubre de 2015 7:44:55
+
+your cash in the bank is diminished in value, your real estate loan is also reduced at the same time as its price is technically increased, along with the rents.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5146-5146 | Añadido el jueves, 8 de octubre de 2015 7:45:38
+
+Okay, so how do I do it?
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5150-5150 | Añadido el jueves, 8 de octubre de 2015 7:46:09
+
+real estate investment is a long-term investment.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5155-5156 | Añadido el jueves, 8 de octubre de 2015 7:47:22
+
+buy rental properties that are either cash-flow positive or floating and to finance them using 30-year-fixed loans.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5158-5158 | Añadido el jueves, 8 de octubre de 2015 7:47:45
+
+First step: Education
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5159-5159 | Añadido el jueves, 8 de octubre de 2015 7:49:14
+
+You make the most money in real estate investment when you buy—not when you sell.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5162-5162 | Añadido el jueves, 8 de octubre de 2015 7:49:21
+
+there’s often a high disparity in pricing.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5164-5164 | Añadido el jueves, 8 de octubre de 2015 7:49:42
+
+What’s the price of a house? Who knows?
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5166-5167 | Añadido el jueves, 8 de octubre de 2015 7:49:50
+
+It means that if you’re smart and diligent, you can buy real estate for a heavily discounted price.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5168-5169 | Añadido el jueves, 8 de octubre de 2015 7:50:24
+
+The first thing you should do if you want to invest in real estate is to study the market.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5172-5173 | Añadido el jueves, 8 de octubre de 2015 7:51:01
+
+thinking about what kind of offer you’d need to make to buy a property at a price that would be a good deal.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5173-5173 | Añadido el jueves, 8 de octubre de 2015 7:51:20
+
+To do this you need to run all the numbers associated with a property.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5177-5178 | Añadido el jueves, 8 de octubre de 2015 7:51:26
+
+Taking action
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu marcador en la posición 5177 | Añadido el jueves, 8 de octubre de 2015 7:51:29
+
+
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5178-5179 | Añadido el jueves, 8 de octubre de 2015 22:00:33
+
+When I’m ready to buy a property, I’ll sign up to receive alerts from real estate agents on any new properties that meet my criteria.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5182-5182 | Añadido el jueves, 8 de octubre de 2015 22:02:34
+
+almost always make a low-ball offer—one
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu nota en la posición 5184 | Añadido el jueves, 8 de octubre de 2015 22:03:06
+
+pero cuando le acepptan la oferta bja . lo peta
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5183-5184 | Añadido el jueves, 8 de octubre de 2015 22:03:07
+
+That’s not to say that most of my offers don’t get rejected—they do.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5196-5196 | Añadido el jueves, 8 de octubre de 2015 22:04:27
+
+Use property management
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5196-5197 | Añadido el jueves, 8 de octubre de 2015 22:06:20
+
+Finally, after you buy the property, my recommendation is to put property management in place. I highly recommend against managing a rental property yourself.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5205-5206 | Añadido el jueves, 8 de octubre de 2015 22:07:27
+
+Taking action
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5207-5208 | Añadido el jueves, 8 de octubre de 2015 22:07:35
+
+look for a rental property listing in your area and practice running through all the numbers.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5210-5210 | Añadido el jueves, 8 de octubre de 2015 22:07:59
+
+Chapter 53. Do you really understand your retirement plan?
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5222-5222 | Añadido el jueves, 8 de octubre de 2015 22:12:53
+
+Retirement is all about working backwards
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5239-5240 | Añadido el jueves, 8 de octubre de 2015 22:15:37
+
+the most effective thing you can do to save for retirement is to figure how to reduce your monthly expenses.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5240-5240 | Añadido el jueves, 8 de octubre de 2015 22:15:52
+
+nothing else is likely to benefit you more than figuring out how to live on less.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5241-5241 | Añadido el jueves, 8 de octubre de 2015 22:15:57
+
+Calculating your retirement goal
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5242-5243 | Añadido el jueves, 8 de octubre de 2015 22:16:30
+
+with the monthly figure you need to live on to retire, you can officially “retire” when you reach that monthly income through passive income—that
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5249-5249 | Añadido el jueves, 8 de octubre de 2015 22:18:51
+
+Suppose you had 1 million dollars right now. If you wanted to invest that money into real estate,
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5259-5259 | Añadido el jueves, 8 de octubre de 2015 22:18:58
+
+You can’t live off of 1 million dollars if you don’t have 1 million dollars.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5259-5260 | Añadido el jueves, 8 de octubre de 2015 22:19:05
+
+And here’s where two paths can diverge—especially
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5260-5261 | Añadido el jueves, 8 de octubre de 2015 22:19:10
+
+Path 1: 401(k), IRAs, or other retirement accounts
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5272-5273 | Añadido el jueves, 8 de octubre de 2015 22:20:39
+
+If you go down the road of using a tax-deferred retirement account like a 401(k), you’re in it for the long haul. You can’t really change your mind; otherwise you’ll pay a pretty big penalty for doing so.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5283-5284 | Añadido el jueves, 8 de octubre de 2015 22:21:30
+
+Path 2: Setting up an early retirement or aiming to get rich
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5287-5287 | Añadido el jueves, 8 de octubre de 2015 22:22:24
+
+two paths are pretty much mutually exclusive.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5289-5290 | Añadido el jueves, 8 de octubre de 2015 22:22:37
+
+You’ll basically be diverting funds away from the investments that you could be making in order to retire earlier.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5291-5292 | Añadido el jueves, 8 de octubre de 2015 22:25:04
+
+you try to go down both roads, you’ll probably be doing both strategies in a suboptimal way.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5312-5312 | Añadido el jueves, 8 de octubre de 2015 22:27:30
+
+You have to be able to make small investments that pay off, and work your way up to larger and larger ones over time.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5318-5318 | Añadido el jueves, 8 de octubre de 2015 22:28:22
+
+There are three main ways to accelerate this process. First, and we already talked about this one, reduce your expenses.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5321-5322 | Añadido el jueves, 8 de octubre de 2015 22:28:46
+
+Next, make as much money as you can.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5325-5325 | Añadido el jueves, 8 de octubre de 2015 22:29:06
+
+Finally, make the most profitable investments you can.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5329-5330 | Añadido el jueves, 8 de octubre de 2015 22:29:45
+
+What if I am stuck in the middle or close to retirement?
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5338-5338 | Añadido el jueves, 8 de octubre de 2015 22:30:57
+
+Taking action
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5339-5340 | Añadido el jueves, 8 de octubre de 2015 22:31:09
+
+Figure out how much you could reduce those expenses by if you were willing to make some big sacrifices.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5340-5341 | Añadido el jueves, 8 de octubre de 2015 22:31:18
+
+calculate how much money you’d need to generate each month to retire
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5342-5343 | Añadido el jueves, 8 de octubre de 2015 22:31:33
+
+Figure out how much money you’d need to have at various rates of return, like 2%, 5%, and 10%, to have enough monthly income to retire.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5344-5344 | Añadido el jueves, 8 de octubre de 2015 22:31:40
+
+Chapter 54. The danger of debt: SSDs are expensive
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5344-5345 | Añadido el jueves, 8 de octubre de 2015 22:31:55
+
+Of all the financial mistakes you can make, the biggest one is to go into debt.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5349-5350 | Añadido el jueves, 8 de octubre de 2015 22:32:27
+
+The only way you can really become financially successful is to make money off of your money.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5353-5353 | Añadido el jueves, 8 de octubre de 2015 22:32:54
+
+Why debt is generally bad
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu nota en la posición 5357 | Añadido el jueves, 8 de octubre de 2015 22:39:55
+
+esra seria la unica deuda buena
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5357-5357 | Añadido el jueves, 8 de octubre de 2015 22:39:55
+
+that debt is actually being used to get a higher return than the interest you’re paying on it,
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5372-5372 | Añadido el jueves, 8 de octubre de 2015 22:43:38
+
+Some common debt follies
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5375-5375 | Añadido el jueves, 8 de octubre de 2015 22:44:08
+
+The biggest folly I see concerning debt is saving money while holding debt,
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5379-5380 | Añadido el jueves, 8 de octubre de 2015 22:45:02
+
+the interest you’re paying on the debt you have is costing you more than the interest you’re making by having money in the bank—especially
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5393-5394 | Añadido el jueves, 8 de octubre de 2015 22:51:56
+
+Perhaps the next biggest debt mistake I often see is paying off debt in the wrong order.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5395-5395 | Añadido el jueves, 8 de octubre de 2015 22:52:07
+
+Always prioritize your debt payments based on the interest rate.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5398-5398 | Añadido el jueves, 8 de octubre de 2015 22:52:34
+
+the biggest one by far is unnecessary debt—that
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5402-5403 | Añadido el jueves, 8 de octubre de 2015 22:53:12
+
+Reverse the problem by saving and then buying things with cash.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5409-5409 | Añadido el jueves, 8 de octubre de 2015 22:53:55
+
+Not all debt is bad
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5410-5411 | Añadido el jueves, 8 de octubre de 2015 22:54:10
+
+Debt can be good if you can use that debt to earn more money than the interest you pay on that debt.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5425-5426 | Añadido el jueves, 8 de octubre de 2015 22:56:00
+
+Only in an absolute emergency situation should you take on debt that isn’t profitable.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5427-5427 | Añadido el jueves, 8 de octubre de 2015 22:56:03
+
+Taking action
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5427-5429 | Añadido el jueves, 8 de octubre de 2015 22:56:12
+
+Make a list of all your debt. Put that debt into two categories: good debt and bad debt. Prioritize the list of bad debt by interest
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5427-5428 | Añadido el jueves, 8 de octubre de 2015 22:56:22
+
+Make a list of all your debt. Put that debt into two categories: good debt and bad debt.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5428-5429 | Añadido el jueves, 8 de octubre de 2015 22:56:28
+
+Prioritize the list of bad debt by interest rate.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5430-5431 | Añadido el jueves, 8 de octubre de 2015 22:56:42
+
+Chapter 55. Bonus: How I retired at 33
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5437-5437 | Añadido el jueves, 8 de octubre de 2015 22:57:57
+
+What it means to be “retired”
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5443-5443 | Añadido el jueves, 8 de octubre de 2015 22:58:33
+
+I define retirement as freedom. To be more specific: financial freedom.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5446-5447 | Añadido el jueves, 8 de octubre de 2015 22:59:23
+
+I have enough passive income coming in that’s protected against inflation that I can sip Mai Tais on the beach if I want to, but I can also work on the projects that interest me,
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5452-5452 | Añadido el jueves, 8 de octubre de 2015 22:59:52
+
+How I got started
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5470-5470 | Añadido el jueves, 8 de octubre de 2015 23:01:51
+
+Rental woes
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5483-5483 | Añadido el jueves, 8 de octubre de 2015 23:03:18
+
+Gaining traction
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5502-5502 | Añadido el jueves, 8 de octubre de 2015 23:05:31
+
+Grinding it out
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5514-5514 | Añadido el jueves, 8 de octubre de 2015 23:07:03
+
+Short circuit?
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5523-5523 | Añadido el jueves, 8 de octubre de 2015 23:08:02
+
+More grinding it out
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5550-5550 | Añadido el jueves, 8 de octubre de 2015 23:11:07
+
+Turning a corner
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5569-5569 | Añadido el jueves, 8 de octubre de 2015 23:12:57
+
+The lucky break
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5587-5587 | Añadido el jueves, 8 de octubre de 2015 23:14:54
+
+Hard work mode
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5595-5595 | Añadido el jueves, 8 de octubre de 2015 23:15:47
+
+Multiple passive income streams
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5604-5604 | Añadido el jueves, 8 de octubre de 2015 23:16:44
+
+A quick analysis
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5635-5635 | Añadido el jueves, 8 de octubre de 2015 23:20:08
+
+Section 6. Fitness
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5654-5655 | Añadido el jueves, 8 de octubre de 2015 23:22:06
+
+Chapter 56. Why you need to hack your health
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5665-5665 | Añadido el viernes, 9 de octubre de 2015 10:29:49
+
+Confidence
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5667-5668 | Añadido el viernes, 9 de octubre de 2015 10:30:15
+
+Being healthy, by itself, isn’t a strong enough motivator to get into shape—at
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5669-5669 | Añadido el viernes, 9 de octubre de 2015 10:30:51
+
+one of the most important benefits of healthy eating and exercise: confidence.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5674-5675 | Añadido el viernes, 9 de octubre de 2015 10:31:03
+
+getting in shape helps you to feel good about yourself and the fact that you can accomplish the goals you set out to accomplish.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5675-5676 | Añadido el viernes, 9 de octubre de 2015 10:31:47
+
+That self-confidence carries outward and is projected in your conversations and interactions
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5682-5682 | Añadido el viernes, 9 de octubre de 2015 10:32:08
+
+Brain power
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5689-5689 | Añadido el viernes, 9 de octubre de 2015 10:39:07
+
+walking has a significant effect on at least one function of your brain—creative power—but
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5697-5697 | Añadido el viernes, 9 de octubre de 2015 10:39:49
+
+Fear
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu marcador en la posición 5697 | Añadido el viernes, 9 de octubre de 2015 10:39:52
+
+
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5698-5699 | Añadido el viernes, 9 de octubre de 2015 12:48:54
+
+if you’re overweight and generally unhealthy, you’re putting yourself at a considerable risk for all kinds of preventable diseases.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5717-5717 | Añadido el viernes, 9 de octubre de 2015 12:51:54
+
+Don’t let it be too late for you. Get serious now.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5721-5721 | Añadido el viernes, 9 de octubre de 2015 12:51:59
+
+Taking action
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5722-5722 | Añadido el viernes, 9 de octubre de 2015 13:01:31
+
+make a commitment to your health.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5724-5724 | Añadido el viernes, 9 de octubre de 2015 13:01:41
+
+if you aren’t committed to change, it won’t matter a bit.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5724-5724 | Añadido el viernes, 9 de octubre de 2015 13:01:47
+
+give you all the fitness and health advice
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5726-5726 | Añadido el viernes, 9 de octubre de 2015 13:01:52
+
+Chapter 57. Setting your fitness criteria
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu marcador en la posición 5726 | Añadido el viernes, 9 de octubre de 2015 13:01:55
+
+
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5733-5734 | Añadido el viernes, 9 de octubre de 2015 13:34:59
+
+Picking a specific goal
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5747-5747 | Añadido el viernes, 9 de octubre de 2015 13:36:24
+
+Creating milestones
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu marcador en la posición 5747 | Añadido el viernes, 9 de octubre de 2015 13:36:28
+
+
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5754-5755 | Añadido el viernes, 9 de octubre de 2015 13:46:03
+
+Losing 90 pounds seemed to be an impossible goal.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5756-5756 | Añadido el viernes, 9 de octubre de 2015 13:46:13
+
+I had to figure out how to make that huge task seem much smaller.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5757-5757 | Añadido el viernes, 9 de octubre de 2015 13:46:37
+
+small goal of losing 5 pounds every two weeks.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5773-5773 | Añadido el viernes, 9 de octubre de 2015 13:49:58
+
+Measuring your progress
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu marcador en la posición 5773 | Añadido el viernes, 9 de octubre de 2015 16:17:48
+
+
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5774-5774 | Añadido el viernes, 9 de octubre de 2015 18:42:30
+
+it’s very important to have a good way to measure your progress.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5778-5778 | Añadido el viernes, 9 de octubre de 2015 18:44:02
+
+try to avoid too many measurements, though;
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5784-5784 | Añadido el viernes, 9 de octubre de 2015 18:44:51
+
+Living a healthy lifestyle
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5788-5789 | Añadido el viernes, 9 de octubre de 2015 19:41:13
+
+After reaching your fitness goal, your battle isn’t over.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5792-5792 | Añadido el viernes, 9 de octubre de 2015 19:41:46
+
+The goal is to make “normal living” somewhere in-between
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5800-5801 | Añadido el viernes, 9 de octubre de 2015 19:42:48
+
+Taking action
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5801-5803 | Añadido el viernes, 9 de octubre de 2015 19:42:52
+
+Identify one big fitness goal and write it down. Next list a series of realistic milestones to achieve that goal. Identify one action you can take to reach your first milestones.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5804-5805 | Añadido el viernes, 9 de octubre de 2015 19:42:58
+
+Chapter 58. Thermodynamics, calories, and you
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5812-5812 | Añadido el viernes, 9 de octubre de 2015 19:44:01
+
+What is a calorie?
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5814-5814 | Añadido el viernes, 9 de octubre de 2015 19:44:29
+
+calorie is basically a measurement of energy.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5817-5817 | Añadido el viernes, 9 de octubre de 2015 19:45:00
+
+all the calories that enter your body are either used or stored.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5823-5823 | Añadido el viernes, 9 de octubre de 2015 19:45:34
+
+Losing weight is simple
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5824-5824 | Añadido el viernes, 9 de octubre de 2015 19:45:49
+
+weight—just eat fewer calories than you burn.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5829-5830 | Añadido el viernes, 9 de octubre de 2015 19:46:42
+
+If you want to lose a pound of fat, you have to burn about 3,500 more calories than you eat.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5832-5832 | Añadido el viernes, 9 de octubre de 2015 19:47:44
+
+you’ll lose weight, only not all of it will be fat, some of it will be muscle.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5835-5835 | Añadido el viernes, 9 de octubre de 2015 19:47:49
+
+How many calories are you consuming?
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5842-5842 | Añadido el viernes, 9 de octubre de 2015 19:48:40
+
+the more difficult it is to accurately measure the calorie count.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5844-5844 | Añadido el viernes, 9 de octubre de 2015 19:48:52
+
+How many calories are you burning?
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5846-5847 | Añadido el viernes, 9 de octubre de 2015 19:49:13
+
+Your body requires a certain amount of fuel just to keep you alive. This base amount of calories is called your base metabolic rate, or BMR.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5847-5847 | Añadido el viernes, 9 de octubre de 2015 19:49:26
+
+calculate your approximate BMR by a combination of your weight, height, age, and sex.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5853-5854 | Añadido el viernes, 9 de octubre de 2015 19:50:15
+
+you can use the Harris Benedict Equation shown in table 58.1 to calculate your approximate calorie burn based on activity levels.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5864-5864 | Añadido el viernes, 9 de octubre de 2015 19:51:12
+
+Utilizing calories to achieve your goal
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5865-5866 | Añadido el viernes, 9 de octubre de 2015 19:54:17
+
+You can use this information to come up with a basic plan for losing or gaining weight.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu nota en la posición 5866 | Añadido el viernes, 9 de octubre de 2015 19:55:42
+
+si quemo 3000 calorias al dia. y 3500 calorias zon un pound. puedo calcular cuanto tengo que comer para erder un pound a la semna
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5865-5866 | Añadido el viernes, 9 de octubre de 2015 19:55:42
+
+You can use this information to come up with a basic plan for losing or gaining weight.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5880-5881 | Añadido el viernes, 9 de octubre de 2015 20:09:00
+
+Taking action
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5881-5882 | Añadido el viernes, 9 de octubre de 2015 20:09:19
+
+Track the calories you eat for at least three days.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5883-5883 | Añadido el viernes, 9 de octubre de 2015 20:09:25
+
+Calculate your BMR and use the Harris Benedict Equation
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5885-5885 | Añadido el viernes, 9 de octubre de 2015 20:09:43
+
+come up with a basic plan,
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5887-5887 | Añadido el viernes, 9 de octubre de 2015 20:09:49
+
+Chapter 59. Motivation: Getting your butt out of the chair
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5894-5894 | Añadido el viernes, 9 de octubre de 2015 20:10:53
+
+What motivates you?
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu marcador en la posición 5894 | Añadido el viernes, 9 de octubre de 2015 20:10:56
+
+
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5895-5896 | Añadido el sábado, 10 de octubre de 2015 13:46:06
+
+It’s important to take some time to think about what kinds of things motivate you the most.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5900-5900 | Añadido el sábado, 10 de octubre de 2015 13:46:44
+
+Rewarding yourself too early
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu nota en la posición 5908 | Añadido el sábado, 10 de octubre de 2015 13:48:19
+
+como por ejemplo comprarte unas zapatillas super faas para correr antes de tener la costumbre d hacelo
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5908-5908 | Añadido el sábado, 10 de octubre de 2015 13:48:19
+
+You can actually demotivate yourself by giving yourself the reward before you earn it.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5911-5911 | Añadido el sábado, 10 de octubre de 2015 13:48:44
+
+Always try to make it so that you have to earn a reward and you’ll be much more motivated to reach your goals.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5914-5915 | Añadido el sábado, 10 de octubre de 2015 13:49:01
+
+Motivation ideas
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu marcador en la posición 5914 | Añadido el sábado, 10 de octubre de 2015 13:50:08
+
+
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5918-5919 | Añadido el sábado, 10 de octubre de 2015 17:47:50
+
+One good way to stay motivated is to post pictures all over the place that serve as reminders of what you want to look like.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5921-5921 | Añadido el sábado, 10 de octubre de 2015 17:47:59
+
+It can also help to chart your progress and constantly remind yourself how far you’ve come.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5942-5942 | Añadido el sábado, 10 de octubre de 2015 17:49:28
+
+Just get it done!
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5943-5944 | Añadido el sábado, 10 de octubre de 2015 17:49:52
+
+Try to make decisions ahead of time that commit you to a course of action that you want to take.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5947-5947 | Añadido el sábado, 10 de octubre de 2015 17:50:15
+
+Try to remove judgment as much as possible from your life by planning things out far in advance.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5949-5949 | Añadido el sábado, 10 de octubre de 2015 17:50:47
+
+Utilize principles in place of motivation when your motivation runs out.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5950-5954 | Añadido el sábado, 10 de octubre de 2015 17:51:25
+
+Create a set of maxims to live your life by and stick to them when things get tough. maxims to live by Always finish strong. Winners never quit and quitters never win. No pain, no gain. Time is short, if you want to do something in life, do it now. This too shall pass. A consistent process produces success.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5955-5956 | Añadido el sábado, 10 de octubre de 2015 17:51:29
+
+Taking action
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5956-5957 | Añadido el sábado, 10 de octubre de 2015 17:51:47
+
+Come up with a list of reasons why you want to get in shape or improve your health. From that list, identify the three biggest motivators.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5960-5961 | Añadido el sábado, 10 de octubre de 2015 17:52:07
+
+Pick a reward to give yourself after you reach a certain milestone in your fitness journey.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5964-5964 | Añadido el sábado, 10 de octubre de 2015 17:52:33
+
+Chapter 60. How to gain muscle: Nerds can have bulging biceps
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5976-5976 | Añadido el sábado, 10 de octubre de 2015 17:55:56
+
+How muscles grow
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5981-5982 | Añadido el sábado, 10 de octubre de 2015 17:56:43
+
+progressively overload your muscles by increasing the amount of work you ask them to perform as they grow in response.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5985-5986 | Añadido el sábado, 10 de octubre de 2015 17:57:04
+
+Weightlifting basics
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5988-5989 | Añadido el sábado, 10 de octubre de 2015 17:58:41
+
+When you lift weight, you usually break up the workout into different exercises. For each exercise you do a number of sets, and for each set you do a number of repetitions,
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5995-5995 | Añadido el sábado, 10 de octubre de 2015 17:58:51
+
+Different goals
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5998-5998 | Añadido el sábado, 10 de octubre de 2015 17:59:07
+
+Strength
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5998-5998 | Añadido el sábado, 10 de octubre de 2015 17:59:23
+
+small number of reps with a fairly high rest period
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 5999-5999 | Añadido el sábado, 10 de octubre de 2015 17:59:29
+
+your muscles to adapt by growing stronger.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6002-6003 | Añadido el sábado, 10 de octubre de 2015 18:00:08
+
+The idea is that if you’re targeting four reps, you physically can’t do five with the weight you’re lifting.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6003-6003 | Añadido el sábado, 10 de octubre de 2015 18:00:14
+
+Size
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6004-6004 | Añadido el sábado, 10 de octubre de 2015 18:00:25
+
+Muscle size growth is known as hypertrophy.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6004-6005 | Añadido el sábado, 10 de octubre de 2015 18:00:35
+
+Muscle size is primarily achieved by medium rep ranges with moderate rest times in between.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6007-6007 | Añadido el sábado, 10 de octubre de 2015 18:01:03
+
+Endurance
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6008-6009 | Añadido el sábado, 10 de octubre de 2015 18:01:20
+
+that—increase the reps even further.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6011-6012 | Añadido el sábado, 10 de octubre de 2015 18:02:02
+
+if you focus on muscular endurance, you won’t see much of an increase in size—you
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6013-6013 | Añadido el sábado, 10 de octubre de 2015 18:02:06
+
+Getting started
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6016-6017 | Añadido el sábado, 10 de octubre de 2015 18:02:42
+
+how you might split up your routine in a week.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6018-6018 | Añadido el sábado, 10 de octubre de 2015 18:03:04
+
+initially
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6018-6018 | Añadido el sábado, 10 de octubre de 2015 18:03:10
+
+do lifts that target your whole body,
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6026-6026 | Añadido el sábado, 10 de octubre de 2015 18:05:14
+
+Once you’ve been doing full-body workouts for about two to three weeks, you can progress to splitting up
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6044-6044 | Añadido el sábado, 10 de octubre de 2015 18:05:43
+
+What lifts should you do?
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6047-6048 | Añadido el sábado, 10 de octubre de 2015 18:06:26
+
+you can find pictures, videos, and full descriptions at one of my favorite internet sites for fitness, Bodybuilding.com (http://simpleprogrammer.com/ss-bodybuilding).
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6051-6052 | Añadido el sábado, 10 de octubre de 2015 18:07:25
+
+start with a low number of sets, perhaps just 1 or 2, and then eventually work up to about 3–5 per exercise.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6053-6053 | Añadido el sábado, 10 de octubre de 2015 18:07:29
+
+20–25 sets total.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu nota en la posición 6088 | Añadido el sábado, 10 de octubre de 2015 18:12:04
+
+asi q no te preocupes de los abdominles
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6087-6088 | Añadido el sábado, 10 de octubre de 2015 18:12:04
+
+Squats, deadlifts, and military presses (standing) work your core as you try to stabilize yourself to do the exercises.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6090-6090 | Añadido el sábado, 10 de octubre de 2015 18:12:23
+
+What to eat
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6091-6092 | Añadido el sábado, 10 de octubre de 2015 18:13:10
+
+You just need to make sure you’re eating a surplus of calories and that you’re getting enough protein.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6095-6096 | Añadido el sábado, 10 de octubre de 2015 18:14:03
+
+When you gain muscle, you also gain some fat with it—that’s
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6101-6101 | Añadido el sábado, 10 de octubre de 2015 18:14:38
+
+Taking action
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6101-6102 | Añadido el sábado, 10 de octubre de 2015 18:14:53
+
+Go get a gym membership and set up a personal lifting plan for yourself.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6103-6104 | Añadido el sábado, 10 de octubre de 2015 18:14:59
+
+Go to http://simpleprogrammer.com/ss-bodybuilding and look up the exercises mentioned in this chapter.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6106-6106 | Añadido el sábado, 10 de octubre de 2015 18:15:10
+
+Chapter 61. How to get hash-table abs
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6110-6111 | Añadido el sábado, 10 de octubre de 2015 18:15:46
+
+It’s not easy, but the answer, surprisingly, has little to do with sit-ups or crunches.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6112-6113 | Añadido el sábado, 10 de octubre de 2015 18:16:04
+
+Abs are made in the kitchen
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6115-6115 | Añadido el sábado, 10 de octubre de 2015 18:16:25
+
+difficult—you’ll have to have the discipline to drop your body fat to a very low percentage.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6120-6120 | Añadido el sábado, 10 de octubre de 2015 18:17:12
+
+The problem is that the abdominal region, especially for men, is one of the main areas of fat deposits in the body.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6129-6129 | Añadido el sábado, 10 de octubre de 2015 18:18:29
+
+Your body doesn’t want you to have abs
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6134-6135 | Añadido el sábado, 10 de octubre de 2015 18:19:34
+
+To your body, washboard abs are a serious problem. Washboard abs indicate that you’re a few weeks away from starvation and death.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6136-6136 | Añadido el sábado, 10 de octubre de 2015 18:19:42
+
+That’s why it stores fat.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu nota en la posición 6138 | Añadido el sábado, 10 de octubre de 2015 18:20:43
+
+y cuanto meno grasa ttiens. mas musculo rompe al intentar oerde grasa
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6138-6138 | Añadido el sábado, 10 de octubre de 2015 18:20:43
+
+Anytime you lose fat, you lose some muscle as well—it
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu nota en la posición 6146 | Añadido el sábado, 10 de octubre de 2015 18:21:45
+
+por la hormna q tu cuerpo va segregando
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6145-6146 | Añadido el sábado, 10 de octubre de 2015 18:21:45
+
+the more fat you lose, the hungrier you get
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6148-6148 | Añadido el sábado, 10 de octubre de 2015 18:22:02
+
+What can you do about it?
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu marcador en la posición 6148 | Añadido el sábado, 10 de octubre de 2015 18:22:06
+
+
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6149-6150 | Añadido el sábado, 10 de octubre de 2015 19:27:44
+
+bodybuilders who get to extremely low body-fat percentages do it mostly by taking steroids and other drugs
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6155-6155 | Añadido el sábado, 10 de octubre de 2015 19:29:07
+
+the answer lies in being strict with your diet and sticking it out for a long time.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6169-6170 | Añadido el sábado, 10 de octubre de 2015 19:31:27
+
+Chapter 62. Starting RunningProgram.exe
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu marcador en la posición 6169 | Añadido el sábado, 10 de octubre de 2015 19:33:13
+
+
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6178-6178 | Añadido el sábado, 10 de octubre de 2015 21:49:25
+
+Why you might want to run
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6181-6181 | Añadido el sábado, 10 de octubre de 2015 21:49:53
+
+is for cardiovascular health.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6188-6188 | Añadido el sábado, 10 de octubre de 2015 21:50:46
+
+running makes you happier in general.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6189-6190 | Añadido el sábado, 10 de octubre de 2015 21:51:06
+
+running can also actually lift your mood in a chemical way as well,
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6193-6193 | Añadido el sábado, 10 de octubre de 2015 21:51:31
+
+Getting started running
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6197-6198 | Añadido el sábado, 10 de octubre de 2015 21:52:35
+
+you need to get to the point where you can run three miles, or about five kilometers.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6209-6209 | Añadido el sábado, 10 de octubre de 2015 21:53:37
+
+Advice for getting started
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6210-6210 | Añadido el sábado, 10 de octubre de 2015 21:53:53
+
+When you get started running, the most important thing is commitment.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6216-6216 | Añadido el sábado, 10 de octubre de 2015 21:54:32
+
+Taking action
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6217-6218 | Añadido el sábado, 10 de octubre de 2015 21:54:37
+
+check out the Couch-to-5K program: http://simpleprogrammer.com/ss-couch-to-5k.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6222-6222 | Añadido el sábado, 10 de octubre de 2015 21:54:58
+
+Chapter 63. Standing desks and other hacks
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6228-6228 | Añadido el sábado, 10 de octubre de 2015 21:55:35
+
+Standing desks and treadmills
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6246-6246 | Añadido el sábado, 10 de octubre de 2015 23:48:55
+
+Food hacks
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6248-6249 | Añadido el sábado, 10 de octubre de 2015 23:49:21
+
+if you want to be healthy, you have to do a large degree of cooking for yourself.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6250-6250 | Añadido el sábado, 10 de octubre de 2015 23:49:49
+
+I’ve developed quite a few food hacks
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6250-6250 | Añadido el sábado, 10 de octubre de 2015 23:49:53
+
+Eggs in the microwave
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6267-6267 | Añadido el sábado, 10 de octubre de 2015 23:52:33
+
+Plain nonfat Greek yogurt
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6268-6269 | Añadido el sábado, 10 de octubre de 2015 23:52:50
+
+nonfat Greek yogurt that you can find at most grocery stores is almost pure protein with very little calories.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6274-6274 | Añadido el sábado, 10 de octubre de 2015 23:53:41
+
+Frozen meats
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6286-6287 | Añadido el sábado, 10 de octubre de 2015 23:55:12
+
+Taking action
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6288-6290 | Añadido el sábado, 10 de octubre de 2015 23:55:31
+
+Take a look at your current schedule and fitness plan and identify the most annoying and time-consuming parts of your routine. How can you develop a hack that can make things much easier?
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6291-6291 | Añadido el sábado, 10 de octubre de 2015 23:55:37
+
+Chapter 64. Tech gear for fitness: Geeking out
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6298-6299 | Añadido el sábado, 10 de octubre de 2015 23:56:37
+
+Step counters and pedometers
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6301-6301 | Añadido el sábado, 10 de octubre de 2015 23:58:11
+
+it can help you to identify how active you really are, and
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6311-6311 | Añadido el sábado, 10 de octubre de 2015 23:58:21
+
+Wireless scales
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6313-6314 | Añadido el sábado, 10 de octubre de 2015 23:59:16
+
+What’s cool about this scale is that it automatically uploads my data wirelessly to the cloud, whenever I step on it.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6321-6321 | Añadido el sábado, 10 de octubre de 2015 23:59:42
+
+Combo devices
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6324-6325 | Añadido el domingo, 11 de octubre de 2015 0:00:22
+
+a combo device that will measure your heart rate, blood oxygen level, activity, and temperature.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6332-6332 | Añadido el domingo, 11 de octubre de 2015 0:01:00
+
+PUSH strength
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6335-6337 | Añadido el domingo, 11 de octubre de 2015 0:01:26
+
+What I found interesting about the PUSH device is that it isn’t a device that tracks your steps and your activity, but rather is designed to improve your weight-lifting workouts.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6341-6341 | Añadido el domingo, 11 de octubre de 2015 0:01:57
+
+Headphones
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6352-6352 | Añadido el domingo, 11 de octubre de 2015 0:03:12
+
+Apps
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6369-6369 | Añadido el domingo, 11 de octubre de 2015 0:05:13
+
+Section 7. Spirit
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6381-6381 | Añadido el domingo, 11 de octubre de 2015 0:06:25
+
+Chapter 65. How the mind influences the body
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6392-6393 | Añadido el domingo, 11 de octubre de 2015 0:07:43
+
+It starts with the mind
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu marcador en la posición 6392 | Añadido el domingo, 11 de octubre de 2015 0:07:47
+
+
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6393-6393 | Añadido el domingo, 11 de octubre de 2015 11:46:09
+
+There’s almost nothing you can do without believing you can do it.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6406-6408 | Añadido el domingo, 11 de octubre de 2015 11:46:27
+
+may not be able to convince myself that elephants are pink, but I can, in time, with repeated affirmations, change many of my beliefs to my own liking. I have the power to shape my own thoughts—as do you.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6424-6424 | Añadido el domingo, 11 de octubre de 2015 11:46:37
+
+The mind and body connection
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6426-6427 | Añadido el domingo, 11 de octubre de 2015 11:48:13
+
+when I say that the mind influences the body, I also mean that it influences your brain.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu nota en la posición 6432 | Añadido el domingo, 11 de octubre de 2015 11:50:02
+
+lo q piensas se convierte en realidsd . siempre y cuando sess capaz de realizsrlo con tu cuerpo
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6432-6432 | Añadido el domingo, 11 de octubre de 2015 11:50:02
+
+what you think becomes reality—at least as far as it’s within the power of your body and mind to make it so.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6452-6453 | Añadido el domingo, 11 de octubre de 2015 11:53:47
+
+your mindset and beliefs can have a positive or negative impact on your life,
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6455-6455 | Añadido el domingo, 11 de octubre de 2015 11:53:51
+
+Taking action
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6457-6458 | Añadido el domingo, 11 de octubre de 2015 11:54:46
+
+What was your mindset the last time you experienced a great success? What was your mindset the last time you encountered a major failure?
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6459-6460 | Añadido el domingo, 11 de octubre de 2015 11:55:04
+
+Chapter 66. Having the right mental attitude: Rebooting
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6469-6469 | Añadido el domingo, 11 de octubre de 2015 11:56:46
+
+What is positivity?
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6475-6476 | Añadido el domingo, 11 de octubre de 2015 12:00:47
+
+it’s the belief that you have the power to change your reality, that you aren’t a victim of your circumstances.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6476-6477 | Añadido el domingo, 11 de octubre de 2015 12:01:30
+
+The root of positive thinking is this belief that you’re greater than your mere circumstances.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6482-6483 | Añadido el domingo, 11 de octubre de 2015 12:02:08
+
+positive thinking is all about choosing to think good thoughts rather than bad thoughts.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6501-6501 | Añadido el domingo, 11 de octubre de 2015 12:04:51
+
+The positive effects of positivity
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6508-6508 | Añadido el domingo, 11 de octubre de 2015 12:05:38
+
+know for a fact that my attitude directly affects my performance at work.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6509-6509 | Añadido el domingo, 11 de octubre de 2015 12:05:59
+
+I know that when I have a positive attitude, I’m more ready to deal with any obstacles
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6513-6514 | Añadido el domingo, 11 de octubre de 2015 12:07:40
+
+How to reboot your attitude
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6517-6518 | Añadido el domingo, 11 de octubre de 2015 12:11:29
+
+Change your thoughts
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6518-6519 | Añadido el domingo, 11 de octubre de 2015 12:17:19
+
+If you want to change your attitude, you must change your thoughts. If you want to change your thoughts, you must change your patterns of thoughts. Your patterns of thoughts are defined by your habits,
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6520-6521 | Añadido el domingo, 11 de octubre de 2015 12:17:25
+
+how does one develop the habit of positive thinking?
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6521-6522 | Añadido el domingo, 11 de octubre de 2015 12:17:33
+
+habit—through a meaningful and committed conscious repetition until subconscious controls take over.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6524-6525 | Añadido el domingo, 11 de octubre de 2015 12:28:33
+
+you do have the power to create positive thoughts, at will, when you choose.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6526-6527 | Añadido el domingo, 11 de octubre de 2015 12:28:49
+
+The key is to actively and purposefully try and do this throughout the day.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6531-6531 | Añadido el domingo, 11 de octubre de 2015 12:29:01
+
+Meditation
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6534-6534 | Añadido el domingo, 11 de octubre de 2015 12:29:17
+
+Play more
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6535-6536 | Añadido el domingo, 11 de octubre de 2015 12:29:41
+
+I find that when I take some time to have fun, it’s much easier to be positive.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6537-6537 | Añadido el domingo, 11 de octubre de 2015 12:29:55
+
+Books
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu marcador en la posición 6537 | Añadido el domingo, 11 de octubre de 2015 12:29:58
+
+
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6539-6540 | Añadido el domingo, 11 de octubre de 2015 15:22:59
+
+The point is that positive thinking doesn’t come by chance and it isn’t something you can force overnight. It takes a concerted effort to move your mind in a positive direction.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6543-6543 | Añadido el domingo, 11 de octubre de 2015 15:23:23
+
+Taking action
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu marcador en la posición 6542 | Añadido el domingo, 11 de octubre de 2015 15:23:56
+
+
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6544-6544 | Añadido el domingo, 11 de octubre de 2015 15:37:02
+
+Capture your thoughts.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6545-6546 | Añadido el domingo, 11 de octubre de 2015 15:37:12
+
+Every time you get a chance, write down what you’re thinking about and whether it’s positive or negative. Make these entries anytime something significant happens in your day.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6548-6549 | Añadido el domingo, 11 de octubre de 2015 15:37:55
+
+Commit to actively trying to control your thoughts and to summon as many positive ones as possible.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6552-6553 | Añadido el domingo, 11 de octubre de 2015 15:38:02
+
+Chapter 67. Building a positive self-image: Programming your brain
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6560-6560 | Añadido el domingo, 11 de octubre de 2015 15:39:11
+
+What is self-image?
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6565-6566 | Añadido el domingo, 11 de octubre de 2015 15:40:26
+
+This self-image is powerful, because your brain tends to not allow you to do anything that would violate its assessment of self.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6577-6577 | Añadido el domingo, 11 de octubre de 2015 15:41:18
+
+Your self-image is difficult to change
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6591-6592 | Añadido el domingo, 11 de octubre de 2015 15:43:56
+
+If you can accept that you’re able to change some of the core beliefs you hold about yourself, then you’ll be able to alter your self-image to your own liking.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6607-6607 | Añadido el domingo, 11 de octubre de 2015 15:46:05
+
+Reprogramming your brain
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu marcador en la posición 6607 | Añadido el domingo, 11 de octubre de 2015 15:46:08
+
+
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6609-6609 | Añadido el domingo, 11 de octubre de 2015 17:54:18
+
+It begins with having a clear picture of what you want.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6616-6616 | Añadido el domingo, 11 de octubre de 2015 17:55:45
+
+Act “as if” you were already what you desired to become.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6616-6617 | Añadido el domingo, 11 de octubre de 2015 17:55:55
+
+Talk, speak, dress, and brush your teeth like the person you want to be.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6623-6623 | Añadido el domingo, 11 de octubre de 2015 17:58:33
+
+Fill your day with positive affirmations that confirm and reinforce your new beliefs.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6630-6630 | Añadido el domingo, 11 de octubre de 2015 18:02:20
+
+Taking action
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6631-6631 | Añadido el domingo, 11 de octubre de 2015 18:02:31
+
+Make a list of all the things you are, good and bad.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6631-6632 | Añadido el domingo, 11 de octubre de 2015 18:02:45
+
+how you think other people perceive you.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6633-6633 | Añadido el domingo, 11 de octubre de 2015 18:03:09
+
+How many of those aspects on that list do you perceive as unchangeable? Why?
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6635-6635 | Añadido el domingo, 11 de octubre de 2015 18:03:25
+
+Try to change at least one aspect of your self-image that you find to be negative.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6637-6638 | Añadido el domingo, 11 de octubre de 2015 18:03:33
+
+Chapter 68. Love and relationships: Computers can’t hold your hand
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6643-6643 | Añadido el lunes, 12 de octubre de 2015 22:30:31
+
+Why software developers sometimes have a hard time finding love
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6655-6656 | Añadido el lunes, 12 de octubre de 2015 22:33:59
+
+Many people in this situation tend to wear their heart on their sleeve. They start projecting their feelings of pain and loneliness to the rest of the world.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6658-6659 | Añadido el lunes, 12 de octubre de 2015 22:34:08
+
+this kind of behavior has the opposite effect of what is intended.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6660-6661 | Añadido el lunes, 12 de octubre de 2015 22:34:16
+
+Understanding the game
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6661-6661 | Añadido el lunes, 12 de octubre de 2015 22:35:10
+
+Love is a game. It’s true.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6665-6666 | Añadido el lunes, 12 de octubre de 2015 22:35:22
+
+you might need to realize that you’re indeed playing a game and think a little bit about the strategy you’re employing.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6672-6674 | Añadido el lunes, 12 de octubre de 2015 22:37:45
+
+get them to play with you? Life is just a big playground. If you want to make someone run away, chase them. Sitting down, doing nothing, and waiting for your love to come to you isn’t a good strategy, either.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6674-6675 | Añadido el lunes, 12 de octubre de 2015 22:38:01
+
+the solution is to project confidence in your actions and to approach someone in an easy-going but self-assured manner.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6684-6684 | Añadido el lunes, 12 de octubre de 2015 22:38:50
+
+So, all I have to do is be confident, right?
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6686-6687 | Añadido el lunes, 12 de octubre de 2015 22:40:37
+
+work on programming your mind to be the positive kind of confident person you want to be.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6688-6689 | Añadido el lunes, 12 de octubre de 2015 22:40:46
+
+fitness, because getting fit is a great way to build your confidence
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6695-6696 | Añadido el lunes, 12 de octubre de 2015 22:41:04
+
+It’s a numbers game
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6696-6696 | Añadido el lunes, 12 de octubre de 2015 22:42:10
+
+People are strange. They like all kinds of things. It
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6699-6699 | Añadido el lunes, 12 de octubre de 2015 22:42:20
+
+probably many potential matches for you, as bizarre as you may be or not.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6708-6708 | Añadido el lunes, 12 de octubre de 2015 22:43:34
+
+Taking action
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6709-6709 | Añadido el lunes, 12 de octubre de 2015 22:44:59
+
+Think about some of the ways that you may be projecting feelings of desperation.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6710-6710 | Añadido el lunes, 12 de octubre de 2015 22:45:05
+
+Do your words and expressions show confidence or neediness?
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6714-6714 | Añadido el lunes, 12 de octubre de 2015 22:45:26
+
+Take real steps to improve your self-confidence by doing something like starting a fitness program
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6716-6716 | Añadido el lunes, 12 de octubre de 2015 22:45:33
+
+Chapter 69. My personal success book list
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6723-6724 | Añadido el lunes, 12 de octubre de 2015 22:47:09
+
+Self-help and inspirational books
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6724-6724 | Añadido el lunes, 12 de octubre de 2015 22:47:35
+
+The War of Art by Steven Pressfield
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6726-6727 | Añadido el lunes, 12 de octubre de 2015 22:47:57
+
+this mysterious force we all encounter when we sit down to try and do anything meaningful. He says this force, resistance,
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6730-6731 | Añadido el lunes, 12 de octubre de 2015 22:48:03
+
+How to Win Friends and Influence People by Dale Carnegie
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6736-6737 | Añadido el lunes, 12 de octubre de 2015 22:48:51
+
+the only way to get people to do what you wanted was to compel them to want to do
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6739-6739 | Añadido el lunes, 12 de octubre de 2015 22:49:18
+
+Think and Grow Rich by Napoleon Hill
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6742-6742 | Añadido el lunes, 12 de octubre de 2015 22:50:32
+
+This book is a little strange.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6742-6743 | Añadido el lunes, 12 de octubre de 2015 22:50:50
+
+if you believe a thing and you hold onto and reinforce that belief, it will become reality.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6746-6747 | Añadido el lunes, 12 de octubre de 2015 22:50:58
+
+Psycho-Cybernetics by Maxwell Maltz
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6749-6750 | Añadido el lunes, 12 de octubre de 2015 22:51:34
+
+research into self-image and to discover some important ways that our self-image has the power to completely change our lives
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6752-6752 | Añadido el lunes, 12 de octubre de 2015 22:51:50
+
+The Power of Positive Thinking by Norman Vincent Peale
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6754-6754 | Añadido el lunes, 12 de octubre de 2015 22:52:18
+
+positive thinking can have a profound impact on your life
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6755-6755 | Añadido el lunes, 12 de octubre de 2015 22:52:33
+
+Atlas Shrugged by Ayn Rand
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6758-6758 | Añadido el lunes, 12 de octubre de 2015 22:52:59
+
+Software development books
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6758-6759 | Añadido el lunes, 12 de octubre de 2015 22:53:06
+
+Code Complete by Steve McConnell
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6765-6766 | Añadido el lunes, 12 de octubre de 2015 22:53:50
+
+Clean Code: A Handbook of Agile Software Craftmanship by Robert M- Martin
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6770-6770 | Añadido el lunes, 12 de octubre de 2015 22:54:23
+
+Head First Design Patterns by Eric Freeman, Elisabeth Robson, Ber- rt Bates, and Kathy Sierra
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6774-6775 | Añadido el lunes, 12 de octubre de 2015 22:54:49
+
+Investing
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6775-6775 | Añadido el lunes, 12 de octubre de 2015 22:54:54
+
+The Millionaire Real Estate Investor by Gary Keller
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6779-6779 | Añadido el lunes, 12 de octubre de 2015 22:55:22
+
+Rich Dad, Poor Dad by Robert Kiyosaki
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6783-6784 | Añadido el lunes, 12 de octubre de 2015 22:56:00
+
+No-Hype Options Trading: Myths, Realities, and Strategies That Re- eally Work by Kerry Given
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6788-6788 | Añadido el lunes, 12 de octubre de 2015 22:56:28
+
+Chapter 70. Facing failure head-on
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6791-6792 | Añadido el lunes, 12 de octubre de 2015 22:57:41
+
+if you lack one important skill, perseverance, it will all be worthless, because at the first sign of trouble, you’ll give up—and
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6797-6798 | Añadido el lunes, 12 de octubre de 2015 22:57:55
+
+Why are we so afraid of failure, anyway?
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu marcador en la posición 6797 | Añadido el lunes, 12 de octubre de 2015 22:58:00
+
+
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6799-6799 | Añadido el martes, 13 de octubre de 2015 22:32:03
+
+We prefer to do what we’re good at.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6799-6799 | Añadido el martes, 13 de octubre de 2015 22:32:56
+
+We avoid the things that show our incompetence or lack of skill.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6815-6816 | Añadido el martes, 13 de octubre de 2015 22:34:23
+
+Failure isn’t defeat
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6816-6817 | Añadido el martes, 13 de octubre de 2015 22:34:30
+
+Failure is temporary, defeat is permanent.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6818-6819 | Añadido el martes, 13 de octubre de 2015 22:36:22
+
+The first step in letting go of the fear of failure is to realize that failure isn’t the end—unless
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6829-6829 | Añadido el martes, 13 de octubre de 2015 22:36:32
+
+Failure is the road to success
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6836-6837 | Añadido el martes, 13 de octubre de 2015 22:37:46
+
+the real world, when you fail at something, you learn from that experience and hopefully grow.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6843-6844 | Añadido el martes, 13 de octubre de 2015 22:38:20
+
+Learn to embrace failure
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6845-6846 | Añadido el martes, 13 de octubre de 2015 22:38:42
+
+It isn’t enough to just lose your fear of failure, but you should also be seeking out failure.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6857-6857 | Añadido el martes, 13 de octubre de 2015 22:40:13
+
+Go and do things that make you uncomfortable.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6858-6859 | Añadido el martes, 13 de octubre de 2015 22:40:27
+
+Go out there and purposely put yourself in difficult situations that will inevitably result in some kind of failure.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6863-6864 | Añadido el martes, 13 de octubre de 2015 22:40:50
+
+Taking action
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6864-6865 | Añadido el martes, 13 de octubre de 2015 22:41:04
+
+Think about all the activities in life that you’d like to do but you’re afraid to do because of the temporary embarrassment or ego bruising of failure.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6866-6866 | Añadido el martes, 13 de octubre de 2015 22:41:25
+
+Make a commitment to do at least one thing that you’ve been avoiding because of your fear of failure.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6869-6870 | Añadido el martes, 13 de octubre de 2015 22:41:33
+
+Chapter 71. Parting words
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6906-6906 | Añadido el martes, 13 de octubre de 2015 22:45:22
+
+Appendix A. If you can write code, you can understand finances
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6923-6923 | Añadido el martes, 13 de octubre de 2015 22:47:13
+
+What is money?
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6930-6930 | Añadido el martes, 13 de octubre de 2015 22:48:14
+
+Money is basically that intermediary. It represents some future utility or value.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6931-6932 | Añadido el martes, 13 de octubre de 2015 22:48:22
+
+Types of money
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6932-6932 | Añadido el martes, 13 de octubre de 2015 22:49:00
+
+For money to have value, there has to be a limited supply of it.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6935-6936 | Añadido el martes, 13 de octubre de 2015 22:49:07
+
+prisons where the prisoners would use cigarettes as currency.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6937-6938 | Añadido el martes, 13 de octubre de 2015 22:49:33
+
+The problem with commodity money is that it doesn’t scale very well.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6939-6939 | Añadido el martes, 13 de octubre de 2015 22:49:40
+
+The U.S. monetary system used to be commodity-based when the dollar bill was backed by gold.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6943-6944 | Añadido el martes, 13 de octubre de 2015 22:50:16
+
+Fiat money is basically money that’s issued by a government that doesn’t have a direct relation to a specific commodity.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6947-6947 | Añadido el martes, 13 de octubre de 2015 22:50:41
+
+Inflation and deflation
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6947-6948 | Añadido el martes, 13 de octubre de 2015 22:51:53
+
+You might have guessed that fiat money is pretty finicky. The value can change easily based on certain perceptions, and
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6948-6949 | Añadido el martes, 13 de octubre de 2015 22:51:57
+
+it can be greatly manipulated in value.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu nota en la posición 6963 | Añadido el martes, 13 de octubre de 2015 22:54:38
+
+el dinero pierde valor. y tu deuda sigue teniendo el mismo numeto. luego... tu deuda es menor
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6963-6963 | Añadido el martes, 13 de octubre de 2015 22:54:38
+
+Inflation actually reduces your debt.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6966-6966 | Añadido el martes, 13 de octubre de 2015 22:54:44
+
+Deflation increases your debt.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6971-6972 | Añadido el martes, 13 de octubre de 2015 22:55:49
+
+Central banks
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6974-6975 | Añadido el martes, 13 de octubre de 2015 22:56:43
+
+Fiat currencies need special care and handling to prevent inflation and deflation—or at least to keep them from becoming too extreme. That’s where the role of the central bank comes in to play.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6979-6980 | Añadido el martes, 13 de octubre de 2015 22:57:13
+
+They can essentially print money. Printing money has exactly the kind of effect you might imagine. It causes inflation.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6982-6983 | Añadido el martes, 13 de octubre de 2015 22:57:45
+
+Central banks can also reduce the circulation of money by selling government securities.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6984-6984 | Añadido el martes, 13 de octubre de 2015 22:57:55
+
+this would cause deflation,
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6987-6987 | Añadido el martes, 13 de octubre de 2015 22:58:22
+
+The more money banks lend out, the less it’s worth—inflation, and vice versa.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6990-6990 | Añadido el martes, 13 de octubre de 2015 22:58:41
+
+What about “regular” banks
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 6995-6996 | Añadido el martes, 13 de octubre de 2015 22:59:44
+
+Typically, though, when you deposit $100 in your bank account, the bank lends around 90% of that out.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu nota en la posición 7008 | Añadido el martes, 13 de octubre de 2015 23:03:13
+
+os bancos crean préstamos mayores q pocas megaempresas les compran. asi los bancos vuelven a tener finero
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7007-7008 | Añadido el martes, 13 de octubre de 2015 23:03:13
+
+Banks are able to create the loan and then sell the loan to one of these companies to get their money back
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7009-7010 | Añadido el martes, 13 de octubre de 2015 23:03:21
+
+The basics of finances
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7011-7012 | Añadido el martes, 13 de octubre de 2015 23:03:56
+
+Almost all financial matters are based on risk, returns, and liquidity.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7016-7016 | Añadido el martes, 13 de octubre de 2015 23:04:28
+
+Taking action
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7022-7023 | Añadido el martes, 13 de octubre de 2015 23:05:00
+
+Appendix B. How the stock market works: Rules of the system
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu marcador en la posición 7022 | Añadido el martes, 13 de octubre de 2015 23:05:04
+
+
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7024-7024 | Añadido el miércoles, 14 de octubre de 2015 7:39:52
+
+Saving money isn’t enough,
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7024-7025 | Añadido el miércoles, 14 de octubre de 2015 7:39:56
+
+You have to put your money to work so that it makes more money.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7041-7041 | Añadido el miércoles, 14 de octubre de 2015 7:42:36
+
+The purpose of the stock market
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7042-7043 | Añadido el miércoles, 14 de octubre de 2015 7:43:16
+
+The stock market exists to make it easier for investors to buy and sell shares of a stock,
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7043-7044 | Añadido el miércoles, 14 de octubre de 2015 7:43:22
+
+A stock is a percentage of ownership in a company.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7048-7049 | Añadido el miércoles, 14 de octubre de 2015 7:45:07
+
+When a corporation initially sells it shares on the stock market, also known as an exchange, this process is called an initial public offering (IPO).
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7052-7052 | Añadido el miércoles, 14 de octubre de 2015 7:45:21
+
+The corporation is now owned by shareholders
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7057-7057 | Añadido el miércoles, 14 de octubre de 2015 7:46:56
+
+The stock market makes shares of stock very liquid, because they can be easily traded.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7058-7058 | Añadido el miércoles, 14 de octubre de 2015 7:47:04
+
+What happens when you trade a stock?
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu marcador en la posición 7058 | Añadido el miércoles, 14 de octubre de 2015 7:47:25
+
+
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7060-7060 | Añadido el miércoles, 14 de octubre de 2015 19:43:12
+
+Each stock has a value that fluctuates over time.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7060-7060 | Añadido el miércoles, 14 de octubre de 2015 19:43:16
+
+You can buy or sell
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7061-7062 | Añadido el miércoles, 14 de octubre de 2015 19:43:23
+
+individual stocks don’t have a single value associated with them.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7062-7062 | Añadido el miércoles, 14 de octubre de 2015 19:43:32
+
+bid and an ask price.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7062-7063 | Añadido el miércoles, 14 de octubre de 2015 19:43:43
+
+The bid price is the price that you can sell a stock at—it’s
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7063-7063 | Añadido el miércoles, 14 de octubre de 2015 19:43:50
+
+The ask price is the price you can buy a stock at—it’s
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7065-7065 | Añadido el miércoles, 14 de octubre de 2015 19:44:24
+
+This difference is known as a spread.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7066-7066 | Añadido el miércoles, 14 de octubre de 2015 19:44:37
+
+A stock that’s more liquid has a smaller spread, but a stock that’s less liquid has a larger spread.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7067-7067 | Añadido el miércoles, 14 de octubre de 2015 19:44:49
+
+The more people who trade a stock, the more liquid it usually is.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7068-7069 | Añadido el miércoles, 14 de octubre de 2015 19:45:13
+
+If you buy and sell a stock immediately, you’re almost guaranteed to lose money. As soon as you buy a stock, you’ve essentially taken a loss equal to the size of the spread.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7074-7075 | Añadido el miércoles, 14 de octubre de 2015 19:46:29
+
+These market makers set the bid and ask prices for a stock and make their money by collecting the difference.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7081-7081 | Añadido el miércoles, 14 de octubre de 2015 19:47:14
+
+How to make money in the stock market
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7083-7083 | Añadido el miércoles, 14 de octubre de 2015 19:47:31
+
+Most stock market trading is based on speculation.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7084-7085 | Añadido el miércoles, 14 de octubre de 2015 19:52:34
+
+you can also make money when a stock goes down by a process called shorting.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7085-7086 | Añadido el miércoles, 14 de octubre de 2015 19:53:03
+
+When you short a stock, you borrow shares of that stock and sell those shares.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7086-7087 | Añadido el miércoles, 14 de octubre de 2015 19:53:29
+
+You eventually have to cover that short position by buying back shares to replace the ones you borrowed. If you buy back those shares at a lower price
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7090-7091 | Añadido el miércoles, 14 de octubre de 2015 19:53:57
+
+You can also make money just by holding certain stocks.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7091-7092 | Añadido el miércoles, 14 de octubre de 2015 19:54:06
+
+A dividend is basically some extra profit the company made that it’s sharing with its shareholders
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7095-7096 | Añadido el miércoles, 14 de octubre de 2015 19:54:27
+
+Indexes, mutual funds, and ETFs
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu marcador en la posición 7095 | Añadido el miércoles, 14 de octubre de 2015 19:54:33
+
+
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7098-7099 | Añadido el jueves, 15 de octubre de 2015 7:35:15
+
+Indexes serve the purpose of providing a general measurement of a selection of stocks in the stock market.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7104-7104 | Añadido el jueves, 15 de octubre de 2015 7:36:07
+
+buying the stocks in the major indexes in equal parts is a good general strategy for investing in the stock market,
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7106-7107 | Añadido el jueves, 15 de octubre de 2015 7:37:06
+
+A mutual fund is a special program that’s funded by investors and managed by a professional trader who buys different stocks
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7113-7113 | Añadido el jueves, 15 de octubre de 2015 7:38:07
+
+exchange traded funds (ETFs)
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7113-7114 | Añadido el jueves, 15 de octubre de 2015 7:38:13
+
+ETFs are like indexes that you can buy and sell shares of.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7117-7117 | Añadido el jueves, 15 de octubre de 2015 7:38:35
+
+Taking action
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7118-7119 | Añadido el jueves, 15 de octubre de 2015 7:38:51
+
+Go online and find the price of a popular stock that interests you. Pay careful attention to the bid and ask prices. Determine what the size of the spread is.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7120-7121 | Añadido el jueves, 15 de octubre de 2015 7:38:56
+
+Appendix C. Garbage in, garbage out: Diet and nutrition basics
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7122-7123 | Añadido el jueves, 15 de octubre de 2015 7:39:12
+
+nothing is going to matter as much to your health and fitness as what you eat.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7128-7128 | Añadido el jueves, 15 de octubre de 2015 7:39:41
+
+Basic components of food
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7130-7130 | Añadido el jueves, 15 de octubre de 2015 7:40:00
+
+carbohydrates, fats, or proteins.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7145-7145 | Añadido el jueves, 15 de octubre de 2015 7:43:03
+
+proteins can also be converted to glucose through a process known as gluconeogenesis.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7146-7146 | Añadido el jueves, 15 de octubre de 2015 7:43:21
+
+it actually ends up requiring more calories to do the job,
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7149-7149 | Añadido el jueves, 15 de octubre de 2015 7:44:06
+
+Fats are the most concentrated form of energy—while
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7152-7152 | Añadido el jueves, 15 de octubre de 2015 7:44:14
+
+Other things your body needs
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7155-7156 | Añadido el jueves, 15 de octubre de 2015 7:45:10
+
+13 different vitamins that your body needs yet can’t produce,
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7160-7161 | Añadido el jueves, 15 de octubre de 2015 7:46:07
+
+your body also needs fiber to aid with the digestive process.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7163-7163 | Añadido el jueves, 15 de octubre de 2015 7:46:29
+
+not forget minerals.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7165-7166 | Añadido el jueves, 15 de octubre de 2015 7:46:48
+
+let’s not forget about perhaps the most vital component your body needs: water.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7167-7168 | Añadido el jueves, 15 de octubre de 2015 7:47:01
+
+It all starts with diet
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu marcador en la posición 7167 | Añadido el jueves, 15 de octubre de 2015 7:47:04
+
+
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7174-7175 | Añadido el viernes, 16 de octubre de 2015 7:37:17
+
+calories are the most important factor in your physical makeup.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7176-7176 | Añadido el viernes, 16 de octubre de 2015 7:37:24
+
+the ratio of the types of calories is probably the second
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7177-7177 | Añadido el viernes, 16 de octubre de 2015 7:37:54
+
+Don’t eat enough protein and your body will break down existing proteins—muscle—to
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7179-7179 | Añadido el viernes, 16 de octubre de 2015 7:38:23
+
+Finally, food sources have a measurable effect on your body.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7180-7180 | Añadido el viernes, 16 de octubre de 2015 7:38:55
+
+where the food you eat comes from. Highly processed food
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7184-7184 | Añadido el viernes, 16 de octubre de 2015 7:39:53
+
+Taking action
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7185-7185 | Añadido el viernes, 16 de octubre de 2015 7:40:15
+
+Try to figure out the current calorie count of the foods you eat in a day and the ratio of proteins, carbohydrates, and fats in your diet.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7187-7188 | Añadido el viernes, 16 de octubre de 2015 7:40:22
+
+Appendix D. How to eat healthy: Pizza is not a food group
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7195-7195 | Añadido el viernes, 16 de octubre de 2015 7:42:31
+
+For the most part, food is food
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7199-7200 | Añadido el viernes, 16 de octubre de 2015 7:43:05
+
+you shouldn’t be thinking about whether this food or that food is healthy. You should instead be thinking mostly about macronutrient ratios and calorie counts.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7214-7214 | Añadido el viernes, 16 de octubre de 2015 7:47:28
+
+Should I just eat junk food?
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu marcador en la posición 7214 | Añadido el viernes, 16 de octubre de 2015 7:47:31
+
+
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7217-7217 | Añadido el viernes, 16 de octubre de 2015 15:32:19
+
+“junk food” are bad for us simply because they are so calorie-dense.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7218-7218 | Añadido el viernes, 16 de octubre de 2015 15:32:24
+
+you can eat a huge amount of broccoli and hardly consume many calories at all.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7225-7226 | Añadido el viernes, 16 de octubre de 2015 15:33:11
+
+But what exactly are “healthy” foods?
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7229-7230 | Añadido el viernes, 16 de octubre de 2015 15:33:43
+
+some of the healthiest foods, or at least the ones that aren’t all that dense in calories, happen to be fruits and vegetables.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu nota en la posición 7230 | Añadido el viernes, 16 de octubre de 2015 15:34:32
+
+aqui eta comparando saludable con densidad de calorias. cuantas mnos calorias. mas saludble
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7229-7230 | Añadido el viernes, 16 de octubre de 2015 15:34:32
+
+some of the healthiest foods, or at least the ones that aren’t all that dense in calories, happen to be fruits and vegetables.
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7233-7234 | Añadido el viernes, 16 de octubre de 2015 15:35:51
+
+Proteins actually have the highest thermic effect—requiring about 20–30% of the calories they contain just to digest them—which
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7254-7254 | Añadido el viernes, 16 de octubre de 2015 15:38:07
+
+In general, the foods that are the healthiest aren’t processed—whole
+==========
+Soft Skills - John Sonmez (Unknown)
+- Tu subrayado en la posición 7257-7257 | Añadido el viernes, 16 de octubre de 2015 15:38:12
+
+Taking action
+==========
+How Not to Be Wrong : The Power of Mathematical Thinking (9780698163843) (Ellenberg, Jordan)
+- Tu nota en la página 5 | posición 68 | Añadido el viernes, 23 de octubre de 2015 7:45:50
+
+todos hemis preguntado al profe. y edto psra q me sirve?
+==========
+How Not to Be Wrong : The Power of Mathematical Thinking (9780698163843) (Ellenberg, Jordan)
+- Tu subrayado en la página 5 | posición 68-68 | Añadido el viernes, 23 de octubre de 2015 7:45:50
+
+“When am I going to use this?”
+==========
+How Not to Be Wrong : The Power of Mathematical Thinking (9780698163843) (Ellenberg, Jordan)
+- Tu subrayado en la página 4 | posición 61-61 | Añadido el viernes, 23 de octubre de 2015 7:46:04
+
+WHEN AM I GOING TO USE THIS?
+==========
+How Not to Be Wrong : The Power of Mathematical Thinking (9780698163843) (Ellenberg, Jordan)
+- Tu subrayado en la página 5 | posición 77-77 | Añadido el viernes, 23 de octubre de 2015 15:47:18
+
+“Mathematics is not just a sequence of computations to be carried out by rote until your patience or stamina runs out—although
+==========
+How Not to Be Wrong : The Power of Mathematical Thinking (9780698163843) (Ellenberg, Jordan)
+- Tu subrayado en la página 6 | posición 78-79 | Añadido el viernes, 23 de octubre de 2015 15:47:38
+
+Those integrals are to mathematics as weight training and calisthenics are to soccer.
+==========
+How Not to Be Wrong : The Power of Mathematical Thinking (9780698163843) (Ellenberg, Jordan)
+- Tu subrayado en la página 6 | posición 80-80 | Añadido el viernes, 23 de octubre de 2015 15:47:59
+
+Do professional players ever use those drills?
+==========
+How Not to Be Wrong : The Power of Mathematical Thinking (9780698163843) (Ellenberg, Jordan)
+- Tu subrayado en la página 6 | posición 81-81 | Añadido el viernes, 23 de octubre de 2015 15:48:05
+
+But you do see players using the strength, speed, insight, and flexibility they built up by doing those drills,
+==========
+How Not to Be Wrong : The Power of Mathematical Thinking (9780698163843) (Ellenberg, Jordan)
+- Tu subrayado en la página 7 | posición 98-99 | Añadido el viernes, 23 de octubre de 2015 15:49:47
+
+ABRAHAM WALD AND THE MISSING BULLET HOLES
+==========
+How Not to Be Wrong : The Power of Mathematical Thinking (9780698163843) (Ellenberg, Jordan)
+- Tu subrayado en la página 10 | posición 150-151 | Añadido el viernes, 23 de octubre de 2015 15:58:03
+
+The armor, said Wald, doesn’t go where the bullet holes are. It goes where the bullet holes aren’t: on the engines.
+==========
+How Not to Be Wrong : The Power of Mathematical Thinking (9780698163843) (Ellenberg, Jordan)
+- Tu subrayado en la página 10 | posición 153-154 | Añadido el viernes, 23 de octubre de 2015 15:58:20
+
+The reason planes were coming back with fewer hits to the engine is that planes that got hit in the engine weren’t coming back.
+==========
+How Not to Be Wrong : The Power of Mathematical Thinking (9780698163843) (Ellenberg, Jordan)
+- Tu subrayado en la página 12 | posición 170-171 | Añadido el viernes, 23 de octubre de 2015 15:59:25
+
+A mathematician is always asking, “What assumptions are you making? And are they justified?”
+==========
+How Not to Be Wrong : The Power of Mathematical Thinking (9780698163843) (Ellenberg, Jordan)
+- Tu subrayado en la página 12 | posición 182-183 | Añadido el viernes, 23 de octubre de 2015 16:02:48
+
+To a mathematician, the structure underlying the bullet hole problem is a phenomenon called survivorship bias.
+==========
+How Not to Be Wrong : The Power of Mathematical Thinking (9780698163843) (Ellenberg, Jordan)
+- Tu subrayado en la página 13 | posición 187-187 | Añadido el viernes, 23 de octubre de 2015 16:03:16
+
+funds in this class grew an average of 178.4% between 1995 and 2004: a healthy 10.8% per year.
+==========
+How Not to Be Wrong : The Power of Mathematical Thinking (9780698163843) (Ellenberg, Jordan)
+- Tu subrayado en la página 13 | posición 190-191 | Añadido el viernes, 23 de octubre de 2015 16:03:24
+
+But something’s missing: the funds that aren’t there.
+==========
+How Not to Be Wrong : The Power of Mathematical Thinking (9780698163843) (Ellenberg, Jordan)
+- Tu subrayado en la página 13 | posición 195-196 | Añadido el viernes, 23 de octubre de 2015 16:03:38
+
+if you included the performance of the dead funds together with the surviving ones, the rate of return dropped down to 134.5%, a much more ordinary 8.9% per year.
+==========
+How Not to Be Wrong : The Power of Mathematical Thinking (9780698163843) (Ellenberg, Jordan)
+- Tu subrayado en la página 13 | posición 199-199 | Añadido el viernes, 23 de octubre de 2015 16:03:41
+
+MATHEMATICS IS THE EXTENSION OF COMMON SENSE BY OTHER MEANS
+==========
+How Not to Be Wrong : The Power of Mathematical Thinking (9780698163843) (Ellenberg, Jordan)
+- Tu subrayado en la página 22 | posición 331-333 | Añadido el viernes, 23 de octubre de 2015 16:20:04
+
+ONE LESS LIKE SWEDEN
+==========
+How Not to Be Wrong : The Power of Mathematical Thinking (9780698163843) (Ellenberg, Jordan)
+- Tu subrayado en la página 32 | posición 476-478 | Añadido el viernes, 23 de octubre de 2015 16:33:41
+
+TWO STRAIGHT LOCALLY, CURVED GLOBALLY
+==========
+How Not to Be Wrong : The Power of Mathematical Thinking (9780698163843) (Ellenberg, Jordan)
+- Tu marcador en la página 32 | posición 479 | Añadido el viernes, 23 de octubre de 2015 16:33:46
+
+
+==========
+How Not to Be Wrong : The Power of Mathematical Thinking (9780698163843) (Ellenberg, Jordan)
+- Tu nota en la página 38 | posición 574 | Añadido el viernes, 23 de octubre de 2015 17:32:01
+
+acuerdate de como medir el area de un circulo mediante poligonos con cada vez mas lados rectos
+==========
+How Not to Be Wrong : The Power of Mathematical Thinking (9780698163843) (Ellenberg, Jordan)
+- Tu subrayado en la página 38 | posición 574-574 | Añadido el viernes, 23 de octubre de 2015 17:32:01
+
+The slogan to keep in mind: straight locally, curved globally.
+==========
+How Not to Be Wrong : The Power of Mathematical Thinking (9780698163843) (Ellenberg, Jordan)
+- Tu marcador en la página 41 | posición 616 | Añadido el viernes, 23 de octubre de 2015 17:37:24
+
+
+==========
