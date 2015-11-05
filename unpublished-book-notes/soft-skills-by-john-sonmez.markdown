@@ -18,19 +18,19 @@ sidebar: true
 
 ## Por qué lo he leído
 
-Me gusta intercalar libros técnicos y no técnicos
-Vi que Miguel de la devkitchen lo marcaba como favorito y le di un vistazo, por que por aquel momento seguía el blog del autor, y te vi a varios posts interesantes
-Y el libro también me lo pareció:mejorar en tu carrera? Aprender habilidades no técnica? Prometía
+Creo recordar que vi que Miguel, de la devkitchen, lo marcaba como pendiente para leer y le di un vistazo. Por que por aquel momento seguía el blog del autor del libro, y tenía varios posts interesantes. Y el libro también me lo pareció: ¿Mejorar en tu carrera? ¿Aprender habilidades no técnica? Me gusta intercalar libros técnicos y no técnicos, y este libro parecía estar a medio camino entre ambos. Parecía una buena elección, así que decidí leerlo.
 
 <!-- more -->
 
 ## Qué esperaba
 
-Esperaba consejos e histerias relacionada con el software, pero nada técnica. Cómo relaciones con tus compañeros, como resolver conflictos, negociar con tu jefe. Esperaba más temas relacionados con la relación es con las persona que otra cosa, bueno, y también un poco de productividad, quizá
+Esperaba consejos e historias relacionadas con el software, pero ninguna historia técnica: cómo relacionarte con tus compañeros, cómo resolver conflictos, cómo negociar con tu jefe. Esperaba más temas relacionados con la relación de las persona que otra cosa. Bueno, y también un poco de productividad. Quién sabe.
 
 ## Qué encontre
 
-Todo eso y mas, mucho más. Temas tan dispares que hay veces que no sabes que tipo de libro estas leyendo
+Encontré todo eso y más, mucho más. El libro trata temas tan dispares que hay veces que no sabes qué tipo de libro estas leyendo. Hay tantos consejos, y de temáticas tan variadas, que es imposible no encontrar algún consejo o idea nuevos.
+
+El libro está dividido en secciones, englobando alguna temática general. Cada sección está formada por una serie de capítulos, y cada capítulo contiene varios *artículos*. La verdad es casi como leer su blog, pero un post detrás de otro y organizados por temáticas.
 
 ## Conclusiones
 
