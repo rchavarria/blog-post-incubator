@@ -1,4 +1,60 @@
-﻿# Soft Skills: The software developer's life manual John Z. Sonmez
+﻿--
+layout: post
+title: "Soft skills"
+date: 
+author: Rubén Chavarría
+comments: true
+categories: 
+- personal
+- book reviews
+published: true
+footer: false
+sidebar: true
+---
+
+##### de John Sonmez
+
+{% img left /blog/images/2015/soft-skills-cover.jpg 239 300 Soft skills %}
+
+## Por qué lo he leído
+
+Me gusta intercalar libros técnicos y no técnicos
+Vi que Miguel de la devkitchen lo marcaba como favorito y le di un vistazo, por que por aquel momento seguía el blog del autor, y te vi a varios posts interesantes
+Y el libro también me lo pareció:mejorar en tu carrera? Aprender habilidades no técnica? Prometía
+
+<!-- more -->
+
+## Qué esperaba
+
+Esperaba consejos e histerias relacionada con el software, pero nada técnica. Cómo relaciones con tus compañeros, como resolver conflictos, negociar con tu jefe. Esperaba más temas relacionados con la relación es con las persona que otra cosa, bueno, y también un poco de productividad, quizá
+
+## Qué encontre
+
+Todo eso y mas, mucho más. Temas tan dispares que hay veces que no sabes que tipo de libro estas leyendo
+
+## Conclusiones
+
+## Qué he aprendido
+
+## Frases que me gustaría recordar
+
+## Recursos relacionados
+
+- [Notas tomadas sobre Soft skills]
+
+[Notas tomadas sobre Soft skills]: foo-bar-foo-bar
+
+# Notas tomadas
+
+
+
+
+
+
+
+
+
+# Soft Skills: The software developer's life manual John Z. Sonmez
 
 ## Chapter 2. Getting started with a “BANG!”: Don’t do what everyone else does
 
