@@ -30,13 +30,28 @@ Esperaba consejos e historias relacionadas con el software, pero ninguna histori
 
 Encontré todo eso y más, mucho más. El libro trata temas tan dispares que hay veces que no sabes qué tipo de libro estas leyendo. Hay tantos consejos, y de temáticas tan variadas, que es imposible no encontrar algún consejo o idea nuevos.
 
-El libro está dividido en secciones, englobando alguna temática general. Cada sección está formada por una serie de capítulos, y cada capítulo contiene varios *artículos*. La verdad es casi como leer su blog, pero un post detrás de otro y organizados por temáticas.
+El libro está dividido en secciones, englobando alguna temática general: carrera profesional, marca personal, aprendizaje, producividad, economía, salud, espíritualidad. Cada sección está formada por una serie de capítulos, y cada capítulo contiene varios *artículos*. La verdad es casi como leer su blog, pero un post detrás de otro y organizados por temáticas.
 
 ## Conclusiones
+
+El libro es tan variado que cualquier persona encontraría algún consejo valioso. John Sonmez se gana la vida de esta forma, aconsejando a programadores acerca de cómo mejorar en su carrera. En este libro encontrarás consejos de lo más variopintos: desde cómo aprender, a cómo invertir en el negocio inmoviliario, pasando por practicar deporte. Incluso hay consejos espirituales. En ese punto el libro me dejó un poco de piedra, creo que ahí se pasó, y el libro pierde un poco su identidad.
+
+Destacaría las primeras secciones: cuando habla de la carrera profesional y el aprendizaje. También me gustó el apartado dedicado a temas financieros, siempre es intersante conocer cómo funciona el dinero.
+
+El que menos me gustó fue el espiritual, lleno de buenrollismo y autoayuda. No sé, no le cogí el punto.
+
+En general, me parece un libro bastante recomendable.
 
 ## Qué he aprendido
 
 ## Frases que me gustaría recordar
+
+- Sit down and write out at least one major goal for your career. Break down that major goal into smaller goals that correspond to Months Weeks Days Write down your major goal where you can see it each day to remind you of what you’re striving for.
+- If you want to be a good software developer, you have to learn to deal effectively with people (even if writing code is the part of your job you enjoy the most).
+- hackeando la entrevista: la idea es consrguir una entrevista a traves de alguien de dentro .como? estableciendo una relacion perdonal con alguien de dentro .lee blogs de emplesdos... piensa difrrente y encuentra firmas de acercarte a rllos
+- When a company’s focus isn’t software, typically software developers aren’t given as much respect and leeway. Companies whose livelihood is based on developing software are much more likely to put a high value on the software developers they hire.
+- between more money and more responsibility. The right choice—at least in the long term—is almost always more responsibility.
+- You should always be learning something new or advancing your skills in some way.
 
 ## Recursos relacionados
 
@@ -65,7 +80,6 @@ Tip: Just having this mindset at the start will change the way you think about y
 How to think like a business
 llevar un negocio. tu negocio.se compone de dos partes. tu producto y marketing. el producto que endes es el serviio d crear software 
 Focus on what service you’re providing and how to market that service. Think about ways you can improve your offering.
-If you had to describe the specific service you can provide a
 **Taking action**
 If you had to describe the specific service you can provide a perspective employer or client in a single sentence, what would it be?
 
@@ -94,7 +108,6 @@ Learning how to deal with people
 Everyone wants to feel important
 Every time you interact with another person, you should remember and be aware of how you’re affecting this basic human need.
 la necesidad d la q habla es q todo el mundo quiere sentirse importante
-Every time you interact with another person, you should remember and be aware of how you’re affecting this basic human need.
 Never criticize
 en lugar de criticar y juzgar y castigar. muerdete lengua y aprende a solo alabar 
 If you want to motivate and inspire, use praise instead of criticism.
