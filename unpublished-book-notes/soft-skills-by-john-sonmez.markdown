@@ -12,27 +12,27 @@ footer: false
 sidebar: true
 ---
 
-##### de John Sonmez
+###### de John Sonmez
 
 {% img left /blog/images/2015/soft-skills-cover.jpg 239 300 Soft skills %}
 
-## Por qué lo he leído
+### Por qué lo he leído
 
 Creo recordar que vi que Miguel, de la devkitchen, lo marcaba como pendiente para leer y le di un vistazo. Por que por aquel momento seguía el blog del autor del libro, y tenía varios posts interesantes. Y el libro también me lo pareció: ¿Mejorar en tu carrera? ¿Aprender habilidades no técnica? Me gusta intercalar libros técnicos y no técnicos, y este libro parecía estar a medio camino entre ambos. Parecía una buena elección, así que decidí leerlo.
 
 <!-- more -->
 
-## Qué esperaba
+### Qué esperaba
 
 Esperaba consejos e historias relacionadas con el software, pero ninguna historia técnica: cómo relacionarte con tus compañeros, cómo resolver conflictos, cómo negociar con tu jefe. Esperaba más temas relacionados con la relación de las persona que otra cosa. Bueno, y también un poco de productividad. Quién sabe.
 
-## Qué encontre
+### Qué encontre
 
 Encontré todo eso y más, mucho más. El libro trata temas tan dispares que hay veces que no sabes qué tipo de libro estas leyendo. Hay tantos consejos, y de temáticas tan variadas, que es imposible no encontrar algún consejo o idea nuevos.
 
 El libro está dividido en secciones, englobando alguna temática general: carrera profesional, marca personal, aprendizaje, producividad, economía, salud, espíritualidad. Cada sección está formada por una serie de capítulos, y cada capítulo contiene varios *artículos*. La verdad es casi como leer su blog, pero un post detrás de otro y organizados por temáticas.
 
-## Conclusiones
+### Conclusiones
 
 El libro es tan variado que cualquier persona encontraría algún consejo valioso. John Sonmez se gana la vida de esta forma, aconsejando a programadores acerca de cómo mejorar en su carrera. En este libro encontrarás consejos de lo más variopintos: desde cómo aprender, a cómo invertir en el negocio inmoviliario, pasando por practicar deporte. Incluso hay consejos espirituales. En ese punto el libro me dejó un poco de piedra, creo que ahí se pasó, y el libro pierde un poco su identidad.
 
@@ -42,9 +42,9 @@ El que menos me gustó fue el espiritual, lleno de buenrollismo y autoayuda. No 
 
 En general, me parece un libro bastante recomendable.
 
-## Qué he aprendido
+### Qué he aprendido
 
-## Frases que me gustaría recordar
+### Frases que me gustaría recordar
 
 - Sit down and write out at least one major goal for your career. Break down that major goal into smaller goals that correspond to Months Weeks Days Write down your major goal where you can see it each day to remind you of what you’re striving for.
 - If you want to be a good software developer, you have to learn to deal effectively with people (even if writing code is the part of your job you enjoy the most).
@@ -52,8 +52,21 @@ En general, me parece un libro bastante recomendable.
 - When a company’s focus isn’t software, typically software developers aren’t given as much respect and leeway. Companies whose livelihood is based on developing software are much more likely to put a high value on the software developers they hire.
 - between more money and more responsibility. The right choice—at least in the long term—is almost always more responsibility.
 - You should always be learning something new or advancing your skills in some way.
+- A professional assesses the work that has to be done, prioritizes it, and gets to work.
+- You have to figure out a way to build up enough side income to support yourself while you get the new thing working. Calculate exactly how much money you’ll need to earn each month to live.
+- Acerca de crear un producto: Come up with some target audiences you could investigate to create a potential product for. Pick one of these audiences and find out where members of that audience congregate, online or otherwise. Check who else may already be solving this problem.
+- The challenges of being a hermit
+Challenge 1: Time management: set a schedule to work on
+Challenge 2: Self-motivation: build a rutine, a habit, so that it takes no energy to start working
+Challenge 3: Loneliness: get out
+- some of the skills that you’ll need to do the job aren’t yet in your possession. la clav es que no son TODAVÍA . hay q ir con la confinz de q conseguiras esas skills
+- The right way to market yourself is to provide value to others.
+- Construyendo una marca personal: message, visuals, consistency, and repeated exposure.
+- Chapter 22. Your primary goal: Add value to others. if what you’re saying and the things you’re conveying don’t help other people, everyone will ignore you. Every time you set out to do something, whether it be creating a blog post, recording a screencast, or another activity, you should look at it from the perspective of how it’s creating value for someone else.
+- Don’t be afraid to look like an idiot: olvídate de lo que crees que piensa la gente, empieza pequeño (en el trabajo, en grupos usuarios), 
+- Su proceso de aprendizaje de 10 pasos. Describir los 10 pasos
 
-## Recursos relacionados
+### Recursos relacionados
 
 - [Notas tomadas sobre Soft skills]
 
@@ -71,7 +84,9 @@ En general, me parece un libro bastante recomendable.
 
 # Soft Skills: The software developer's life manual John Z. Sonmez
 
-## Chapter 2. Getting started with a “BANG!”: Don’t do what everyone else does
+## Section 1. Career
+
+### Chapter 2. Getting started with a “BANG!”: Don’t do what everyone else does
 
 Having a business mindset
 because when you start to think of yourself as a business, you start to make good business decisions.
@@ -83,7 +98,7 @@ Focus on what service you’re providing and how to market that service. Think a
 **Taking action**
 If you had to describe the specific service you can provide a perspective employer or client in a single sentence, what would it be?
 
-## Chapter 3. Thinking about the future: What are your goals?
+### Chapter 3. Thinking about the future: What are your goals?
 
 it’s time to start defining the goals you have for this business.
 yet so few software developers ever define goals for their career—why? I can only guess, but I’d say that most software developers are afraid of committing to a long-term vision for their career.
@@ -100,7 +115,7 @@ The same goes for every month, quarter, and year.
 la verdad es q esto puede servir como resumen del capitulo
 Sit down and write out at least one major goal for your career. Break down that major goal into smaller goals that correspond to Months Weeks Days Write down your major goal where you can see it each day to remind you of what you’re striving for.
 
-## Chapter 4. People skills: You need them more than you think
+### Chapter 4. People skills: You need them more than you think
 
 Leave me alone, I just want to write code!
 If you want to be a good software developer, you have to learn to deal effectively with people (even if writing code is the part of your job you enjoy the most).
@@ -119,7 +134,7 @@ If you have to interact with them, do it in a minimal, nonemotionally invested w
 **Taking action**
 In a single day at your work, keep track of every encounter you have with another human being. At the end of the day, count up how many interactions you had during that day, including answering emails or phone calls.
 
-## Chapter 5. Hacking the interview
+### Chapter 5. Hacking the interview
 
 The quickest way to “pass” an interview
 the quickest way to pass an interview is to get the interviewer to like you. There are many ways to go about doing this, most of which can be done before the interview even starts.
@@ -136,7 +151,7 @@ And don’t forget to practice. You might want to interview for jobs just to get
 **Taking action**
 make a list of companies that you’d potentially like
 
-## Chapter 6. Employment options: Enumerate your choices
+### Chapter 6. Employment options: Enumerate your choices
 
 Option 1: The employee
 Option 2: The independent consultant
@@ -145,7 +160,7 @@ Table 6.1. Benefits and drawbacks of being an employee
 Option 3: The entrepreneur
 Which should you pick?
 
-## Chapter 7. What kind of software developer are you?
+### Chapter 7. What kind of software developer are you?
 
 specialization is important.
 Specialization is important
@@ -160,7 +175,7 @@ Learn as much as you can and become as flexible as possible, but also have a spe
 **Taking action**
 List all the different kinds of software developer specialties you can think of. Go from broad to specific and see how specific you can get.
 
-## Chapter 8. Not all companies are equal
+### Chapter 8. Not all companies are equal
 
 It’s important to decide for yourself whether you want to work for a small company just starting up, a large corporation with massive budgets and shareholders, or somewhere in between.
 Small companies and startups
@@ -174,7 +189,7 @@ companies whose livelihood is based on developing software are much more likely 
 Take some time to think about what kind of environment you prefer working in.
 Make a list of companies in your area or companies you have worked for and decide which category each fits into.
 
-## Chapter 9. Climbing the corporate ladder
+### Chapter 9. Climbing the corporate ladder
 
 Taking responsibility
 between more money and more responsibility. The right choice—at least in the long term—is almost always more responsibility.
@@ -190,7 +205,7 @@ You should always be learning something new or advancing your skills in some way
 Be the problem solver
 What about politics?
 
-## Chapter 10. Being a professional
+### Chapter 10. Being a professional
 
 What is a professional?
 Being a professional (forming good habits)
@@ -202,7 +217,7 @@ A professional assesses the work that has to be done, prioritizes it, and gets t
 Seeking quality and self-improvement
 The way a professional meets the high-quality expectations they have is by continuous self-improvement.
 
-## Chapter 11. Freedom: How to quit your job
+### Chapter 11. Freedom: How to quit your job
 
 Going about things the smart way
 You have to figure out a way to build up enough side income to support yourself while you get the new thing working.
@@ -218,7 +233,7 @@ he has saved up an entire year’s worth of living expenses
 Calculate exactly how much money you’ll need to earn each month to live.
 Start tracking your time every day at work.
 
-## Chapter 12. Freelancing: Going out on your own
+### Chapter 12. Freelancing: Going out on your own
 
 Getting started
 You need to have existing long-term clients
@@ -236,7 +251,7 @@ Setting your rate
 the rate you can charge is what the market allows you to charge.
 The key is that I’m focusing on how my services will easily pay for themselves and more by the value I’m providing. It becomes an easy decision to hire me instead of someone cheaper who just talks about what he or she can do technically.
 
-## Chapter 13. Creating your first product
+### Chapter 13. Creating your first product
 
 Finding an audience
 it will take some research to find a common problem that’s either not being solved or isn’t being solved very well.
@@ -249,10 +264,9 @@ Start small
 
 Getting started
 **Taking action**
-Come up with some target audiences you could investigate to create a potential product for. Pick one of these audiences and find out where members of that audience congregate, online or otherwise.
-Check who else may already be solving this problem.
+Come up with some target audiences you could investigate to create a potential product for. Pick one of these audiences and find out where members of that audience congregate, online or otherwise. Check who else may already be solving this problem.
 
-## Chapter 14. Do you want to start a startup?
+### Chapter 14. Do you want to start a startup?
 
 Startup basics
 
@@ -261,7 +275,7 @@ A typical startup lifecycle
 Accelerators
 Getting funded
 
-## Chapter 15. Working remotely survival strategies
+### Chapter 15. Working remotely survival strategies
 
 The challenges of being a hermit
 Challenge 1: Time management
@@ -285,7 +299,7 @@ joining a local software developer group
 head to a coffee shop or café.
 go to the gym
 
-## Chapter 16. Fake it till you make it
+### Chapter 16. Fake it till you make it
 
 situations that you aren’t qualified to handle.
 people who choose to stay and fight have confidence in their ability to succeed and overcome? No,
@@ -297,8 +311,8 @@ muy relaionda con sli de la zona d confort
 Faking it till you make it is all about purposely putting yourself in situations that are over your head and forcing yourself to learn how to swim.
 The key is to be able to see ahead to how easy some task or situation will be in the future and act now as if it were then.
 One common place where this applies to software developers is in the job interview.
-la clav es que no son TODAVÍA . hay q ir con la confinz de q conseguiras esas skills
 some of the skills that you’ll need to do the job aren’t yet in your possession.
+la clav es que no son TODAVÍA . hay q ir con la confinz de q conseguiras esas skills
 Their vision is short-sighted, because they’re looking at things from the perspective of now.
 it’s better to project an aura of confidence and capability, knowing that you’ve faced challenges in the past, you rose up to meet them,
 Honest assessment time. What is your attitude in difficult situations?
@@ -308,7 +322,7 @@ Honest assessment time. What is your attitude in difficult situations?
 How can you create a more confident attitude without appearing arrogant?
 Bonus: Practice your strategy by going out and purposely putting yourself into a situation that is “over your head.”
 
-## Chapter 17. Resumes are BORING—Let’s fix that
+### Chapter 17. Resumes are BORING—Let’s fix that
 
 compaa un panfleto que anunia un excursion para tusbaaciones po 100€ con un cv para contrarte por 30000
 A typical resume doesn’t compare to an advertising brochure.
@@ -322,7 +336,7 @@ What if you don’t want to hire a professional?
 Your resume should show what action you did and what result it produced.
 **Taking action**
 
-## Chapter 18. Don’t get religious about technology
+### Chapter 18. Don’t get religious about technology
 
 We are all religious about technology
 
@@ -334,10 +348,12 @@ Don’t limit your options
 to have an open mind about technology and not simply hold onto what you already know, claiming it to be the best, you’ll find many more opportunities will open up to you.
 **Taking action**
 Pick one technology you hate and find someone who loves it. Ask open and honest questions about why they’re excited about that particular technology.
-Section 2. Marketing yourself
+
+## Section 2. Marketing yourself
+
 Good marketing connects a need or want with a product or service that can fulfill that desire.
 
-## Chapter 19. Marketing basics for code monkeys
+### Chapter 19. Marketing basics for code monkeys
 
 What marketing yourself means
 The real difference between great musicians and superstars is nothing more than marketing. Marketing is a multiplier for talent. The better marketing you have, the more it magnifies your talent.
@@ -357,7 +373,7 @@ this all depends on your ability to bring value to others.
 The primary mechanism that you’ll use to get people to follow you and to want to hear what you have to say will be by bringing value to them—giving
 **Taking action**
 
-## Chapter 20. Building a brand that gets you noticed
+### Chapter 20. Building a brand that gets you noticed
 
 What is a brand?
 A brand is a set of expectations about a product or service. A logo is just a visual reminder of a brand.
@@ -379,7 +395,7 @@ Steps for Creating a Brand Define your message. Pick your niche. Create a taglin
 **Taking action**
 Brainstorm a list of niche ideas for your own personal brand. Come up with at least 10 to 15 ideas and then narrow down the list to your top 2 or 3. Try to come up with one that you’ll use for your personal brand.
 
-## Chapter 21. Creating a wildly successful blog
+### Chapter 21. Creating a wildly successful blog
 
 Why are blogs so important?
 
@@ -401,7 +417,7 @@ Another good way to get some initial traffic is to, of course, share your blog p
 I can’t guarantee you success
 **Taking action**
 
-## Chapter 22. Your primary goal: Add value to others
+### Chapter 22. Your primary goal: Add value to others
 
 if what you’re saying and the things you’re conveying don’t help other people, everyone will ignore you.
 Give people what they want
@@ -418,7 +434,7 @@ The more you help others, the more problems and situations you’re exposed to a
 **Taking action**
 What kind of content do you find most valuable? Is there a particular blogger whose blog posts you read every single week or a podcast that contains such valuable content that you don’t ever want to miss an episode? What is the biggest value you can provide your audience or your niche?
 
-## Chapter 23. #UsingSocialNetworks
+### Chapter 23. #UsingSocialNetworks
 
 Growing your network
 to build up your social networks,
@@ -436,7 +452,7 @@ You should obviously have a LinkedIn profile, because LinkedIn is really the soc
 **Taking action**
 Come up with a social media plan. Decide what kind of content you want to share on each network and put together a strategy for sharing that content each week.
 
-## Chapter 24. Speaking, presenting, and training: Speak geek
+### Chapter 24. Speaking, presenting, and training: Speak geek
 
 getting up in front of an audience and talking directly to them is one of the most impactful things you can do.
 giving a presentation at work can be very helpful to your career.
@@ -456,7 +472,7 @@ Even though you might start out giving training for free—and free training is 
 Come up with a list of all the user groups in your area. Also come up with a list of any code camps that you might be able to speak at. Offer to speak at one of these events on a topic you feel comfortable talking about.
 Try to create your own short training in the form of a screencast and publish it on a site like YouTube. Create a list of topics you could speak about.
 
-## Chapter 25. Writing books and articles that attract a following
+### Chapter 25. Writing books and articles that attract a following
 
 Why books and articles are important
 When someone sits down to read a book, you’re getting their focused attention for a long period of time. A single book could take 10 to 15 hours
@@ -472,7 +488,7 @@ More and more authors are finding success by self-publishing—especially
 **Taking action**
 Before you write a lengthy book, try to take on a smaller assignment like writing a magazine article.
 
-## Chapter 26. Don’t be afraid to look like an idiot
+### Chapter 26. Don’t be afraid to look like an idiot
 
 have to learn to overcome one huge fear that most of us have—looking like an idiot.
 You have to learn how to not be afraid to look like an idiot.
@@ -493,9 +509,10 @@ You’re going to feel uncomfortable, you’re likely going to be scared—possi
 **Taking action**
 Get brave. Today is your day. Go out and do something that scares you.
 repeat the first action item at least once a week.
-Section 3. Learning
 
-## Chapter 27. Learning how to learn: How to teach yourself
+## Section 3. Learning
+
+### Chapter 27. Learning how to learn: How to teach yourself
 
 if you constantly rely on someone else to teach you and never learn the skills to teach yourself, you’ll be greatly limiting your opportunities to advance your skills and knowledge.
 Dissecting the learning process
@@ -513,7 +530,7 @@ Finally, seal it all in cement by teaching what you’ve learned to someone else
 the key guiding principle is this idea of learning through play, experimentation, and teaching what you learned to someone else.
 **Taking action**
 
-## Chapter 28. My 10-step process
+### Chapter 28. My 10-step process
 
 The idea behind the system
 discovered that there were three main things I needed to know to be able to learn a technology:
@@ -536,7 +553,7 @@ steps 7 through10 are repeated for each module you end up creating in your learn
 http://simpleprogrammer.com/ss-10steps).
 **Taking action Take a technology you know well and see if you can define How to get started with it The breadth of that technology The 20% you need to know to be 80% effective using it**
 
-## Chapter 29. Steps 1–6: Do these once
+### Chapter 29. Steps 1–6: Do these once
 
 These first six steps will only be done once for each topic that you want to learn about.
 Step 1: Get the big picture
@@ -573,7 +590,7 @@ decide what resources you’re going to use to accomplish the task.
 **Taking action**
 Pick a subject you want to learn about and actually go through the first six steps outlined here. You might want to start with something small, so you can get used to this process, but pick something.
 
-## Chapter 30. Steps 7–10: Repeat these
+### Chapter 30. Steps 7–10: Repeat these
 
 learn, do, learn, teach (LDLT) formula. You’ll start off by learning just enough to get started. Then you’ll play around to learn and gather questions through self-discovery. After that, you’ll learn enough to do something useful. And, finally, you’ll teach what you learned
 Step 7: Learn enough to get started
@@ -602,7 +619,7 @@ You’ll also begin to make connections
 don’t skip this step.
 Final thoughts
 
-## Chapter 31. Looking for mentors: Finding your Yoda
+### Chapter 31. Looking for mentors: Finding your Yoda
 
 Mentor qualities
 You should look for someone who has either done what you want to do—successfully—or has helped other people do what you want to do.
@@ -626,7 +643,7 @@ Sit down and think about why you need a mentor and what you hope to get out of a
 Make a list of all the people you know who might be a good
 Think of what you can offer a mentor in exchange for their help.
 
-## Chapter 32. Taking on an apprentice: Being Yoda
+### Chapter 32. Taking on an apprentice: Being Yoda
 
 Being a mentor
 they only have to be one step ahead of a person in some area of life to help them.
@@ -648,7 +665,7 @@ Look for a person who truly has a desire to learn and is willing to work hard to
 Make a list of topics that you’re passionate about and have sufficient knowledge of to help someone else.
 Go ahead and become a mentor.
 
-## Chapter 33. Teaching: Learn you want? Teach you must.
+### Chapter 33. Teaching: Learn you want? Teach you must.
 
 I’m not a teacher
 not all of us are trained in teaching methods, but everyone is capable of teaching.
@@ -672,7 +689,7 @@ screencasts,
 Figure out a topic you can teach about and do it.
 pay special attention to how your preparation to teach actually increases your own understanding of a subject.
 
-## Chapter 34. Do you need a degree or can you “wing it?”
+### Chapter 34. Do you need a degree or can you “wing it?”
 
 Do you need a degree to succeed?
 no es necesario . pero ayuda 
@@ -689,7 +706,7 @@ plicaciones moviles. webs. ... lo q sea q puedas enseñar en un entrevista
 think about apps that you could create or how you could create some kind of a portfolio that you could bring to an interview.
 other course you may want to pursue is professional certifications.
 
-## Chapter 35. Finding gaps in your knowledge
+### Chapter 35. Finding gaps in your knowledge
 
 Why we leave the gaps
 That’s the problem with gaps
@@ -703,9 +720,10 @@ the key to filling in a gap is identifying it.
 you can fill in a knowledge gap very quickly just by being willing to ask questions.
 **Taking action**
 For the next few days keep a pad of paper with you, and anytime you encounter something you don’t understand, write it down. Make a conscious effort to ask questions—even if they’re embarrassing—any time you don’t understand something in a conversation. Identify some “pain points” in your day and figure out ways you can get rid of them by filling in some gap
-Section 4. Productivity
 
-## Chapter 36. It all starts with focus
+## Section 4. Productivity
+
+### Chapter 36. It all starts with focus
 
 being productive doesn’t guarantee you’ll be effective.
 What is focus?
@@ -722,7 +740,7 @@ survive the first 5 or 10 minutes. If you can make it to 10 minutes, chances are
 What caused you to get into that focused mode?
 Pick a task that will take you a half hour or more and block off the time needed to complete that task, giving it complete focus.
 
-## Chapter 37. My personal productivity plan
+### Chapter 37. My personal productivity plan
 
 Overview
 plan out my entire week in small tasks that take no more than two hours.
@@ -752,7 +770,7 @@ Breaks and vacations
 **Taking action**
 Make a note of what you’re doing right now each week. See if there’s some way you can develop a system
 
-## Chapter 38. Pomodoro Technique
+### Chapter 38. Pomodoro Technique
 
 If there’s just one productivity habit that I’d encourage you to develop, it’s the Pomodoro Technique.
 Pomodoro Technique overview
@@ -769,7 +787,7 @@ My goal for the week is about 50-55 pomodori.
 chart how many you get done for an entire week.
 Once you have an idea of how many pomodori you can get done in a week, set a goal for the next week
 
-## Chapter 39. My quota system: How I get way more done than I should
+### Chapter 39. My quota system: How I get way more done than I should
 
 The problem
 repeated tasks that occur every single day.
@@ -788,7 +806,7 @@ productivity is maintaining a consistent pace.
 Make a list of all the tasks in your life that you repeat.
 Pick at least one task and commit to a quota for a specific interval of time.
 
-## Chapter 40. Holding yourself accountable
+### Chapter 40. Holding yourself accountable
 
 Accountability
 It’s important to develop a sense of self-accountability to be productive when no one is looking.
@@ -805,7 +823,7 @@ It can be helpful to recruit an accountability partner—ideally someone who sha
 Decide how you’d like to live your life and spend your time and create some rules to help you ensure you’re heading in the right direction.
 Create an accountability system that will help you to enforce your rules.
 
-## Chapter 41. Multitasking dos and don’ts
+### Chapter 41. Multitasking dos and don’ts
 
 Why multitasking is generally bad
 Batching is much more productive
@@ -817,7 +835,7 @@ Cut out any multitasking that isn’t true multitasking.
 Batch together any smaller tasks
 Look for areas where you can implement true multitasking.
 
-## Chapter 42. Burnout: I’ve got the cure!
+### Chapter 42. Burnout: I’ve got the cure!
 
 How you burn out
 
@@ -840,7 +858,7 @@ You might want to review chapter 40 on holding yourself accountable, but essenti
 Decide that next time you take on a project, you’re going to take to completion or mastery. Set up rules and constraints that will force you to overcome the walls you’ll inevitably hit.
 If you’re facing a wall of some sort in your career or personal life, try and push past it.
 
-## Chapter 43. How you’re wasting your time
+### Chapter 43. How you’re wasting your time
 
 The biggest time waster of all
 watching television!
@@ -861,7 +879,7 @@ For the next week, meticulously track your time.
 Have a “no TV” week and see how you do.
 Figure out if you can buy back more time by hiring someone to do your yard work or cleaning for you.
 
-## Chapter 44. The importance of having a routine
+### Chapter 44. The importance of having a routine
 
 Routines make you
 What you do every day defines and shapes who you are over time.
@@ -877,7 +895,7 @@ The more structured your day is, the more control you’ll have over your life.
 Track your daily activities and see how much of a routine you’re already following.
 Pick one big goal and work it into your routine at least every week day. Calculate how much progress you’ll make in a year if you make a daily step toward your goal.
 
-## Chapter 45. Developing habits: Brushing your code
+### Chapter 45. Developing habits: Brushing your code
 
 Understanding habits
 Habits basically consist of three things: a cue, a routine, and a reward.
@@ -897,7 +915,7 @@ figure out the cue for your new habit. What’s going to trigger the habit? Make
 What are the most influential habits that currently make up your life? How many of them would you consider good habits and how many would you consider bad habits?
 Take one of your bad habits and try to turn it around into a good habit.
 
-## Chapter 46. Breaking down things: How to eat an elephant
+### Chapter 46. Breaking down things: How to eat an elephant
 
 Why bigger isn’t always better
 A large task can seem almost impossible when you look at it in its entirety.
@@ -917,7 +935,7 @@ Breaking down problems
 What large tasks are you avoiding right now because the size of them intimidates you?
 Pick a large problem you’re facing now and see if you can figure out a good way to decompose it into smaller tasks.
 
-## Chapter 47. The value of hard work and why you keep avoiding it
+### Chapter 47. The value of hard work and why you keep avoiding it
 
 Why is hard work so darn...hard?
 the work that we consider hard is the work that’s most likely to benefit us.
@@ -938,7 +956,7 @@ You have to realize that the work must eventually be done, so it might as well g
 What kind of hard work are you putting off? What
 Get in the habit of not delaying, but immediately executing on work that needs to be done.
 
-## Chapter 48. Any action is better than no action
+### Chapter 48. Any action is better than no action
 
 Why we refuse to take action
 too—the reason is pretty simple: fear.
@@ -953,9 +971,10 @@ Sometimes, when you’re completely unsure about what to do, the best course of 
 What can you do now?
 **Taking action**
 If an action goal is too complex to decide on today, what smaller decision can you make to still move forward?
-Section 5. Financial
 
-## Chapter 49. What are you going to do with your paycheck?
+## Section 5. Financial
+
+### Chapter 49. What are you going to do with your paycheck?
 
 Stop thinking short term
 si cuanto mas gsnas . mas gsstss. es una gorma muy nala de pensar. solo te llevaa a la ruina
@@ -976,7 +995,7 @@ Follow the cash that goes through your hands every month.
 Does most of your money go toward liabilities instead of investing in assets?
 Start asking yourself “How much can I save?” rather than “How much can I afford?”
 
-## Chapter 50. How to negotiate your salary
+### Chapter 50. How to negotiate your salary
 
 Negotiations begin before you even apply for the job
 
@@ -1010,7 +1029,7 @@ Practice negotiating as much as you can so that you can get over the fear of doi
 Carefully research salaries so that you know what you’re worth.
 Try to get a few interviews, even if you aren’t looking for a new job.
 
-## Chapter 51. Options: Where all the fun is
+### Chapter 51. Options: Where all the fun is
 
 Option basics
 The basic idea behind an option is to allow someone to pay for the option of either buying or selling a stock by a later date in the future.
@@ -1022,7 +1041,7 @@ More complex options
 Look up a stock you’re familiar with and see if you can find what is called an option chain for it.
 Take a look at the option chain and calculate how much it costs to buy an option on that stock that’s one month in the future.
 
-## Chapter 52. Bits and bytes of real estate investing
+### Chapter 52. Bits and bytes of real estate investing
 
 Why real estate investment?
 the biggest reason I’m going to suggest is stability.
@@ -1053,7 +1072,7 @@ Finally, after you buy the property, my recommendation is to put property manage
 **Taking action**
 look for a rental property listing in your area and practice running through all the numbers.
 
-## Chapter 53. Do you really understand your retirement plan?
+### Chapter 53. Do you really understand your retirement plan?
 
 Retirement is all about working backwards
 the most effective thing you can do to save for retirement is to figure how to reduce your monthly expenses.
@@ -1079,7 +1098,7 @@ Figure out how much you could reduce those expenses by if you were willing to ma
 calculate how much money you’d need to generate each month to retire
 Figure out how much money you’d need to have at various rates of return, like 2%, 5%, and 10%, to have enough monthly income to retire.
 
-## Chapter 54. The danger of debt: SSDs are expensive
+### Chapter 54. The danger of debt: SSDs are expensive
 
 Of all the financial mistakes you can make, the biggest one is to go into debt.
 The only way you can really become financially successful is to make money off of your money.
@@ -1101,7 +1120,7 @@ Make a list of all your debt. Put that debt into two categories: good debt and b
 Make a list of all your debt. Put that debt into two categories: good debt and bad debt.
 Prioritize the list of bad debt by interest rate.
 
-## Chapter 55. Bonus: How I retired at 33
+### Chapter 55. Bonus: How I retired at 33
 
 What it means to be “retired”
 I define retirement as freedom. To be more specific: financial freedom.
@@ -1117,9 +1136,10 @@ The lucky break
 Hard work mode
 Multiple passive income streams
 A quick analysis
-Section 6. Fitness
 
-## Chapter 56. Why you need to hack your health
+## Section 6. Fitness
+
+### Chapter 56. Why you need to hack your health
 
 Confidence
 Being healthy, by itself, isn’t a strong enough motivator to get into shape—at
@@ -1137,7 +1157,7 @@ make a commitment to your health.
 if you aren’t committed to change, it won’t matter a bit.
 give you all the fitness and health advice
 
-## Chapter 57. Setting your fitness criteria
+### Chapter 57. Setting your fitness criteria
 
 Picking a specific goal
 Creating milestones
@@ -1155,7 +1175,7 @@ The goal is to make “normal living” somewhere in-between
 **Taking action**
 Identify one big fitness goal and write it down. Next list a series of realistic milestones to achieve that goal. Identify one action you can take to reach your first milestones.
 
-## Chapter 58. Thermodynamics, calories, and you
+### Chapter 58. Thermodynamics, calories, and you
 
 What is a calorie?
 calorie is basically a measurement of energy.
@@ -1179,7 +1199,7 @@ Track the calories you eat for at least three days.
 Calculate your BMR and use the Harris Benedict Equation
 come up with a basic plan,
 
-## Chapter 59. Motivation: Getting your butt out of the chair
+### Chapter 59. Motivation: Getting your butt out of the chair
 
 What motivates you?
 
@@ -1201,7 +1221,7 @@ Create a set of maxims to live your life by and stick to them when things get to
 Come up with a list of reasons why you want to get in shape or improve your health. From that list, identify the three biggest motivators.
 Pick a reward to give yourself after you reach a certain milestone in your fitness journey.
 
-## Chapter 60. How to gain muscle: Nerds can have bulging biceps
+### Chapter 60. How to gain muscle: Nerds can have bulging biceps
 
 How muscles grow
 progressively overload your muscles by increasing the amount of work you ask them to perform as they grow in response.
@@ -1236,7 +1256,7 @@ When you gain muscle, you also gain some fat with it—that’s
 Go get a gym membership and set up a personal lifting plan for yourself.
 Go to http://simpleprogrammer.com/ss-bodybuilding and look up the exercises mentioned in this chapter.
 
-## Chapter 61. How to get hash-table abs
+### Chapter 61. How to get hash-table abs
 
 It’s not easy, but the answer, surprisingly, has little to do with sit-ups or crunches.
 Abs are made in the kitchen
@@ -1254,7 +1274,7 @@ What can you do about it?
 bodybuilders who get to extremely low body-fat percentages do it mostly by taking steroids and other drugs
 the answer lies in being strict with your diet and sticking it out for a long time.
 
-## Chapter 62. Starting RunningProgram.exe
+### Chapter 62. Starting RunningProgram.exe
 
 Why you might want to run
 is for cardiovascular health.
@@ -1267,7 +1287,7 @@ When you get started running, the most important thing is commitment.
 **Taking action**
 check out the Couch-to-5K program: http://simpleprogrammer.com/ss-couch-to-5k.
 
-## Chapter 63. Standing desks and other hacks
+### Chapter 63. Standing desks and other hacks
 
 Standing desks and treadmills
 Food hacks
@@ -1280,7 +1300,7 @@ Frozen meats
 **Taking action**
 Take a look at your current schedule and fitness plan and identify the most annoying and time-consuming parts of your routine. How can you develop a hack that can make things much easier?
 
-## Chapter 64. Tech gear for fitness: Geeking out
+### Chapter 64. Tech gear for fitness: Geeking out
 
 Step counters and pedometers
 it can help you to identify how active you really are, and
@@ -1292,9 +1312,10 @@ PUSH strength
 What I found interesting about the PUSH device is that it isn’t a device that tracks your steps and your activity, but rather is designed to improve your weight-lifting workouts.
 Headphones
 Apps
-Section 7. Spirit
 
-## Chapter 65. How the mind influences the body
+## Section 7. Spirit
+
+### Chapter 65. How the mind influences the body
 
 It starts with the mind
 
@@ -1308,7 +1329,7 @@ your mindset and beliefs can have a positive or negative impact on your life,
 **Taking action**
 What was your mindset the last time you experienced a great success? What was your mindset the last time you encountered a major failure?
 
-## Chapter 66. Having the right mental attitude: Rebooting
+### Chapter 66. Having the right mental attitude: Rebooting
 
 What is positivity?
 it’s the belief that you have the power to change your reality, that you aren’t a victim of your circumstances.
@@ -1336,7 +1357,7 @@ Capture your thoughts.
 Every time you get a chance, write down what you’re thinking about and whether it’s positive or negative. Make these entries anytime something significant happens in your day.
 Commit to actively trying to control your thoughts and to summon as many positive ones as possible.
 
-## Chapter 67. Building a positive self-image: Programming your brain
+### Chapter 67. Building a positive self-image: Programming your brain
 
 What is self-image?
 This self-image is powerful, because your brain tends to not allow you to do anything that would violate its assessment of self.
@@ -1354,7 +1375,7 @@ how you think other people perceive you.
 How many of those aspects on that list do you perceive as unchangeable? Why?
 Try to change at least one aspect of your self-image that you find to be negative.
 
-## Chapter 68. Love and relationships: Computers can’t hold your hand
+### Chapter 68. Love and relationships: Computers can’t hold your hand
 
 Why software developers sometimes have a hard time finding love
 Many people in this situation tend to wear their heart on their sleeve. They start projecting their feelings of pain and loneliness to the rest of the world.
@@ -1375,7 +1396,7 @@ Think about some of the ways that you may be projecting feelings of desperation.
 Do your words and expressions show confidence or neediness?
 Take real steps to improve your self-confidence by doing something like starting a fitness program
 
-## Chapter 69. My personal success book list
+### Chapter 69. My personal success book list
 
 Self-help and inspirational books
 The War of Art by Steven Pressfield
@@ -1399,7 +1420,7 @@ The Millionaire Real Estate Investor by Gary Keller
 Rich Dad, Poor Dad by Robert Kiyosaki
 No-Hype Options Trading: Myths, Realities, and Strategies That Re- eally Work by Kerry Given
 
-## Chapter 70. Facing failure head-on
+### Chapter 70. Facing failure head-on
 
 if you lack one important skill, perseverance, it will all be worthless, because at the first sign of trouble, you’ll give up—and
 Why are we so afraid of failure, anyway?
@@ -1419,7 +1440,7 @@ Go out there and purposely put yourself in difficult situations that will inevit
 Think about all the activities in life that you’d like to do but you’re afraid to do because of the temporary embarrassment or ego bruising of failure.
 Make a commitment to do at least one thing that you’ve been avoiding because of your fear of failure.
 
-## Chapter 71. Parting words
+### Chapter 71. Parting words
 
 Appendix A. If you can write code, you can understand finances
 What is money?
