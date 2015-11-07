@@ -18,12 +18,13 @@ sidebar: true
 
 ### Por qué lo he leído
 
-Creo recordar que vi que Miguel, de la devkitchen, lo marcaba como pendiente
-para leer y le di un vistazo. Por que por aquel momento seguía el blog del
-autor del libro, y tenía varios posts interesantes. Y el libro también me lo
-pareció: ¿Mejorar en tu carrera? ¿Aprender habilidades no técnica? Me gusta
-intercalar libros técnicos y no técnicos, y este libro parecía estar a medio
-camino entre ambos. Parecía una buena elección, así que decidí leerlo.
+Creo recordar que vi que Miguel, autor del blog [Dev's kitchen], lo marcaba
+como pendiente para leer y le di un vistazo. Por que por aquel momento seguía
+el blog del autor del libro, y tenía varios posts interesantes. Y el libro
+también me lo pareció: ¿Mejorar en tu carrera? ¿Aprender habilidades no
+técnica? Me gusta intercalar libros técnicos y no técnicos, y este libro
+parecía estar a medio camino entre ambos. Parecía una buena elección, así que
+decidí leerlo.
 
 <!-- more -->
 
@@ -206,5 +207,6 @@ secuenciales más pequeñas. Lo más importante aquí es la palabra
 
 - [Notas tomadas sobre Soft skills]
 
-[Notas tomadas sobre Soft skills]: foo-bar-foo-bar
+[Notas tomadas sobre Soft skills]: https://github.com/rchavarria/blog-post-incubator/blob/master/published-book-notes/soft-skills-by-john-sonmez.markdown
+[Dev's kitchen]: http://ocana.github.io/
 
