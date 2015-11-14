@@ -1,58 +1,70 @@
-# learning-ionic-2
+# Aprendiendo Ionic 2
 
-A small project for learning the Ionic 2 framework (Angular 2, TypeScript, Cordova, Android)
+Recientemente se ha celebrado la conferencia [Angular Connect] en Londres, donde se ha hablado mucho de [Angular 2], framework de desarrollo de aplicaciones web en el que estoy muy interesado (de hecho estoy desarrollando una pequeña aplicación para diversión de mi hijo, [English by Einar]). También estoy enteresado en el framework [Ionic], que aúna los proyectos de Angular y [Cordova] y que permite desarrollar aplicaciones para móviles con herramientas de desarrollo web: HTML5, CSS3 y JavaScript.
 
-## Introduction
+En dicha conferencia se hizo público la versión alpha de [Ionic 2], la versión de Ionic que incluye la nueva versión de Angular. Ionic es un *BLA BLA BLA BLA* y su versión 2 siguen con la filosofía de estar muy preocupados con el rendimiento. En este post veremos lo realmente fácil que es comenzar a desarrollar con estas herrmientas.
 
-- What is it Ionic?
-- Ionic 2?
-- I discovered it during Angular Connect conference, and I was looking forward to test it since then
+## Requisitos
 
-## Requirements
+Ionic se apoya en Cordova y en las plataformas de desarrollo nativas dependiendo de la plataforma móvil en la que estemos enfocados, normalmente Android o iOS. Antes de comenzar a desarrollar con él deberemos actualizar a las versiones más modernas posibles, ya que la versión alpha de Ionic 2 requiere de los últimos avances.
 
-a. Install/Update latest version of Android SDK (Android SDK tools v24.x)
+En mi caso particular, he necesitado actualizar mi SDK de Android para Linux:
 
-`<android sdk>/tools/android sdk`
+``` bash
+rchavarria@home$ ./AndroidSDK/tools/android sdk
+```
 
-b. Install a recent version of NodeJS? (v5.0.0)
+para abrir la interfaz gráfica y poder actualizar algunos paquetes del SDK.
 
-c. Update to a newer version of Cordova (v5.3.3)
+Y también he necesitado actualizar las versiones de NodeJS (a través de `nvm`, Node Version Manager), la herramienta `npm` y Cordova:
 
-`npm install -g cordova@5.x.x`
+``` bash
+rchavarria@home$ nvm install v5.0.0
+rchavarria@home$ npm install -g npm
+rchavarria@home$ npm install -g cordova@5.3.3
+```
 
-## Create the first project
+Por último, instalar la versión alpha de Ionic 2. No temas, no hay peligro de romper proyectos desarrollados con la versión 1 de Ionic.
 
-1. Install ionic alpha version. It can manage Ionic 2 projects and Ionic 1.x projects
+``` bash
+rchavarria@home$ npm install -g ionic@alpha
+```
 
-`npm install -g ionic@alpha`
+## Creación del primer proyecto
 
-2. Start a new project, using the [tutorial](https://github.com/driftyco/ionic2-starter-tutorial) starter template. Other templates are available.
+Para mi primer proyecto he usado una plantilla desarrollada por la gente de Ionic, [tutorial]. Estas plantillas permiten tener una aplicación muy básica funcionando en unos minutos. Esta plantilla contiene un menú deslizante lateral, pero hay otras muchas plantillas. Crear el proyecto es un simple comando:
 
-`ionic start MyFirstIonic2Project tutorial --v2`
+``` bash
+rchavarria@home$ ionic start MyFirstIonic2Project tutorial --v2
+```
 
-It downloads the template, install NodeJS dependencies, and make the project ready to run.
+Este comando descarga la plantilla indicada, `tutorial`, instala dependencias de NodeJS y nos deja el proyecto listo para ser ejecutado. De hecho, para poder probarlo en un navegador, basta con escribir los comandos:
 
-3. `cd MyFirstIonic2Project`
-4. Serve the application to run it in a browser: `ionic serve`
+``` bash
+rchavarria@home$ cd MyFirstIonic2Project
+rchavarria@home$ ionic serve
+```
 
-## Project structure
+## Estructura del proyecto
 
-Almost all application files are placed under `www` directory, just as a Cordova project.
+Prácticamente todos los ficheros de la aplicación están localizados en el directorio `www`, como en todo proyecto de Cordova.
 
-The main entry point for the application is `www/index.html`. It sets up CSS, includes JavaScript files and bootstrap the application. Ionic looks for an `ion-app` tag inside this first HTML page.
+El punto de entrada principal es `www/index.html`. Como página principal, carga los ficheros CSS, incluye los JavaScript y arranca la aplicación. Ionic busca una etiqueta `ion-app` dentro de esta primera página HTML.
 
-The code inside `www/app` is transpiled into the right version of JavaScript the browser supports. So, we could find TypeScript or ES2015 code in that folder. `www/app/app.js` creates the entry point of the application. It creates a component with the `@App` decorator. Every Ionic application needs that component.
+Todo el código JavaScript que se encuentra en el directorio `www/app` se transpila a la versión correcta de JavaScript que soporte el navegador para el que está dirigida la aplicación. En este directorio podremos encontrar código tanto TypeScript como ECMAScript 2015. 
+
+En el archivo `www/app/app.js` podemos encontrar la entrada a nuestra aplicación. Crea un component con el decorador `@App`, componente necesario para toda aplicación Ionic.
 
 ``` javascript
 @App({
   templateUrl: 'app/app.html'
 })
-class App {
+class MyApp {
 //...
 }
 ```
 
-It configures `app/app.html` as the template for the application:
+El código de `@App` configura el archivo `www/app/app.html` como plantilla para la aplicacion. Veámoslo:
 
 ``` html
 <ion-menu [content]="content">
@@ -69,17 +81,17 @@ It configures `app/app.html` as the template for the application:
 <ion-nav id="nav" [root]="rootPage" #content swipe-back-enabled="false"></ion-nav>
 ```
 
-In this template, we can see a menu (defined under `ion-menu`) and a navigation bar (`ion-nav`). The `ion-menu` takes a property of `content`, and we can pass the local variable of `#content` from our `ion-nav`.
+Esta plantilla define un menu bajo la etiqueta `ion-menu`, y un componente de navegación, `ion-nav`, ambos proporcionados por Ionic. `ion-menu` toma una propiedad para mostrar un contenido, `content`, la cual se la podemos proporcionar a través de la variable `#content` desde nuestro `ion-nav`.
 
-The `ion-nav` tag defines a binding to the `root` property of the component. When the navigation controller loads, the component referenced by `rootPage` will be the root page.
+`ion-nav` define un *data binding* a la propiedad `root` del componente, igual que `ion-menu` define un *data binding* a la propiedad `content` (en Angular 2, los *data binding* son unidireccionales por defecto y se declaran mediante corchetes en atributos de las etiquetas HTML). Cuando se cargue el controlador de la navegación, el componente referenciado por la variable `rootPage` será mostrada como la página principal de nuestra aplicación.
 
-In `app/app.js`, the root component `MyApp` specifies two properties: `pages` and `rootPage`.
+En `www/app/app.js`, el componente raiz de la aplicación, `MyApp`, especifica dos propiedades: `pages` y `rootPage`
 
 ``` javacript
 import {App, IonicApp, IonicPlatform} from 'ionic/ionic';
 import {HelloIonicPage} from './hello-ionic/hello-ionic';
 import {ListPage} from './list/list';
-
+// ...
 class MyApp {
   constructor(app: IonicApp, platform: IonicPlatform) {
     // set up our app
@@ -98,9 +110,9 @@ class MyApp {
 }
 ```
 
-## Creating a page
+## Cómo se crea un página
 
-The `HelloIonicPage` is defined in `app/hello-ionic/hello-ionic.js` file. It has a `@Page` decorator (provided by Ionic). It creates an Ionic Page (Angular component and view).
+El componente HelloIonicPage se define en el fichero `www/hello-ionic/hello-ionic.js`. Contiene un decorador `@Page`, proporcionado por Ionic, y su nombre lo dice todo. Este componente crea una página Ionic, que consta de un componente y una vista de Angular 2.
 
 ``` javascript
 import {Page, NavController} from 'ionic/ionic';
@@ -115,7 +127,7 @@ export class HelloIonicPage {
 }
 ```
 
-Every page have both a `class` and a template. Let's see the template:
+Cada página se compone de un componente JavaScript y de una plantilla HTML. Veamos ésta última:
 
 ``` html
 <ion-navbar *navbar>
@@ -131,11 +143,11 @@ Every page have both a `class` and a template. Let's see the template:
 </ion-content>
 ```
 
-The `<ion-navbar *navbar>` works as configuration for the navigation bar. It includes buttons to be shown and a title.
+La etiqueta `<ion-navbar *navbar>` funciona como configuración para la barra de navegación. Es quien incluye los botones a mostrar en dicha barra, así como el título.
 
-## Navigation between pages
+## Navegando entre páginas
 
-The other page, `ListPage`, contains a list of items the user can tap (or click) to navigate to. That page is defined in `app/list/list.js`:
+La otra página, `ListPage`, contiene una lista de elementos que el usuario puede tocar (o hacer click) para acceder a ellas. Dicha página está definida en el archivo `www/app/list/list.js`.
 
 ``` javascript
 import {IonicApp, Page, NavController, NavParams} from 'ionic/ionic';
@@ -148,22 +160,24 @@ export class ListPage {
     this.nav = nav;
     // ...
    }
-   // ...
+
    itemTapped(event, item) {
      // ...
    }
 }
 ```
 
-And the template includes a list of items. `*ng-for` is the `ng-repeat` in Angular 2. The click event handler is defined in `(click)=itemTapped()` part, so that everytime the user taps/clicks, `itemTapped` method is called.
+La plantilla de esta página, definida en `www/app/list/list.html`, es quien mostrará una lista de elementos. `*ng-for` es la sintaxis de Angular 2 para reproducir la misma funcionalidad que `ng-repeat` en AngularJS. El manejador del evento click se establece con `(click)=itemTapped(...)` (en Angular 2, se utilizan los paréntesis en atributos de las etiquetas HTML para establecer los manejadores de eventos). De esta forma, cada vez que el usuario toque/haga click en un elemento, el método `itemTapped` será llamado.
 
 ``` html
 <ion-item *ng-for="#item of items" (click)="itemTapped($event, item)">
 ```
 
-To navigate to a new page, we can use the `NavController` component provided by Ionic. We saved it in the `nav` property of `ListPage`. Navigation in Ionic 2 works as a stack, you can `push` and `pop` pages from the stack.
+Para navegar a una nueva página, se puede usar el componente `NavController`, también proporcionado por Ionic. Anteriormente, se ha almacenado una referencia a dicho componente en el atributo `nav` de `ListPage`.
 
 ``` javascript
+import {ItemDetailsPage} from '../item-details/item-details';
+// ...
 itemTapped(event, item) {
   this.nav.push(ItemDetailsPage, {
     item: item
@@ -171,23 +185,26 @@ itemTapped(event, item) {
 }
 ```
 
-We are pushing to a new page, `ItemDetailsPage`. It is a component provided in the tutorial starter, and we need to import it to use it:
+## ¿Y ahora qué?
 
-``` javascript
-import {ItemDetailsPage} from '../item-details/item-details';
-```
+Ya tenemos una estructura muy básica para el proyecto, y ya sabemos cómo crear páginas y cómo funciona la navegación en Ionic 2. El siguiente paso se me ocurre que podría ser incluir las herramientas y la estrutura necesaria para poder incluir tests en nuestro proyecto. Lo siento si te parece una lata, pero creo que los tests son una herramienta imprescindible en cualquier proyecto, sea de la embergadura que sea. Considero que los tests son básicos para tener un mínimo de calidad en cualquier proyecto software.
 
-## Next steps
+## Referencias
 
-There are lots of resources in the [Ionic 2] page:
+- Documentación sobre [componentes de Ionic 2]
+- Documentación sobre [el API de dispositivos de Ionic 2]
+- [Recursos], en general, de Ionic 2
+- [Tests en Angular 2]
 
-- [Documentation about components]: http://ionicframework.com/docs/v2/components
-- [Documentation about devices API]: http://ionicframework.com/docs/v2/platform
-- [More resources]: http://ionicframework.com/docs/v2/resources/
-- **NEXT WEEK: TESTING THE APP WITH JASMINE (WELL, FIRST STEPS TO TEST THE APP)** -> https://angular.io/docs/ts/latest/testing/
-
-
-
-
-
+[Angular Connect]
+[Angular 2]
+[English by Einar]
+[Ionic]
+[Cordova]
+[Ionic 2]
+[tutorial]
+[componentes de Ionic 2]: http://ionicframework.com/docs/v2/components
+[el API de dispositivos de Ionic 2]: http://ionicframework.com/docs/v2/platform
+[Recursos]: http://ionicframework.com/docs/v2/resources/
+[Tests en Angular 2]: https://angular.io/docs/ts/latest/testing/
 
