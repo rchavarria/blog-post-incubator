@@ -1,8 +1,10 @@
 # Se aceptan mejoras
 
-- lo bueno del OSS es que ajenos pueden mejorar tu trabajo
-- ¿no estaría bien que tuvieras una libreria, la gente la usara, la mejorara, y te lo dijera?
-- algo parecido pasa cuando te conviertes en contributor de un OS project y te llegan mejoras de gente que ni conoces
+Existe una cosa maravillosa en el mundo de open source, y es que personas de las que ni siquiera sabes que existen, usan tu trabajo, lo mejoran con su trabajo, y te lo donan a tí para que otra gente se beneficie del trabajo de ambos.
+
+Imagina que tienes una librería y tienes una base de usuarios. Ningún software se adapta a todos sus usuarios, así que lo más seguro es que los usuarios de tu librería encuentren algún detalle que no funciona perfecto para sus necesidades. ¿No sería incríble que tus propios usuarios mejorarn la librería y te dieran su trabajo así como les das tú el tuyo? Pues eso es lo que pasa precisamente con el open source.
+
+Y algo parecido pasa cuando contribuyes a algún proyecto open source. Tus contribuciones son usadas por los usuarios del proyecto. Y algunos de ellos proponen nuevas mejoras al proyecto. Quizá algunas de estas mejoras sean sobre el trabajo que tú has realizado. Gente que ni conoces está aportando su experiencia para mejorar tu trabajo. Hay que ser muy tonto para no aprovechar esta oportunidad para aprender.
 
 <!-- more -->
 
