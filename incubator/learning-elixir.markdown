@@ -71,6 +71,25 @@ a = 2
 [a, b, c] = [1, 2, [3, 4, 5]]   # c vale [3, 4, 5]
 ```
 
+- ¿Es eficiente devolver una copia de los datos? En los lenguajes funcionales, no se modifican los datos, se devuelve una copia de ellos transformados. Parece ineficiente, pero es todo lo contrario. Al no modificarse los originales, éstos pueden compartirse por muchas variables, y están tranquilos, que no se va a modificar. En los lenguajes no funcionales, se devuelve una copia (no eficiente), en los funcionales, en realidad no se devuelve una copia, se comparte todo lo que se puede. Por lo que es más eficiente
+- ¿Qué pasa con el recolector de basura? ¿Consume muchos recursos para deshacerse de todos esos datos transformados que ya no se utilizan? No consume mucho, en Elixir (en Erlan en realidad), hay muchos procesos, cada uno con un *heap* distinto, por lo que el heap es más pequeño que en otros lenguajes, y el recolector de basura se ejecuta bastante más rápido.
+- Tipos de datos:
+
+  - (tipos de valor) Entero: `1234`, `0xcafe`, `0o765`, `0b01010`, `1_000_000`. No tienen límite superior.
+  - (tipos de valor) Coma flotante: `1.0`, `0.245`, `.324` (error), `314159.0e-5`.
+  - (tipos de valor) *Atoms*: son constantes representando el nombre de algo. Todos comienzan con `:`. Su nombre es su valor. Dos Atoms son iguales si tienen el mismo nombre, vengan de donde vengan (incluso de máquinas diferentes). Atoms válidos serían: `:fred`, `:is_binary?`, `:var@32`, `:<>`, `:"lo john silver"`
+  - (tipos de valor) Rangos: `start..end`. Por ejemplo, `1..100`.
+  - (tipos de valor) Expresiones regulares: `~r{regexp}options`
+  - (tipos de sistema) PIDs: referencias a procesos, locales (`self`) o remotos
+  - (tipos de sistema) Puertos: referencias a recursos sobre los cuales leeremos o escribiremos
+  - (tipos de sistema) Referencias: `make_ref` crea referencias únicas.
+  - (collecciones) Tuplas: colección ordenada de valores. `{ :ok, 42, "next" }`
+  - (collecciones) Listas: `[1, 2, 3]`. Se parecen a los arrays de otros lenguajes, pero no lo son. Son estructuras enlazadas. Una lista está vacía o contiene un *head* y un *tail*, donde tail es otra lista. Algunos operadores sobre listas: concadenar `++`, diferencia `--`, pertenencia `in`.
+  - (collecciones) Mapas: lista de parejas clave/valor. `%{ key => value, key => value }`. Si las claves son Atoms, existe un atajo: `%{ red: 0xFF0000, green: 0x00FF00, blue: 0x0000FF }` en lugar de `%{ :red => 0xFF0000, ... }`. Para acceder a un mapa, se usan los corchetes: `map[key]`. Si las claves son Atoms, se puede usar punto: `map.key`.
+  - (collecciones) Binarios: para acceder a datos como una secuencia de bits y bytes (para muy bajo nivel).
+
+Hay dos estructuras muy similares, la lista de palabras clave: `[red: 0xFF000, green: 0x00FF00]`, que se transforma en `[{:red, 0xFF0000}, {:green, 0x00FF00}]` y un mapa `%{red: 0xFF000, green: 0x00FF00}`. Se recomienda usar la lista de palabras clave para pasar parámetros y usar los mapas cuando se necesite un array asociativo.
+
 ### Experimenta, juega, busca lo desconocido, hazte preguntas
 
 ### Aprende lo suficiente para hacer algo de utilidad
