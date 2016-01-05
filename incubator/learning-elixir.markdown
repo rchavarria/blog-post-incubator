@@ -37,6 +37,7 @@ No me planteo nada de conectarlo a una base de datos, porque por ahora no he le�
 - [Elixir Dose]. Un blog sobre este lenguaje de programación.
 - Blog de [Benjamin Tan]. Un blog sobre Ruby y Elixir del autor de un libro sobre Elixir. Parece venir del mundo Ruby. Tiene una charla en una conferencia de Ruby que hay que ver.
 - Track de Elixir de [exercism.io], una plataforma social donde resolver problemas y comentar las soluciones del resto de usuarios.
+- [Guía de estilo] para programar en Elixir. De obligado conocimiento para que tu código sea más legible por la comunidad.
 
 También espero que poco a poco, según vaya necesitando saber más sobre cómo hacer cosas con el lenguaje, vaya descubriendo blogs y autores acerca del lenguaje.
 
@@ -90,6 +91,11 @@ a = 2
 
 Hay dos estructuras muy similares, la lista de palabras clave: `[red: 0xFF000, green: 0x00FF00]`, que se transforma en `[{:red, 0xFF0000}, {:green, 0x00FF00}]` y un mapa `%{red: 0xFF000, green: 0x00FF00}`. Se recomienda usar la lista de palabras clave para pasar parámetros y usar los mapas cuando se necesite un array asociativo.
 
+- Funciones anónimas. Se definen con `fn`, terminando en `end`. Para separar los parámetros del cuerpo de la función, se usa `->`. `sum = fn (a, b) -> a + b end`. Para llamar a la función, hay que hacerlo poniendo un `.` antes de los parámetros. `sum.(1, 2)`.
+- Interpolación de valores en cadenas. Si dentro de una cadena, ponemos `#{...}`, se evalúa el código de dentro y se formatea la cadena con el valor obtenido.
+- Las funciones pueden devolver otras funciones. Las funciones recuerdan su entorno original (forman lo que se llaman *closures*, parecido a JavaScript)
+
+
 ### Experimenta, juega, busca lo desconocido, hazte preguntas
 
 ### Aprende lo suficiente para hacer algo de utilidad
@@ -117,4 +123,5 @@ Hay dos estructuras muy similares, la lista de palabras clave: `[red: 0xFF000, g
 [Elixir Dose]: http://elixirdose.com/
 [Benjamin Tan]: http://benjamintan.io/blog/
 [exercism.io]: http://exercism.io/languages/elixir
+[Guía de estilo]: https://github.com/niftyn8/elixir_style_guide
 
