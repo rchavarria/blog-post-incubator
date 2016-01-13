@@ -94,9 +94,20 @@ Hay dos estructuras muy similares, la lista de palabras clave: `[red: 0xFF000, g
 - Funciones anónimas. Se definen con `fn`, terminando en `end`. Para separar los parámetros del cuerpo de la función, se usa `->`. `sum = fn (a, b) -> a + b end`. Para llamar a la función, hay que hacerlo poniendo un `.` antes de los parámetros. `sum.(1, 2)`.
 - Interpolación de valores en cadenas. Si dentro de una cadena, ponemos `#{...}`, se evalúa el código de dentro y se formatea la cadena con el valor obtenido.
 - Las funciones pueden devolver otras funciones. Las funciones recuerdan su entorno original (forman lo que se llaman *closures*, parecido a JavaScript)
+- Operador `&`. Con él se pueden crear funciones anónimas de una forma muy concisa: `&(&1 + &2)` (suma el primer y el segundo paràmetro, idéntica a `fn a, b -> a + b end`). Si queremos que devuelva una lista: `&[&1 * 2, &1 * &1]` (devuelve una lista con dos elementos, el doble del primer parámetro de la función y el cuadrado del mismo). Esta notación es muy buena para pasar funciones por parámetro: `Enum.map [1, 2, 3, 4] &(&1 * &1)`, devuelve `[1, 4, 9, 16]`
+- *arity* (inglés): número de parámetros de una función
+- `iex <fichero.exs>` compila un script de Elixir y lo carga en REPL. Si ya estamos dentro de `iex`, el comando sería `c "<fichero exs>"`
+- Las funciones con nombre (*named functions*), también pueden tener varios cuerpos. Eso ayuda a utilizar *pattern matching* a la hora de implementar una solución.
+- Claúsulas de guarda: en la definición de una named function, se puede utilizar una claúsula `when` con una condición, lo que ayuda a tener un patter matching más específico
+- El operador `|>`. Toma el resultado de una función y lo pasa como primer parámetro de la segunda función. `String.reverse "foobar" |> String.capitalize`
+- Una lista es recursiva. Está formada por una cabecera (head) y una cola (tail). La cabecera es unicamente el primer elemento. La cola, es una lista con el resto de elementos. De esta forma, la lista `[1, 2, 3]`, en realidad es `[1 | [2 | [3 | [] ] ] ]` (al final se concatena una lista vacía).
+- como las listas son recursivas, muchas funciones que manipulan listas lo son. Elixir hace super sencilla la recursividad. Mezclando recursividad y pattern matching, se pueden hacer virgerías. Super fácil implementar el cifrado César (ver `MyList.exs`)
 
 
 ### Experimenta, juega, busca lo desconocido, hazte preguntas
+
+- Tengo que repasar las *keywords list* y las diferencias entre `[foo: bar]`, `{foo: bar}`, `{:foo, bar}`, y cosas similares (tuples,...)
+- Estudiar el módulo `Lists` (`++` concatena, `zip`, `unzip`, `keyfind`, `flatten`,...)
 
 ### Aprende lo suficiente para hacer algo de utilidad
 
