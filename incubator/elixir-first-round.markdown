@@ -26,6 +26,10 @@ Instalar plugin [vim-elixir] en vim es facilísimo si instalas plugins con patho
 $ git clone https://github.com/elixir-lang/vim-elixir.git ~/.vim/bundle/vim-elixir
 ```
 
+**Herramientas**
+
+`iex` es una herramienta de tipo REPL (read, evaluate, print, loop), que nos permite ejecutar código Elixir de forma rápida. El comando `iex <fichero.exs>` compila un script de Elixir y lo carga en la herramienta. Si ya estamos dentro de ella, el comando para compilar el código de un fichero sería `c "<fichero exs>"`.
+
 **Pattern matching**
 
 El operador `=` es muy diferente a lo que esperamos de él en la programación orientada a objetos. Tiene una apariencia similar, pero no se comporta de la misma forma. Con este operador, Elixir trata de *casar* los valores de la izquierda con los valores de la derecha.
@@ -108,12 +112,109 @@ sum.(2, 3)   # devuelve 5
 
 Las funciones pueden devolver otras funciones. Las funciones recuerdan su entorno original. Forman lo que se conoce como *closures*. Me recuerda mucho a las funciones de JavaScript en este aspecto.
 
-- Operador `&`. Con él se pueden crear funciones anónimas de una forma muy concisa: `&(&1 + &2)` (suma el primer y el segundo paràmetro, idéntica a `fn a, b -> a + b end`). Si queremos que devuelva una lista: `&[&1 * 2, &1 * &1]` (devuelve una lista con dos elementos, el doble del primer parámetro de la función y el cuadrado del mismo). Esta notación es muy buena para pasar funciones por parámetro: `Enum.map [1, 2, 3, 4] &(&1 * &1)`, devuelve `[1, 4, 9, 16]`
-- *arity* (inglés): número de parámetros de una función
-- `iex <fichero.exs>` compila un script de Elixir y lo carga en REPL. Si ya estamos dentro de `iex`, el comando sería `c "<fichero exs>"`
-- Las funciones con nombre (*named functions*), también pueden tener varios cuerpos. Eso ayuda a utilizar *pattern matching* a la hora de implementar una solución.
-- Claúsulas de guarda: en la definición de una named function, se puede utilizar una claúsula `when` con una condición, lo que ayuda a tener un patter matching más específico
-- El operador `|>`. Toma el resultado de una función y lo pasa como primer parámetro de la segunda función. `String.reverse "foobar" |> String.capitalize`
+Existe una forma de crear funciones anónimas de una forma muy concisa, con el operador `&...`
+
+```
+sum = fn (a, b) -> a + b end
+sum2 = &(&1 + &2)   # idéntica a la función anterior
+
+# devuelve una lista con dos elementos, el doble del primer parámetro, y el cuadrado del mismo
+returns_a_list = &[2 * &1, &1 * &1]
+
+# esta notación viene muy bien para pasar funciones por parámetro
+Enum.map [1, 2, 3] &(&1 * &1)   # devuelve [1, 4, 9]
+```
+
+Es normal ver la definición de una función como `&map/2`, donde `map` es el nombre de la función y `2` es el *arity*, el número de parámetros de la misma
+
+**Módulos, funciones con nombre y funciones privadas**
+
+```
+defmodule Times do
+  ## define una función en una única línea
+  def double(n), do: n * 2
+
+  ## define una función en varias líneas
+  def triple(n) do
+    n * 3
+  end
+
+  ## define una función privada
+  defp quadruple(n) do: n * 4
+end
+```
+
+Las funciones con nombre pueden tener varios cuerpos. Eso ayuda a utilizar *pattern matching* a la hora de implementar una solución.
+
+```
+defmodule Factorial do
+  # el factorial de 0, siempre es 1
+  def of(0), do: 1
+
+  # el factorial de cualquier otro número, es recursivo
+  def of(n), do: n * factorial(n - 1)
+end
+```
+
+También, las definiciones pueden tener claúsulas de guarda, mediante `when <condition>`, lo que ayuda a tener un pattern matching más específico.
+
+```
+defmodule Guard do
+  def what_is(x) when is_number(x) do
+    IO.puts "#{x} is a number"
+  end
+  def what_is(x) when is_list(x) do
+    IO.puts "#{x} is a list"
+  end
+  def what_is(x) when is_atom(x) do
+    IO.puts "#{x} is an atom"
+  end
+end
+```
+
+**El operador tubería (pipe)**
+
+El operador `|>` toma el resultado de una función y lo pasa como primer parámetro de la segunda función. `String.reverse "foobar" |> String.capitalize`
+
+```
+filing = DB.find_customers
+           |> Orders.for_customers
+           |> sales_tax(2016)
+           |> prepare_filing
+      
+list
+  |> sales_taxes(2016)
+  |> prepare_filing
+
+# es lo mismo que llamar
+prepare_filing( sales_taxes(list, 2016) )
+list
+  |> sales_taxes(2016)
+  |> prepare_filing
+
+# es lo mismo que llamar
+prepare_filing( sales_taxes(list, 2016) )
+```
+
+**Parámetros por defecto**
+
+```
+defmodule DefaultParams do
+  def func(p1, p2 \\ 2) do
+    IO.inspect [p1, p2]
+  end
+end
+
+Example.func("a", "b")
+  # => ["a", "b"]
+
+Example.func("a")
+  # => ["a", 2]
+```
+
+**Librerías**
+
+Se pueden buscar módulos y librerías ya implementados para realizar ciertas tareas que necesitemos, para ello, está la documentación de [librerías de Elixir]. Si no encontramos ahí lo que buscamos, lo podemos buscar en [librerías de Erlang].
 
 ## Experimentar, jugar, buscar puntos desconocidos, hacerse preguntas
 
@@ -125,9 +226,18 @@ a = 2
 [^a, b] = [1, 3]  ## error
 ```
 
+- Tengo que repasar las *keywords list* y las diferencias entre `[foo: bar]`, `{foo: bar}`, `{:foo, bar}`, y cosas similares (tuples,...)
+
 ## Aprender lo suficiente para hacer algo de utilidad
+
+- utilizar varios cuerpos de una función y recursividad para implementar una función que calcule la suma de `1` hasta `n`
+- implementar la función `gcd(x, y)` (máximo común divisor). matemáticamente: `gcd(x, y)` es `x` si `y` es cero y es `gcd(y, rem(x, y))` en caso contrario
+- crear el juego *Estoy pensando en un número entre el 1 y el 100*: rangos, div(a, b), claúsulas de guarda, pattern matching en rangos: `a..b = 4..8`, funciones privadas
 
 ## Enseñar lo aprendido, y repetir desde el paso 7
 
 [vim-elixir]: https://github.com/elixir-lang/vim-elixir
+[librerías de Elixir]: http://elixir-lang.org/docs.html
+[librerías de Erlang]: http://erlang.org/doc/
+
 
