@@ -1,38 +1,42 @@
-# The Software Craftsman: Professionalism, Pragmatism, Pride, by Sandro Mancuso
+# The Software Craftsman: Professionalism, Pragmatism, Pride
+### by Sandro Mancuso
 
-[![The software creaftsman](lint to image)](link to the book)
+[![The software creaftsman](http://www.informit.com/ShowCover.aspx?isbn=0134052501)](http://www.amazon.es/Software-Craftsman-Professionalism-Pragmatism-Robert/dp/0134052501/)
 
-- Namur’s words, “How it is done is as important as getting it done,”
-- Part I. Ideology and Attitude
-- 
-- 1. Software Development in the Twenty-First Century
+- Namur’s words, “How it is done is as important as getting it done”
+
+## 1. Software Development in the Twenty-First Century
+
 - seniority is transient and relative.
 - transient because clients will demand different types of systems as technology evolves.
 - relative. When trying to identify how senior a developer is, we need to ask ourselves the following questions: senior compared to whom? In which technology? In which context?
 - role and responsibilities of a software developer became wider and more important, making developers proud to be developers
-- 2. Agile
+
+## 2. Agile
+
 - Agile does not solve any problems; it exposes them.
 - generalizing specialists. Being good at writing code is the minimum skill expected from software professionals. Testing, analysis, ability to understand the business, good communication, and a more extroverted personality
-- 
 - en un trasformacion agile como nos venden ahora. no hy camvios tecnicos. lo que lleva a que siguen exisriendolos mimos problmas d iempre
 - For developers, yes, they had a better working process and were talking to each other more often, but besides that, in terms of the actual technical work they did, nothing had really changed.
 - these consultancies and Agile coaches did very little, or nothing, to help companies to be better at writing quality software.
 - Agile transformations were focused on process but not on technical disciplines,
-- 
 - Without technical excellence, every software project will be a painful, frustrating, and expensive experience.
 - esta va direxta a notbett
 - A quick feedback loop is key for any company aspiring to be agile. Reacting to the feedback they get quickly is what makes them truly agile.
 - Agile methodologies help companies to do the right thing.
 - Software Craftsmanship helps developers and companies to do the thing right.
-- 3. Software Craftsmanship
+
+## 3. Software Craftsmanship
+
 - esta casi puede resumir l libro
 - Software Craftsmanship is all about putting responsibility, professionalism, pragmatism, and pride back into software development.
-- 
 - muy interesante este capitulo dobre historia
 - Software Craftsmanship History
 - The focus on high-quality software must be the number one priority if you want long-lived applications.
 - Great developers want to work with other great developers. Great developers want to work for great companies.
-- 4. The Software Craftsmanship Attitude
+
+## 4. The Software Craftsmanship Attitude
+
 - caring about and being proud of the work we do is a given.
 - nlah blah blah... es un echo
 - finding ways to become better professionals is a lifetime commitment.
@@ -45,7 +49,6 @@
 - Keeping our heads down, working hard from 9 to 5, and doing only what we are told to do is not professional either. That is what factory workers do. If developers want to be treated as professionals, they should start acting as professionals.
 - small list of things we can do to keep ourselves up to date.
 - Books, Many Books
-- 
 - Technology-specific books
 - Conceptual books
 - new concepts, paradigms, and practices.
@@ -56,7 +59,6 @@
 - Blogs
 - eso ayudara a quien vnga despues d nootros. porque encontraran los concptos dscritos con los mismos ojos ue tienen ellos ajra
 - Even if developers more experienced than us have written about the subject many times before, it is worth writing whatever we are currently learning anyway.
-- 
 - Know Who to Follow
 - Social Media
 - Practice, Practice, Practice
@@ -77,12 +79,13 @@
 - constantly expose ourselves to situations where we can learn something new about the context we are in.
 - Work-Life Balance
 - Creating Time
-- 
 - Focus: The Pomodoro Technique
 - we focus. A good technique is to decide beforehand what we want to do before we actually use this time slot.
 - teneer un buen trabajo y saber que estamos a la ultima nosnda confianza y esaremos tranquilos para disfrutar del tiempo libte
 - Keeping our professional life healthy is essential for a healthy family life.
-- 5. Heroes, Goodwill, and Professionalism
+
+## 5. Heroes, Goodwill, and Professionalism
+
 - Learning How to Say No
 - Even knowing deep inside that it will be almost impossible to deliver all the features by the imposed date, developers end up agreeing and committing to it.
 - An Epic Failure
@@ -99,21 +102,20 @@
 - Managers should appreciate when we say we cannot deliver some features.
 - Transparency helps managers and the team to prepare for tough situations.
 - Good managers are part of the team. They stay with the team during good and bad times.
-- 6. Working Software
-- 
+
+## 6. Working Software
+
 - truth is that in a software project, the most important deliverable is the software itself. Anything else is secondary.
 - Working Software Is Not Enough
 - All that legacy code you need to deal with on a daily basis counts as working software.
 - con todo este parrsfo. te puedes hacer una idea de lonque quiere decir ue working software no s suficinte
 - All that legacy code you need to deal with on a daily basis counts as working software. Imagine all those applications that take us a long time to add a new feature to. All those applications we are scared to touch. All those applications that are fragile or tightly coupled. And what about those applications without an extensive test suite, where we are forced to test manually? What about those applications that we need to deploy into user acceptance testing (UAT) if we wanted to test it because we cannot run it locally? They are all working software.
-- 
 - Rather than construction, programming is more like gardening. —The Pragmatic Programmer
 - The lower the quality, the higher the number of bugs, and the harder it is to test.
 - some people say that they don’t have time to do it properly, but it seems that they always find a way to justify the amount of time and money spent on long testing and bug-fixing phases.
 - business progress is being impeded or delayed by software instead of being helped by it.
 - The biggest problem here is that bad code is invisible to everyone besides the developers.
 - That means it is the developers’ responsibility to look after the quality of the code.
-- 
 - Over time, I realized that developers have a wrong notion of time. We always think we are under pressure.
 - more often than not, the pressure is self-imposed.
 - We think we never have the time to do things right.
@@ -122,8 +124,9 @@
 - They just think about their own tasks, not about all the other people involved in the project and all the time they will spend
 - When looking at legacy code, instead of moaning and getting frustrated, we should try to understand it and make it better, constantly applying the Boy Scout
 - latter. It is easy to say that a piece of code is badly written. It is easy to complain or even laugh. But the question is: are you good enough to make it better?
-- 7. Technical Practices
-- 
+
+## 7. Technical Practices
+
 - no se puede medir la caoidad del codigo con practicas no tcnigas . daily meeting. backlog...
 - we cannot measure the quality of our applications through the practices
 - no se puede medir la caoidad del codigo con practicas no tcnigas . daily meeting. backlog... ellas nos ayudan a construir the right thing
@@ -152,12 +155,11 @@
 - Accountability
 - 4 cosas . aportar valor. feedback loops muy cortos. inspect y adaptarse
 - Summary
-- 8. The Long Road
-- 
+
+## 8. The Long Road
 - the long and hard road to mastery.
 - Focus and Determination
 - But What if We Don’t Know Where We Are Going?
-- 
 - si no sábes donde vas no puedes guiarte. pero tampoco consideres tu meta como algo fijo. revisa tus objetivos
 - Defining the direction we want to go in our careers is important.
 - But What if We Don’t Know Where We Are Going?
@@ -168,14 +170,15 @@
 - Expecting a return on investment from jobs should not be mistaken for the selfish and unprofessional attitude known as “CV building,”
 - Knowledge is the most common return on investment expected from a job. Developers choose jobs according to what they want to learn, and they leave their jobs either when they are not learning anymore
 - Autonomy, Mastery, and Purpose
-- 
 - esto es lo qu motiva a lo trabajadore del conociminto
 - Our careers will always be more important than any specific job or company.
 - Our careers are like long staircases and our jobs are the steps.
 - “the Peter Principle,” and its effect could be stated as “employees tend to be given more authority until they cannot work competently.” In other words, through political games, misappropriation of credit, hiding incompetence by blaming others, and often unprofessional and dishonest attitudes, some people are promoted to positions for which they are totally incompetent.
 - Summary
 - Part II. A Full Transformation
-- 9. Recruitment
+
+## 9. Recruitment
+
 - An Ordinary Job Description
 - Although every company would say that they want the best people, they have no idea what that really means. And a proof of that is how they advertise their job openings.
 - There is also a general perception that recruitment processes take too long.
@@ -199,19 +202,17 @@
 - What if a Job Description Is Needed?
 - the focus should be on detailing the expected attitude and responsibilities, types of projects, technologies used (not required), and values and culture of the company.
 - A Job Is Not Just a Job
-- 
 - For great developers, their job is not just a job; it’s also their hobby and their passion.
 - will look for companies that think in the same way
 - Community Involvement
 - Supporting user groups and technical communities is a great way to attract and approach great developers.
-- 
 - Defining Effective Filtering Criteria
-- 
 - Whichever filter criteria we apply, we will always filter some good developers out.
 - de ahi q sea mejor ser proactivo
 - The problem is that when you are in desperation mode, you increase dramatically the risk of making mistakes, especially when it comes to recruitment.
 - Good developers are also filtering bad companies out and looking for the best ones.
-- 10. Interviewing Software Craftsmen
+
+## 10. Interviewing Software Craftsmen
 - A Business Negotiation
 - During an interview, it is important to understand that we are not begging for a job. We are doing a business negotiation.
 - pregubtas a hscer al empleador en la entrevidta
@@ -242,7 +243,9 @@
 - Developers Must Interview Developers
 - en todo caso eligrn a alguien mejor que ellos
 - Good developers don’t hire bad developers.
-- 11. Interview Anti-Patterns
+
+## 11. Interview Anti-Patterns
+
 - financial offer, autonomy, mastery, purpose, productive partnership, talented and passionate people, and a good working environment are some of the things they will consider before accepting any offer.
 - Don’t Be a Smart-Ass Interviewer
 - you should be looking for a partner,
@@ -256,8 +259,9 @@
 - what are the things we value the most?
 - en lugar de ellos pregunta por los valorws q estas buscando
 - Don’t Conduct Phone Interviews
-- 12. The Cost of Low Morale
-- 
+
+## 12. The Cost of Low Morale
+
 - The Agile Hangover: Low Morale
 - few years after their Agile adoption, many of these companies realized that their software delivery capability was still very poor.
 - The sad reality is, for certain companies, the outcome of their Agile adoption was developers mechanically following a new process, but still developing software exactly how they were before.
@@ -268,7 +272,9 @@
 - Software craftsmen are always talking about software and are willing to share the things they are doing to better themselves.
 - The best person to motivate a developer is another developer. A good developer. A software craftsman.
 - If you want to bring passion and motivation to a development team, make sure you bring in a few craftsmen to join them.
-- 13. Culture of Learning
+
+## 13. Culture of Learning
+
 - Wrong Motivation
 - we will never change an organization by forcing people to adopt a new process or different practices.
 - Creating a Culture of Learning
@@ -276,12 +282,10 @@
 - instead of having managers trying to impose how, when, and what developers should learn, companies should empower developers to create their own culture of learning.
 - Let developers decide how, when, and what they want to learn.
 - Start a Book Club
-- 
 - Have a Tech Lunch (Brown Bag Session)
 - don’t make this meeting about work. Make it about learning.
 - Have Group Discussions (Roundtables)
 - Switch Projects for an Iteration
-- 
 - After a period of time, projects fall into a routine;
 - Having different people joining an existing project, even if for a small period of time, makes the members of the team rethink their problems and solutions
 - Switch Projects for a Few Hours
@@ -310,7 +314,8 @@
 - to learn and practice on your own time.
 - Don’t Complicate
 - Establish a Rhythm
-- 14. Driving Technical Changes
+
+## 14. Driving Technical Changes
 - Many developers suffer from what Kent Beck calls adolescent surety. They think they have the secret formula for delivering great software and nothing else is worth considering.
 - Identifying Skepticism Patterns
 - The Uninformed:
@@ -342,7 +347,6 @@
 - devoted to a single subject (or point of view) in a fanatic manner,
 - the only thing they know well,
 - Be Prepared
-- 
 - Encourage simplicity.
 - Your idea or proposal must be simple and clear.
 - Speak the same language.
@@ -376,7 +380,6 @@
 - Take the opportunity to Ping-Pong
 - Make sure you have fun together.
 - Facing the Skeptics
-- 
 - The Ivory-Tower Architect
 - will probably be the most difficult skeptic to deal with.
 - Responsibility versus Accountability
@@ -384,13 +387,14 @@
 - Ivory-Tower Architects become responsible for the solution while the developers are the ones who are accountable for it.
 - Real software professionals understand that responsibility should always come with accountability.
 - The Wronged
-- 
 - They are not against you; they are against the company.
 - There is not much we can do about it besides trying to make them excited again.
 - Should We Really Care about All That?
 - ete capitulo estria bien repasarlo cada ve que tenmos que incluir un cambio técnico 
 - Being good at what we do, being able to communicate clearly, and, most important, being able to establish trust are essential skills for any developer willing to drive changes.
-- 15. Pragmatic Craftsmanship
+
+## 15. Pragmatic Craftsmanship
+
 - Quality Is Always Expected
 - No manager or client expects bad-quality software. Regardless of what they say, they will always expect high quality.
 - ni siquiera tu. cuando compras alo. si dees eleir entr barto o d calida . elige arato. ero esperas cierta clidad
@@ -424,8 +428,9 @@
 - The pragmatic approach would be to only introduce abstractions when they are really needed.
 - Craftsmanship and Pragmatism
 - TDD doesn’t slow developers down. Typing is not a bottleneck. Learning and mastering a new skill, practice, or technology is.
-- 16. A Career As a Software Craftsman
-- 
+
+## 16. A Career As a Software Craftsman
+
 - Being a Craftsman
 - Passion. That summarizes it all.
 - Software craftsmen are humble, always ready to learn from more-experienced developers, and eager to help the less experienced.
@@ -463,7 +468,9 @@
 - Moving from project to project, experiencing different environments, companies, industries, technologies, and approaches to software, is what I would consider to be the craftsman’s journey.
 - The Mission
 - not just about clients—that’s just one part of it. The real mission of a software craftsman is to make a contribution to raise the bar of the software industry, with professionalism, passion, and care.
-- A. Craftsmanship Myths and Further Explanations
+
+## A. Craftsmanship Myths and Further Explanations
+
 - Software Craftsman versus Software Developers
 - Every craftsman is a developer but not every developer is a craftsman. Contrary to what many people think, this has nothing to do with seniority or skills. The difference is more about the attitude each developer has towards his or her profession.
 - Elitism
