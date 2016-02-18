@@ -77,6 +77,7 @@ c. Observer applied to Angular
 71. Principio del Peter del software
 72. Leyes de Lehman de la evolución del software
 73. Cuadrante de la deuda técnica de Martin Fowler (http://martinfowler.com/bliki/TechnicalDebtQuadrant.html)
+74. Ley de Demeter, más que nada para aprenderla yo. Me ha picado la curiosidad leyendo [How a smell in tests point to a risk in the design](http://blog.thecodewhisperer.com/permalink/how-a-smell-in-the-tests-points-to-a-risk-in-the-design/) de J.B.Rainsberger
 
 # Post already posted
 

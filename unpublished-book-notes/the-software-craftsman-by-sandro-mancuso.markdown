@@ -8,12 +8,16 @@
 - Sin excelencia técnica, cualquier proyecto software será una experiencia dolorosa, frustrantte y cara.
 - (para Norbert) Un mecanismo de feedback rápido es clave para cualquier compañía que quiera ser Agile. Reaccionar a ese feedback rápido es lo que les hace verdaderamente Agile.
 - Las metodologías ágiles ayudan a las empresas a hacer lo correcto, mientras que Software Craftsmanship ayuda a los programadores y empresas a hacer las cosas de la forma correcta.
+- Software Craftsmanship es poner toda la responsabilidad, profesionalidad, pragmatismo y orgullo de vuelta al desarrollo de software.
+- *Esta muy interesante el capítulo sobre la historia del Software Craftsmanship*
+- Blogs: eso ayudará a quien venga después de nosotros. Porque encontrarán los conceptos descritos con los mismos ojos que tienen ellos ahora. Incluso si programadores más experimentados han escrito sobre el tema anteriormente, siempre merece la pena escribir sobre lo que estamos aprendiendo en este momento.
+- Descubrimiento deliberado: hay que intentar expandir el conocimiento que tenemos en lo que estemos trabajando, aunque creamos que lo conocemos siempre habrá algún asunto que podemos explorar. Debemos exponernos constantemente a situaciones donde podamos aprender algo nuevo acerca del contexto en el que estamos.
 
 ## Notas tomadas del libro
 
 > Cómo esta hecho es tan importante como el hacerlo ~ *Namur*
 
-## 1. Software Development in the Twenty-First Century
+## 1. El desarrollo del software en el siglo XXI
 
 *Seniority* es transitiva y relativa. Transitiva porque los clientes querrán distintos tipos de sistemas conforme avanze la tecnología. Relativa porque cuando intentamos identificar cómo es un desarrollador senior necesitamos hacernos las siguientes preguntas: senior comparado con quién? en qué tecnología? en qué contexto?
 
@@ -41,61 +45,38 @@ Las metodologías ágiles ayudan a las empresas a hacer lo correcto, mientras qu
 
 ## 3. Software Craftsmanship
 
-- esta casi puede resumir l libro
-- Software Craftsmanship is all about putting responsibility, professionalism, pragmatism, and pride back into software development.
-- muy interesante este capitulo dobre historia
-- Software Craftsmanship History
-- The focus on high-quality software must be the number one priority if you want long-lived applications.
-- Great developers want to work with other great developers. Great developers want to work for great companies.
+Software Craftsmanship es poner toda la responsabilidad, profesionalidad, pragmatismo y orgullo de vuelta al desarrollo de software.
 
-## 4. The Software Craftsmanship Attitude
+Enfocarse en un software de alta calidad debe ser la prioridad número uno is quieres tener aplicaciones que estén vivas durante un largo período de tiempo.
 
-- caring about and being proud of the work we do is a given.
-- nlah blah blah... es un echo
-- finding ways to become better professionals is a lifetime commitment.
-- Satisfying and helping our customers to achieve what they want to achieve, in the most efficient way, is our main goal.
-- Sharing our knowledge with less-experienced software craftsmen is our moral obligation.
-- In this chapter I discuss how we can own our careers,
-- y como ha dicho antes. debes tratar a tu emplesdor como si fuera un cliente
-- Clients don’t pay professionals to learn.
-- That means that we should use our own time and money to get better at what we do.
-- Keeping our heads down, working hard from 9 to 5, and doing only what we are told to do is not professional either. That is what factory workers do. If developers want to be treated as professionals, they should start acting as professionals.
-- small list of things we can do to keep ourselves up to date.
-- Books, Many Books
-- Technology-specific books
-- Conceptual books
-- new concepts, paradigms, and practices.
-- Behavioral books
-- better professionals in general. They help us learn how to deal with people, clients, deadlines, team members,
-- Revolutionary books (some call them classics)
-- Favor conceptual and behavioral books for your career progression, starting with the revolutionary ones.
-- Blogs
-- eso ayudara a quien vnga despues d nootros. porque encontraran los concptos dscritos con los mismos ojos ue tienen ellos ajra
-- Even if developers more experienced than us have written about the subject many times before, it is worth writing whatever we are currently learning anyway.
-- Know Who to Follow
-- Social Media
-- Practice, Practice, Practice
-- when practicing, we should focus on how we are solving the problem.
-- Katas
-- solving katas with our current toolkit (the techniques and tools that we are comfortable with) does not make a lot of sense.
-- Katas can be very beneficial when the same kata is done over and over again but using a completely different approach or technique each time.
-- Pet Projects
-- pet projects are meant to be fun. A common problem that developers have with pet projects is finding a good idea. The good news is that you do not need one.
-- Open Source
-- it is also a great way to raise your public profile.
-- Pair Programming
-- Instead of thinking that the other person is stupid (which is rarely the case), we should think that we are probably not as good as we think we are.
-- Socialize
-- there is one thing they all share: passion.
-- Deliberate Discovery I’m
-- hay que intentar expandir el conocimiento que tenemo en lo qieetemos trabajando.aunque creamos que lo conocmos imre hbra algun asexto ue podmos explorar
-- constantly expose ourselves to situations where we can learn something new about the context we are in.
-- Work-Life Balance
-- Creating Time
-- Focus: The Pomodoro Technique
-- we focus. A good technique is to decide beforehand what we want to do before we actually use this time slot.
-- teneer un buen trabajo y saber que estamos a la ultima nosnda confianza y esaremos tranquilos para disfrutar del tiempo libte
-- Keeping our professional life healthy is essential for a healthy family life.
+## 4. La actitud en Software Craftsmanship
+
+Preocuparse y estar orgulloso del trabajo que hacemos es un don. La palabrería es un hecho.
+
+La búsqueda de caminos para ser un mejor profesional es un compromiso de por vida.
+
+Satisfacer y ayudar a nuestros clientes a alcanzar lo que ellos quieren, de la forma más eficiente posible, es nuestro principal objetivo.
+
+Compartir nuestro conocimiento con artesanos del software menos experimentados es nuestra obligación moral.
+
+En este capítulo se trata cómo podemos ser dueños de nuestra carrera profesional. Debes tratar a tu empleador como si fuera un cliente. Los clientes no pagan a los profesionales para que aprendan. Eso significa que deberías usar tu propio tiempo y dinero para ser mejor en lo que hacemos.
+
+Pero mantener la cabeza agachada, trabajar duro de 9 a 5, y hacer solo lo que nos dicen que hagamos, tampoco es profesional. Eso es lo que los obreros de una fábrica hacen. Si los programadores quieren ser tratados como profesionales, deberían actuar como tal.
+
+Algunas cosas que podemos hacer para estar al día (he omitido muchas):
+
+- Leer libros, muchos libros. Libros sobre tecnologías específicas, libros conceptuales (nuevos conceptos, paradigmas y prácticas), libros de comportamiento (nos ayudan a ser mejor profesionales en general, a cómo nos relacionamos con la demás gente, clientes, fechas de entrega y compañeros), libros revolucionarios (los llamados clásicos). Favorece los libros conceptuales y de comportamiento, comenzando por los revolucionarios. Los técnicos, los últimos.
+- Blogs: eso ayudará a quien venga después de nosotros. Porque encontrarán los conceptos descritos con los mismos ojos que tienen ellos ahora. Incluso si programadores más experimentados han escrito sobre el tema anteriormente, siempre merece la pena escribir sobre lo que estamos aprendiendo en este momento.
+- Redes sociales
+- Prácticas: cuando practicamos, deberíamos enfocarnos en cómo resolvemos el problema, no en la resolución del mismo.
+- Katas: resolver katas con nuestras herramientas actuales (las técnicas y herramientas con las que nos encontramos a gusto) no tiene mucho sentido. Las katas pueden ser beneficiosas cuando la misma kata se hace una y otra vez, pero usando técnicas completamente diferentes cada vez.
+- Proyectos personales: se supone que tienen que ser divertidos.
+- Open Source: es una forma estupenda de dar a conocer nuestro trabajo en público.
+- Pair programming: en lugar de pensar que la otra persona es estúpida, deberíamos pensar en que somos nosotros los que probablemente no somos tan buenos como nos creemos.
+- Socializar: hay una cosa que todos ellos compartirán: la pasión por el software.
+- Descubrimiento deliberado: hay que intentar expandir el conocimiento que tenemos en lo que estemos trabajando, aunque creamos que lo conocemos siempre habrá algún asunto que podemos explorar. Debemos exponernos constantemente a situaciones donde podamos aprender algo nuevo acerca del contexto en el que estamos.
+- Compaginar trabajo y vida privada: mantener nuestra vida profesional saludable es esencial para mantener una vida familiar igualmente saludable.
+- Crear tiempo: tener un buen trabajo y saber que estamos a la última nos da confianza y estaremos tranquilos para disfrutar del tiempo libre.
 
 ## 5. Heroes, Goodwill, and Professionalism
 
