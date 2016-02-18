@@ -3,28 +3,41 @@
 
 [![The software creaftsman](http://www.informit.com/ShowCover.aspx?isbn=0134052501)](http://www.amazon.es/Software-Craftsman-Professionalism-Pragmatism-Robert/dp/0134052501/)
 
-- Namur’s words, “How it is done is as important as getting it done”
+## Notas escogidas para el blog
+
+- Sin excelencia técnica, cualquier proyecto software será una experiencia dolorosa, frustrantte y cara.
+- (para Norbert) Un mecanismo de feedback rápido es clave para cualquier compañía que quiera ser Agile. Reaccionar a ese feedback rápido es lo que les hace verdaderamente Agile.
+- Las metodologías ágiles ayudan a las empresas a hacer lo correcto, mientras que Software Craftsmanship ayuda a los programadores y empresas a hacer las cosas de la forma correcta.
+
+## Notas tomadas del libro
+
+> Cómo esta hecho es tan importante como el hacerlo ~ *Namur*
 
 ## 1. Software Development in the Twenty-First Century
 
-- seniority is transient and relative.
-- transient because clients will demand different types of systems as technology evolves.
-- relative. When trying to identify how senior a developer is, we need to ask ourselves the following questions: senior compared to whom? In which technology? In which context?
-- role and responsibilities of a software developer became wider and more important, making developers proud to be developers
+*Seniority* es transitiva y relativa. Transitiva porque los clientes querrán distintos tipos de sistemas conforme avanze la tecnología. Relativa porque cuando intentamos identificar cómo es un desarrollador senior necesitamos hacernos las siguientes preguntas: senior comparado con quién? en qué tecnología? en qué contexto?
+
+Los roles y las responsabilidades de un programador se han hecho más amplias y más importantes, haciendo que los programadores se sientan orgullosos de ser programadores.
 
 ## 2. Agile
 
-- Agile does not solve any problems; it exposes them.
-- generalizing specialists. Being good at writing code is the minimum skill expected from software professionals. Testing, analysis, ability to understand the business, good communication, and a more extroverted personality
-- en un trasformacion agile como nos venden ahora. no hy camvios tecnicos. lo que lleva a que siguen exisriendolos mimos problmas d iempre
-- For developers, yes, they had a better working process and were talking to each other more often, but besides that, in terms of the actual technical work they did, nothing had really changed.
-- these consultancies and Agile coaches did very little, or nothing, to help companies to be better at writing quality software.
-- Agile transformations were focused on process but not on technical disciplines,
-- Without technical excellence, every software project will be a painful, frustrating, and expensive experience.
-- esta va direxta a notbett
-- A quick feedback loop is key for any company aspiring to be agile. Reacting to the feedback they get quickly is what makes them truly agile.
-- Agile methodologies help companies to do the right thing.
-- Software Craftsmanship helps developers and companies to do the thing right.
+Agile no soluciona todos los problemas, solo los hace más evidentes.
+
+Generalizando especialistas: ser bueno escribiendo código es lo mínimo que se espera de un programador *profesional*. Testing, análisis, entender a negocio, buenas dotes comunicativas y una personalidad más extrovertida son otras habilidades requeridas.
+
+En un trasformación Agile como nos venden ahora, no hay cambios técnicos. Lo que lleva a que siguen existiendo los mismos problemas de siempre.
+
+Para los programadores sí, tienen un mejor proceso de trabajo y hablan entre ellos más a menudo. Aparte de eso, en término de trabajo técnico que realizan, no ha cambiado mucho la cosa.
+
+Todas esas consultoras y coaches hacen muy poco o nada para ayudar a las empresas a ser mejores y a escribir software de calidad.
+
+Las transformaciones Agile estaban enfocadas en procesos pero no en disciplinas técnicas.
+
+Sin excelencia técnica, cualquier proyecto software será una experiencia dolorosa, frustrantte y cara.
+
+Un mecanismo de feedback rápido es clave para cualquier compañía que quiera ser Agile. Reaccionar a ese feedback rápido es lo que les hace verdaderamente Agile.
+
+Las metodologías ágiles ayudan a las empresas a hacer lo correcto, mientras que Software Craftsmanship ayuda a los programadores y empresas a hacer las cosas de la forma correcta.
 
 ## 3. Software Craftsmanship
 
