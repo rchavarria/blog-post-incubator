@@ -12,6 +12,8 @@
 - *Esta muy interesante el capítulo sobre la historia del Software Craftsmanship*
 - Blogs: eso ayudará a quien venga después de nosotros. Porque encontrarán los conceptos descritos con los mismos ojos que tienen ellos ahora. Incluso si programadores más experimentados han escrito sobre el tema anteriormente, siempre merece la pena escribir sobre lo que estamos aprendiendo en este momento.
 - Descubrimiento deliberado: hay que intentar expandir el conocimiento que tenemos en lo que estemos trabajando, aunque creamos que lo conocemos siempre habrá algún asunto que podemos explorar. Debemos exponernos constantemente a situaciones donde podamos aprender algo nuevo acerca del contexto en el que estamos.
+- Incluso teniendo tiempo, algunos programadores deciden no automatizar sus tests. **Esto es ser egocéntrico**. Sólo piensa en sus tareas, no en el resto de la gente involucrada en el proyecto y todo el tiempo que les consumirá no tener tests.
+- Es muy fácil decir que un software está muy mal escrito. Es más fácil quejarse, o incluso reírse del autor. Pero la pregunta es: eres lo suficientemente bueno como para hacerlo mejor?
 
 ## Notas tomadas del libro
 
@@ -78,7 +80,7 @@ Algunas cosas que podemos hacer para estar al día (he omitido muchas):
 - Compaginar trabajo y vida privada: mantener nuestra vida profesional saludable es esencial para mantener una vida familiar igualmente saludable.
 - Crear tiempo: tener un buen trabajo y saber que estamos a la última nos da confianza y estaremos tranquilos para disfrutar del tiempo libre.
 
-## 5. Heroes, Goodwill, and Professionalism
+## 5. Héroes, buena voluntad y profesionalismo
 
 Incluso sabiendo profundamente que va a ser imposible de entregar todas las funcionalidades en la fecha impuesta, los programadores acaban por aceptar la imposición y comprometiéndose con ello. A vecces no decimos que no porque queremos creer que somos los mejores. En lo más profundo de nosotros queremos mostrar lo buenos que somos.
 
@@ -88,27 +90,21 @@ Pero decir siempre que no tampoco es profesional. Cada "no", idealmente, deberí
 
 Los managers deberían agradecernos cuando les decimos que no podemos entregar algunas de las funcionalidades. La transparencia ayuda a los manages y al equipo a prepararse para situaciones difíciles. Los buenos managers son parte del equipo, y están con el equipo en lo bueno y en lo malo.
 
-## 6. Working Software
+## 6. Software que funciona
 
-- truth is that in a software project, the most important deliverable is the software itself. Anything else is secondary.
-- Working Software Is Not Enough
-- All that legacy code you need to deal with on a daily basis counts as working software.
-- con todo este parrsfo. te puedes hacer una idea de lonque quiere decir ue working software no s suficinte
-- All that legacy code you need to deal with on a daily basis counts as working software. Imagine all those applications that take us a long time to add a new feature to. All those applications we are scared to touch. All those applications that are fragile or tightly coupled. And what about those applications without an extensive test suite, where we are forced to test manually? What about those applications that we need to deploy into user acceptance testing (UAT) if we wanted to test it because we cannot run it locally? They are all working software.
-- Rather than construction, programming is more like gardening. —The Pragmatic Programmer
-- The lower the quality, the higher the number of bugs, and the harder it is to test.
-- some people say that they don’t have time to do it properly, but it seems that they always find a way to justify the amount of time and money spent on long testing and bug-fixing phases.
-- business progress is being impeded or delayed by software instead of being helped by it.
-- The biggest problem here is that bad code is invisible to everyone besides the developers.
-- That means it is the developers’ responsibility to look after the quality of the code.
-- Over time, I realized that developers have a wrong notion of time. We always think we are under pressure.
-- more often than not, the pressure is self-imposed.
-- We think we never have the time to do things right.
-- even having the time, developers decide not to automate their tests.
-- por eso dice que no hacer testd es ser egocentrico
-- They just think about their own tasks, not about all the other people involved in the project and all the time they will spend
-- When looking at legacy code, instead of moaning and getting frustrated, we should try to understand it and make it better, constantly applying the Boy Scout
-- latter. It is easy to say that a piece of code is badly written. It is easy to complain or even laugh. But the question is: are you good enough to make it better?
+La verdad es que en un proyecto software, el entregable más importante es el software en sí, todo lo demás es secundario.
+
+Pero el software que funciona no es suficiente. Todo el código legacy con el que te peleas diariamente cuenta como software que funciona. Todo ese software que requiere mucho tiempo para modificar. Todas esas aplicaciones que tenemos miedo de tocar. Todo aquello que está íntimamente acoplado. Todas aquellas que hay que testearlas manualmente. Todo eso es software que funciona.
+
+> Más que construcción, programar es como la jardinería ~ *The Pragamatic Programmer*
+
+Cuanto más baja es la calidad, mayor será el número de bugs y más difícil será de testear. Alguna gente dice que no tiene el tiempo para hacerlo correctamente, pero parece que siempre encuentran la forma de justificar el tiempo y dinero gastado en fases de testeo y arreglo de bugs cada vez más y más largos.
+
+Al final, el progreso del negocio está impedido y se ve retrasado por el software, en lugar de ser ayudado. El mayor problema es que el código malo es invisible a todo el mundo menos a los programadores. Esto significa que es la responsabilidad de los mismos de cuidar de la calidad del código.
+
+Me he dado cuenta de que los programadores tenemos una noción equivocada del tiempo. Siempre pensamos que estamos bajo presión. La mayoría de las veces, la presión es autoimpuesta. Tendemos a pensar que nunca tenemos tiempo de hacer las cosas bien. Incluso teniendo tiempo, algunos programadores deciden no automatizar sus tests. **No hacer tests, es egocéntrico**. Sólo piensan en sus tareas, no en el resto de la gente involucrada en el proyecto y todo el tiempo que les consumirá no tener tests.
+
+Cuando trabajemos con código legacy, en lugar de quejarnos y frustrarnos, deberíamos intentar entenderlo y hacerlo mejor, aplicando la regla del Boy Scout de forma contínua. Es muy fácil decir que un software está muy mal escrito. Es más fácil quejarse, o incluso reírse del autor. Pero la pregunta es: eres lo suficientemente bueno como para hacerlo mejor?
 
 ## 7. Technical Practices
 
