@@ -14,6 +14,7 @@
 - Descubrimiento deliberado: hay que intentar expandir el conocimiento que tenemos en lo que estemos trabajando, aunque creamos que lo conocemos siempre habrá algún asunto que podemos explorar. Debemos exponernos constantemente a situaciones donde podamos aprender algo nuevo acerca del contexto en el que estamos.
 - Incluso teniendo tiempo, algunos programadores deciden no automatizar sus tests. **Esto es ser egocéntrico**. Sólo piensa en sus tareas, no en el resto de la gente involucrada en el proyecto y todo el tiempo que les consumirá no tener tests.
 - Es muy fácil decir que un software está muy mal escrito. Es más fácil quejarse, o incluso reírse del autor. Pero la pregunta es: eres lo suficientemente bueno como para hacerlo mejor?
+- Un código limpio y mantenible permite a los programadores ir rápido y reducir las probabilidades de introducir bugs.
 
 ## Notas tomadas del libro
 
@@ -106,38 +107,30 @@ Me he dado cuenta de que los programadores tenemos una noción equivocada del ti
 
 Cuando trabajemos con código legacy, en lugar de quejarnos y frustrarnos, deberíamos intentar entenderlo y hacerlo mejor, aplicando la regla del Boy Scout de forma contínua. Es muy fácil decir que un software está muy mal escrito. Es más fácil quejarse, o incluso reírse del autor. Pero la pregunta es: eres lo suficientemente bueno como para hacerlo mejor?
 
-## 7. Technical Practices
+## 7. Prácticas técnicas
 
-- no se puede medir la caoidad del codigo con practicas no tcnigas . daily meeting. backlog...
-- we cannot measure the quality of our applications through the practices
-- no se puede medir la caoidad del codigo con practicas no tcnigas . daily meeting. backlog... ellas nos ayudan a construir the right thing
-- Software Craftsmanship complements Agile by focusing on technical practices and providing a quick and short feedback loop on the quality of our code. Technical practices help us to make sure we are building the thing right.
-- The truth is, very few Agile coaches and consultancy companies are good enough to teach XP practices.
-- Practices must be backed by values,
-- We recognize someone’s values according to his or her actions and not by what they say. Practices are the validation of values.
-- Trying to sell technical practices for what they are is pointless.
-- Don’t focus on the practices themselves when trying to convince managers or team members to adopt them. Focus the discussion on the benefit they bring and how they compare to the practices they currently have.
-- Automated Testing
-- confidence to add new features without breaking the system.
-- Automated testing gives us measurable business value.
-- Test First
-- Writing tests first helps us to just write enough code to satisfy the requirements, keeping the code simple. It reduces complexity and overengineering.
-- Test-Driven Development
-- Complexity in our code and bad design choices are highlighted by the complexity in maintaining and writing new tests. These tests lead us to re-analyze the design of our code and refactor to make it simpler.
-- provides a living and executable documentation for our applications and, as a good side effect, a rich suite of regression tests.
-- Continuous Integration
-- the combination of continuous integration and TDD can make an entire QA team redundant.
-- Pair Programming
-- improve the collective understanding of the entire system and level up developers’ skills. It also helps developers to define and maintain coding standards.
-- Refactoring
-- hablando de refacorizar.es importante. pero nonhace falta refactorizar todo el sistema
-- The Boy Scout rule should just be applied when we need to make a change or understand one area of the code, not everywhere.
-- A clean and maintainable code enables developers to go fast and reduces the chances of new bugs.
-- Accountability
-- 4 cosas . aportar valor. feedback loops muy cortos. inspect y adaptarse
-- Summary
+No se puede medir la calidad del código con prácticas no técnicas (daily meeting, backlog,...), aunque nos ayudan a construir *the right thing*. Software Craftsmanship complementa Agile enfocándose en prácticas técnicas y proporcionando una retroalimentación corta y rápida sobre la calidad de nuestro código. Las prácticas técnicas nos ayudan a asegurarnos de que construimos *the thing right*.
+
+Muy pocos coaches ágiles y empresas de consultoría son lo suficientemente buenos como para enseñar prácticas de Extreme Programming.
+
+Las prácticas deberían estar sustenteadas en valores. Reconocemos los valores de los demás por lo sus acciones, no por lo que dicen. Las prácticas, son la validación de los valores. Intentar vender prácticas técnicas por lo que son, no tiene sentido. No te enfoques en las prácticas mismas cuando intentes convencer a managers o compañeros de que las adopten. Lleva la discusión hacia el beneficio que traerá y en qué se diferencia con las prácticas actuales.
+
+Testeo automático: nos da confianza para añadir funcionalidades nuevas sin romper el sistema.
+
+Escribir primero el test: nos ayjda a escribir sólo el código necesario para satisfacer el requisito, manteniendo el código simple, reduciendo la complejidad y evitando la sobreingeniería.
+
+Desarrollo dirigido por tests (TDD): la complejidad en nuestro código y las malas elecciones en el diseño son expuestas por la complejidad a la hora de mantener y escribir nuevos tests. Estos tests nos llevan a re-analizar el diseño del código y a refactorizarlo para hacerlo más sencillo.
+
+Integración contínua: la combinación de CI y TDD puede hacer que el equipo de QA sobre.
+
+Programación por parejas: mejora el entendimiento colectivo del sistema y mejora las habilidades de los programamdores. También ayuda a definir y mantener unos estándares de programación.
+
+Refactorización: es importante, pero no hace falta refactorizar todo el sistema. La regla del Boy Scout debería aplicarse cuando es necesario hacer un cambio o entender un área del sistema, no a todo él. Un código limpio y mantenible permite a los programadores ir rápido y reducir las probabilidades de introducir bugs.
+
+Responsabilidad: aportar valor, ciclos de realimentación cortos y frecuentes, inspecionar y adaptarse.
 
 ## 8. The Long Road
+
 - the long and hard road to mastery.
 - Focus and Determination
 - But What if We Don’t Know Where We Are Going?
