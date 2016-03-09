@@ -80,22 +80,13 @@ Algunas cosas que podemos hacer para estar al día (he omitido muchas):
 
 ## 5. Heroes, Goodwill, and Professionalism
 
-- Learning How to Say No
-- Even knowing deep inside that it will be almost impossible to deliver all the features by the imposed date, developers end up agreeing and committing to it.
-- An Epic Failure
-- Lesson Learned
-- a vecces no decimos que no porque queremos creer que somos los mejores
-- Deep inside we wanted to show how good we were.
-- Being Professional
-- Very often we have to deal with very hard deadlines. The best way to deal with them is to analyze everything that needs to be done and communicate all the possible risks we see and concerns we may have.
-- Providing Options
-- Always saying no is also not a professional attitude. Every no, ideally, should be followed by a list of alternatives.
-- At the end of the day, we should all focus on solving the problem, regardless of which solution we choose or who proposed it.
-- An Unexpected and Viable Option
-- Enlightened Managers
-- Managers should appreciate when we say we cannot deliver some features.
-- Transparency helps managers and the team to prepare for tough situations.
-- Good managers are part of the team. They stay with the team during good and bad times.
+Incluso sabiendo profundamente que va a ser imposible de entregar todas las funcionalidades en la fecha impuesta, los programadores acaban por aceptar la imposición y comprometiéndose con ello. A vecces no decimos que no porque queremos creer que somos los mejores. En lo más profundo de nosotros queremos mostrar lo buenos que somos.
+
+Bastante a menudo tenemos que lidiar con fechas de entrega ajustadas. La mejor forma que lidiar con ellas es analizando qué es necesario hacer y comunicar todos los posibles riesgos que veamos y preocupaciones que tengamos.
+
+Pero decir siempre que no tampoco es profesional. Cada "no", idealmente, debería estar seguido de una lista de alternativas. Al final, deberíamos enfocarnos en resolver el problema, independientemente de la solución elegida o de quién la propuso.
+
+Los managers deberían agradecernos cuando les decimos que no podemos entregar algunas de las funcionalidades. La transparencia ayuda a los manages y al equipo a prepararse para situaciones difíciles. Los buenos managers son parte del equipo, y están con el equipo en lo bueno y en lo malo.
 
 ## 6. Working Software
 
