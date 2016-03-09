@@ -15,6 +15,7 @@
 - Incluso teniendo tiempo, algunos programadores deciden no automatizar sus tests. **Esto es ser egocéntrico**. Sólo piensa en sus tareas, no en el resto de la gente involucrada en el proyecto y todo el tiempo que les consumirá no tener tests.
 - Es muy fácil decir que un software está muy mal escrito. Es más fácil quejarse, o incluso reírse del autor. Pero la pregunta es: eres lo suficientemente bueno como para hacerlo mejor?
 - Un código limpio y mantenible permite a los programadores ir rápido y reducir las probabilidades de introducir bugs.
+- ¿Qué motiva al trabajor del conocimiento? Autonomía, maestría y propósito.
 
 ## Notas tomadas del libro
 
@@ -129,27 +130,17 @@ Refactorización: es importante, pero no hace falta refactorizar todo el sistema
 
 Responsabilidad: aportar valor, ciclos de realimentación cortos y frecuentes, inspecionar y adaptarse.
 
-## 8. The Long Road
+## 8. El largo camino
 
-- the long and hard road to mastery.
-- Focus and Determination
-- But What if We Don’t Know Where We Are Going?
-- si no sábes donde vas no puedes guiarte. pero tampoco consideres tu meta como algo fijo. revisa tus objetivos
-- Defining the direction we want to go in our careers is important.
-- But What if We Don’t Know Where We Are Going?
-- When we are not so sure where we want to go with our careers, we need to start opening doors.
-- We need to go out there and speak to people.
-- Job as Investment
-- The most important thing is to treat every single job as an investment, a step toward a bigger goal.
-- Expecting a return on investment from jobs should not be mistaken for the selfish and unprofessional attitude known as “CV building,”
-- Knowledge is the most common return on investment expected from a job. Developers choose jobs according to what they want to learn, and they leave their jobs either when they are not learning anymore
-- Autonomy, Mastery, and Purpose
-- esto es lo qu motiva a lo trabajadore del conociminto
-- Our careers will always be more important than any specific job or company.
-- Our careers are like long staircases and our jobs are the steps.
-- “the Peter Principle,” and its effect could be stated as “employees tend to be given more authority until they cannot work competently.” In other words, through political games, misappropriation of credit, hiding incompetence by blaming others, and often unprofessional and dishonest attitudes, some people are promoted to positions for which they are totally incompetent.
-- Summary
-- Part II. A Full Transformation
+Si no sábes donde vas no puedes guiarte. Pero tampoco consideres tu meta como algo fijo. Revisa tus objetivos. Es importante definir la dirección que queremos llevar en nuestras carreras profesionales. Cuando no sabemos muy bien hacia dónde queremos ir, necesitamos empezar a abrirnos puertas. Necesitamos salir ahí fuera y hablar con la gente.
+
+Lo más importante es tratar cada puesto de trabajo como una inversión, un paso hacia un objetivo mucho más grande. No debería confundirse esto con *hacer currículum*. El conocimiento es el retorno de inversión más grande que podemos esperar de un trabajo. Los programadores elegimos los trabajos según lo que requieran que aprendamos y los dejamos cuando hemos dejado de aprender en ellos.
+
+¿Qué motiva al trabajor del conocimiento? Autonomía, maestría y propósito.
+
+Nuestras carreras son siempre más importantes que cualquier trabajo o empresa específicos. Nuestras carreras son como una larga fila de escaleras, y cada trabajo es como un peldaño.
+
+El **Principo de Peter** y su efecto podría ser descrito como: a los empleados se les da más y más autoridad hasta que ka no pueden trabajar competentemente. En otras palabras, a través de juegos políticos, robar el mérito a los demás, escondiendo la incompetencia y culpando a los demás, y con actitudes no profesionales y deshonestas, alguna gente consigue aumentos a posiciones en las que son totalmente incompetentes.
 
 ## 9. Recruitment
 
