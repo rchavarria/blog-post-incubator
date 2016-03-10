@@ -142,42 +142,26 @@ Nuestras carreras son siempre más importantes que cualquier trabajo o empresa e
 
 El **Principo de Peter** y su efecto podría ser descrito como: a los empleados se les da más y más autoridad hasta que ka no pueden trabajar competentemente. En otras palabras, a través de juegos políticos, robar el mérito a los demás, escondiendo la incompetencia y culpando a los demás, y con actitudes no profesionales y deshonestas, alguna gente consigue aumentos a posiciones en las que son totalmente incompetentes.
 
-## 9. Recruitment
+## 9. Contrataciones
 
-- An Ordinary Job Description
-- Although every company would say that they want the best people, they have no idea what that really means. And a proof of that is how they advertise their job openings.
-- There is also a general perception that recruitment processes take too long.
-- Too Busy to Interview
-- if you cannot allocate enough time to interview, you can’t really be serious about building a great team.
-- Job candidates
-- Job candidates are always judged from a biased perspective:
-- The time wasted interviewing wrong candidates is the problem we must address.
-- No Job Descriptions
-- Job descriptions are anti-patterns.
-- Here are some reasons:
-- Absolute numbers:
-- Keyword matching:
-- Listing technologies:
-- Wrong cultural fit criteria:
-- Listing the wrong requirements:
-- Listing the responsibilities required
-- is a far better way to attract better developers.
-- Wrong filters:
-- No internal promotions:
-- What if a Job Description Is Needed?
-- the focus should be on detailing the expected attitude and responsibilities, types of projects, technologies used (not required), and values and culture of the company.
-- A Job Is Not Just a Job
-- For great developers, their job is not just a job; it’s also their hobby and their passion.
-- will look for companies that think in the same way
-- Community Involvement
-- Supporting user groups and technical communities is a great way to attract and approach great developers.
-- Defining Effective Filtering Criteria
-- Whichever filter criteria we apply, we will always filter some good developers out.
-- de ahi q sea mejor ser proactivo
-- The problem is that when you are in desperation mode, you increase dramatically the risk of making mistakes, especially when it comes to recruitment.
-- Good developers are also filtering bad companies out and looking for the best ones.
+Aunque todas las empresas digan que quieren la mejor gente, no tienen ni idea de lo que eso realmente significa. Y prueba de ellos es cómo publicitan los puestos de trabajo. Además, hay una sensación general de que el proceso de contratación lleva mucho tiempo.
 
-## 10. Interviewing Software Craftsmen
+Si no puedes sacar tiempo para entrevistar a los candidatos, no te estás tomando en serio lo de construir un buen equipo. El tiempo perdido entrevistando los malos candidatos es el problema que debemos atacar.
+
+Los candidatos son juzgados siempre desde un punto de vista sesgado (desde el del entrevistador, claro).
+
+La descripción del título es un anti patrón. ¿Por qué? Proporcionan números absolutos, buscan coincidencias con palabras clave, lisado de tecnologías, malos criterios para encajar culturalmente, listados de requisitos equivocados, listados de responsabilidades necesarias. El foco debería ponerse en detallar la actitud y responsabilidades deseadas, tipos de proyectos, tecnologías usadas (no requeridas), y valores y cultura de la empresa.
+
+Para programadores excelentes, un trabajo no es sólo un trabajo, también es su hobby y su pasión. Así que ellos buscan lo mismo en las empresas.
+
+Apoyando grupos de usuarios y comunidades técnicas es una gran forma de atraer y acercarse a grandes programadores.
+
+Hay que tener en cuenta, que usemos el filtro que usemos, siempre estaremos dejando fuera a algún gran programador. De ahí que sea mejor ser proactivo. El problema viene cuando la empresa está en modo pánico, desesperada. Eso incrementa el riesgo de cometer errores, especialmente en los procesos de selección.
+
+Los buenos programadores también filtran y dejan fuera a las malas empresas y buscan las mejores, las que coinciden con sus valores y cultura.
+
+## 10. Entrevistando a artesanos del software
+
 - A Business Negotiation
 - During an interview, it is important to understand that we are not begging for a job. We are doing a business negotiation.
 - pregubtas a hscer al empleador en la entrevidta
