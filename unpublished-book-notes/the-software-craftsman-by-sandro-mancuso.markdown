@@ -162,36 +162,23 @@ Los buenos programadores también filtran y dejan fuera a las malas empresas y b
 
 ## 10. Entrevistando a artesanos del software
 
-- A Business Negotiation
-- During an interview, it is important to understand that we are not begging for a job. We are doing a business negotiation.
-- pregubtas a hscer al empleador en la entrevidta
-- ask questions about how we work, what we do, what we want to achieve, and what our main problems are,
-- por lo q hay q prestar atencion a ciertos detalles
-- Every company is great when we talk to recruiters,
-- management team does not trust developers, and that formal hierarchies govern the company, is when interviewers are managers, architects, and team leaders,
-- Single interview processes always make me a bit worried. It seems that the company is in a hurry
-- interviewers who ask questions that are totally unrelated to the job offered.
-- interviewer is following a script—asking
-- If the interview is composed of questions that any person could answer correctly after a quick search on Google, or after reading the APIs of a language or the documentation of a tool, the questions have absolutely no value in identifying good or bad developers.
-- Good Interviews
-- The Right Focus
-- If there is anything we want to change, improve, or adopt, the new people hired should be our allies in achieving that.
-- Mind-Mapping a Conversation
-- One technique I find very useful when conducting interviews (or should I say conversations) is mind-mapping.
-- Pair-Programming Interview
-- Bring Your Own Computer
-- Developers who write code outside working hours will always have all their tools installed and ready to go.
-- Tailor-Made Interviews
-- apostr a algo
-- Taking a Punt
-- When interviewing, we should look for talent, attitude, passion, and potential, not knowledge of specific technologies.
-- Pre-Interview Coding Exercises
-- There will be cases where some candidates will decide not to go forward with the selection process
-- Everyone Should Know How to Interview
-- Experienced developers should always take less-experienced developers to the interviews with them.
-- Developers Must Interview Developers
-- en todo caso eligrn a alguien mejor que ellos
-- Good developers don’t hire bad developers.
+Durante una entrevista, es importante entender que no estamos suplicando por un trabajo, si no que estamos en una negociación.
+
+Posibles preguntas que hacer al entrevistador: cómo trabajan, qué hacen, qué quieren conseguir y cuáles son sus principales problemas.
+
+Todas las empresas son geniales cuando se habla con la persona que contrata a nuevos empleados, por lo que hay que prestar atención a los detalles. Por ejemplo, si los entrevistadores son managers, arquitectos o team leaders, puede que quiera decir que dirección no se fia de los programadores y que hay una gran estructura jerárquica. Otros malas indicaciones: la empresa tiene prisa, el entrevistador hacen preguntas que no tienen nada que ver con el puesto, el entrevistador está siguiendo un guión,...
+
+Si la entrevista está compuesta de preguntas que cualquier persona podría responder con una buena búsqueda en internet, o leyendo documentación del API o del lenguaje o de una herramienta, las preguntas no tienen ningún valor para identificara un programador bueno o malo.
+
+Si hay algo que quieras cambiar, mejorar o adoptar, las nuevas incorporaciones deben ser tus aliados.
+
+Una técnica que el autor encuentra muy útil a la hora de entrevistar a gente es realizar un mapa mental de la conversación/entrevista.
+
+A la hora de entrevistar, deberíamos buscar talento, actitud, pasión y potencial, no conocimiento sobre alguna tecnología en concreto.
+
+Los programadores más experimentados deberían llevar consigo a los menos experimentados a las entrevistas. De la misma forma, los programadores son quienes deberían entrevistar a los programadores. 
+
+Los buenos programadores no contratan a malos programadores, en todo caso, contratarán a alguien mejor que ellos.
 
 ## 11. Interview Anti-Patterns
 
