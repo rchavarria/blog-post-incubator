@@ -205,47 +205,25 @@ En lugar de decr a los demás qué hacer, los artesanos del software se sientan 
 
 Y quieres llevar pasión y motivación a un equipo de desarrollo, lo mejor es que contrates a unos cuantos craftsmen para unirse a tu equipo.
 
-## 13. Culture of Learning
+## 13. La cultura del aprendizaje
 
-- Wrong Motivation
-- we will never change an organization by forcing people to adopt a new process or different practices.
-- Creating a Culture of Learning
-- Creating a culture of learning is one of the most efficient ways of injecting passion into a company.
-- instead of having managers trying to impose how, when, and what developers should learn, companies should empower developers to create their own culture of learning.
-- Let developers decide how, when, and what they want to learn.
-- Start a Book Club
-- Have a Tech Lunch (Brown Bag Session)
-- don’t make this meeting about work. Make it about learning.
-- Have Group Discussions (Roundtables)
-- Switch Projects for an Iteration
-- After a period of time, projects fall into a routine;
-- Having different people joining an existing project, even if for a small period of time, makes the members of the team rethink their problems and solutions
-- Switch Projects for a Few Hours
-- Conduct Group Code Reviews
-- The focus is on how to make the code better and not to say why it sucks.
-- Have Hands-On Coding Sessions
-- The facilitator will choose an exercise, normally a kata, and add some twist (constraints) to it just to spice things
-- Favor Technology-Agnostic Thinking
-- Start Internal Communities of Practice
-- don’t focus on growing the community. Focus on having fun and running good sessions.
-- Encourage Pet-Project Time
-- Engage with External Technical Communities
-- What if Others Don’t Want to Join In?
-- If you think you are going to change an entire organization
-- That’s not going to happen. However, you can help some people to (re)discover their passion and
-- Be an Example
-- lead by example.
-- Focus on Those Who Care
-- Once a few people are having fun, working well together, and using different techniques and approaches, more people will want to join.
-- Don’t Force
-- Don’t get disappointed or angry with developers who don’t want to join in. Keep your own motivation up,
-- Don’t Try to Change Everyone
-- Avoid Consensus Delays
-- Sometimes it is just not possible to accommodate everyone.
-- Don’t Ask for Authorization
-- to learn and practice on your own time.
-- Don’t Complicate
-- Establish a Rhythm
+Nunca vamos a cambiar una organización forzando a la gente a adoptar un nuevo proceso o diferentes prácticas.
+
+Crear una cultura de aprendizajees uno de los caminos más eficientes de inyectar pasión en una empresa. En lugar de tener managers intentando imponer cómo, cuándo y qué deberían aprender los programadores, las empresas deberían incentivar a los programadores a que crearan su propia cultura del aprendizaje. Por lo tanto, permite que los programadores decidan cómo, cuándo y qué aprender.
+
+Qué actividades se pueden hacer:
+
+- Un club de lectura
+- Una comida técnica (brown bag session)
+- Discusiones de grupo
+- Intercambiar proyectos por una iteración
+- Realizar revisiones de código grupales: el foco debería estar en cómo hacer el código mejor, no en sacar los fallos del mismo
+- Sesiones de programación de resolución de problemas no relacionados con el trabajo, a modo de katayuno, code retreat, merendojo,...
+- Arrancar comunidades de práctica internas en la empresa
+- Incentivar tiempo dedicado a proyectos personales
+- Colaborar con comunidades técnicas externas
+
+No creas que vas a cambiar la organización entera, como mucho, ayudarás a alguien a descubrir su pasión. Lidera con el ejemplo. Enfócate en aquellos que quieran cambiar. No te enfades o molestes con aquellos que no quieran participar. Mantén tu motivación bien alta. No trates de cambiar a todo el mundo. Evita retrasos solamente por intentar llegar a un consenso. No pidas permiso para aprender y practicar en tu propio tiempo. No te compliques. Marca un ritmo.
 
 ## 14. Driving Technical Changes
 - Many developers suffer from what Kent Beck calls adolescent surety. They think they have the secret formula for delivering great software and nothing else is worth considering.
