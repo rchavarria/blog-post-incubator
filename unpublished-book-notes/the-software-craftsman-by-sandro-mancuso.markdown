@@ -17,6 +17,7 @@
 - Un código limpio y mantenible permite a los programadores ir rápido y reducir las probabilidades de introducir bugs.
 - ¿Qué motiva al trabajor del conocimiento? Autonomía, maestría y propósito.
 - En lugar de decr a los demás qué hacer, los software craftsmen se sientan y trabajan con otros desarrolladores, compartiendo su conocimiento, experiencia y pasión. Los software craftsman están deseando compartir las cosas que hacen para mejorar ellos mismos.
+- Ser buenos en lo que hacemos, ser capaces de comunicarlo claramente, y lo más importante, ser capaces de generar confianza, son habilidades esenciales para cualquier desarrollador que esté dispuesto a liderar cambios.
 
 ## Notas tomadas del libro
 
@@ -225,85 +226,33 @@ Qué actividades se pueden hacer:
 
 No creas que vas a cambiar la organización entera, como mucho, ayudarás a alguien a descubrir su pasión. Lidera con el ejemplo. Enfócate en aquellos que quieran cambiar. No te enfades o molestes con aquellos que no quieran participar. Mantén tu motivación bien alta. No trates de cambiar a todo el mundo. Evita retrasos solamente por intentar llegar a un consenso. No pidas permiso para aprender y practicar en tu propio tiempo. No te compliques. Marca un ritmo.
 
-## 14. Driving Technical Changes
-- Many developers suffer from what Kent Beck calls adolescent surety. They think they have the secret formula for delivering great software and nothing else is worth considering.
-- Identifying Skepticism Patterns
-- The Uninformed:
-- The Herd:
-- they lack confidence and leave the decisions to smarter and more-experienced developers.
-- The Cynic:
-- They like to argue
-- One of the reasons for them not to adopt certain practices or tools is that they don’t want to expose their own weaknesses;
-- The Burned:
-- The Time Crunched:
-- They don’t have time to do things right but they have time to do the same things over and over again.
-- The Boss:
-- The Irrational:
-- One after another, they will raise irrational points against our proposal,
-- The Indifferent: The
-- The Indifferent: The Indifferent simply doesn’t care.
-- indifference leads to lousy implementations of good ideas, transforming those good ideas into very bad ones.
-- The Wronged:
-- don’t like the company and never miss an opportunity to badmouth
-- do things that can harm the project
-- The Inept:
-- The Ivory-Tower Architect:
-- haven’t written a single line of production code for years
-- If it is not their idea, it’s probably not a good one.
-- The Insecure:
-- They are worried about being replaced or losing their status.
-- They see software craftsmen as a threat and will do whatever they can to discredit them.
-- The Fanboy:
-- devoted to a single subject (or point of view) in a fanatic manner,
-- the only thing they know well,
-- Be Prepared
-- Encourage simplicity.
-- Your idea or proposal must be simple and clear.
-- Speak the same language.
-- Do your homework.
-- Make sure you understand what you are talking about. Research, try, and practice.
-- Be respectful.
-- Learn how to listen.
-- Where Do We Start?
-- Establish Trust
-- the best way to build trust (with fellow developers, delivery managers, or clients) is by consistently delivering quality software.
-- is not enough
-- You need to expose yourself. You need to be visible. You need to demonstrate how passionate you are
-- is not enough either.
-- They need to feel you can lead them.
-- Gain Expertise
-- Before proposing a new technology, make sure you really understand it. Play with it, build something with it, talk to experts,
-- Lead by Example
-- Choose Your Battles
-- Trying to do everything at the same time wasn’t just impractical but also impossible.
-- Iterate, Inspect, and Adapt
-- iteration boundary trick: “Let’s try this approach for one iteration and then we revisit.”
-- Proposing gradual changes reduces the amount of resistance and minimizes the risk—changes
-- Fear and Incompetence
-- How Do I Convince My Manager?
-- easier to ask for forgiveness than to get permission.
-- The more technical details you expose, the more managers feel they should micromanage you.
-- How Do I Convince My Team to Do TDD?
-- “Let’s just try it anyway, just for fun.”
-- Share with her that great feeling of seeing the red bar turning into green.
-- Show how awesome it is to be able to refactor the code without the fear
-- Take the opportunity to Ping-Pong
-- Make sure you have fun together.
-- Facing the Skeptics
-- The Ivory-Tower Architect
-- will probably be the most difficult skeptic to deal with.
-- Responsibility versus Accountability
-- si va bien es gracias al arquitecto. si va ml es culpa de los desarrolladores
-- Ivory-Tower Architects become responsible for the solution while the developers are the ones who are accountable for it.
-- Real software professionals understand that responsibility should always come with accountability.
-- The Wronged
-- They are not against you; they are against the company.
-- There is not much we can do about it besides trying to make them excited again.
-- Should We Really Care about All That?
-- ete capitulo estria bien repasarlo cada ve que tenmos que incluir un cambio técnico 
-- Being good at what we do, being able to communicate clearly, and, most important, being able to establish trust are essential skills for any developer willing to drive changes.
+## 14. Liderando/dirigiendo cambios técnicos
 
-## 15. Pragmatic Craftsmanship
+Muchos programadores sufren de lo que Kent Beck llama *seguridad adolescente*. Piensan que tienen la fórmula secreta para crear gran software y es lo único que merece la pena, no prestan atención a nada más.
+
+Hay muchos tipos de personas que son reacios a los cambios: desinformados, otros que carecen de confianza y dejan las decisiones a otros programadores, los que les encanta discutir, los que temen exponer sus propias debilidades, los que no tienen tiempo de hacer las cosas bien pero lo tienen para repetir las cosas mal una y otra vez, los que ponen excusas irracionales, los que pasan de todo (lo que lleva a implementar las ideas a medias), los que no le gusta la empresa y aprovechan cualquier oportunidad para criticarla, los ineptos, los arquitectos que no han tocado una línea de código desde hace mucho tiempo, los inseguros, que están preocupados de ser reemplazados o perder su estatus, los fanáticos (de una sola idea).
+
+Estáte preparado, incentiva la simplicidad, tu proposición debe ser simple y clara, habla el mismo lenguaje que las personas que necesitas cambiar, haz los deberes. Asegúrate que sabes de lo que estás hablando. Investiga, prueba y practica. Sé respetuoso. Aprende a escuchar.
+
+Genera confianza. La mejor manera de hacerlo es entregar consistentemente software de calidad. Solo esto no es suficiente. Debes exponerte, necesitas ser visible, necesitas demostrar cómo de pasionado eres. Y aún así, esto tampoco es suficiente. Los demás necesitan sentir que puedes liderarlos.
+
+Antes de proponer una nueva tecnología, asegúrate de que tú la entiendes bien. Juega con ella, construye algo con ella, habla con expertos.
+
+Elige tus batallas: tratar de hacer todo al mismo tiempo no solo no es práctico, si no que imposible.
+
+Itera, Inspecciona y Adapta.
+
+Proponer cambios graduales (por ejemplo, por una iteración nada más), reduce la fricción y minimiza los riesgos.
+
+Convenciendo al manager: cuantos más detalles técnicos compartas con ellos, más sentirán ellos la necesidad de microgestioarte.
+
+¿Cómo convenzo a mi equipo de hacer XXX (por ejemplo, TDD)? Intenta hacer que lo prueben solo por diversión. Comparte con ellos las cosas buenas (pasar de rojo a verde, refactorizar sin miedo, que detecte tus fallos antes que tú mismo,...), pero sobretodo, asegúrate de que lo pasáis bien todos juntos.
+
+Los arquitectos (de la torre de marfil) son los responsables de la solución, mientras que los programadores tienen la responsabilidad (accountability) sobre ella, lo que quiere decir que si sale bien, los elogios se los llevará el arquitecto, y si sale mal, le echarán la culpa a los desarrolladores.
+
+Ser buenos en lo que hacemos, ser capaces de comunicarlo claramente, y lo más importante, ser capaces de generar confianza, son habilidades esenciales para cualquier desarrollador que esté dispuesto a liderar cambios.
+
+## 15. Artesanía pragmática
 
 - Quality Is Always Expected
 - No manager or client expects bad-quality software. Regardless of what they say, they will always expect high quality.
