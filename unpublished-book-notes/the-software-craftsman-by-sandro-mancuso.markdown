@@ -16,6 +16,7 @@
 - Es muy fácil decir que un software está muy mal escrito. Es más fácil quejarse, o incluso reírse del autor. Pero la pregunta es: eres lo suficientemente bueno como para hacerlo mejor?
 - Un código limpio y mantenible permite a los programadores ir rápido y reducir las probabilidades de introducir bugs.
 - ¿Qué motiva al trabajor del conocimiento? Autonomía, maestría y propósito.
+- En lugar de decr a los demás qué hacer, los software craftsmen se sientan y trabajan con otros desarrolladores, compartiendo su conocimiento, experiencia y pasión. Los software craftsman están deseando compartir las cosas que hacen para mejorar ellos mismos.
 
 ## Notas tomadas del libro
 
@@ -196,18 +197,13 @@ Los buenos programadores no contratan a malos programadores, en todo caso, contr
 - en lugar de ellos pregunta por los valorws q estas buscando
 - Don’t Conduct Phone Interviews
 
-## 12. The Cost of Low Morale
+## 12. El coste de la baja moral
 
-- The Agile Hangover: Low Morale
-- few years after their Agile adoption, many of these companies realized that their software delivery capability was still very poor.
-- The sad reality is, for certain companies, the outcome of their Agile adoption was developers mechanically following a new process, but still developing software exactly how they were before.
-- The Cost of Employing 9-to-5 Developers
-- Constrained by Lack of Motivation
-- Injecting Passion
-- Instead of just telling others what to do, software craftsmen can sit down and pair with other developers, sharing their knowledge, experience, and passion.
-- Software craftsmen are always talking about software and are willing to share the things they are doing to better themselves.
-- The best person to motivate a developer is another developer. A good developer. A software craftsman.
-- If you want to bring passion and motivation to a development team, make sure you bring in a few craftsmen to join them.
+La resaca de Agile: muchas compañías, años después de adoptar Agile, se dan cuenta de que su capacidad de entregar software sigue siendo muy pobre. La triste realidad es (para ciertas empresas) que el resultado de su adopción Agile es tener a programadores siguiendo mecánicamente un proceso, pero siguen desarrollando software exactamente de la misma ofrma que lo estaban haciendo antes.
+
+En lugar de decr a los demás qué hacer, los artesanos del software se sientan y trabajan con otros desarrolladores, compartiendo su conocimiento, experiencia y pasión. Los software craftsman están siempre hablando sobre software y están deseando compartir las cosas que hacen para mejorar ellos mismos. La mejor persona par amotivar a un programador, es otro programador. Un buenn programador, un software craftsman.
+
+Y quieres llevar pasión y motivación a un equipo de desarrollo, lo mejor es que contrates a unos cuantos craftsmen para unirse a tu equipo.
 
 ## 13. Culture of Learning
 
