@@ -18,6 +18,7 @@
 - ¿Qué motiva al trabajor del conocimiento? Autonomía, maestría y propósito.
 - En lugar de decr a los demás qué hacer, los software craftsmen se sientan y trabajan con otros desarrolladores, compartiendo su conocimiento, experiencia y pasión. Los software craftsman están deseando compartir las cosas que hacen para mejorar ellos mismos.
 - Ser buenos en lo que hacemos, ser capaces de comunicarlo claramente, y lo más importante, ser capaces de generar confianza, son habilidades esenciales para cualquier desarrollador que esté dispuesto a liderar cambios.
+- Lo que distingue a grandes programadores de los mediocres es cómo hacen que el software funcione, no si el software funciona o no, si no el cómo.
 
 ## Notas tomadas del libro
 
@@ -254,28 +255,21 @@ Ser buenos en lo que hacemos, ser capaces de comunicarlo claramente, y lo más i
 
 ## 15. Artesanía pragmática
 
-- Quality Is Always Expected
-- No manager or client expects bad-quality software. Regardless of what they say, they will always expect high quality.
-- ni siquiera tu. cuando compras alo. si dees eleir entr barto o d calida . elige arato. ero esperas cierta clidad
-- Busting the “Expensive and Time-Consuming Quality” Myth
-- Because every feature is test-driven,
-- there is no time wasted manually testing the application and fixing existing bugs. Applications developed without tests demand longer cycles of manual testing
-- The bigger the application is, the faster software craftsmen will be, when compared to developers who don’t use XP.
-- Do We Need to Test-Drive Everything?
-- Refactoring
-- there is no point in opening a piece of code that you don’t need to change and spending days refactoring
-- de ahi.  refactorizar too... hay un cacho
-- we should always leave at least the area of code we changed cleaner than we found it.
-- The “One Way” of Developing Software
-- Good practices and processes are good until we find better ones to replace them.
-- TDD and all the XP practices
-- are the practices we use and advocate but that doesn’t mean we should stop looking for ways to improve.
-- Helping the Business
-- We should be able to change the code almost as fast as they change their minds, giving the business an opportunity to visualize their ideas
-- A Simple and Quick Solution
-- Changing the code every time they changed their mind was easy as the code was simple, well crafted, and fully tested.
-- Software Projects Are Not about Us
-- We need to think about who is going to maintain the software when we leave.
+La calidad siempre es algo que los clientes o managers van a esperar de nosotros. Da igual lo que digan, ellos siempre esperarán un trabajo de gran calidad. Incluso nosotros mismos, al comprar algo, si podemos elegir entre barato o de calidad, elegimos barato, pero siempre esperamos algo de calidad.
+
+¿La calidad es cara y necesita mucho tiempo? Por ejemplo, si todas las funcionalidades son implementadas siguiendo TDD, como hay tests automáticos para todas ellas, no perderemos tiempo en tests manuales, y reduciremos el tiempo de arreglo de bugs. Las aplicaciones desarrolladas sin tests automáticos necesitan ciclos muy largos de tests manuales. Cuanto mayor es la aplicación, más rápidos desarrollan los software craftsmen, comparados con aquellos que no siguen las prácticas de XP.
+
+Deberíamos dejar siempre el código que hemos modificado mejor que como nos lo encontramos. Pero de ahí, a refactorizar todo porque sí, va un abismo. No tiene sentido abrir un fichero de código fuente que no necesitas cambiar y pasar dias y dias refactorizándolo.
+
+Las buenas prácticas y procesos son buenos hasta que encontramos mejores prácticas o procesos para reemplazarlos. TDD y todas las demás prácticas XP son las que ahora usan los software crafstmen, pero eso no significa que haya que parar de buscar formas de mejorar.
+
+Deberíamos de ser capaces de cambiar el código casi tan rápido como *negocio* cambia de idea, dándoles una oportunidad de visualizar sus ideas. Cambiar el código cada vez que negocio tiene una nueva idea era fácil cuando el código era sencillo, bien codificado y completamente testeado.
+
+Los proyectos de software no tratan de nosotros, debemos pensar en quienes van a mantener el software que nosotros vamos a dejar.
+
+Lo que distingue a grandes programadores de los mediocres es cómo hacen que el software funcione, no si el software funciona o no, si no el cómo.
+
+
 - Great Versus Mediocre
 - What distinguishes great and mediocre developers is how they make things work.
 - Four Rules of Simple Design
