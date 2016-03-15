@@ -19,6 +19,9 @@
 - En lugar de decr a los demás qué hacer, los software craftsmen se sientan y trabajan con otros desarrolladores, compartiendo su conocimiento, experiencia y pasión. Los software craftsman están deseando compartir las cosas que hacen para mejorar ellos mismos.
 - Ser buenos en lo que hacemos, ser capaces de comunicarlo claramente, y lo más importante, ser capaces de generar confianza, son habilidades esenciales para cualquier desarrollador que esté dispuesto a liderar cambios.
 - Lo que distingue a grandes programadores de los mediocres es cómo hacen que el software funcione, no si el software funciona o no, si no el cómo.
+- Sobre craftsmanship y pragmatismo: TDD no hace que los programadores vayan más lentos. Escribir el código no es el cuello de botella. Lo que sí que lo es es aprender y dominar una nueva habilidad, práctica o tecnología.
+- No tengas miedo de ser viejo y seguir programando. No tengas miedo de hacer lo que te gusta.
+- Para muchos programadores, buscar un trabajo es solo una forma de vender sus habilidades al mejor postor. Para profesionales que están interesados en una carrera larga y próspera, un trabajo es algo más que eso. Es una inversión constante en sus carreras. Aparte de las cosas por las que se nos paga, deberíamos invertir toda nuestra dedicación, pasión, compromiso y conocimiento que adquirimos fuera del trabajo en hacer nuestro actual entorno de trabajo un lugar mejor.
 
 ## Notas tomadas del libro
 
@@ -269,75 +272,39 @@ Los proyectos de software no tratan de nosotros, debemos pensar en quienes van a
 
 Lo que distingue a grandes programadores de los mediocres es cómo hacen que el software funcione, no si el software funciona o no, si no el cómo.
 
+Echa un vistazo a todo el código legacy que tenemos hoy en día. Es mucho más fácil identificar los patrones de diseño usado por los programadores que las funcionalidades de negocio que intentan satisfacer. El autor se queja un poco de soluciones sobredimensionadas o sobrediseñadas.
 
-- Great Versus Mediocre
-- What distinguishes great and mediocre developers is how they make things work.
-- Four Rules of Simple Design
-- Design Patterns
-- se queja de soluciones sobredimnsionadas. creo que va hacia domain driven design en lugar de patrones de diseño
-- Look at all the legacy code we see out there today. It is far easier to identify the design patterns used by the developers than the actual business features they were trying to satisfy.
-- Refactoring to Patterns
-- There will be a few parts of the code where the effort of introducing abstractions earlier will pay off,
-- The pragmatic approach would be to only introduce abstractions when they are really needed.
-- Craftsmanship and Pragmatism
-- TDD doesn’t slow developers down. Typing is not a bottleneck. Learning and mastering a new skill, practice, or technology is.
+Habrá ciertas partes del código donde el esfuerzo de introducir abstracciones prematuramente merezca la pena, pero el enfoque pragmático, el enfoque que deberíamos perseguir, es el de introducir abstracciones solamente cuando las necesitemos.
 
-## 16. A Career As a Software Craftsman
+Sobre craftsmanship y pragmatismo: TDD no hace que los programadores vayan más lentos. Escribir el código no es el cuello de botella. Lo que sí que lo es es aprender y dominar una nueva habilidad, práctica o tecnología.
 
-- Being a Craftsman
-- Passion. That summarizes it all.
-- Software craftsmen are humble, always ready to learn from more-experienced developers, and eager to help the less experienced.
-- Being a craftsman means to be curious and experiment with new things.
-- It means to be pragmatic,
-- Honesty and Courage
-- Honesty and courage are essential qualities of a software craftsman.
-- saying “no”
-- clients that what they are asking for is unrealistic
-- not going to commit to, or be responsible for, something that we don’t feel is right.
-- simply saying “no” is also not a craftsman’s attitude. A “no” should always be followed by a “but.”
-- Career Progression
-- Different Ladders
-- “I’m 35,” I said loudly, “and I’m very proud to be a failure.”
-- no tengas mieo de ser viejo y seguir programndo. no tengas miedo de hacer lo qu t gusa
-- Different Ladders
-- Developers who, for one reason or another, decide to take roles as managers or architects are not climbing up the software development ladder; they are switching ladders.
-- Roads and Milestones
-- inrentar resumitlo en una frade
-- For many developers, looking for a new job means, “I will offer my current knowledge and time in exchange for the highest salary I can get.” That’s very shortsighted. For professionals who are interested in long and successful careers, a job is far more than that. It’s a constant investment in their careers. Besides the things we are paid for, we should also invest all our dedication, passion, commitment, and knowledge we acquire outside working hours to make our workplace a better place—a
-- always tried to offer more, to do more, and to make sure everyone around me would become better.
-- Throughout my career, I chose each one of my jobs very carefully.
-- I never sent a whole bunch of CVs to many different companies with the expectation that at least one of them would make me an offer. I was focused.
-- Building Our Careers, One Job at a Time
-- Each job is a milestone, a step in a ladder.
-- My advice is to stay in a job for as long as it remains aligned with our individual career aspirations.
-- What if We Don’t Know Where We Want to Go?
-- There is just one thing you can do when you are in this situation: open yourself up and meet people.
-- community events.
-- contributing to open source
-- mailing lists.
-- You will see that there is a whole world out there, full of amazing people, and with opportunities you never considered before.
-- Job Diversity
-- lo contrario a la especialuzacion
-- Moving from project to project, experiencing different environments, companies, industries, technologies, and approaches to software, is what I would consider to be the craftsman’s journey.
-- The Mission
-- not just about clients—that’s just one part of it. The real mission of a software craftsman is to make a contribution to raise the bar of the software industry, with professionalism, passion, and care.
+## 16. Tu carrera profesional como un software craftman
 
-## A. Craftsmanship Myths and Further Explanations
+**Pasíon**, eso lo resume todo (me gusta la visión que Avdi tiene sobre la pasión [Developer On Fire podcast #108](http://developeronfire.com/episode-108-avdi-grimm-your-passion-is-yours-and-yours-alone)).
 
-- Software Craftsman versus Software Developers
-- Every craftsman is a developer but not every developer is a craftsman. Contrary to what many people think, this has nothing to do with seniority or skills. The difference is more about the attitude each developer has towards his or her profession.
-- Elitism
-- Apprentice, Journeyman, and Master
-- The relationship between “mentors” and “apprentices” is used far more often, and represent far better what we believe.
-- Master Craftsman
-- Narrow Focus
-- Craftsmanship versus XP
-- Craftsmanship is an ideology. XP is a methodology.
-- peo comonha dicjo ntes. un craftman pone todo en duda y si encuentra un practica mejor. abandon la actual y aprende la nyeva
-- professional attitude is totally related to the practices we use, and currently, the majority of these practices are XP practices.
-- Attachment to Practices
-- Software craftsmen are not attached to practices. They are attached to the value that those practices give them.
-- whenever we find practices that could give us more value than the XP practices, we are more than happy to adopt them.
-- Agile Coaches and Managers
-- Software Apprenticeships
-- The Problem with Metaphors
+Los software craftsmen son humildes, siempre preparados para aprender de programadores más experimentados, y ansiosos de ayudar a los menos experimentados que ellos. Ser un craftsman significa ser curioso y experimentar con nuevas cosas. Son pragmáticos. Honestidad y coraje son qualidades esenciales de ellos. Los software craftsmen dicen *no* a peticiones de clientes que son imposibles de cumplir, no se comprometen ni se hacen responsables de acciones que no creen que sean las correctas. Pero simplemente decir *no*, no es profesional, todo *no* debería ir seguido de un *pero*.
+
+No tengas miedo de ser viejo y seguir programando. No tengas miedo de hacer lo que te gusta. Para aquellos que piensan que programar más allá de los 30 es ser un fracasado, Sandro les dice: *Tengo 35 años y estoy orgulloso de ser un fracasado*.
+
+Aquellos programadores que deciden adoptar roles de managers o arquitectos no están escalando la escalera (*climbing the ladder*), están cambiando de escalera.
+
+Para muchos programadores, buscar un trabajo es solo una forma de vender sus habilidades al mejor postor. Para profesionales que están interesados en una carrera larga y próspera, un trabajo es algo más que eso. Es una inversión constante en sus carreras. Aparte de las cosas por las que se nos paga, deberíamos invertir toda nuestra dedicación, pasión, compromiso y conocimiento que adquirimos fuera del trabajo en hacer nuestro actual entorno de trabajo un lugar mejor.
+
+A lo largo de mi carrera (dice el autor), he escogido cada uno de los trabajos muy cuidadosamente. Nunca he enviado mi CV a un motón de empresas con la esperanza de que al menos una de ellas me hiciera una oferta. Siempre he sabido a quién dirigirme.
+
+Debemos construir nuestras carreras profesionales, un trabajo cada vez. Cada trabajo es un hito, un peldaño en una escalera. Mi consejo es permanecer en un trabajo mientras éste permanezca alineado con nuestras aspiraciones profesionales individuales.
+
+¿Qué pasa si no sabes dónde ir? Lo mejor que puedes hacer en estos casos es abrirte al mundo y conocer gente: comunidades, contribuir al open source, listas de correo. Te darás cuenta de que hay todo un mundo ahí fuera, lleno de gente maravillosa, y con oportunidades que nunca antes habías considerado.
+
+Diversidad, Sandro recomienda lo contrario a la especialización. Recomienda moverse de un proyecto a otro, experimentando distintos entornos de trabajo, empresas, industrias, tecnologías y formas de hacer software. Es es lo que se consideraría el largo viaje del craftsman.
+
+La misión real de un software craftsman es contribuir a subir el nivel de la industria del software, con **profesionalismo**, **pasión** y **cariño**.
+
+## A. Mitos sobre el Craftsmanship y otras explicaciones
+
+Software Craftsman contra Programadores Software: todo craftsman es un programador, pero no al contrario. Al contrario de lo que la gente piensa, no tiene nada que ver con la experiencia o las habilidades. La diferencia está mas en la actitud que tiene cada programador hacia su profesión.
+
+Apprentice, Journeyman, and Master: la relación entre *mentores* y *aprendices* se usa más y representa mucho mejor en lo que creemos.
+
+Craftsmanship es una ideología, XP es una metodología. La actitud profesional está totalmente relacionada con las prácticas que usamos, y actualmente, la mayoría de estas prácticas son prácticas XP. Pero como ha dicho antes, un craftsman pone todo en duda y si encuentra una práctica mejor, abandona la actual y aprende la nueva. Los craftsmen no está atados a las prácticas, están atados al valor que dichas prácticas les proporcionan.
+
