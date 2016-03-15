@@ -3,6 +3,8 @@
 
 [![The software creaftsman](http://www.informit.com/ShowCover.aspx?isbn=0134052501)](http://www.amazon.es/Software-Craftsman-Professionalism-Pragmatism-Robert/dp/0134052501/)
 
+[English version](the-software-craftsman-by-sandro-mancuso.en.markdown)
+
 ## Notas escogidas para el blog
 
 - Sin excelencia técnica, cualquier proyecto software será una experiencia dolorosa, frustrantte y cara.

@@ -3,6 +3,8 @@
 
 [![The software creaftsman](http://www.informit.com/ShowCover.aspx?isbn=0134052501)](http://www.amazon.es/Software-Craftsman-Professionalism-Pragmatism-Robert/dp/0134052501/)
 
+[Spanish version](the-software-craftsman-by-sandro-mancuso.markdown)
+
 - Namur’s words, “How it is done is as important as getting it done”
 
 ## 1. Software Development in the Twenty-First Century
