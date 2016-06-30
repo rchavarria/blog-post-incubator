@@ -80,6 +80,7 @@ c. Observer applied to Angular
 74. Ley de Demeter, más que nada para aprenderla yo. Me ha picado la curiosidad leyendo [How a smell in tests point to a risk in the design](http://blog.thecodewhisperer.com/permalink/how-a-smell-in-the-tests-points-to-a-risk-in-the-design/) de J.B.Rainsberger
 75. Métrica ABC, de tamaño de software. Inspirado por este post de Carles Climent [The ABC metric Vs Martin Fowler](http://www.carlescliment.com/blog/the-abc-metric-vs-martin-fowler)
 76. La calidad del software como algo contínuo, inspirado por el tweet [Code quality isn't something you fix once and it stays good forever. It's something you learn to do and continue doing](https://twitter.com/mkanat/status/646171765467578368?s=09), de Max Kanat-Alexander
+77. ¿Qué debería hacer cuando veo los tests están fallando? los ignoro, doy en coñazo con ellos,... Estaría super bien encontrar una metáfora que incluyera las dos opciones, o una metáfora para cada una.
 
 # Post already posted
 
