@@ -1,32 +1,60 @@
-# How not to be wrong: the Power of mathematical thinking, by Jordan Ellenber
+# How not to be wrong, the power of mathematical thinking
+## de Jordan Ellenberg
 
-[![How not to be wrong](lint to image)](link to the book)
+[![How not to be wrong](img/how-not-to-be-wrong.jpg)](https://www.amazon.es/How-Not-Wrong-Jordan-Ellenberg/dp/0143127535)
 
-No he podido con el libro. No es que no fuera interesante, pero no he podido con él. Quizás ha sido el inglés. No sé, pero las historias se me hacían muy pesadas.
+### Por qué lo he leído
 
-- todos hemis preguntado al profe. y edto psra q me sirve?
-- “When am I going to use this?”
-- WHEN AM I GOING TO USE THIS?
-- “Mathematics is not just a sequence of computations to be carried out by rote until your patience or stamina runs out—although
-- Those integrals are to mathematics as weight training and calisthenics are to soccer.
-- Do professional players ever use those drills?
-- But you do see players using the strength, speed, insight, and flexibility they built up by doing those drills,
-- ABRAHAM WALD AND THE MISSING BULLET HOLES
-- The armor, said Wald, doesn’t go where the bullet holes are. It goes where the bullet holes aren’t: on the engines.
-- The reason planes were coming back with fewer hits to the engine is that planes that got hit in the engine weren’t coming back.
-- A mathematician is always asking, “What assumptions are you making? And are they justified?”
-- To a mathematician, the structure underlying the bullet hole problem is a phenomenon called survivorship bias.
-- funds in this class grew an average of 178.4% between 1995 and 2004: a healthy 10.8% per year.
-- But something’s missing: the funds that aren’t there.
-- if you included the performance of the dead funds together with the surviving ones, the rate of return dropped down to 134.5%, a much more ordinary 8.9% per year.
-- MATHEMATICS IS THE EXTENSION OF COMMON SENSE BY OTHER MEANS
-- ONE LESS LIKE SWEDEN
-- TWO STRAIGHT LOCALLY, CURVED GLOBALLY
-- 
-- acuerdate de como medir el area de un circulo mediante poligonos con cada vez mas lados rectos
-- The slogan to keep in mind: straight locally, curved globally.
-- 
-- EVANESCENT INCREMENTS AND UNNECESSARY PERPLEXITIES
+¿Quién lo ha recomendado? ¿Dónde lo he visto?
+
+Buzeando por [Microsiervos](http://www.microsiervos.com/archivo/libros/how-not-to-be-wrong.html), me encontré un artículo dedicado al libro. Microsiervos siempre es fuente de recursos interesantes. Así que decidí darle un vistazo.
+
+Bueno, al final no pude terminarlo, no me enganchó, no me interesó lo suficiente. El libro tiene muy buena pinta, pero cuenta demasiadas historias, y se me hacían difíciles de entender. Quizá mi inglés no es lo suficientemente bueno para poder comprenderlas, quizá me estoy volviendo perezoso con las matemáticas, no lo sé.
+
+### De qué trata el libro
+
+La verdad es que la temática del libro es muy interesante. El autor explica distintas situaciones de la vida real, y de cómo las matemáticas aplican a esas situaciones. De cómo podemos entender mejor esas situaciones aplicando las matemáticas. Y de cómo la gente usa las matemáticas para enmascarar ciertos aspectos a la gente que no conoce esas matemáticas.
+
+### Conclusiones y valoración
+
+La temática del libro me fascina, pero no sé por qué, no caló en mi. Quizá el idioma, lo intenté leer en inglés y fue demasiado para mi. Quizá debería buscarlo y leerlo en español.
+
+El libro está lleno de historias, y precisamente por ello debería ser interesante. Pero resulta que son esas historias las que han podido conmigo.
+
+Recomendaría el libro a los amantes de las matemáticas que quieran entender mejor el mundo en el que vivimos. Pero ya aviso, si lo lees en inglés, prepárate.
+
+### Qué he aprendido
+
+### Frases que me gustaría recordar
+
+Hay unas cuantas historias interesantes:
+
+**¿Cuando voy a usar esto?**
+
+Todos hemos preguntado al profesor (o a nosotros mismos): Pero esto, ¿para qué me sirve?. ¿Para qué me sirve saber derivar? ¿Saber integrar? ¡Si nunca más en mi vida voy a hacer una integral!
+
+Las matemáticas no son solo unos ejercicios que debes hacer a ciegas para contentar a tu profesor. Esos ejercicios son como las repeticiones que hacen los atletas. Cuando los atletas compiten, ¿hacen esas repeticiones? No, pero usan la fuerza, destreza, velocidad que han conseguido haciendo esos ejercicios muy específicos, que servían para desarrollar un solo aspecto del deporte muy específico.
+
+**Los impactos de bala que faltan**
+
+Durante una guerra (no importa realmente qué guerra), en los hangares analizaban los impactos de bala de los aviones que volvían, para poder así reforzarlos y conseguir que más soldados volvieran sanos y salvos. Por más refuerzos que ponían, nada mejoraba. Hasta que Abraham Wald tuvo una idea. El refuerzo no se tenía que poner donde más agujeros había, si no donde menos. Suena estúpido, ¿verdad? Donde menos agujeros había era en los motores, porque los aviones que recibían muchos balazos en los motores no volvían, y los que recibían pocos eran los que volvían para ser analizados. ¿A que ahora suena lógico?
+
+Un matemático siempre se pregunta: ¿Qué suposiciones estoy tomando? ¿Están justificadas?
+
+El fenómeno de los impactos de bala se conoce en matemáticas como *sesgo de supervivencia*. Por ejemplo: inversiones. Si al cabo de un tiempo analizamos las inversiones exitosas de una firma, llegaremos a una conclusión equivocada, muy optimista de esas inversiones. Debemos tener en cuenta las inversiones que fallaron, para conocer la realidad de todas ellas.
+
+**Recto localmente, curvado globalmente**
+
+En esta historia cuenta como matemáticos antiguos calcularon el valor del número π, midiendo una circunferencia mediante polígonos con cada vez más lados rectos. Mirado muy de cerca (localmente), tenemos rectas. Mirado con perspectiva (globalmente), vemos el círculo, tenenmos curvas.
+
+### Recursos relacionados
+
+[titulo sobre el enlace a las notas]: foo-bar-foo-bar
+
+### Notas tomadas
+
+- Mathematics is the extension of common sense by other means
+
 - THREE EVERYONE IS OBESE
 - 
 - linear regression,

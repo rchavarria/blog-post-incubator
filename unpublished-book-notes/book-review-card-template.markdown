@@ -9,7 +9,7 @@
 
 <!-- more -->
 
-### ¿De qué va el libro?
+### De qué trata el libro
 
 Si le tuviera que contar a alguien de qué va el libro, ¿qué le diría?
 ¿Qué esperaba encontrar yo en él? ¿Ha sido lo que esperaba?
