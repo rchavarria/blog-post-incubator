@@ -31,13 +31,35 @@ Si tienes ganas de incarle el diente a un editor que sobrevive al paso del tiemp
 
 > Una buena forma de trabajar con macros sería: normalizar la posición del cursor, llegar hasta el objetivo con un movimiento repetible, hacer que la macro aborte cuando el movimiento falle y no encuentre el objetivo
 
+> La sintaxis para definir un rango en los Ex commands es muy flexible. Se pueden mezclar números de línea, marcas y patrones de búsqueda. Y se puede aplicar un offset a cada uno de ellos
+
 ### Qué he aprendido
 
 Hay toda una serie de nuevos comandos, combinaciones de ellos y herramientas que todavía no conocía o que he encontrado muy útiles:
 
 - `&`: repite los cambios hechos por el último comando de sustitución `:s/pattern/.../`
-- en modo comando, se pueden ejecutar comandos del modo normal, con el Ex Command `normal`. Por ejemplo, `:%normal A;` hace lo siguiente: `:` entramos en modo comando, `%` indica que afectará a todas las líneas del fichero, `normal` indica que introduciremos un comando del modo normal, `A;` es un comando del modo normal, y lo que hace es añadir al final de la línea el carácter `;`.
+- `~`: intercambia el carácter actual de mayúsculas a minúsculas y viceversa
+- `g~`, `gu`, `gU`: intercambia mayúsculas/minúsculas en la selección, pasa a minúsculas, pasa a mayúsculas, respectivamente.
+- `<C-h>`, `<C-w>`, `<C-u>`: en modo inserción o modo comando, borra hacia atrás un carácter, una palabra o la línea completa, respectivamente.
+- `<C-r>{register}`: en modo inserción, inserta el texto desde el registro `register`
+- `<C-r><C-p>{register}`: idem, pero más inteligentemente, ya que arregla cualquier error de indentación por descuido
+- `<C-v>{code}`: en modo inserción, inserta un carácter especial por su código `code`
+- `R`: nos lleva del modo normal al *modo de reemplazo*, donde cada carácter insertado reemplaza a un carácter existente
+- `v`, `V`, `<C-v>`: entra en los distintos modos visuales: de carácter, de línea o de bloque.
+- `o`: dentro del modo visual, la selección tiene dos extremos, con este comando intercambiamos entre ellos, de forma que podemos expandir la selección hacia adelante o hacia atrás
+- `.`, `%`: en el modo comando tienen significado especial cuando se especifica un rango. Significan la línea actual y todas las líneas, respectivamente.
+- `:t`: comando para duplicar líneas. `:3t 5` copia la línea 3 y la pega en la 5. `:.+2t .` copia dos líneas más abajo y la pega en la línea actual
+- `:m`: comando para mover líneas
 - `@:`: repite el último Ex Command, lo cual es muy útil cuando estamos haciendo cambios en múltiples ficheros, o vamos recorriendo la lista de búferes
+- en modo comando, se pueden ejecutar comandos del modo normal, con el Ex Command `normal`. Por ejemplo, `:%normal A;` hace lo siguiente: `:` entramos en modo comando, `%` indica que afectará a todas las líneas del fichero, `normal` indica que introduciremos un comando del modo normal, `A;` es un comando del modo normal, y lo que hace es añadir al final de la línea el carácter `;`.
+- `<C-o>`: vuelve atrás en la lista de saltos (cambios de buffer, grandes saltos de líneas, búsquedas,...)
+- `<Tab>`, `<C-n>`, `<Left>` y `<S-Tab>`, `<C-p>`, `<Right>`: para movernos adelante y atrás durante el autocompletado
+- `<C-r><C-w>`: en modo comando, copia la palabra debajo del cursor y la pega en la línea de comandos
+- `<C-p>`, `<C-n>`: después de entrar en el modo comando con `:` o `/`, podemos pulsarlos para ir hacia adelante o atrás en el historial de comandos o búsquedas
+- `q/`: abre la ventana *línea de comandos* con el historial de búsquedas
+- `q:`: abre la ventana *línea de comandos* con el historial de comandos
+- `<C-f>`: en modo comando, cambia a la ventana de línea de comandos
+
 
 ### Recursos relacionados
 
@@ -45,16 +67,15 @@ Hay toda una serie de nuevos comandos, combinaciones de ellos y herramientas que
 
 ### Notas tomadas
 
-echar un vistaao. quiza es u a buena orm de empezar. aunque tu y has empezao
-vimtutor
+Echar un vistazo a `vimtutor`, dentro de Vim. Quizá es una buena forma de empezar, aunque uno ya haya dado algunos pasos con Vim.
 
 ## Chapter 1 the vim way
 
-vim is optimized for repetition.
+Vim is optimized for repetition.
 
 ### tip 1    meet the dot command
 
-the dot command lets us repeat the last change.
+the dot command lets us repeat the last change
 
 ### tip 2    don’t repeat yourself
 
@@ -173,7 +194,6 @@ If we want to operate on entire lines, we can use line-wise Visual mode instead.
 block-wise Visual mode allows us to work with columnar regions of the document.
   v    Enable character-wise Visual mode        V    Enable line-wise Visual mode        <C-v>    Enable block-wise Visual mode        gv    Reselect the last visual selection  
 The range of a Visual mode selection is marked by two ends: one end is fixed and the other moves freely with our cursor. We can use the o key to toggle the free end.
-22    Repeat Line-Wise Visual Commands
 
 ### Tip 23    Prefer Operators to Visual Commands Where Possible
 
