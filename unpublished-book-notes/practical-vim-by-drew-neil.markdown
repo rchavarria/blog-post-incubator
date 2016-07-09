@@ -19,6 +19,8 @@ El libro es una maravilla. Está lleno de trucos. Muchos de ellos los conocía, 
 
 Si tienes ganas de incarle el diente a un editor que sobrevive al paso del tiempo, échale un vistazo al libro.
 
+Debería echar un vistazo al proyecto de Mozilla [Doctor JS], que contiene la herramienta `jsctags`, para generar ficheros ctags de proyectos JavaScript.
+
 ### Frases que me gustaría recordar
 
 > La fórmula del punto: una pulsación de tecla para mover, una pulsación de tecla para ejecutar la edición
@@ -33,11 +35,14 @@ Si tienes ganas de incarle el diente a un editor que sobrevive al paso del tiemp
 
 > La sintaxis para definir un rango en los Ex commands es muy flexible. Se pueden mezclar números de línea, marcas y patrones de búsqueda. Y se puede aplicar un offset a cada uno de ellos
 
+> Intenta crear el hábito de crear una marca global (`m{capital letter}`) antes de usar cualquier comando que interacciones con la lista de arreglos rápidos, lista de buffers o lista de argumentos
+
+> Para editar una macro grabada en el registro `q`, simplemente podemos pegar el contenido de dicho registro con `"qy`, editar la línea y modificar el registro `q` con `"qy$`
+
 ### Qué he aprendido
 
 Hay toda una serie de nuevos comandos, combinaciones de ellos y herramientas que todavía no conocía o que he encontrado muy útiles:
 
-- `&`: repite los cambios hechos por el último comando de sustitución `:s/pattern/.../`
 - `~`: intercambia el carácter actual de mayúsculas a minúsculas y viceversa
 - `g~`, `gu`, `gU`: intercambia mayúsculas/minúsculas en la selección, pasa a minúsculas, pasa a mayúsculas, respectivamente.
 - `<C-h>`, `<C-w>`, `<C-u>`: en modo inserción o modo comando, borra hacia atrás un carácter, una palabra o la línea completa, respectivamente.
@@ -59,7 +64,33 @@ Hay toda una serie de nuevos comandos, combinaciones de ellos y herramientas que
 - `q/`: abre la ventana *línea de comandos* con el historial de búsquedas
 - `q:`: abre la ventana *línea de comandos* con el historial de comandos
 - `<C-f>`: en modo comando, cambia a la ventana de línea de comandos
-
+- `:read !{shell command}`: pone el resultado del comando shell en el buffer actual
+- `:write !{shell command}`: usa el contenido del buffer actual como entrada para el comando shell
+- `:bnext`, `:bprevious`, `:bfirst`, `:blast`: para moverse por los buffers
+- `:edit {path to a dir}`: abre el contenido del directorio en un buffer, de forma que podemos navegar el sistema de ficheros sin necesidad de ningún plugin. `.` significa el actual directorio de trabajo. `:explore` o `:E` hace lo mismo. `:Sexplore` divide los buffers horizontalmente, `:Vexplore` divide los buffers verticalmente
+- igual que existen `w`, `b`, `e` y `ge` (mueve al final de la palabra anterior), existen `W`, `B`, `E` y `gE` para hacerlo con PALABRAS, no con palabras
+- `is`, `as`, `ip`, `ap`: son movimientos (que se pueden usar con los comandos `d`, `c`, `y`,...) que engloban la actual frase (sentencia) o párrafo
+- `<C-o>`, `<C-i>`: para movernos adelante y atrás en los saltos que vamos dando
+- `:changes`: muestra el historial de cambios
+- `g;`, `g,`: para movernos adelante y atrás por el historial de cambios
+- `gi`: vuelve al último punto donde abandonamos el modo de inserción, entrando en dicho modo
+- `"_d{motion}`: borra lo indicado pero no copia el contenido en ningún sitio (bueno, sí, en el registro `_`, pero éste no guarda el contenido). Si no se indica nada, los comandos `x`, `s`, `d` y `c` modifican el registro sin nombre, con lo que pueden eliminar el contenido que hayamos copiado con `y`.
+- el registro de copiado es el `0`, y éste no es modificado nunca por los comandos `x`, `s`, `d` y `c`.
+- si al copiar o borrar nombramos un registro con mayúsculas, el contenido se añadirá a lo que contenga el registro
+- `\v`: activa la magia en los patrones de búsqueda. Hace que todos los carácteres excepto los alfanuméricos y `_` tengan un significado especial
+- `:%s///gn`: cuenta las ocurrencias del patrón actual de búsqueda
+- flags del comando de sustitución: `g` reemplaza todas las ocurrencias en una línea, no solo la primera; `c` pide confirmación, `n` cuenta las ocurrencias, `&` reusa los últimos flags 
+- `:%s//\=@0/g`: sustituye todas las ocurrencias (flag `g`) de todas las filas (rango `%`) del último patrón buscado (`//`) con el contenido del registro `0` (`\=` evalúa una expresión, `@0` accede al registro `0`)
+- `&`: repite los cambios hechos por el último comando de sustitución `:s/pattern/.../`
+- `g&`: repite el último comando de sustitución en todo el fichero
+- `:vimgrep {pattern} {file pattern}`: busca el patrón en la lista de ficheros y rellena la lista *quickfix*. Luego podemos pasar el resultado a la lista de argumentos con el plugin *qargs*
+- `:global/{pattern}/{command}` o `:g`: permite ejecutar un comando en cada línea que cumpla con el patrón
+- `<C-]>`: mover hasta la definición de la palabra clave (tag) donde se encuentra el cursor
+- `<C-t>`: vuelve atrás en la última tag visitada
+- `:copen`, `:cclose`: abre/cierra la ventana de lista *quickfix*
+- `:cnext`, `:cprevious`, `:cfirst`, `:clast`: para moverse por los marcadores de la lista quickfix
+- `:colder`, `:cnewer`: para pasar de listas quickfix más nuevas a las más viejas y viceversa
+- 
 
 ### Recursos relacionados
 
@@ -426,10 +457,8 @@ Vim’s Automatic Marks   Keystrokes     Buffer Contents        “ 
 
 por ejemplo para cambiar parentesis a corchetes
 The trick here is to use the % command before making any changes. When we use the % command, Vim automatically sets a mark for the location from which we jumped. We can snap back to it by pressing ✎✎.
-When this plugin is enabled, the % command can jump between matching pairs of keywords. For example, in an HTML file, the % command would jump between opening and closing tags. In a Ruby file, it would jump between class/end, def/end, and if/end pairs.
 Vim ships with a plugin called matchit, which enhances the functionality of the % command.
-When this plugin is enabled, the % command can jump between matching pairs of keywords.
-In a Ruby file, it would jump between class/end, def/end, and if/end pairs.
+When this plugin is enabled, the % command can jump between matching pairs of keywords. For example, in an HTML file, the % command would jump between opening and closing tags. In a Ruby file, it would jump between class/end, def/end, and if/end pairs.
 
 ## Chapter 9 Navigate Between Files with Jumps
 
@@ -561,11 +590,11 @@ When enabled, ‘smartcase’ has the effect of canceling out the ‘ignorecase�
 
 ### Tip 73    Use the \v Pattern Switch for Regex Searches
 
-the \v pattern switch. This enables very magic search, where all characters assume a special meaning, with the exception of “_”, uppercase and lowercase letters, and the digits 0 through 9 (see
+the \v pattern switch. This enables very magic search, where all characters assume a special meaning, with the exception of `_`, uppercase and lowercase letters, and the digits 0 through 9 (see
 
 ### Tip 74    Use the \V Literal Switch for Verbatim Searches
 
-Using the verynomagic literal switch, we can cancel out most of the special meanings attached to characters such as ., *, and ?.
+Using the verynomagic literal switch, we can cancel out most of the special meanings attached to characters such as `.`, `*`, and `?`.
 
 ### Tip 75    Use Parentheses to Capture Submatches
 
@@ -579,7 +608,7 @@ the \_s item matches whitespace or a line break
 
 no seleccionaria palabras como their. these. tthey ...
 In very magic searches, these are represented by the < and > symbols. So if we amended our search to /\v<the> <CR>,
-\w matches word characters, including letters, numbers, and the “_” symbol, while \W matches everything except for word characters.
+\w matches word characters, including letters, numbers, and the `_` symbol, while \W matches everything except for word characters.
 
 ### Tip 77    Stake the Boundaries of a Match
 
@@ -668,11 +697,11 @@ These mappings fix the & command in Normal mode and create a Visual mode equival
 
 ### Tip 96    Find and Replace Across Multiple Files
 
-Running :args **/*.txt loads all files from the current project into the argument list. Then when we run :argdo %s//Practical/ge, Vim proceeds to execute the substitute command in every one of those files.
+Running `:args **/*.txt` loads all files from the current project into the argument list. Then when we run `:argdo %s//Practical/ge`, Vim proceeds to execute the substitute command in every one of those files.
 Build a List of Files Containing Our Target Pattern
 To perform a project-wide search, we’ll reach for the :vimgrep command
 :vimgrep .pattern. .files pattern.
-/<C-r>// **/*.txt​​
+`/<C-r>// **/*.txt`
 Each match returned by vimgrep is recorded in the quickfix list
 You can either add this code to your vimrc file or install it as a plugin.[26] Now we can run :Qargs, and it will populate the argument list with each of the files named in the quickfix list.
 [26] https://github.com/nelstrom/vim-qargs
