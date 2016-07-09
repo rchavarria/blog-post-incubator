@@ -90,11 +90,10 @@ Hay toda una serie de nuevos comandos, combinaciones de ellos y herramientas que
 - `:copen`, `:cclose`: abre/cierra la ventana de lista *quickfix*
 - `:cnext`, `:cprevious`, `:cfirst`, `:clast`: para moverse por los marcadores de la lista quickfix
 - `:colder`, `:cnewer`: para pasar de listas quickfix más nuevas a las más viejas y viceversa
-- 
 
 ### Recursos relacionados
 
-[titulo sobre el enlace a las notas]: foo-bar-foo-bar
+Debería echar un vistazo al proyecto de Mozilla [Doctor JS], que contiene la herramienta `jsctags`, para generar ficheros ctags de proyectos JavaScript.
 
 ### Notas tomadas
 
@@ -102,31 +101,25 @@ Echar un vistazo a `vimtutor`, dentro de Vim. Quizá es una buena forma de empez
 
 ## Chapter 1 the vim way
 
-Vim is optimized for repetition.
+Vim is optimized for repetition
 
 ### tip 1    meet the dot command
 
-the dot command lets us repeat the last change
+The dot command lets us repeat the last change
 
 ### tip 2    don’t repeat yourself
 
-vim provides a dedicated command that combines two steps into one.
-y asi con otros ejemplos
-two for the price of one we could say that the a command compounds two actions ($a) into a single keystroke.
+Vim provides dedicated commands that combines two steps into one. `A` command compounds two actions `$a` into a single keystroke
 
 ## tip 3    take one step back, then three forward
 
-the s command compounds two steps into one: it deletes the character under the cursor and then enters insert mode. having deleted the + sign, we then type ␣+␣ and leave insert mode.
-one step back and then three steps forward.
-instead of fighting vim’s modal input model, we’re working with it,
+The `s` command compounds two steps into one: it deletes the character under the cursor and then enters insert mode
 
 ### tip 4    act, repeat, reverse
 
-optimal editing strategy by making both the motion and the change repeatable.
-con & podemos repetir lo camios hachos por el comando de sustitucion :s/pattern/.../
-perform substitution        :s/target/replacement      &   
-for example, @: can be used to repeat any ex command
-for example, @: can be used to repeat any ex command (as discussed in tip 31). or we can repeat the last :substitute command (which itself happens to be an ex command as well) by pressing &
+The optimal editing strategy is making both the motion and the change repeatable.
+
+For example, `@:` can be used to repeat any ex command. Or we can repeat the last `:substitute` command (which itself happens to be an ex command as well) by pressing &
 
 ### tip 5    find and replace by hand
 
