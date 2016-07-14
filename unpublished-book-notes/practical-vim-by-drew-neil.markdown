@@ -296,218 +296,208 @@ Las flechas tienen una ventaja, y es que ellas filtran la búsqueda por el texto
 
 `q/` abre una ventana con el histórico de búsquedas, `q:` hace lo propio con un histórico de comandos. `<C-f>` pasa del modo comando a la ventana de histórico
 
-### Consejo 35 -   Run Commands in the Shell
+### Consejo 35 - Ejecutar comandos en la shell
 
-From Vim’s Command-Line mode, we can invoke external programs in the shell by prefixing them with a bang symbol `:!`
+Desde el modo de línea de comandos, podemos invocar comandos de la shel escribiendo primero la exclamación, así: `:!`
 
-On Vim’s command line, the `%` symbol is shorthand for the current file name
+En modo de línea de comandos, `%` se sustituye por el nombre del fichero actual.
 
-What if we want to run several commands in the shell? In that case, we can use Vim’s `:shell`
+¿Y si queremos ejecutar varios comandos? Podemos hacerlo con la order `:shell`.
 
-We can use the `:read !{cmd}` command, which puts the output from the `{cmd}` into our current buffer. As you might expect, the `:write !{cmd}` does the inverse: it uses the contents of the buffer as standard input for the specified `{cmd}`
+Puedes usar `:read !{cmd}` para leer la salida del comando `cmd` en el buffer actual. De la misma forma, se puede utilizar `:write !{cmd}` para lo inverso: usa los contenidos del buffer actual como entrada para el comando `cmd`.
 
-For example, both `make` and `grep` have wrapper commands. Not only are they easy to execute from inside Vim, but their output is parsed and used to populate the quickfix list.
+Por ejemplo, los comandos `make` y `grep` tienen envoltorios. No solo son más fáciles de ejecutar desde Vim, sino que su salida se parsea y se usa para rellenar la lista *quickfix*.
 
-## Chapter 6 Manage Multiple Files
+## Chapter 6 - Gestionar múltiples ficheros
 
-### Consejo 36 -   Track Open Files with the Buffer List
+### Consejo 36 - Gestionar ficheros abiertos con la lista de búfferes
 
-Files are stored on the disk, whereas buffers exist in memory. We can quickly toggle between the current and alternate files by pressing `<C-^>`. I use these mappings from Tim Pope’s unimpaired.vim plugin:
+Los ficheros se almacenan en disco, mientras que los búfferes se almacenan en memoria. Se puede navegar entre ficheros pulsando `<C-^>`. El autor usa estos mapeos del plugin the Tim Pope, unimpared.vim:
 
     nnoremap <silent> [b :bprevious <CR>
     nnoremap <silent> ]b :bnext <CR>
     nnoremap <silent> [B :bfirst <CR>
     nnoremap <silent> ]B :blast <CR>
 
-### Consejo 37 -   Group Buffers into a Collection with the Argument List
+### Consejo 37 - Agrupa búfferes en una colección con la lista de argumentos
 
-Now let’s examine the argument list: `:args`. The argument list represents the list of files that was passed as an argument when we ran the vim command.
+Puedes consultar la lista de argumentos con `:args`. Esta lista representa la lista de ficheros que fue pasada como argumento cuando se ejecutó el comando `vim` para abrir el editor.
 
-We can change the contents of the argument list at any time with `:args {arg list}`
+Podemos cambiar el contenido de esta lista con `:args {arg list}`.
 
-We can traverse the files in the argument list using `:next` and `:prev` commands. Or we can use `:argdo` to execute the same command on each buffer in the set.
+Podemos navegar la lista con `:next` y `:prev`. Puedes usar `:argdo` para ejecutar el mismo comando en cada buffer de la lista.
 
-### Consejo 38 -   Manage Hidden Files
+### Consejo 38 - Gestionar ficheros ocultos
 
-If we want to discard the changes, we can instead run `:edit!`, which rereads the file from disk, overwriting the contents of the buffer. If we want to quit Vim without reviewing our unsaved changes, we can issue the `:qall!` command. Or, if we want to write all modified buffers without reviewing them one by one, we can use the `:wall` command.
+Si quieres descartar los cambios, puedes ejecutar `:edit!`, que recarga el fichero desde disco, sobreescribiendo el contenido del buffer. Si quieres salir de Vim sin revisar ficheros sin guardar, ejecuta `:qall!`. Si quieres escribir todos los cambios, `:wall`.
 
-If we enable the ‘hidden’ setting. If the active buffer is modified, Vim will automatically hide it when we navigate away from it.
+Si habilitas la opción `hidden`, si el buffer activo está modificado, Vim lo ocultará automáticamente cuando navegues fuera del fichero.
 
-### Consejo 39 -   Divide Your Workspace into Split Windows
+### Consejo 39 - Divide tu espacio de trabajo en ventanas
 
-`:sp[lit] {file}` split the current window horizontally, loading `{file}` into the new window
-`:vsp[lit] {file}` split the current window vertically, loading `{file}` into the new window
-`<C-w>w` or `<C-w><C-w>` cycle between open windows
-`:cl[ose]` or `<C-w>c` close the active window
-`:on[ly]` or `<C-w>o` keep only the active window, closing all others  
+`:sp[lit] {file}` divide horizontalmente, cargando el fichero `file` en la nueva ventana
+`:vsp[lit] {file}` igual, pero verticalmente
+`<C-w>w` or `<C-w><C-w>` navega entre ventanas
+`:cl[ose]` or `<C-w>c` cierra la ventana activa
+`:on[ly]` or `<C-w>o` cierra todas las ventanas menos la activa
 
-### Consejo 40 -   Organize Your Window Layouts with Tab Pages
+### Consejo 40 - Organiza tus ventanas con pestañas
 
-Think of a tab page as a container that can hold a collection of windows. Vim’s tab pages can be used to partition work into different workspaces. The `:lcd {path}` command lets us set the working directory locally for the current window. If we create a new tab page and then use the `:lcd` command to switch to another directory, we can then comfortably scope each tab page to a different project.
+Piensa en una pestaña como un contenedor que puede contener una colección de ventanas. Las pestañas pueden usarse para partir el trabajo en distintos espacios de trabajo. El comando `:lcd {path}` te permite cambiar el directorio de trabajo local (*local current directory*) para la ventana actual. Si creas una nueva pestaña y usamos el comando `:lcd`, podrás usar cada pestaña para trabajar en un directorio diferente.
 
-If we have a tab page containing two or more split windows, we could set the local working directory for all of them by running `:windo lcd {path}`.
+Si tienes una pestaña con 2 o más ventanas, puedes establecer el directorio local para todas ellas con `:window lcd {path}`
 
-We can open a new tab page with the `:tabedit {filename}` command. The `<C-w>T` command, which moves the current window into a new tab page
+Puedes abrir una nueva pestaña con `:tabedit {file}`. El comando `<C-w>T` mueve la ventana actual a una nueva pestaña.
 
-`:tabclose`, if we want to close all tab pages except for the current one, we can use the `:tabonly` command.
+`:tabclose` cierra la pestaña. Para cerrar todas menos la actual, usa `:tabonly`.
 
-`:tabn[ext] {N}` or `{N}gt` switch to tab page number `{N}`
-`:tabn[ext]` or `gt` switch to the next tab page
-`:tabp[revious]` or `gT` switch to the previous tab page  
+`:tabn[ext] {N}` o `{N}gt` navega a la pestaña con número `N`
+`:tabn[ext]` o `gt` navega a la siguiente pestaña
+`:tabp[revious]` o `gT` vuelve a la pestaña anterior
 
-## Chapter 7 Open Files and Save Them to Disk
+## Chapter 7 - Abrir ficheros y guardarlos en disco
 
-### Consejo 41 -   Open a File by Its Filepath Using ‘:edit’
+### Consejo 41 - Abre un fichero a partir de su ruta con `:edit`
 
-Try sourcing this line in your vimrc file: `cnoremap <expr> %%  getcmdtype() == ':' ? expand('%:h').'/' : '%%'`
+Prueba a insertar esta línea en tu Vim: `cnoremap <expr> %%  getcmdtype() == ':' ? expand('%:h').'/' : '%%'`
 
-Now when we type `%%` on Vim’s `:` command-line prompt, it automatically expands to the path of the active buffer, just as though we had typed `%:h <Tab>`. Besides
+Ahora, cuando teclees `%%` en la línea de comandos de Vim, se expandirá automáticamente por la ruta del buffer activo, como si hubieras tecleado `%:h <Tab>`
 
-### Consejo 42 -   Open a File by Its Filename Using ‘:find’
+### Consejo 42 - Abre un fichero a partir de su nombre con `:find`
 
-The `path` option allows us to specify a set of directories inside of which Vim will search when the `:find` command is invoked. In our case, we want to make it easier to look up files in the `app/controllers` and `app/views` directories. We can add these to our path simply by running `:set path+=app/**`
+La opción `path` permite especificar una serie de directorios donde Vim buscará cuando se invoque el comando `:find`. Se puede modificar, por ejemplo, con `:set path+=app/**`
 
-### Consejo 43 -   Explore the File System with netrw
+### Consejo 43 - Explora el sistema de ficheros con `netrw`
 
-If we launch Vim with the path to a directory rather than a file, it will start up with a file explorer window
+Si ejecutas Vim pasándole un directorio en lugar de un fichero, se abrirá una ventana con el explorardor de ficheros.
 
-We can open the parent directory by pressing the `-` key or by positioning the cursor on the `..` item and pressing `<CR>`.
+Puede abrir el directorio padre de donde te encuentres pulsando `-`, o navegando hasta el directorio `..` y pulsando `<CR>`.
 
-We can open the file explorer window with the `:edit {path}` command by supplying a directory name
+También se puede abrir el explorador con `:edit {path to dir}`.
 
-The dot symbol stands for the current working directory, so if we run the `:edit .` command, we can bring up a file explorer for the project root.
+El símbolo `.` representa el directorio actual, por lo que ejecutando `:edit .` abre el explorador de ficheros en la raiz del proyecto.
 
-`:Explore` has the same effect as ':edit .'. And `:Explore` can be truncated right down to `:E`. `:Sexplore` and `:Vexplore` commands, which open the file explorer in a horizontal split window or vertical split window
+`:Explore` tiene el mismo efecto que `:edit .`, pero puede ser comprimido como `:E`. `:Sexplore` y `:Vexplore` abren el explorador en una nueva ventana dividiendola horizontal o verticalmente.
 
-### Consejo 44 -   Save Files to Nonexistent Directories
+### Consejo 44 - Guarda ficheros en directorios inexistentes
 
-# Part 3 Getting Around Faster
+# Part 3 - Muévete más rápido
 
-## Chapter 8 Navigate Inside Files with Motions
+## Chapter 8 - Navega por dentro de los ficheros con *movimientos*
 
-### Consejo 46 -   Keep Your Fingers on the Home Row
+### Consejo 46 - Mantén tus dedos en la fila central del teclado
 
-Vim is optimized for the touch typist.
+Vim está optimizado para quienes no miran el teclado (*touch typist*)
 
-### Consejo 47 -   Distinguish Between Real Lines and Display Lines
+### Consejo 47 - Distigue entre líneas reales o líneas visuales
 
-Vim makes a distinction between real lines and display lines (wrapped part of large lines)
+Vim distingue entre líneas reales y líneas visuales, que son aquellas líneas que no caben en pantalla y son partidas)
 
-The `gj` and `gk` commands move down and up by display lines.
+Los comandos `gj` y `gk` mueven el cursor arriba y abajo por líneas visuales. `0` mueve al primer carácter de la línea real, mientras que `g0` hace lo mismo con líneas visuales. `^` mueve el cursor al primer carácter *no vacío* de la línea real.
 
-`0` to first character of real line, `g0` to first character of display line, `^` to first nonblank character of real line  
+### Consejo 48 - Muévete por palabras
 
-### Consejo 48 -   Move Word-Wise
+`ge` mueve el cursor al final de la palabra anterior.
 
-`ge` backward to end of previous word  
+Cada moviento de palabra, tiene su correspondiente con PALABRA, lo que incluye `W`, `B`, `E` y `gE`. La definicón de PALABRA es sencilla: consiste en una secuencia de carácteres no vacíos separados de espacios en blanco.
 
-Each word-wise motion we met earlier has a WORD-wise equivalent, including `W`, `B`, `E`, and `gE`. The definition of a WORD is simpler: it consists of a sequence of nonblank characters separated with whitespace
+### Consejo 49 - Encontrar por carácter con `f`
 
-### Consejo 49 -   Find by Character
+### Consejo 50 - Busca para navegar
 
-### Consejo 50 -   Search to Navigate
+Las búsquedas no solo funcionan en el modo normal, también lo hacer en modo visual y en modo *espera de operador*
 
-We’re not limited to using the search command in Normal mode. We can use it from Visual and Operator-Pending modes just as well
+### Consejo 51 - Objetos textuales
 
-### Consejo 51 -   Trace Your Selection with Precision Text Objects
+Cada vez que veas `{motion}` como parte de la sintaxis de un comando, puedes usar también objetos textuales.
 
-Whenever you see `{motion}` as part of the syntax for a command, you can also use a text object.
+### Consejo 52 - Borra alrededor o cambia dentro
 
-### Consejo 52 -   Delete Around, or Change Inside
+- `is` frase actual (*current sentence*)
+- `as` frase actual mas un espacio adicional
+- `ip` párrafo actual
+- `ap` párrafo actual
 
-- `is` current sentence
-- `as` current sentence plus one space
-- `ip` current paragraph
-- `ap` current paragraph
+Se puede decir que `d{motion}` trabaja bien con `aw`, `as` y `ap`, mientras que `c{motion}` lo hace con `iw` y similares.
 
-As a general rule, we could say that the `d{motion}` command tends to work well with `aw`, `as`, and `ap`, whereas the `c{motion}` command works better with `iw` and similar.
+### Consejo 53 - Marca el lugar donde estás
 
-### Consejo 53 -   Mark Your Place and Snap Back to It
+El comando `m{a-zA-Z}` marca la posición actual del cursor con la letra seleccionada. Las letras minúsculas son locales a un buffer individual, mientras que las mayúsculas son accesibles de forma global. `'{mark}` te lleva al marcador designado por la letra `mark`.
 
-The `m{a-zA-Z}` command marks the current cursor location with the designated letter. Lowercase marks are local to each individual buffer, whereas uppercase marks are globally accessible.
+Vim usa algunos marcadores automáticos:
 
-`'{mark}` moves to the line where a mark was set
+- `“` la posición antes del último salto en el fichero actual
+- `‘.` posición del último cambio
+- `‘^` última inserción
+- `‘[` último cambio o copiado
+- `‘]` final del último cambio o copiado
+- `‘<` comienzo de la última selección visual
+- `‘>` final de la última selección visual
 
-Vim’s Automatic Marks
+### Consejo 54 - Salta entre parejas de paréntesis
 
-- `“` position before the last jump within current file
-- `‘.` location of last change
-- `‘^` last insertion
-- `‘[` st change or yank
-- `‘]` end of last change or yank
-- `‘<` start of last visual selection
-- `‘>` end of last visual selection  
+El comando `%` es parte del plugin incorporado a Vim, *matchit*, el cual salta entre parejas de palabras clave. Por ejemplo, en HTML saltaría entre parejas de etiquetas, en Ruby entre inicio y final de bloque `class/end`, `def/end`,...
 
-### Consejo 54 -   Jump Between Matching Parentheses
+## Chapter 9 - Navega entre ficheros con saltos
 
-`%` command
+### Consejo 55 - Muévete por la lista de saltos
 
-When the **matchit** plugin is enabled (included with Vim), the `%` command can jump between matching pairs of keywords. For example, in an HTML file, the `%` command would jump between opening and closing tags. In a Ruby file, it would jump between `class/end`, `def/end`, and `if/end` pairs.
+Vim guarda tu localización antes y despues de hacer un salto, y puedes moverte por ellos con `<C-o>` y `<C-i>`.
 
-## Chapter 9 Navigate Between Files with Jumps
+### Consejo 56 - Muévete por la lista de cambios
 
-### Consejo 55 -   Traverse the Jump List
+Vim guarda tu localización antes y despues de hacer un cambio. Puedes ver su contenido con `:changes`.
 
-Vim records our location before and after making a jump and provides a couple of commands for retracing our steps: `<C-o>` and `<C-i>`
+Con los comandos `g;` y `g,` puedes moverte por ellos. Para volver al último sitio donde estuviste en modo inserción, entrando en dicho modo, usa `gi`.
 
-### Consejo 56 -   Traverse the Change List Vim records the location of our cursor after each change we make to a document. Traversing this change list
+### Consejo 57 - Salta al fichero que tienes bajo el cursor
 
-We can inspect its contents by running `:changes`
+Vim trata los nombres de los ficheros del documento como hipervínculos. Si está bien configurado, `gf` abrirá el fichero cuyo nombre está debajo del cursor.
 
-Using the `g;` and `g,` commands, we can traverse backward and forward through the change list. If we leave Insert mode and then scroll around the document, we can quickly carry on where we left off by pressing `gi`
+La opción `suffixesadd` te permite especificar una o más extensiones que Vim intentará encontrar con el comando `gf`. `gf` busca en cada uno de los directorios que se encuentren en la variable `path`.
 
-### Consejo 57 -   Jump to the Filename Under the Cursor
+### Consejo 58 - Muévete entre ficheros con marcas globales
 
-Vim treats filenames in our document as a kind of hyperlink. When configured properly, we can use the `gf` command to go to the filename under the cursor.
+Intenta crear el hábito de crear una marca global antes de usar ningún comando que interactúe con la lista *quickfix*, los búfferes o la lista de argumentos.
 
-The `suffixesadd` option allows us to specify one or more file extensions, which Vim will attempt to use when looking up a filename with the `gf` command. When we use the `gf` command, Vim checks each of the directories listed in `path`
+# Part 4 - Registros
 
-### Consejo 58 -   Snap Between Files Using Global Marks
+## Chapter 10 - Copia y pega
 
-The `m{capital letter}` command creates global marks.
+### Consejo 59 - Borra, copia y pega usando el registro sin nombre
 
-Try to get into a habit of setting a global mark before using any commands that interact with the quickfix list, the buffer and argument lists
+El comando `diw` no solo borra la palabra, también la copia en el registro sin nombre (*unnamed*).
 
-# Part 4 Registers
+¿Cómo puedes borrar contenido sin modificar el contenido de dicho registro? Existe un registro especial, llamado el *agujero negro*, porque de él, nada retorna. Al registro agujero negro se accede con `_`, por ejemplo `"_d{motion}` realiza un borrado de verdad.
 
-## Chapter 10 Copy and Paste
+### Consejo 60 - Domina los registros
 
-### Consejo 59 -   Delete, Yank, and Put with Vim’s Unnamed Register
+Puedes especificar qué registros quieres usar prefijando el comando con `"{register}`. Si no se especifica ninguno, se usa el registro sin nombre.
 
-The `diw` command doesn’t just delete the word: it also copies it into the unnamed register.
+Vim también tiene comandos Ex para borrar, copiar y pegar. Podemos cortar la línea actual en el registro `c` con el comando `:delete c`.
 
-How can you remove text from the document and not copy it into any registers? Vim’s answer is a special register called the black hole, from which nothing returns. The black hole register is addressed by the `_` symbol, so `"_d{motion}` performs a true deletion.
+El comando `y{motion}` no solo copia el texto en el registro sin nombre, sino que lo copia también en el registro de pegado (*yank register*), al cual se accede con `0`. Este registro no es modificado por los comandos `x`, `s`, `c{motion}` o `d{motion}`.
 
-### Consejo 60 -   Grok Vim’s Registers
+Cuando nombramos un registro con minúsculas, el contenido se reemplaza, mientras que si lo nombramos con mayúsculas, el contenido se añade.
 
-We can specify which register we want to use by prefixing the command with `"{register}`. If we don’t specify a register, then Vim will use the unnamed register.
+Cuando copies o peges contenido fuera de Vim, debes utilizar el registro del portapapeles, accesible mediante `+`. Por ejemplo, para pegar el contenido del portapapeles en Vim usa `"+p` o `<C-r>+` si estás en modo inserción.
 
-Vim also provides Ex commands for delete, yank, and put operations. We could cut the current line into register `c` by running `:delete c`
+- `"=`: el registro de expresiones
+- `"%`: nombre del fichero actual
+- `"#`: nombre del fichero alternativo
+- `".`: último texto insertado
+- `":`: último comando Ex
+- `"/`: último patrón de búsqueda
 
-The Yank Register ("0): when we use the `y{motion}` command, the specified text is copied not only into the unnamed register but also into the yank register, which is addressed by the `0` symbol
+### Consejo 61 - Reemplaza una selección visual con el contenido de un registro
 
-It’s not set by the `x`, `s`, `c{motion}`, and `d{motion}` commands.
+Usa el comando `p` en el modo visual para reemplazar la selección con el contenido del registro que desees.
 
-When we address a named register with a lowercase letter, it overwrites the specified register, whereas when we use an uppercase letter, it appends to the specified register.
+### Consejo 62 - Pega desde un registro
 
-If we use the cut or copy command to capture text in an external application, then we can paste it inside Vim using `"+p` command (or `<C-r>+` from the Insert mode).
+`gp` y `gP` pegan el contenido de un registro, pero en lugar de dejar el cursor al inicio del contenido pegado, lo mueven al final del mismo.
 
-- `"=`: expression register
-- `"%`: name of the current file
-- `"#`: name of alternate file
-- `".`: last inserted text
-- `":`: last Ex command
-- `"/`: last search pattern
-
-### Consejo 61 -   Replace a Visual Selection with a Register
-
-When we use the `p` command in Visual mode, Vim replaces the selection with the contents of the specified register
-
-### Consejo 62 -   Paste from a Register
-
-`gp` and `gP` commands. These also put the text before or after the current line, but they leave the cursor positioned at the end of the pasted text instead of at the beginning.
-
-### Consejo 63 -   Interact with the System Clipboard
+### Consejo 63 - Interactúa con el portapapeles del sistema
 
 ## Chapter 11 Macros
 
@@ -842,4 +832,5 @@ Apply Customizations to Certain Types of Files
 We can have more than one autocommand listening for the same event.
 
 Instead of declaring our JavaScript preferences in the vimrc using autocommands, we could place them in a file called ~/.vim/after/ftplugin/javascript.vim:
+
 
