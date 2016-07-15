@@ -499,338 +499,340 @@ Usa el comando `p` en el modo visual para reemplazar la selección con el conten
 
 ### Consejo 63 - Interactúa con el portapapeles del sistema
 
-## Chapter 11 Macros
+## Chapter 11 - Macros
 
-### Consejo 64 -   Record and Execute a Macro
+### Consejo 64 - Graba y ejecuta una macro
 
-### Consejo 65 -   Normalize, Strike, Abort
+### Consejo 65 - Normalizar, alcanzar, abortar
 
-- Normalize the Cursor Position
-- Strike Your Target with a Repeatable Motion
-- Abort When a Motion Fails
-- If a motion fails while a macro is executing, then Vim aborts the rest of the macro.
+- Normaliza la posición del cursor
+- Alcanza a tu objetivo con un movimiento repetible
+- Aborta cuando el movimiento falla
+- Si un movimiento fall cuando una macro se está ejecutando, Vim aborta el resto de la macro
 
-### Consejo 66 -   Play Back with a Count
+### Consejo 66 - Volver a ejecutar la macro con un contador
 
-### Consejo 67 -   Repeat a Change on Contiguous Lines
+### Consejo 67 - Repetir una macro en líneas contínuas
 
-To execute macro in parallel, select lines with `VG` and then execute the macro with `:normal @q`
+Para ejecutar una macro en paralelo, selecciona las líneas con `VG` y luego ejecuta la macro con `:normal @q`
 
-### Consejo 68 -   Append Commands to a Macro
+### Consejo 68 - Añade comandos a una macro
 
-If we type `qa`, then Vim will record our keystrokes, saving them into register `a` by overwriting the existing contents of that register. If we type `qA`, then Vim will record our keystrokes, appending them to the existing contents of register `a`.
+Si tecleamos `qa`, Vim guardará lo siguiente que tecleemos en el registro `a`, sobreescribiendo el contenido de dicho registro. Si tecleamos `qA`, Vim guardará lo que teclees, pero lo añadirá al contenido del registro `a`.
 
-### Consejo 69 -   Act Upon a Collection of Files
+### Consejo 69 - Actuar sobre una colección de ficheros
 
-The `:argdo` command allows us to execute an Ex command once for each buffer in the argument list. `:argdo normal @a` will run the macro saved on register `a`
+El comando `:argdo` permite ejecutar un comando Ex una vez para cada buffer en la lista de argumentos. `:argdo normal @a` ejecutará la macro guardada en el registro `a`.
 
-If we want to make it act upon multiple buffers, we could append a final step that advances to the next buffer in the list with `:next`
+Si quieres hacer que actúe en varios búfferes, puedes añadir un paso final a la macro de forma que te avance al siguiente buffer, con `:next`.
 
-Another useful command is `:wnext` which is equivalent to running `:write` followed by `:next`. If you are executing a macro in series across several files in the argument list, you may prefer to use this.
+Otro comando muy útil es `:wnext`, que es equivalente a la combinación de `:write` y `:next`. 
 
-### Consejo 70 -   Evaluate an Iterator to Number Items in a List
+### Consejo 70 - Evalúa un iterador para crear el índice de una lista numerada
 
-Using the `let` keyword, we can create a variable called `i` and assign it a value of `0`. We can insert the value stored in variable `i` just by running `<C-r>=i<CR>` in Insert mode.
+Usando la palabra reservada `let`, puedes crear una variable llamada `i` y asignarle el valor `0`, el cual podrás incrementar luego paso a paso. Puedes insertar el valor de la variable `i` escribiendo `<C-r>=i<CR>`
 
-### Consejo 71 -   Edit the Contents of a Macro
+### Consejo 71 - Editar los contenidos de una macro
 
-the `~` command, which toggles the case of the letter under the cursor
+El comando `~` intercambia mayúsculas a minúsculas y viceversa.
 
-The registers that we use for recording macros are the very same with which the yank and put operations interact. So if we want to make changes to the macro saved in register `a`, we simply have to paste it into the document. Now we can edit the macro as plain text. So we can yank it from the document back into a register: `"ay$`
+Los registros donde se guardan las macros son los mismos registros que se pueden usar a la hora de copiar y pegar. Por lo tanto, si quieres editar la macro guardada en el registro `a`, simplemente tienes que copiar dicho registro en el documento con `"ap`. Edita la macro como si fuera un texto normal y corriente y actualiza el contenido del registro con `"ay$`
 
-## Chapter 12 Matching Patterns and Literals
+## Chapter 12 - Coincidiendo con patrones y literales
 
-### Consejo 72 -   Tune the Case Sensitivity of Search Patterns
+### Consejo 72 - Retoca la sensibilidad mayúsculas/minúsculas de los patrones de búsqueda
 
-We can make Vim’s search patterns case insensitive by enabling the `ignorecase` setting.
+Con la opción `ignorecase` podemos hacer que Vim ignore mayúsculas y minúsculas
 
-We can override Vim’s default case sensitivity using the `\c` and `\C` items. Lowercase `\c` causes the search pattern to ignore case, while the uppercase `\C` item forces case sensitivity
+Puedes sobreescribir dicha opción con `\c` y `\C`, las cuales hace que Vim ignore o fuerce que coincidan mayúsculas con mayúsculas respectivamente.
 
-When enabled, `smartcase` has the effect of canceling out the `ignorecase` setting any time that we include an uppercase character in our search pattern.
+Cuando está activada, la opción `smartcase` tiene el efecto de cancelar la opción `ignorecase` cuando usamos una mayúscula en el patrón de búsqueda.
 
-### Consejo 73 -   Use the \v Pattern Switch for Regex Searches
+### Consejo 73 - Usa el flag `\v` en los patrones de búsqueda
 
-the `\v` pattern switch. This enables very magic search, where all characters assume a special meaning, with the exception of `_`, uppercase and lowercase letters, and the digits `0` through `9`
+El flag `\v` habilita la búsqueda mágica, donde todos los carácteres toman un significado especial a excepción de `_`, letras y dígitos.
 
-### Consejo 74 -   Use the \V Literal Switch for Verbatim Searches
+### Consejo 74 - Usa el flag `\V` para búsquedas literales
 
-Using the `verynomagic` literal switch, we can cancel out most of the special meanings attached to characters such as `.`, `*`, and `?`.
+El flag *nada de magia* cancela la mayoría de los significados especiales a carácteres como `.`, `*` y `?`
 
-### Consejo 75 -   Use Parentheses to Capture Submatches
+### Consejo 75 - Usa paréntesis para capturar partes del patrón
 
-When specifying a pattern, we can capture submatches and then reference them elsewhere. Anything that matches inside of parentheses is automatically assigned to a temporary silo. We can reference the captured text as `\1`. The `\0` item always refers to the entire match
+Cuando especifiques un patrón, puedes capturar partes del patron y referenciarlos en otro lugar. Cada cosa que coincide con el interior de los paréntesis es asignado a un silo. Puedes hacer referencia a las capturas con `\1` o `\5`. `\0` hace referencia siempre a la coincidencia al completo.
 
-The `<` and `>` symbols match word boundaries, the `\_s` item matches whitespace or a line break
+Los símbolos `<` y `>` seleccionan los límites de las palabras, mientras que `\_s` selecciona espacios en blanco y saltos de línea.
 
-### Consejo 76 -   Stake the Boundaries of a Word
+### Consejo 76 - Fija los límites de una palabra
 
-In very magic searches, these are represented by the `<` and `>` symbols. So if we amended our search to `/\v<the> <CR>`, otherwise, we would select text such as `their`, `these`, `tthey`,...
+Si buscas la palabra `the`, puedes hacerlo con `/\v<the> <CR>`. De otro modo seleccionarás palabras como `their`, `these` o `tthey`. 
 
-`\w` matches word characters, including letters, numbers, and the `_` symbol, while `\W` matches everything except for word characters.
+`\w` selecciona carácteres de una palabra (letras, números y `_`), mientras que `\W` selecciona todo menos dichos caracteres.
 
-### Consejo 77 -   Stake the Boundaries of a Match
+### Consejo 77 - Fija los límites de una coincidencia
 
-The boundaries of a match normally correspond to the start and end of a pattern. But we can use the `\zs` and `\ze` items to crop the match, making it a subset of the entire pattern
+Normalmente se corresponden con el inicio y el final de patrón, pero se pueden cambiar. Usa `\zs` y `\ze` para recortar la coincidencia, haciéndola un subconjunto del patrón completo
 
-### Consejo 78 -   Escape Problem Characters
+### Consejo 78 - Escapa carácteres problemáticos
 
-## Chapter 13 Search
+## Chapter 13 - Búsquedas
 
-### Consejo 79 -   Meet the Search Command
+### Consejo 79 - Conoce el comando búsqueda
 
-If we execute a search without providing a pattern, Vim will just reuse the pattern from the previous search
+Si ejecutas una búsqueda sin proporcionar un patŕon, Vim usará el último patrón usado
 
-### Consejo 80 -   Highlight Search Matches
+### Consejo 80 - Subraya coincidencias
 
-### Consejo 81 -   Preview the First Match Before Execution
+### Consejo 81 - Previsualiza la primera coincidencia de la búsqueda
 
-`<C-r><C-w>` autocompletes the search field using the remainder of the current preview match.
+`<C-r><C-w>` autocompleta el campo de búsqueda usando el resto de la previsualización de la ocurrencia
 
-### Consejo 82 -   Count the Matches for the Current Pattern
+### Consejo 82 - Cuenta las coincidencias del patrón actual
 
 `:%s///gn`
 
-### Consejo 83 -   Offset the Cursor to the End of a Search Match
+### Consejo 83 - Lleva el cursor hasta el final de la coincidencia
 
-Here, we search for `/lang/e <CR>`, which places the cursor at the end of the search match,
+Si buscas con `/lang/e`, el flag `e` situará el cursor al final de la coincidencia de búsqueda
 
-### Consejo 84 -   Operate on a Complete Search Match
+### Consejo 84 - Opera en la coincidencia completa de búsqueda
 
-Here’s the trick: `gU //e <CR>`. We’re using `//e <CR>` as a motion, which reaches from the start to the end of the search match.
+Este es el truco, `gU//e`. Se usa `//e` como movimiento, el cual te lleva desde el inicio hasta el final de la coincidencia de búsqueda.
 
-My favorite solution is the textobj-lastpat plugin, by Kana Natsuno, which adds an `i/` text object for operating on search matches. Using this, we can make the same change as before just by running `gUi/`.
+La solución favorita del autor es el plugin `textobj-lastpat`, de Kana Natsuno, que añade el objeto textual `i/` para operar en coincidencias de búsqueda. Así pues, un comando equivalente al anterior sería `gUi/`.
 
-### Consejo 85 -   Create Complex Patterns by Iterating upon Search History
+### Consejo 85 - Crea patrones complejos iterando por el historial de búsquedas
 
-Press `q/` to summon the command-line window. This acts more or less like a regular Vim buffer, but it’s prepopulated with our search history, one item per line. We can use the full power of Vim’s modal editing to amend the last pattern.
+Pulsa `q/` para abrir al ventana de búsquedas. Actúa más o menos como un buffer normal de Vim, pero está relleno con el historial de búsquedas, una por línea. Podemos utilizar todo el poder de Vim para corregir el último patrón.
 
-### Consejo 86 -   Search for the Current Visual Selection
+### Consejo 86 - Busca la actual selección visual
 
-You can either paste this into your vimrc file directly or install the *visual star search* plugin.
+Echa un vistazo al plugin *visual star search*
 
-## Chapter 14 Substitution
+## Chapter 14 - Sustitución
 
-### Consejo 87 -   Meet the Substitute Command
+### Consejo 87 - Conoce el comando sustitución
 
-- `g` flag makes the substitute command act globally, causing it to change all matches within a line rather than just changing the first one.
-- `c` flag gives us the opportunity to confirm or reject each change.
-- `n` flag suppresses the usual substitute behavior, causing the command to report the number of occurrences
-- `&` flag simply tells Vim to reuse the same flags from the previous substitute command.
-- `\={Vim script}` token is very powerful. It allows us to execute code and use the result as our replacement {string}.
+- `g`: hace que el comando actúe globalmente, cambiando todas las coincidencias en una fila, no solo la primera
+- `c`: pide confirmación antes de sustituir el valor
+- `n`: sirve para contar las ocurrencias
+- `&`: indica a Vim volver a usar los flags utilizados en la última sustitución
+- `\={Vim script}`: es muy poderoso, permite ejecutar un código y utilizar el resultado como el texto del reemplazo
 
-### Consejo 88 -   Find and Replace Every Match in a File
+### Consejo 88 - Busca y reemplaza todas las ocurrencias en un fichero
 
-### Consejo 89 -   Eyeball Each Substitution
+### Consejo 89 - Supervisa cada sustitución
 
-The `c` flag causes Vim to show us each match and ask “Replace with copy?” We can then say `y` to perform the change or `n` to skip it.
+Recuerda el flag `c`
 
-### Consejo 90 -   Reuse the Last Search Pattern
+### Consejo 90 - Reutiliza el último patrón de búsqueda
 
-### Consejo 91 -   Replace with the Contents of a Register
+### Consejo 91 - Reemplaza con los contenidos de un registro
 
-Pass by value: we can insert the contents of a register by typing `<C-r>{register}`. Pass by reference: `:%s//\=@0/g`
+Paso por valor, insertando el contenido directamente mediante `<C-r>{register}`. Paso por referencia: `:%s//\=@0/g`
 
-In the replacement field, the `\=` item tells Vim to evaluate a Vim script expression. In Vim script, we can reference the contents of a register as `@{register}`.
+En el campo de reemplazo, `\=` indica a Vim que evalúe una expresión Vim. En vimscript, puedes referenciar los contenidos de un registro con `@{register}`
 
-We create a record in our command history that reads `:%s//\=@a/g`. It can do very different things, depending on the contents of the `/` and `a` register. You might love it or you might hate it. But either way, it’s a pretty neat trick!
+Crea un registro en el histórico de comandos que sea `:%s//\=@a/g`. Podrás hacer muy distintas cosas, dependiendo de los contenidos de los registros `/` y `a`. Lo puede amar, o lo puedes odiar, pero no puedes negar que no es un truco genial.
 
-### Consejo 92 -   Repeat the Previous Substitute Command
+### Consejo 92 - Repite el comando de repetición anterior
 
-We can repeat the command across the entire file just by pressing `g&`, which is equivalent to running the following: `:%s//~/&``
+Puedes repetir el comando a lo largo del fichero con `g&`, que es equivalente a ejecutar `:%s//~/&`
 
-Making `&` trigger the `:&&` command is more useful. These mappings fix the `&` command in Normal mode and create a Visual mode equivalent: 
+Puedes crear un mapeo muy interesante, mapeando `&` a `:&&`, tanto en modo normal como en el visual:
 
     nnoremap & :&&<CR>
     xnoremap & :&&<CR>
 
-### Consejo 93 -   Rearrange CSV Fields Using Submatches
+### Consejo 93 - Reordena campos CSV usado sub-coincidencias
 
-### Consejo 94 -   Perform Arithmetic on the Replacement
+### Consejo 94 - Realiza cálculos en el reemplazo
 
-### Consejo 95 -   Swap Two or More Words
+### Consejo 95 - Intercambia dos o más palabras
 
-### Consejo 96 -   Find and Replace Across Multiple Files
+### Consejo 96 - Busca y reemplaza a lo largo de múltiples ficheros
 
-Running `:args **/*.txt` loads all files from the current project into the argument list. Then when we run `:argdo %s//Practical/ge`, Vim proceeds to execute the substitute command in every one of those files.
+Ejecutando `:args **/*.txt` carga todos los ficheros de texto del proyecto en la lista de argumentos. Si ejecutamos `:argdo %s//Practical/ge`, Vim ejecutará el comando de sustitución en cada uno de los ficheros
 
-To perform a project-wide search, we’ll reach for the `:vimgrep` command
+Para realizar una búsqueda, podemos utilizar `:vimgrep`
 
     :vimgrep {pattern} {files pattern}
     :vimgrep /<C-r>// **/*.txt
 
-Each match returned by vimgrep is recorded in the quickfix list
+Cada coincidencia queda grabada en la lista quickfix
 
-With [vim-quargs plugin](https://github.com/nelstrom/vim-qargs), we can run `:Qargs`, and it will populate the argument list with each of the files named in the quickfix list.
+Con el plugin [vim-quargs plugin](https://github.com/nelstrom/vim-qargs), puedes ejecutar `:Qargs`, y rellenará la lista de argumentos con los elementos de la lista quickfix
 
-## Chapter 15 Global Commands
+## Chapter 15 - Comandos globales
 
-### Consejo 97 -   Meet the Global Command
+### Consejo 97 - Conoce el comando global
 
-The `:global` command allows us to run an Ex command on each line that matches a particular pattern.
+`:global` te permite ejecutar un comando Ex por cada línea que coincide con un patrón en particular
 
-### Consejo 98 -   Delete Lines Containing a Pattern
+### Consejo 98 - Borrar líneas que contienen un patrón
 
-Delete Matching Lines with `:g/{regular expression}/d`
+Borrar las líneas coincidentes con `:g/{regular expression}/d`
 
-Keep Only Matching Lines with ‘:v/{regular expression}/d’
+Mantener las líneas coincidentes con `:v/{regular expression}/d`
 
-### Consejo 99 -   Collect TODO Items in a Register
+### Consejo 99 - Collecciona elementos de TODO en un fichero
 
-First we’ll need to clear it by running qaq. Now we can go ahead and yank the TODO comments into the register: `:g/TODO/yank A`
+Limpia primero el registro con `qaq`. Copia todos los comentarios `TODO` en un registro `:g/TODO/yank A`
 
-### Consejo 100 -   Alphabetize the Properties of Each Rule in a CSS File
+### Consejo 100 - Ordena alfabéticamente las propiedades de cada clase en un fichero CSS
 
-Suppose that we want to sort the properties of each rule into alphabetical order. We could do so using Vim’s built-in `:sort` command
+Echa un vistazo a `:sort`
 
-## Chapter 16 Index and Navigate Source Code with ctags
+## Chapter 16 - Indexa y navega tu código fuente con `ctags`
 
-### Consejo 101 -   Meet ctags
+### Consejo 101 - Conoce `ctags`
 
-Mozilla runs a project called Doctor JS which includes a `jsctags` program. `jsctags` produces output in the same format as ctags, so it works seamlessly with Vim.
+Mozilla tiene un proyecto, llamado DoctorJS que incluye el programa `jsctags`, el cual produce una salida con el mismo formato que `ctags`, por lo que funciona perfectamente con Vim
 
-### Consejo 102 -   Configure Vim to Work with ctags
+### Consejo 102 - Configura Vim para funcionar con `ctags`
 
-Creating a mapping for it: `:nnoremap <f5> :!ctags -R<CR>`
+Crea un mapeo para ello: `:nnoremap <f5> :!ctags -R<CR>`
 
-Automatically execute ctags each time a file is saved with `:autocmd BufWritePost * call system("ctags -R")`
+Ejecuta `ctags` automáticamente cada vez que un fichero se guarda: `:autocmd BufWritePost * call system("ctags -R")`
 
-Automatically execute ctags with version control hooks: [Effortless Ctags with Git, by Tim Pope](http://tbaggery.com/2011/08/08/effortless-ctags-with-git.html)
+Ejecuta `ctags` mediante un *hook* al control de versiones: [Effortless Ctags with Git, by Tim Pope](http://tbaggery.com/2011/08/08/effortless-ctags-with-git.html)
 
-### Consejo 103 -   Navigate Keyword Definitions with Vim’s Tag Navigation Commands
+### Consejo 103 - Navega por palabras reservadas
 
-Pressing `<C-]>` makes our cursor jump from the keyword under the cursor to the definition. The `<C-t>` command acts as the back button for our tag history. But if it has multiple matches, then the `g<C-]>` command presents us with a list of choices from the tag match list. These Ex commands can accept a regular expression when used in the form `:tag /{pattern}` or `:tjump /{pattern}`
+Con `<C-]>`, Vim salta a la definición de la palabra que se haya bajo el cursor. `<C-t>` actúa como el botón de retorno, volviendo atrás en la historia `ctags`. Si hay varias ocurrencias, `g<C-]>` presenta una lista de posibilidades tomada de la lista de tags coincidentes. Estos comandos Ex aceptan expresiones regulares si se usan de la forma `:tag /{pattern}` o `:tjump /{pattern}`
 
-## Chapter 17 Compile Code and Navigate Errors with the Quickfix List
+## Chapter 17 Compila el código y navega los errores con la lista quickfix
 
-### Consejo 104 -   Compile Code Without Leaving Vim
+### Consejo 104 - Compila sin abandonar Vim
 
-From inside Vim, we can now run the `:make` command. Instead of just echoing the output from make, Vim parses each line, extracting the filename, line number, and error message. For each warning, Vim creates a record in the quickfix list.
+Desde dentro de Vim, puedes ejecutar `:make`. En lugar de mostrar la salida de `make`, Vim parsea cada línea, extrae el nombre del fichero, la línea y el mensaje de error. Para cada advertencia, Vim crea un registro en la lista quickfix.
 
-### Consejo 105 -   Browse the Quickfix List
+### Consejo 105 - Navega la lista quickfix
 
-- `:cnext` jump to next item
-- `:cprev` jump to previous item
-- `:cfirst` jump to first item
-- `:clast` jump to last item
-- `:cnfile` jump to first item in next file
-- `:cpfile` jump to last item in previous file
-- `:cc` N jump to   nth item
-- `:copen` open the quickfix window
-- `:cclose` close the quickfix window  
+- `:cnext` salta al siguiente elemento
+- `:cprev` salta al elemento anterior
+- `:cfirst` salta al primer elemento
+- `:clast` al último
+- `:cnfile` salta al primer elemento del siguiente fichero
+- `:cpfile` al último
+- `:cc N` salta al elemento número `N`
+- `:copen` abre la ventana de la lista de quickfix
+- `:cclose` cierra dicha ventana
 
-The location list has equivalents for all of these commands, each beginning with `:l`, such as `:lnext`, `:lprev`, and so on.
+La lista de localización tiene los equivalentes a estos comandos, pero empezando por `:l`, por ejemplo, `:lnext`, `:lprev`,...
 
-For every command that populates the quickfix list, there’s a variant that places the results in a location list instead. While `:make`, `:grep`, and `:vimgrep` use the quickfix list, `:lmake`, `:lgrep`, and `:lvimgrep` use the location list.
+Para cada comando que rellena la lista quickfix, existe una variante que lleva los resultados a una lista de localización. `:make`, `:grep` y `:vimgrep` usan la lista quickfix; `:lmake`, `:lgrep` y `:lvimgrep` usan la lista de localización.
 
-There can be only one quickfix list, but we can create as many location lists as we want.
+Solo puede haber una lista quickfix, pero puedes tener tantas de localización como quieras
 
-Any commands that interact with a location list (`:lnext`, `:lprev`, and so on) will act on the list that is bound to the currently active window.
+Cualquier comando que manipule la lista de localización, actuará solamente a lo que aparezca en la ventana activa actual.
 
-### Consejo 106 -   Recall Results from a Previous Quickfix List
+### Consejo 106 - Recuerda resultados de una lista quickfix anterior
 
-We can recall an older version of the quickfix list (Vim holds onto the last ten lists) by running the `:colder` command. To revert from an old quickfix list back to a newer one, we run `:cnewer`
+Puedes recordar una versión anterior de una lista quickfix con `:colder`. Para volver a la más nueva, `:cnewer`
 
-### Consejo 107 -   Customize the External Compiler
+### Consejo 107 - Personaliza el compilador externo
 
-The `makeprg` setting allows us to specify the program that will be called when we run `:make`
+La opción `makeprg` te permite especificar qué programa se ejecutará al llamar `:make`
 
-The `errorformat` setting allows us to teach Vim how to parse the output generated by running `:make`. This `errorformat` string is not something we would want to commit to memory. Instead, we can save it to a file and then activate it with the `:compiler` command
+La opción `errorformat` permite enseñar a Vim a parsear la salida del programa anterior. Es recomendable no almacenar esto en memoria, si no en disco. Crea un fichero con la configuración y vuélvelo a activar con `:compiler`
 
-## Chapter 18 Search Project-Wide with grep, vimgrep, and Others
+## Chapter 18 - Busca en todo el proyecto con `grep`, `vimgrep` y otros
 
-### Consejo 108 -   Call grep Without Leaving Vim
+### Consejo 108 - Ejecuta `grep` sin dejar Vim
 
-### Consejo 109 -   Customize the grep Program
+### Consejo 109 - Personaliza el programa `grep`
 
-Two settings: `grepprg` and `grepformat`.
+Muy parecido a la lista quickfix: `grepprg` and `grepformat`.
 
-### Consejo 110 -   Grep with Vim’s Internal Search Engine
+### Consejo 110 - Usa `grep` con los patrones de búsqueda de Vim
 
     :vim[grep][!] /{pattern}/[g][j] {file}
 
-We can compose a regular expression by searching in the current file. When we’re satisfied that it matches where it should, we execute `:vimgrep` using the exact same pattern.
+Puedes componer una expresión regular buscando en el fichero actual. Cuando estés de acuerdo en las coincidencias que vas a tener, puedes ejecutar `vimgrep` en cualquier momento
 
-## Chapter 19 Dial X for Autocompletion
+## Chapter 19 - Autocompletado
 
-### Consejo 111 -   Meet Vim’s Keyword Autocompletion
+### Consejo 111 - Conoce el autocompletado
 
-- `<C-n>` Generic keywords
-- `<C-x><C-n>` Current buffer keywords
-- `<C-x><C-i>` Included file keywords
-- `<C-x><C-]>` tags file keywords
-- `<C-x><C-k>` Dictionary lookup
-- `<C-x><C-l>` Whole line completion
-- `<C-x><C-f>` Filename completion
+- `<C-n>`, `<C-p>` palabras en general
+- `<C-x><C-n>` palabras de búffer actual
+- `<C-x><C-i>` palabras dentro de los ficheros importados
+- `<C-x><C-]>` palabras en el fichero `ctags`
+- `<C-x><C-k>` búsqueda en el diccionario
+- `<C-x><C-l>` trata de hacer coincidir la línea al completo
+- `<C-x><C-f>` nombres de ficheros
 - `<C-x><C-o>` Omni-completion  
 
-### Consejo 112 -   Work with the Autocomplete Pop-Up Menu
+### Consejo 112 - Trabaja con el menú contextual de autocompletado
 
-- <C-n> Use the next match from the word list (  next match)
-- <C-p> Use the previous match from the word list (  previous match)
-- <Down> Select the next match from the word list
-- <Up> Select the previous match from the word list
-- <C-y> Accept the currently selected match (  yes)
-- <C-e> Revert to the originally typed text (  exit from autocompletion)
-- <C-h> (and <BS>) Delete one character from current match
-- <C-l> Add one character from current match
-- {char} Stop completion and insert   {char}
+- <C-n> usa la siguiente coincidencia (**n**ext match) para autocompletar
+- <C-p> usa la anterior coincidencia (**p**previous match) para autocompletar
+- <Down> selecciona la siguiente coincidencia
+- <Up> selecciona la coincidencia anterior
+- <C-y> acepta la selección actual dentro del menú (**y**es)
+- <C-e> vuelta otra vez al texto tecleado (exit from autocompletion)
+- <C-h> (y <BS>) borra un carácter de la coincidencia actual
+- <C-l> añade un carácter siguiendo la coincidencia actual
+- {char} para el autompletado e inserta {char}
 
-### Consejo 113 -   Understand the Source of Keywords
+### Consejo 113 - Conoce la fuente de las palabras reservadas
 
-Vim understands the C way of including files, but it can be taught to follow the corresponding directives in other languages by tweaking the `include` setting (see `include`
+Vim entiende la forma de C de incluir ficheros, pero puede ser configurado para otros lenguajes personalizando la opción `include`
 
-### Consejo 114 -   Autocomplete Words from the Dictionary
+### Consejo 114 - Autocompleta palabras desde el diccionario
 
-The easiest way to do this is by running `:set spell` to enable Vim’s spell checker. All of the words in the spelling dictionary become available through the `<C-x><C-k>` command.
+La forma más fácil es con `:set spell`, para habilitar el corrector de Vim. Todas las palabras del diccionario están disponibles con `<C-x><C-k>`
 
-### Consejo 115 -   Autocomplete Entire Lines
+### Consejo 115 - Autocompleta líneas enteras
 
-The beauty of line-wise autocompletion is that we don’t have to know the location of the line we’re duplicating. We need to know only that it exists.
+Lo mejor del autocompletado de línea es que no tienes que saber la localizacióne exacta de la línea, simplemente debes saber que existe
 
-### Consejo 116 -   Autocomplete Filenames
+### Consejo 116 - Autocompleta nombres de ficheros
 
-Filename autocompletion is triggered by the `<C-x><C-f>` command. Just like in the shell, `cd -` switches to the previous working directory
+Comando `<C-x><C-f>`
 
-### Consejo 117 -   Autocomplete with Context Awareness
+`cd -` nos devuelve al directorio de trabajo anterior, igual que la shell
 
-Omni-completion is Vim’s answer to intellisense.
+### Consejo 117 - Autocompleta con noción del contexto
 
-## Chapter 20 Find and Fix Typos with Vim’s Spell Checker
+Omni-completion es la respuesta a Intellisense
 
-### Consejo 118 -   Spell Check Your Work
+## Chapter 20 - Busca y corrige errores ortográficos
 
-We can jump backward and forward between flagged words with the `[s` and `]s` commands
+### Consejo 118 - Comprueba la ortografiá de tu trabajo
 
-we can ask Vim for a list of suggested corrections by invoking the `z=` command.
+Puedes navegar palabras con errores ortográficos con `[s` o `]s`.
 
-- `]s` Jump to next spelling error
-- `[s` Jump to previous spelling error
-- `z=` Suggest corrections for current word
-- `zg` Add current word to spell file
-- `zw` Remove current word from spell file
-- `zug` Revert `zg` or `zw` command for current word
+Puedes pedirle a Vim una lista de posibles opciones con `z=`
 
-### Consejo 119 -   Use Alternate Spelling Dictionaries
+- `]s` salta al siguiente error
+- `[s` salta al anterior error
+- `z=` muestra correcciones para la palabra bajo el cursor
+- `zg` añade la palabra actual al diccionario
+- `zw` la borra
+- `zug` revierte `zg` or `zw` para la palabra actual
 
-We can change this by tweaking the `spelllang` option. This isn’t a global setting; `spelllang` is always local to the buffer.
+### Consejo 119 - Usa diccionarios alternativos
 
-### Consejo 120 -   Add Words to the Spell File
+Se hace a través de la opción `spelllang`. `spelllang` es siempre local al buffer
 
-### Consejo 121 -   Fix Spelling Errors from Insert Mode
+### Consejo 120 - Añade palabras al diccionario
 
-Alternatively, we could fix the error from Insert mode using the `<C-x>s` command,
+### Consejo 121 - Corrige errores desde el modo de inerción
 
-## Chapter 21 Now What?
+`<C-x>s`
 
-Apply Customizations to Certain Types of Files
+## Chapter 21 - Sabías que?
+
+Aplica personalizaciones a cierto tipo de ficheros
 
     if has("autocmd")
       filetype on
       autocmd FileType ruby setlocal ts=2 sts=2 sw=2 et
       autocmd FileType javascript setlocal ts=4 sts=4 sw=4 noet 
 
-We can have more than one autocommand listening for the same event.
+Puede haber varios autocomandos escuchando el mismo evento.
 
-Instead of declaring our JavaScript preferences in the vimrc using autocommands, we could place them in a file called ~/.vim/after/ftplugin/javascript.vim:
+En lugar de declarar nuestras preferencias JavaScript en `vimrc` , podemos guardarlas en `~/.vim/after/ftplugin/javascript.vim`
 
 
