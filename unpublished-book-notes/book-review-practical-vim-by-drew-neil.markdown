@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "Practical Vim"
-date: 
+date: 2016-07-17 16:49
 author: Ruben Chavarria
 comments: true
 categories: 
@@ -15,9 +15,9 @@ sidebar: true
 
 ###### de Drew Neil
 
-{% img left https://raw.githubusercontent.com/rchavarria/blog-post-incubator/master/published-book-notes/img/practical-vim.jpg %}
-
 ### Por qué lo he leído
+
+{% img left https://raw.githubusercontent.com/rchavarria/blog-post-incubator/master/published-book-notes/img/practical-vim.jpg %}
 
 Hace un tiempo decidí que quería [aprender a utilizar Vim]. Entre los muchos
 recursos para aprender se encontraba este libro, pero encontré más prácticos
