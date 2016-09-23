@@ -64,3 +64,23 @@ No importa lo que ingieras, lo que importa es lo que pasa a la sangre.
 
 Diferentes fuentes de calorías producen diferentes resultados. Influyen 3 variables: digestión, la proporción hidratos-proteína-grasa y el tiempo.
 
+El truco para conseguir cambios es realizar un seguimiento consistente, y es mejor hacer un seguimiento de cualquier cosa antes que no hacer seguimiento de nada.
+
+**Harajuku moment**: es el *click* que te hace falta para dejar de fumar, aprender inglés o empezar una dieta.
+
+> Desde hace tiempo, he sabido que la clave para comenzar el camino de ser extraordinario en cualquiercosa es simplemente actuar con la intención de ser extraordinario ~ Chad Fowler
+
+No hay que obsesionarse con la exactitud de los datos recogidos
+
+Construye tu GPS para la pérdida de grasa: mide tus circunferencias antes de empezar: medio-biceps, cintura (horizontal por el ombligo), cadera, ambas piernas. Estima tu índice de masa corporal a ojo. Mídelo con más precisión.
+
+A veces, toda lógica falla, por eso rompemos los compromisos con nosotros mismos tan a menudo.
+
+4 principios de comportamientos anti-fallos
+
+1. hazlo consciente: diario de ingestas, foto de comida que vas a comer
+2. hazlo como un juego: medidas, motivacion,...
+3. hazlo competitivo: acepta la presión de otros como tú
+4. hazlo pequeño y temporal: en lugar de correr 1h todos los días, corre 5min los primeros días
+
+
