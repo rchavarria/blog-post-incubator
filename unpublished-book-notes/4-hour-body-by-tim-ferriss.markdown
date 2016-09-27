@@ -83,4 +83,28 @@ A veces, toda lógica falla, por eso rompemos los compromisos con nosotros mismo
 3. hazlo competitivo: acepta la presión de otros como tú
 4. hazlo pequeño y temporal: en lugar de correr 1h todos los días, corre 5min los primeros días
 
+Unas cuantas acciones a tomar antes de empezar:
+
+1. Fotografíate en calzones. Convéncete de que esa es la peor foto que vas a tener. A partir de ahora, vas a mejorar
+2. Hazte la pregunta: ¿de verdad me voy a comer eso?
+3. ¿A quién puedo engañar a hacer esto conmigo?
+4. ¿Cómo me voy a medir?
+5. ¿Cuál es el cambio más pequeño, pero que tenga sentido, que puedo hacer? 
+
+En un gráfico, puedes representar cuatro curvas: peso máximo aceptable, peso objetivo, peso mínimo aceptable, peso real.
+
+# Capítulo: eliminar grasas. dieta baja en carbohidratos I
+
+Evita carbohidratos blancos
+Come las mismas pequeñas comidas una y otra vez. No hagas menús complicados.
+No bebas calorías
+No comas fruta
+Tómate un día de descanso a la semana
+
+Si tienes hambre, es que no estás comiendo suficientes proteínas o legumbres en cada comida.
+
+Metabolismo basal se incrementa un 20% si las calorías ingeridas en el desayuno son al menos un 30% proteínas (bueno, eso es fácil decir, difícil de demostrar)
+
+
+
 
