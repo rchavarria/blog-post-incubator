@@ -105,6 +105,22 @@ Si tienes hambre, es que no estás comiendo suficientes proteínas o legumbres e
 
 Metabolismo basal se incrementa un 20% si las calorías ingeridas en el desayuno son al menos un 30% proteínas (bueno, eso es fácil decir, difícil de demostrar)
 
+Errores comunes:
+
+1. No comer nada en la hora (o media hora) justo después de levantarse
+2. No comer suficientes proteínas
+3. No beber suficiente agua
+4. Comer demasiados frutos secos
+5. Consumir muchos edulcorantes artificiales (experimenta con especias, como canela o vainilla)
+
+El arte de darse un atracón:
+
+1. Minimiza la liberación de insulina
+1.a. que la primera comida del día no sea una comilona
+1.b. consume ácidos cítricos
+1.c. consume algo de fructosa antes del atracón (segunda comida del día)
+2. Acelera el proceso de vaciado de los intestinos (café, té verde, hierba mate)
+3. Realiza pequeñas contracciones musculares durante el día del atracón: sentadillas, flexiones contra la pared. Idealmente antes de comer y 90 minutos después. Se supone que esto ayuda a almacenar la energía en los músculos en lugar de las células grasas.
 
 
 
