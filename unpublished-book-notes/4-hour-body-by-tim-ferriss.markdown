@@ -122,5 +122,27 @@ El arte de darse un atracón:
 2. Acelera el proceso de vaciado de los intestinos (café, té verde, hierba mate)
 3. Realiza pequeñas contracciones musculares durante el día del atracón: sentadillas, flexiones contra la pared. Idealmente antes de comer y 90 minutos después. Se supone que esto ayuda a almacenar la energía en los músculos en lugar de las células grasas.
 
+Recomienda favorecer el crecimiento de flora intestinal *sana* y *reductora de grasa*. ¿Cómo?
+
+- Nada de edulcorantes
+- Ve a por alimentos fermentados: queso, natto japonés, kefir, kimchi, sauerkraut, pescado fermentado, yogur natural, té kombucha,...
+- Plantéate pro- y pre-bióticos (ajo, leeks y chicoria)
+
+Drogas:
+
+- Un preparado que llama PAGG (Policosanol, Alpha-lipoic acid, Green tea flavanols, Garlic extract)
+- EGCG (Epigallocatechin gallate) se encuentra en los tés verdes, se supone que evita el almacenamiento de azúcares sobrantes como grasas porque favorece que vayan a formar parte de los músculos.
+
+# Ice age
+
+- Hacer ejercicio pasando frío quema muchas más calorías
+
+# Glucosa
+
+El índice glicémico y la carga glicémica indican cómo ciertas comidas elevan el azúcar en sangre
+
+No cuénta cuando consumes las calorías, si no cuándo éstas llegan a las células (tarda unas 1.5h o 2.5h)
+
+
 
 
