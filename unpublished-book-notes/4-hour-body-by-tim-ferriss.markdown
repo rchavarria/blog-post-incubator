@@ -143,6 +143,18 @@ El índice glicémico y la carga glicémica indican cómo ciertas comidas elevan
 
 No cuénta cuando consumes las calorías, si no cuándo éstas llegan a las células (tarda unas 1.5h o 2.5h)
 
+Un alto contenido en grasa hunde los niveles de glucosa. Dice de comer algo de grasa buena antes del primer plato
 
+La fructosa tiene un efecto extendido de bajar los niveles de glucosa, lo que no quiere decir que ayude a perder grasa.
 
+El vinagre no, pero el zumo de limón ayuda a bajar los niveles de glucosa
 
+La canela también baja los niveles de glucosa, pero no se puede abusar de ella, hasta 4g al día
+
+Mças que la calidad, el tamaño y la velocidad de las comidas es lo que determina el nivel de glucosa. Lo mejor que puedes hacer es comer despacio
+
+Para perder peso más rápidamente, limita las subidas de azúcar por encima de los 100mg/dL a dos veces al día
+
+# Conclusión
+
+Dieta para perder peso, ejercicio para ganar músculo. Este sería el resumen del libro entero.
