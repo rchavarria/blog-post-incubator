@@ -28,3 +28,19 @@ La *review* en sí del libro. ¿Qué me ha parecido? ¿Lo recomendaría? ¿Me ha
 
 ### Notas tomadas
 
+#### Capítulo 1
+
+#### Capítulo 2: Diseñando clases con una única responsabilidad
+
+- Es fácil crear un software que funcione una vez, pero muy difícil hacer que sea sencillo aplicarle cambios durante mucho tiempo
+- Diseño es más el arte de preservar la *cambialidad* que el acto de alcanzar la perfección
+- Código que es fácil de cambiar, es código T.R.U.E.: transparente, razonable, usable y ejemplar (si encuentro alguna referencia más sobre ello, mejor)
+- Las aplicaciones que son fáciles de cambiar consisten en clases fáciles de reutilizar
+- Describe lo que hace la clase en una frase, si tienes que usar *y* u *o*, probablemente tenga más de una responsabilidad
+- Nunca vas a saber menos de lo que sabes ahora, y eso puede ser una razón para posponer una decisión de diseo
+- siempre existe una tension entre mejorarlo ahora o mejorarlo después. Un buen diseñador sabe minimizar los costes tomando decisiones valorando lo que sabe ahora y lo que sabrá en el futuro
+- Aplica SRP también a los métodos, no solo a las clases. Beneficios: fácil de cambiar, fácil de reutilizar
+- No tomes decisiones, pero mantén tus opciones de tomar decisiones más adelante
+
+#### Capítulo 3: Gestionando dependencias
+
