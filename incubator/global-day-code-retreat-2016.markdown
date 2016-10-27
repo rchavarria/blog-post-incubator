@@ -19,9 +19,13 @@ lo laboral, aunque sí con la profesión. Una definición tirando a formal serí
 
 (traducción libre de la definición de [Codretreat])
 
-{% img center img/2016/gdcr16.png %}
+{% img center images/2016/gdcr16.jpg %}
 
-Crédito: Global Day of Code Retreat 2016, por [Eduardo Ferro]
+<div style="text-align: center">
+  <span style="font-size: 60%">
+  Global Day of Code Retreat, por <a href="https://twitter.com/eferro">Eduardo Ferro</a>
+  </span>
+</div>
 
 <!-- more -->
 
