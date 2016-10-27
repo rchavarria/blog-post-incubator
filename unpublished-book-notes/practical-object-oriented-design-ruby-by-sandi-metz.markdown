@@ -44,3 +44,19 @@ La *review* en sí del libro. ¿Qué me ha parecido? ¿Lo recomendaría? ¿Me ha
 
 #### Capítulo 3: Gestionando dependencias
 
+- El reto al diseñar es hacer que cada clase tenga las menos dependencias posibles
+- las dependencias acoplan clases, hacen que funcionen como una única cosa, se mueven a la vez, **cambian** a la vez y dificulta la reutilización de uno de ellos
+- técnicas para reducir dependencias desacoplando el código:
+
+1. inyectar dependencias: las clases son más reutilizables cuanto menos saben de otras clases
+2. aislar dependencias: crear nuevos objetos en métodos a parte, encapsular llamadas a métodos de dependencias
+3. eliminar dependencias del orden de los argumentos. Usar un hash (o mapa) como única argumento. Aísla la llamada al método si no puedes modificarlo.
+
+- Gestiona la dirección de las dependencias: depende de cosas que cambien menos frecuentemente que tú. La dirección elegida va a depender de qué cambio va a sufrir cada parte. Si no hay cambios, da igual qué dirección elijamos. Depender de abstracciones es más seguro, porque por definición son más estables que las concrecciones
+- Para conocer las dependencias más interesantes nos fijamos en 3 aspectos: probabilidad del cambio, nivel de abstacción y número de dependencias (sobretodo de la 1ª y 3ª)
+- las dependencias más peligrosas son aquellas que cambian con frecuencia y muchas otras clases dependen de ellas
+- En resumen, gestionar dependencias es: inyectarlas, aislarlas y depender de abstracciones
+
+#### Capítulo 4: Creando interfaces flexibles
+
+
