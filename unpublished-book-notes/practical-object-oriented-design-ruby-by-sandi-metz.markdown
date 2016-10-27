@@ -59,4 +59,28 @@ La *review* en sí del libro. ¿Qué me ha parecido? ¿Lo recomendaría? ¿Me ha
 
 #### Capítulo 4: Creando interfaces flexibles
 
+- Una aplicación software está hecha de clases pero **definida** por mensajes. Los mensajes reflejan la *vida* (lo que está vivo) de la aplicación
+- La interfaz pública es un contrato que describe las responsabilidades de una clase
+- No hay que centrarse en los objetos de dominio, si no en los mensajes que se pasan entre ellos
+- Diseñar basado en mensajes crea aplicaciones más flexibles que diseñar pensando en objetos. En lugar de preguntarte: tengo un objeto ¿qué debería hacer?, deberías preguntarte tengo un mensaje, ¿a quién se lo envío?
+- No envías mensajes porque tienes objetos, tienes objetos porque necesitas enviar un mensaje a alguien
+- Pregunta *Qué* en lugar de decir *Cómo*. Una consecuencia de esto es que las interfaces públicas (dependencias al fin y al cabo) se reducen
+- Las cosas que una clase conoce conforman su **contexto**, lo cual tiene un efecto directo en lo fácil o difícil que es reusar (y por tanto testear) esa clase
+- Un objeto será muy fácil de reutilizar si:
+
+1. no sabe de quien depende (inyección de dependencias)
+2. no sabe qué hacen (tell, don't ask)
+
+- Al eliminar parte del contexto, unos objetos confían en los objetos recibidores de los mensajes enviados en que éstos realizarán las tareas correctas
+- **qué y cómo, contexto y confianza**
+- Llevar tu atención de clases a mensajes te permite diseñar tu aplicación construyéndola sobre interfaces públicas
+- La claridad de tus interfaces revelan tus habilidades como diseñador y reflejan tu autodisciplina, porque las interfaces evolucionan y nunca estarán perfectas porque los requisitos cambian
+- Los métoos públicos no lo son para que los demás puedan usarlos, si no porque son **estables**, y los privados son así porque son **inestables**
+- Si tu diseño te pide usar interfaces privadas de otros, re-piensa tu diseño. Si aún así debes seguir usándolas, aísla dependencias
+- Construye tus interfaces públicas intentando minimizar el contexto de los clientes de esas interfaces
+- Muchas de las violaciones de la *ley* de Demeter, fallan evaluando contra T.R.U.E.
+- No todas las violaciones de Demeter son iguales. Si sólo están implicadas clases muy estables, a lo mejor no es tan malo (por ejemplo, con clases como `String`, `Object`,...). Depende mucho de la estabilidad de la interfaz
+- El camino más rápido para evitar violaciones es la delegación. Pero la deleación no evita el acoplamiento que supone la violación. En su lugar, debemos tomar las violaciones como pistas de que hay objetos a cuyas interfaces públicas les faltan métodos. **Esto es diseñar pensando en mensajes y no en objetos**
+
+#### Capítulo 5: Reduciendo costes con tipado débil (duck typing)
 
