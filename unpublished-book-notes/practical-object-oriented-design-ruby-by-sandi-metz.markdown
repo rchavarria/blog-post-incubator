@@ -84,3 +84,9 @@ La *review* en sí del libro. ¿Qué me ha parecido? ¿Lo recomendaría? ¿Me ha
 
 #### Capítulo 5: Reduciendo costes con tipado débil (duck typing)
 
+- El objetivo de la POO es el de reducir el coste del cambio. A esto ayuda que los mensajes sean el centro de tu aplicación y saber que hay que diseñar con interfaces públicas muy pensadas.
+- El código concreto (cada clase con métodos diferentes) es fácil de entender, pero costoso de cambiar. El código abstracto puede parecer oscuro al principio, pero una vez entendido es mucho más fácil de cambiar.
+- Los *duck types* hacen tu código más abstracto
+
+#### Capítulo 6: Adquiriendo comportamiento a través de la herencia
+
