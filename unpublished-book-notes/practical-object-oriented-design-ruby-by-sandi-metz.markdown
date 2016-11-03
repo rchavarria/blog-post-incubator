@@ -90,3 +90,24 @@ La *review* en sí del libro. ¿Qué me ha parecido? ¿Lo recomendaría? ¿Me ha
 
 #### Capítulo 6: Adquiriendo comportamiento a través de la herencia
 
+- Los objectos autocontenidos, pequeños, con mínimo contexto, interfaces claras y dependencias inyectadas son **reutilizables** por naturaleza.
+- La herencia basada en clases es fundamentalmente una forma de delegar automáticamente los mensajes entre clases cuando una de ellas no los entiende
+- Cuando una clase pregunta por su tipo para saber qué mensaje debe enviarse a sí misma, es posible que algún subtipo (subclase) esté deseando aparecer, como en el caso del *duck typing*, que nuevos tipos o abstracciones gritaban por ser creados
+- ¿Qué problema resuelve la herencia? Tipos altamente relacionados pero que difieren en alguna dimensión
+- Cuando una lcase hereda de otra, hereda todo su comportamiento: público y privado, general y específico, abstracto y concreto
+- Para que una herencia funcione, debe de haber una relación de generalización-especialización, donde la especialización sea todo lo general y algo más
+- Crear una herencia tiene costes, y la mejor forma de minimizarlos es esperar todo lo posible para tener el máximo de conocimiento y dar con las abstracciones más adecuadas
+- La regla general de refactorizar a una herencia es colocar el código de tal forma que haya que promocionar abstracciones a las superclases, en lugar de *rebajar* concrecciones a las subclases
+- Toda decisión de diseño tiene dos costes: el de implementar el cambio y el de corregit la decisión si ésta fue equivocada, por lo que hay que preguntarse ¿qué pasará cuando esté equivocado?
+- El código para tareas parecidas debe seguir patrones parecidos
+- Crear código que falla con mensajes de error claros y útiles requiere poco esfuerzo en el presente pero proporciona valor para siempre
+- Forzar a una subclase a saber cómo y cuándo interactuar con su superclase siempre causa muchos problemas porque conocen el algoritmo de la superclase, están acoplados a ella, y si el algoritmo cambia, deben cambiar o pueden fallar
+- Para desacoplarlas se pueden usar *hook messages*, similares a los *factory methods*. Lo que hacen es devolver el control del algoritmo a la superclase, la superclase controla y sabe cuándo se deben hacer las cosas
+
+El libro está lleno de refactorizaciones muy conocidas, pero razonadas, hechas en el momento oportuno y explicadas con muchísima claridad. Es como si supiera tus razones para cambiar el código y las plasmara en palabras.
+
+#### Capítulo 7: Compartiendo comportamiento con módulos
+
+El capítulo habla de *roles*, de *papeles* jugados por las clases. Creo que voy a utilizar el término en inglés, para no perder significado en la traducción. Así que en este capítulo se habla de *role behaviour*.
+
+- 
