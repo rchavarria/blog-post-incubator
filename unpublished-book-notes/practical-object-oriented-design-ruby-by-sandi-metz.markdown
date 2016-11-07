@@ -110,4 +110,17 @@ El libro está lleno de refactorizaciones muy conocidas, pero razonadas, hechas 
 
 El capítulo habla de *roles*, de *papeles* jugados por las clases. Creo que voy a utilizar el término en inglés, para no perder significado en la traducción. Así que en este capítulo se habla de *role behaviour*.
 
+- Cada problema resuelto por la herencia puede ser resuelto de otra manera, debemos pensar en la manera más efectiva en cuanto a costes.
+- Los módulos en Ruby serían como los `trait`s en PHP, otra forma de compartir código, muy parecido a la herencia (de hecho las técnias de refactorización son las mismas), pero más desacoplado que la herencia.
+- Si una clase tiene una propiedad llamada `type` o `category` está pidiendo a gritos una herencia
+- Si hay código que pregunta por el tipo de un objeto para enviar un mensaje u otro, estamos necesitando *duck typing*, una abstracción
+- Cuando además del interfaz (*duck type*) necesitamos compartir comportamiento, necesitamos un *role* (módulo, trait, mixing,...)
+- El código de una clase abstracta o en un módulo debería ser usado en su totalidad por las sublcases, si no, estamos equivocados con la abstracción
+- Para que una herencia sea correcta, las subclases deben poder sustituir a sus superclases (Bárbara Liskov, SOLID)
+- La técnica fundamental para escribir código *heredable* es [*template method*](https://en.wikipedia.org/wiki/Template_method_pattern)
+- Evita escribir código que obliga a sus subclases a enviar el mensaje `super` (llamar al método `super()`)
+- No crees jerarquías profundas
+
+#### Capítulo 8: Combinando objetos con Composición
+
 - 
