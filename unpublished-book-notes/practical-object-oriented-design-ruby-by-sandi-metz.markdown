@@ -123,4 +123,26 @@ El capítulo habla de *roles*, de *papeles* jugados por las clases. Creo que voy
 
 #### Capítulo 8: Combinando objetos con Composición
 
+Impresionante ver cómo refactoriza una herencia a una composición de objetos: engloba una colección de objetos en una nueva clase, crea una factoría que crea cada una de las partes, simplifica las partes como dadas de configuación. De esta forma, añadir un uevo tipo no requiere una nueva clase, solamente nueva configuración
+
+- La herencia sólo es una forma de organizar el código, que a cambio de cierto acoplamiento, tenemos delegación automática de mensajes
+- La composición es otra forma de organizar el código donde cada parte e smás independiente, pero no tenemos delegacion automática de mensajes, se no que hay que hacerlo de forma explícita
+- Beneficios de la herencia (recordando las siglas T.R.U.E.): *reasonable* pequeños cambios en el top de la jerarquía pueden tener efectos muy potentes; *usable* las jerarquías cumplen con la **O** de *S.O.L.I.D.*, son open-closed; *exemplary* por naturaleza, la jerarquía indica cómo ir extendiendo el código
+- Costes de la herencia: los peores costes se producen cuando se usa la herencia para resolver el problema equivocado. En este caso tenemos los mismos beneficios, pero en negativo: un pequeño cambio tiene consecuencias muy graves, me fuerza a implementar una solución de una manera específica,...
+- Código creado con composición es *transparente* (T de *true*), suelen ser clases pequeñas con una única responsabilidad y suele ser fácil entenderlas. Son *usables* (U de *true*) porque son pequeños y enfocados. Son *razonables* (R de true) porque se pueden extender sin modificar
+- La composición es ideal para describir objetos que están hechos de varias partes pero no ayuda mucho a organizar el código para una serie de partes que son casi idénticas, porque no tiene delegación automática de mensajes
+- Eligiendo relaciones (herencia, roles/*duck typing*, composición)
+
+1. Herencia para relaciones *es-un* (is-a). Especialmente si la jerarquía es estrecha y tiene pocos niveles
+2. Role/duck type para relaciones *se-comporta-como* (behaves-like-a). Donde varios objetos no relacionados se quieren comportar del mismo modo
+3. Composición para relaciones *tiene-un* (has-a). Un objeto tiene varias partes pero es más que la suma de ellas, si no sería una colección y ya está
+
+- Las claves para que mejoren tus diseños son
+
+1. Acepta tus errores con alegría
+2. Mantente separado emocionalmente de decisiones de diseño pasadas
+3. Refactoriza sin piedad
+
+#### Capítulo 9: Diseñando tests efectivos en costes
+
 - 
