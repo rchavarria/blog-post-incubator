@@ -145,4 +145,18 @@ Impresionante ver cómo refactoriza una herencia a una composición de objetos: 
 
 #### Capítulo 9: Diseñando tests efectivos en costes
 
-- 
+- Desde un punto de vista práctico, la posibilidad de hacer cambios en el código es la única métrica de diseño que importa
+- 3 aspectos fundamentales para tener código modificable
+
+1. Código bien diseñado: de forma que es fácil modificarlo
+2. Buenas habilidades de refactorización: refactorizando es como se cambia de un diseño a otro
+3. Capacidad de escribir buenos tests: que te permitan refactorizar con impunidad
+
+- El verdadero objetivo del testing (como el del diseño) es el de reducir costes
+- Beneficios
+
+1. Encontrar bugs pronto (reduce costes) y ayuda a saber si algo va a ser posible hacerlo
+2. Reemplaza a la documentación: escribe tests como si tu futuro yo fuera a tener amnesia
+3. Posponer decisiones de diseño
+4. Ayudan a las abstracciones: porque son el único punto que ayudan a entenderlas. Tienes muchas abstracciones pequeñas y separadas, con los tests puedes comprender cómo interactúan
+5. Exponen fallos en el diseño: si el test es difícil de escribir, el objeto será difícil de reusar
