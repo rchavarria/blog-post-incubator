@@ -160,3 +160,21 @@ Impresionante ver cómo refactoriza una herencia a una composición de objetos: 
 3. Posponer decisiones de diseño
 4. Ayudan a las abstracciones: porque son el único punto que ayudan a entenderlas. Tienes muchas abstracciones pequeñas y separadas, con los tests puedes comprender cómo interactúan
 5. Exponen fallos en el diseño: si el test es difícil de escribir, el objeto será difícil de reusar
+
+- Para obtener el máximo valor de los tests, hay que tener el mínimo de ellos. Para ello, hay que testear cada cosa una sola vez, y en el lugar apropiado.
+
+1. Mensajes entrantes tipo *query* hay que testear el **estado** que devuelven
+2. Mensajes salientes tipo *command*, hay que testear que son llamados, cuantas veces y con qué parámetros
+3. Mensajes salientes tipo *query*, no se testean (ya los testearán los tests de otro objeto)
+
+- ¿Cuándo escribir tests? Antes que el código siempre que se pueda. Para los junior es difícil, porque escriben código muy acoplado, **los tests son formas de reusar código, y es difícil reusar código acoplado**.
+- Escribir los tests primero no es sustituto y no garantiza un buen diseño, pero la reusabilidad que dan es una muy buena mejora
+- Las applicaciones bien diseñadas son fáciles de cambiar, y los tests bien diseñados evitan ser cambiados siguiendo los cambios en el código, y todo esto reduce mucho los costes
+- Tus tests deberían conocer acerca del S.U.T., pero nada más, nada de objetos fuera del S.U.T. Es mala idea probar el S.U.T. desde el interior, se deben conocer sus límites, y se deben probar los mensajes salientes y entrantes.
+- Tu aplicación mejorará si borras código no usado. Ese código es dinero en negativo en efectivo, y cuesta mantenerlo y testearlo.
+- Los mensajes entrantes son el interfaz público de tus objetos
+- Los mensajes entrantes se prueban con tests de estado
+- Cuando solo hay una implementación de un role o duck type, es bueno inyectar la dependencia real al escribir los tests. Si hay muchas, ninguna (estamos haciendo BDD) o son muy lentas, tenemos que inventarnos una implementación *ideal* (tests doubles)
+- Los mensajes salientes tipo query (no tienen efectos colaterales) no hay que testearlos, serán tratados como mensajes entrantes en otros objetos
+- Los mensajes salientes tipo command: se debe comprobar que son llamados, pero no se debe comprobar el valor devuelto. Esos tests pertenecen al otro objeto como mensaje entrante. Si lo hacemos, estaremos duplicando tests y aumentando costes.
+
