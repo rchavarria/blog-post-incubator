@@ -177,4 +177,23 @@ Impresionante ver cómo refactoriza una herencia a una composición de objetos: 
 - Cuando solo hay una implementación de un role o duck type, es bueno inyectar la dependencia real al escribir los tests. Si hay muchas, ninguna (estamos haciendo BDD) o son muy lentas, tenemos que inventarnos una implementación *ideal* (tests doubles)
 - Los mensajes salientes tipo query (no tienen efectos colaterales) no hay que testearlos, serán tratados como mensajes entrantes en otros objetos
 - Los mensajes salientes tipo command: se debe comprobar que son llamados, pero no se debe comprobar el valor devuelto. Esos tests pertenecen al otro objeto como mensaje entrante. Si lo hacemos, estaremos duplicando tests y aumentando costes.
+- ¿Cómo testear roles/duck types? Al igual que reusábamos código con módulos (traits), también podemos compartir tests con módulos. Los tests en ese módulo comprobarán diferentes implementaciones del role donde se incluirá el módulo
+- Es muy efectivo usar estos *role tests* para comprobar que nuestros mocks juegan de verdad el role para el que son creados, solucionando así una posible desincronización entre los mocks y el role
 
+El último capítulo hablando de testear es oro puro, para releer muy de vez en cuando:
+
+1. Mensajes salientes
+2. Mensajes entrantes
+3. Mensajes privados
+4. Roles
+5. Herencia
+
+- Lo primero es comprobar que todas las clases de la herencia cumplan el *contrato*, cumplen Liskov. Se puede probar con un *role test*, con algo similar a eso
+- También se puede hacer lo mismo pero con los métodos que la superclase espera que se sobreescriban. En ruby puede ser fácil, pero en otros lenguajes puede ser imposible probar métodos protegidos/privados
+- Par cada subclase, se debe testear el funcionamiento de los métodos que especializan la subclase, como mensajes entrantes por ejemplo. Las técnicas comunes de test aplican. Eso sí, hay que hacerlo conociendo lo mínimo de la superclase
+- Para probar la superclase hay 2 opciones:
+
+1. Crear un stub con el framework de test
+2. Crear una nueva subclase lo más sencilla posible. Con la nueva subclase puede ser interesante hacer que pase los *role test*, al igual que lo hacen las demás subclases
+
+- **Los mejores tests están débilmente acoplados al código de producción y testean cada cosa una sola vez y en el lugar adecuado. Añaden valor sin incrementar los costes**
