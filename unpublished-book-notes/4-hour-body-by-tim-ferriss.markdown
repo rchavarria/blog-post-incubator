@@ -29,9 +29,11 @@ Aún así, con todo lo inusual de sus consejos, algunos me parece que tienen su 
 
 ### Qué he aprendido
 
-- dieta para perder, ejercicio para ganar musculo
-- MED concept
+Dieta para perder peso, ejercicio para ganar musculo
+
 Concepto de **Mínima Dosis Efectiva**: la mínima dosis que produce el resultado esperado. Cualquiercosa por encima de MED es desperdicio. Por ejemplo, para hervir agua necesitas hasta 100ºC. Todo lo que sobrepases esa temperatura no va a hacer que hierba más. O si necesitas 15 minutos de sol para activar la melanina, 4 horas friéndote en la playa no te van a poner mucho más moreno.
+
+Dieta básica baja en carbohidratos: evita carbohidratos blancos, come las mismas pequeñas comidas una y otra vez, no hagas menús complicados, no bebas calorías, no comas fruta, tómate un día de descanso a la semana
 
 ### Frases que me gustaría recordar
 
@@ -59,7 +61,15 @@ Concepto de **Mínima Dosis Efectiva**: la mínima dosis que produce el resultad
 
 <!-- more -->
 
+> Dieta básica baja en carbohidratos: evita carbohidratos blancos, come las mismas pequeñas comidas una y otra vez, no hagas menús complicados, no bebas calorías, no comas fruta, tómate un día de descanso a la semana
+
 <!-- more -->
+
+Alimentos que bajan el nivel de glucosa en sangre (aunque no quiere decir que adelgacen por sí mismos): alimentos con alto contenido graso, fructosa, zumo de limòn y canela
+
+<!-- more -->
+
+> Más que la cantidad, es el tamaño y la velocidad de las comidas que determina el nivel de glucosa. Lo mejor que puedes hacer es comer despacio.
 
 <!-- more -->
 
@@ -67,7 +77,7 @@ Concepto de **Mínima Dosis Efectiva**: la mínima dosis que produce el resultad
 
 - Todas las [notas sobre el libro]
 
-[titulo sobre el enlace a las notas]: foo-bar-foo-bar
+[notas sobre el libro]: foo-bar-foo-bar
 
 ### Notas tomadas
 
@@ -194,10 +204,11 @@ El vinagre no, pero el zumo de limón ayuda a bajar los niveles de glucosa
 
 La canela también baja los niveles de glucosa, pero no se puede abusar de ella, hasta 4g al día
 
-Mças que la calidad, el tamaño y la velocidad de las comidas es lo que determina el nivel de glucosa. Lo mejor que puedes hacer es comer despacio
+Más que la calidad, el tamaño y la velocidad de las comidas es lo que determina el nivel de glucosa. Lo mejor que puedes hacer es comer despacio
 
 Para perder peso más rápidamente, limita las subidas de azúcar por encima de los 100mg/dL a dos veces al día
 
 # Conclusión
 
 Dieta para perder peso, ejercicio para ganar músculo. Este sería el resumen del libro entero.
+
