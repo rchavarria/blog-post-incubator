@@ -1,7 +1,7 @@
 # The 4 hour body
 ## de Tim Ferriss
 
-[![The 4 hour body](img/4-hour-body-cover.jpeg)](https://www.amazon.com/4-Hour-Body-Uncommon-Incredible-Superhuman-ebook/dp/B003EI2EH2)
+[![The 4 hour body](img/4-hour-body-cover.jpeg)](https://www.amazon.es/Four-Hour-Body-Secrets-Transformation/dp/030746363X/)
 
 ### Por qué lo he leído
 
@@ -41,7 +41,7 @@ Dieta básica baja en carbohidratos: evita carbohidratos blancos, come las misma
 
 <!-- more -->
 
-> Es **tu responsabilidad**, no la de tu médico o dietista, aprender a qué es lo que mejor responde tu cuerpo. [algo así como: experimenta con tu cuerpo]
+> Es **tu responsabilidad**, no la de tu médico o dietista, aprender a qué es lo que mejor responde tu cuerpo (*algo así como: experimenta con tu cuerpo*)
 
 <!-- more -->
 
@@ -77,7 +77,10 @@ Alimentos que bajan el nivel de glucosa en sangre (aunque no quiere decir que ad
 
 - Todas las [notas sobre el libro]
 
-[notas sobre el libro]: foo-bar-foo-bar
+[notas sobre el libro]: https://github.com/rchavarria/blog-post-incubator/blob/master/published-book-notes/4-hour-body-by-tim-ferriss.markdown
+[Tim Ferriss]: http://fourhourworkweek.com/about/
+[the 4 hour workweek podcast]: http://fourhourworkweek.com/podcast/
+[The 4 hour body]: https://www.amazon.es/Four-Hour-Body-Secrets-Transformation/dp/030746363X/
 
 ### Notas tomadas
 
@@ -88,11 +91,11 @@ Cualquier dieta popular se puede resumir en estos 4 puntos:
 3. Haz más ejercicio y quema más calorías
 4. Come más ácidos grasos omega-3
 
-Para encontrar soluciones fuera de lo común debes buscar en lugares fuera de lo común. [Eso lo dice como para justificarse algunas barbaridades que pueda decir en el libro. No me parece ninguna justificación. Hay que tomar con cautela lo que cuenta este autor]
+Para encontrar soluciones fuera de lo común debes buscar en lugares fuera de lo común (*eso lo dice como para justificarse algunas barbaridades que pueda decir en el libro. No me parece ninguna justificación. Hay que tomar con cautela lo que cuenta este autor*)
 
 El objetivo del autor es compartir el 2.5% que consigue el 95% de los resultados para un rediseño corporal rápido (¿?) y una mejora en la eficiencia.
 
-Es **tu responsabilidad**, no la de tu médico o dietista, aprender a qué es lo que mejor responde tu cuerpo. [algo así como: experimenta con tu cuerpo]
+Es **tu responsabilidad**, no la de tu médico o dietista, aprender a qué es lo que mejor responde tu cuerpo. (*algo así como: experimenta con tu cuerpo*)
 
 Concepto de **Mínima Dosis Efectiva**: la mínima dosis que produce el resultado esperado. Cualquiercosa por encima de MED es desperdicio. Por ejemplo, para hervir agua necesitas hasta 100ºC. Todo lo que sobrepases esa temperatura no va a hacer que hierba más. O si necesitas 15 minutos de sol para activar la melanina, 4 horas friéndote en la playa no te van a poner mucho más moreno.
 
