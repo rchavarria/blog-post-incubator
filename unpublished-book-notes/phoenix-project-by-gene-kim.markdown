@@ -1,22 +1,27 @@
 ﻿--
 layout: post
-title: "book title"
+title: "The Phoenix project"
 date: 
 author: Rubén Chavarría
 comments: true
 categories: 
-- personal
 - book reviews
+- lean
+- agile
+- devops
 published: true
 footer: false
 sidebar: true
 ---
 
-##### de <el autor>
+##### de Gene Kim
 
-{% img left http://s1.hubimg.com/u/11789820_f260.jpg 260 392 Stop stealing dreams %}
+{% img left /images/2017/phoenix-project.png %}
 
 ## Por qué lo he leído
+
+1. Similar a [The goal]
+2. Encontrado en el blog de Eduardo Ferro
 
 <!-- more -->
 
@@ -28,29 +33,40 @@ sidebar: true
 
 ## Qué he aprendido
 
-## Frases que me gustaría recordar
+> La única cosa más peligrosa que un desarrollador, es un desarrollador conspirando sobre temas de seguridad
+
+> Eliyahu M. Goldratt, quien creó la teoría de las restricciones, nos mostró que cualquier mejora echa en cualquier sitio que no sea el cuello de botella es una ilusión, es inútil
+
+> Los tiempos de espera dependen de la utilización del recurso
+
+> La necesidad reducir contínuamente los ciclos de tiempo es parte del *Primer Camino*. La necesidad de la amplificación de los bucles de *feedback* (o realimentación), idealmente desde el cliente, es parte del *Segundo Camino*. El *Tercer Camino* va de asegurarnos de estar introduciendo tensión continuamente en el sistema, de forma que estamos contínuamente reforzando hábitos y mejorando algo
 
 ## Recursos relacionados
 
 [titulo sobre el enlace a las notas]: foo-bar-foo-bar
 
-# Notas tomadas
+--- --- --- --- --- --- --- --- --- --- --- --- ---
 
----
+# The Phoenix project
+## Gene Kim
 
-me parto de risa
+### Notas tomadas
 
-The only thing more dangerous than a developer is a developer conspiring with Security.
+[![The Phoenix project](/img/phoenix-project.png)](http://link-to-amazon-or-whatever)
 
-them: the Theory of Constraints, Lean production or the Toyota Production System, and Total Quality Management. Although each movement started in different places, they all agree on one thing: WIP is the silent killer.
+Una cita que me pareció muy, muy graciosa:
 
-“Eliyahu M. Goldratt, who created the Theory of Constraints, showed us how any improvements made anywhere besides the bottleneck are an illusion.
+> La única cosa más peligrosa que un desarrollador, es un desarrollador conspirando sobre temas de seguridad
 
-The Third Way is all about ensuring that we’re continually putting tension into the system, so that we’re continually reinforcing habits and improving something. Resilience engineering tells us that we should routinely inject faults into the system, doing them frequently, to make them less painful. “Mike Rother says that it almost doesn’t matter what you improve, as long as you’re improving something. Why? Because if you are not improving, entropy guarantees that you are actually getting worse,
+Cada uno de estos movimientos: teoría de las restricciones, producción lean, sistema de produción Toyota y gestión integral de la calidad; comenzaron en distintos lugares, pero aún así todos ellos están de acuerdo en algo: el trabajo en curso (W.I.P.) es el asesino de la productividad.
 
-wait times depend upon resource utilization. “The wait time is the ‘percentage of time busy’ divided by the ‘percentage of time idle.’ In other words, if a resource is fifty percent busy, then it’s fifty percent idle. The wait time is fifty percent divided by fifty percent, so one unit of time. Let’s call it one hour. So, on average, our task would wait in the queue for one hour before it gets worked. “On the other hand, if a resource is ninety percent busy, the wait time is ‘ninety percent divided by ten percent’, or nine hours. In other words, our task would wait in queue nine times longer than if the resource were fifty percent idle.”
+Eliyahu M. Goldratt, quien creó la teoría de las restricciones, nos mostró que cualquier mejora echa en cualquier sitio que no sea el cuello de botella es una ilusión, es inútil.
 
-I think about how odd it is that even a discipline like sales, known for its chaotic and unpredictable nature, is more predictable than IT. There’s at least a predictable funnel that comes from marketing campaigns, generating prospects, leads, qualified leads, and sales opportunities that leads to a sales pipeline.
+El *Tercer Camino* va de asegurarnos de estar introduciendo tensión continuamente en el sistema, de forma que estamos contínuamente reforzando hábitos y mejorando algo. La ingeniería tolerante a fallos nos dice que debemos inyectar fallos en el sistema de forma periódica, y hacerlo frecuentemente, para hacer que sean menos dolorosos cuando ocurran de verdad. Mike Rother dice que casi no importa qué es lo que mejores, siempre y cuando estés mejorando algo. ¿Por qué? Porque si no te encuentras mejorando nada, la simple entropía te garantiza de que estás empeorando.
 
-The need to continually reduce cycle times is part of the First Way. The need for amplification of feedback loops, ideally from the customer, is part of the Second Way.
+Los tiempos de espera dependen de la utilización del recurso. El tiempo de espera es el *porcentaje del tiempo ocupado* dividido entre el *porcentaje del tiempo libre*. Por ejemplo, si un recurso está 50% ocupado, estará 50% libre, lo que nos da un tiempo de espera `1`, digamos que de 1 hora, o que de media, una tarea esperará 1 hora en cola a ser procesada. Por el contrario, si un recurso está al 90% ocupado y 10% libre, su tiempo de espera será de 9 horas. En otras palabras, nuestra tarea estará de media 9 veces más tiempo en espera que si el recurso estuviera ocupado el 50% del tiempo.
+
+Suele pensar en lo inusual que es que una disciplina como *ventas*, conocida por su caos y su naturaleza impredecible, sea más predecible que T.I. Al menos, tienen un *funnel* predecible que viene de campañas de márketing, generación de prospectos, *leads*, *leads* cualificados y finalmente oportunidades de ventas que nos lleva a tener una *pipeline* de ventas.
+
+La necesidad reducir contínuamente los ciclos de tiempo es parte del *Primer Camino*. La necesidad de la amplificación de los bucles de *feedback* (o realimentación), idealmente desde el cliente, es parte del *Segundo Camino*.
 
