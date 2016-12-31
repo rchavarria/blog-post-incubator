@@ -1,4 +1,4 @@
-﻿--
+﻿---
 layout: post
 title: "The Phoenix project"
 date: 
@@ -20,53 +20,84 @@ sidebar: true
 
 ## Por qué lo he leído
 
-1. Similar a [The goal]
-2. Encontrado en el blog de Eduardo Ferro
+Había visto varias referencias al libro por Twitter, blogs y distintos
+podcasts. Sabía que el libro era muy similar a [La meta], de Eliyahu M.
+Goldratt, un libro que me gustó bastante.
+
+Así que, tras ver que [Eduardo Ferro] también lo había leído, me decidí a
+leerlo yo también.
 
 <!-- more -->
 
 ## Qué esperaba
 
+No creo que se pudiera esperar tanto como de [La meta]. Ese libro es un recurso
+más que recomendable para conocer la [Teoría de las restricciones]. Pero
+esperaba algo similar enfocado en el mundo del software.
+
+Esperaba una historia de éxito de una persona o grupo de personas que van
+superando problemas, uno tras otro, donde el autor los aproveche para explicar
+su punto de vista y dar forma a las teorías que quiere explorar.
+
 ## Qué encontre
+
+Más o menos lo que esperaba. A través de una historia llena de problemas a
+solucionar, el autor expone las teorías que quiere difundir. Estas teorías
+están relacionadas con el desarrollo de software y más concretamente con el
+mundillo DevOps.
+
+En realidad, el autor defiende unas prácticas que son la fundación del
+movimiento DevOps, pero para llegar hasta ahí, el protagonista de la historia
+comienza con un ascenso que le lleva a ser el director del departamento de TI
+de una empresa que no destaca por su gestión de servicios tecnológicos, pero
+que solucionando problema tras problema, y con la ayuda de una figura un poco
+enigmática (muy al estilo de *La meta*), va mejorando hasta hacer del
+departamento y la empresa un lugar mucho mejor.
 
 ## Conclusiones
 
+Por un lado, el libro me ha gustado. Es un libro sobre el mundo del desarrollo
+de software, muy al estilo de *La meta*, que también me gustó. Y describe el
+proceso que sigue una empresa ficticia de ser un desastre, a ser una empresa
+envidiable en su sector.
+
+Pero por otro, me ha decepcionado un poco. Esperaba que estuviera más centrado
+en el desarrollo, pero está más centrado en la gestión y provisión de servicios
+de TI. No es nada malo, pero estoy más interesado en lo primero.
+
+De todas formas, el libro es interesante, sobre todo si quieres conocer cómo
+hacer bien las cosas en un departamento de TI. Creo que este libro es una buena
+aproximación al mundo DevOps. Pero no deja a los desarrolladores en muy buen
+lugar, así que si eres desarrollador, no te tomes todas las cosas que dicen
+sobre nosotros muy a pecho.
+
 ## Qué he aprendido
 
-> La única cosa más peligrosa que un desarrollador, es un desarrollador conspirando sobre temas de seguridad
+> La única cosa más peligrosa que un desarrollador, es un desarrollador
+> conspirando sobre temas de seguridad
 
-> Eliyahu M. Goldratt, quien creó la teoría de las restricciones, nos mostró que cualquier mejora echa en cualquier sitio que no sea el cuello de botella es una ilusión, es inútil
+> Eliyahu M. Goldratt, quien creó la teoría de las restricciones, nos mostró
+> que cualquier mejora echa en cualquier sitio que no sea el cuello de botella
+> es una ilusión, es inútil
 
 > Los tiempos de espera dependen de la utilización del recurso
 
-> La necesidad reducir contínuamente los ciclos de tiempo es parte del *Primer Camino*. La necesidad de la amplificación de los bucles de *feedback* (o realimentación), idealmente desde el cliente, es parte del *Segundo Camino*. El *Tercer Camino* va de asegurarnos de estar introduciendo tensión continuamente en el sistema, de forma que estamos contínuamente reforzando hábitos y mejorando algo
+> La necesidad reducir contínuamente los ciclos de tiempo es parte del *Primer
+> Camino*. La necesidad de la amplificación de los bucles de *feedback* (o
+> realimentación), idealmente desde el cliente, es parte del *Segundo Camino*.
+> El *Tercer Camino* va de asegurarnos de estar introduciendo tensión
+> continuamente en el sistema, de forma que estamos contínuamente reforzando
+> hábitos y mejorando algo
 
 ## Recursos relacionados
 
-[titulo sobre el enlace a las notas]: foo-bar-foo-bar
+- [La meta], de Eliyahu M. Goldratt
+- [Notas sobre el libro]
+- Blog de [Eduardo Ferro]
+- [Teoría de las restricciones]
 
---- --- --- --- --- --- --- --- --- --- --- --- ---
-
-# The Phoenix project
-## Gene Kim
-
-### Notas tomadas
-
-[![The Phoenix project](/img/phoenix-project.png)](http://link-to-amazon-or-whatever)
-
-Una cita que me pareció muy, muy graciosa:
-
-> La única cosa más peligrosa que un desarrollador, es un desarrollador conspirando sobre temas de seguridad
-
-Cada uno de estos movimientos: teoría de las restricciones, producción lean, sistema de produción Toyota y gestión integral de la calidad; comenzaron en distintos lugares, pero aún así todos ellos están de acuerdo en algo: el trabajo en curso (W.I.P.) es el asesino de la productividad.
-
-Eliyahu M. Goldratt, quien creó la teoría de las restricciones, nos mostró que cualquier mejora echa en cualquier sitio que no sea el cuello de botella es una ilusión, es inútil.
-
-El *Tercer Camino* va de asegurarnos de estar introduciendo tensión continuamente en el sistema, de forma que estamos contínuamente reforzando hábitos y mejorando algo. La ingeniería tolerante a fallos nos dice que debemos inyectar fallos en el sistema de forma periódica, y hacerlo frecuentemente, para hacer que sean menos dolorosos cuando ocurran de verdad. Mike Rother dice que casi no importa qué es lo que mejores, siempre y cuando estés mejorando algo. ¿Por qué? Porque si no te encuentras mejorando nada, la simple entropía te garantiza de que estás empeorando.
-
-Los tiempos de espera dependen de la utilización del recurso. El tiempo de espera es el *porcentaje del tiempo ocupado* dividido entre el *porcentaje del tiempo libre*. Por ejemplo, si un recurso está 50% ocupado, estará 50% libre, lo que nos da un tiempo de espera `1`, digamos que de 1 hora, o que de media, una tarea esperará 1 hora en cola a ser procesada. Por el contrario, si un recurso está al 90% ocupado y 10% libre, su tiempo de espera será de 9 horas. En otras palabras, nuestra tarea estará de media 9 veces más tiempo en espera que si el recurso estuviera ocupado el 50% del tiempo.
-
-Suele pensar en lo inusual que es que una disciplina como *ventas*, conocida por su caos y su naturaleza impredecible, sea más predecible que T.I. Al menos, tienen un *funnel* predecible que viene de campañas de márketing, generación de prospectos, *leads*, *leads* cualificados y finalmente oportunidades de ventas que nos lleva a tener una *pipeline* de ventas.
-
-La necesidad reducir contínuamente los ciclos de tiempo es parte del *Primer Camino*. La necesidad de la amplificación de los bucles de *feedback* (o realimentación), idealmente desde el cliente, es parte del *Segundo Camino*.
+[La meta]: /blog/2013/04/10/la-meta
+[Notas sobre el libro]: https://github.com/rchavarria/blog-post-incubator/blob/master/published-book-notes/phoenix-project-by-gene-kim.markdown
+[Eduardo Ferro]: http://www.eferro.net/2016/03/some-books-i-recently-read.html
+[Teoría de las restricciones]: https://es.wikipedia.org/wiki/Teor%C3%ADa_de_las_limitaciones
 
