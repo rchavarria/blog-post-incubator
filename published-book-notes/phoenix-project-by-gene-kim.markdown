@@ -1,9 +1,9 @@
-﻿# The Phoenix project
+# The Phoenix project
 ## Gene Kim
 
 ### Notas tomadas
 
-[![The Phoenix project](/img/phoenix-project.png)](http://link-to-amazon-or-whatever)
+[![The Phoenix project](img/phoenix-project.png)](https://www.amazon.es/Phoenix-Project-Helping-Business-English-ebook/dp/B00AZRBLHO/)
 
 Una cita que me pareció muy, muy graciosa:
 
