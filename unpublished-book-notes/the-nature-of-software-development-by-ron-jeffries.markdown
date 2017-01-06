@@ -1,6 +1,33 @@
 ﻿# Frases que quiero recordar
 
-> **valor es lo que uno quiere**
+> Valor es lo que uno quiere
+
+> Un experto excelentemente remunerado no debería ser remunerado solamente porque es un experto. Debería ser excelentemente remunerado por ayudar a otras personas a que se conviertan en expertos.
+
+> Las cosas van mejor si cada funcionalidad, también llamada *historia*, sólo tardamos **dos o tres** días en implementarla.
+
+> El estilo de *funcionalidad a funcionalidad* incluye un ciclo completo de desarrollo en cada iteración: requisitos, diseño, codificación y testeo.
+
+> Podemos construir todo el diseño primero, o podemos construir cada funcionalidad completamente de una en una, cada una con su base. Lo que no podemos hacer es construir toda la base al principio, así como tampoco podemos construir todas las funcionalidades al principio. Es de lejos mucho más seguro construir una versión simple pero funcional de cada funcionalidad primero.
+
+> Trabajamos incrementalmente. Necesitamos un buen diseño relativamente pronto, pero solo necesitamos un **pequeño** buen diseño.
+
+> Para obtener la mejor calidad, un progreso continuado y una gran predictabilidad, los tests y las refactorizaciones son la mejor forma conocida de trabajar.
+
+> Toma cada posible idea como una posible forma de comenzar a hacer cosas durante un tiempo. Luego, haz tuyo el proceso, y construye tus propias ideas. ¡Pero mantenlo simple!
+
+> Nuestro trabajo no es ceñirnos al plan, es ir corrigiendo el curso para obtener el mejor resultado, no llegar a algún punto fijo.
+
+> Lo hacemos mejor no cuando predecimos cuándo habremos terminado, si no cuando elegimos cuándo está terminado (pero es que debemos mantenernos siempre en un estado de *terminado* de forma constante)
+
+> Necesitamos un progreso constante, regular e ininterrumpido. Para mantener un progreso ininterrumpido, necesitamos un diseño claro y limpio todo el tiempo. Y para conseguirlo, necesitamos refactorizar nuestro código.
+
+> La palabra refactorizar se refiere al proceso simple y regular de mantener el código limpio. Cuando la carretera se convierte en un camino intrincado, lo enderezamos refactorizando el código.
+
+# Referencias
+
+- [The fundamental theorem of Agile Software Development], de J.B.Rainsberger
+- [Notas sobre The nature of Software development]
 
 # The nature of software development
 ### by Ron Jeffries
@@ -93,7 +120,7 @@ El estilo de "funcionalidad a funcionalidad" incluye un ciclo completo de desarr
 
 Hay que eliminar la fase de testeo y corrección, testeo y corrección.
 
-Esta fase puede incluso ocurrir cuando estamos trabajando de la forma funcionalidad a funcionalidad, si als funcionalidades no están realmente completadas al final del ciclo.
+Esta fase puede incluso ocurrir cuando estamos trabajando de la forma funcionalidad a funcionalidad, si las funcionalidades no están realmente completadas al final del ciclo.
 
 Para que este método funcione, el producto debe de estar libre de defectos prácticamente todo el tiempo.
 
@@ -109,13 +136,13 @@ Consideremos varias opciones: podemos construir todo el diseño primero, o podem
 
 Cualquier defecto en nuestras funcionalidades se acumulan como funcionalidades en negativo. Reducen nuestra línea de progreso aparente. La reparación de defectos añaden retrasos desconocidos. Repara sobre la marcha para proporcionar claridad a lo que está hecho. (*cuantos más defectos, más grande será la incertidumbre sobre dónde nos encontramos*)
 
-Recuerda, estamos trabajando incrementalmente. Necesitamos un buen diseño relativamente pronto, pero solo necesitamos un pequeño buen diseño.
+Recuerda, estamos trabajando incrementalmente. Necesitamos un buen diseño relativamente pronto, pero solo necesitamos un **pequeño** buen diseño.
 
 El diseño puede deteriorarse fácilmente. Se requiere habilidad y cariño para mantener nuestro proyecto con vida. Conforme el proyecto va creciendo, las funcionalidades crecen con él, y debemos de hacer crecer el diseño que soporta esas funcionalidades.
 
 Para mantener el diseño en buen estado, necesitamos mejorarlo sobre la marcha. Lo que no funciona, es dejar el diseño a su antojo.
 
-Los tests y las refacotorizaciones trabajan juntos para hacer posible el desarrollo funcionalidad a funcionalidad. Para obtener la mejor calidad, un progreso continuado, una gran predictabilidad, los tests y las refactorizaciones son la mejor forma conocida de trabajar.
+Los tests y las refactorizaciones trabajan juntos para hacer posible el desarrollo funcionalidad a funcionalidad. Para obtener la mejor calidad, un progreso continuado, una gran predictabilidad, los tests y las refactorizaciones son la mejor forma conocida de trabajar.
 
 ## Capítulo 9: Se cierra el círculo
 
@@ -127,7 +154,7 @@ Siéntate con tus desarrolladores y cliente. Seleccionad una combinación de las
 
 ## Capítulo 12: ¡Por supuesto que es difícil!
 
-Toma cada posible idea como una posible forma de comenzar a hacer cosas durante un tiempo. Luego, haz tuyo el proceso, y construye tus propias ideas. ¡Pero manténlo simple! (*Se puede entender esto como una forma de conseguir hacer un trabajo, por muy difícil que sea: hacerlo poco a poco, de forma incremental, aprendiendo en el camino, y haciéndolo nuestro, no simplemente siguiendo una receta*)
+Toma cada posible idea como una posible forma de comenzar a hacer cosas durante un tiempo. Luego, haz tuyo el proceso, y construye tus propias ideas. ¡Pero mantenlo simple! (*Se puede entender esto como una forma de conseguir hacer un trabajo, por muy difícil que sea: hacerlo poco a poco, de forma incremental, aprendiendo en el camino, y haciéndolo nuestro, no simplemente siguiendo una receta*)
 
 ## Capítulo 13: No es tan sencillo
 
@@ -142,6 +169,7 @@ El dueño del producto proporciona propósito, dirección, hacia dónde debemos 
 Con la autonomía real, nadie supervisa al equipo: ellos deciden, ellos construyen, y todos vemos los resultados.
 
 La maestría viene con el proceso iterativo. En cada iteración, nos reunimos y echamos la vista atrás para ver cómo fueron las cosas y determinar cómo lo podemos hacer mejor. De esta forma nos movemos hacia la maestría.
+
 ## Capítulo 15: El método de las 5 cartas para una predicción inicial
 
 ## Capítulo 16: Gestionando el desarrollo natural del software
