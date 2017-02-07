@@ -57,6 +57,16 @@ Para elegir un experto que te asesore, haz como las grandes empresas en sus comp
 
 ## Capítulo 05: libertad financiera
 
+> La libertad financiera te permite ir todos los días a trabajar con una sonrisa en al cara
+
+<!-- -->
+
+> Dedicarte a lo que te gusta, pasar tiempo con la gente que quieres
+
+<!-- -->
+
+> Y hacer realidad tus sueños en la vida
+
 ## Capítulo 06: construir tu libertad financiera
 
 www.tenpeorcochequetuvecino.com
