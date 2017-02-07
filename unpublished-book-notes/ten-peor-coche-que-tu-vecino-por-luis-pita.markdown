@@ -105,6 +105,12 @@ Cuando vayas a comprar algo de más de 100€ pregúntate:
 
 ## Capítulo 08: preahorra al menos la décima parte de tu sueldo
 
+> Preahorrar consiste en pedirle a tu banco que todos los primeros de mes separe una parte de tu sueldo y la ponga automáticamente en una cuenta de ahorro
+
+<!-- -->
+
+> Es diez veces más efectivo que ahorrar de la forma tradicional, y encima no te obliga a hacer un esfuerzo contínuo de voluntad
+
 ## Capítulo 09: ahorra tus subidas de sueldo
 
 ## Capítulo 10: no te endeudes
