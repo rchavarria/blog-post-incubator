@@ -113,6 +113,12 @@ Cuando vayas a comprar algo de más de 100€ pregúntate:
 
 ## Capítulo 09: ahorra tus subidas de sueldo
 
+> La espiral del gasto creciente es imparable: cuando ganas el doble, gastas el doble
+
+<!-- -->
+
+> Ahorrando tus subidas de sueldo rompes la espiral del gasto y construyes tu libertad financiera rápidamente
+
 ## Capítulo 10: no te endeudes
 
 Pagar a plazos suele significar pagar un 10% más.
