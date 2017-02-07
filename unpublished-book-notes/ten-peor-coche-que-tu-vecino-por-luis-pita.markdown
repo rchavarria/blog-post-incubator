@@ -5,9 +5,21 @@
 
 > La vida está llena de gente diciéndote que tienes que comprar tal producto para ser feliz o conducir n coche como el vecino para sentir que has alcanzado el éxito
 
+<!-- -->
+
 > Es muy fácil dejarse llevar y terminar siendo un hombre gris que no puede vivir la vida, que no quiere lanzarse a cumplir sus sueños por temor a no llegar a fin de mes
 
 ## Capítulo 02: el secreto para ser feliz
+
+> El secreto para cumplir tus sueños en la vida no es tener valor para tirarte al vacío. El secreto es construir una buena red de seguridad debajo, que te permita lanzarte a por tus sueños sin temor a caerte
+
+<!-- -->
+
+> Esta red de seguridad se llama libertad financiera, es el número de meses que pueees vivir sinredcir tu nivel de vida si hoy mismo dejas tu trabajo
+
+<!-- -->
+
+> Tener libertad financiera es mucho mejor que tener coches de lujo o una casa en el caribe. Cuando eres libre y vives la vida que quieres, no necesitas juguetes para demostrar a los demás que has alcanzado el éxito
 
 No hay que ser valiente, no hay que tener valor, hay que tener una red de seguridad,
 que nos permita tener cierta libertad financiera, es decir, el número de meses que
