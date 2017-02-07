@@ -3,6 +3,10 @@
 
 ## Capítulo 01: el hombre gris
 
+> La vida está llena de gente diciéndote que tienes que comprar tal producto para ser feliz o conducir n coche como el vecino para sentir que has alcanzado el éxito
+
+> Es muy fácil dejarse llevar y terminar siendo un hombre gris que no puede vivir la vida, que no quiere lanzarse a cumplir sus sueños por temor a no llegar a fin de mes
+
 ## Capítulo 02: el secreto para ser feliz
 
 No hay que ser valiente, no hay que tener valor, hay que tener una red de seguridad,
