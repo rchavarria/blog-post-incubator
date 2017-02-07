@@ -69,6 +69,16 @@ Para elegir un experto que te asesore, haz como las grandes empresas en sus comp
 
 ## Capítulo 06: construir tu libertad financiera
 
+> Libertad financiera = suma de dinero disponible / gasto mensual
+
+<!-- -->
+
+> Ser libre financieramente es mucho mejor que ganar mucho dinero
+
+<!-- -->
+
+> Ser libre financieramente te permite lanzarte a cumplir tus sueños, tener más éxito profesional y vivir tranquilo
+
 www.tenpeorcochequetuvecino.com
 
 Pasos para conseguir la libertad financiera:
