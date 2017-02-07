@@ -143,6 +143,16 @@ Evita tener tarjetas de crédito, intenta usar solamente tarjetas de débito.
 
 ## Capítulo 11: y si necesitas endeudarte...
 
+> Si necesitas endeudarte, intenta que la cantidad total de interés a pagar sea baja, no la cuota mensual
+
+<!-- -->
+
+> Para tu hipoteca, busca un tipo de interés anual bajo y un período de pago inferior a 15 años
+
+Para comparar hipotecas, rellena la tabla (tabla con datos sobre hipotecas):
+
+[![]]()
+
 La clave de un préstamo no es la cuota mensual, es la cantidad (en %) de
 intereses que vas a pagar.
 
