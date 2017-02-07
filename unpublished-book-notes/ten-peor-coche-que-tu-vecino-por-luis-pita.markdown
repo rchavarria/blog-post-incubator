@@ -151,7 +151,7 @@ Evita tener tarjetas de crédito, intenta usar solamente tarjetas de débito.
 
 Para comparar hipotecas, rellena la tabla (tabla con datos sobre hipotecas):
 
-[![]]()
+![Tabla comparativa hipotecas](mortgage-comparison-table.png)
 
 La clave de un préstamo no es la cuota mensual, es la cantidad (en %) de
 intereses que vas a pagar.
