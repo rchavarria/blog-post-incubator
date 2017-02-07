@@ -121,6 +121,12 @@ Cuando vayas a comprar algo de más de 100€ pregúntate:
 
 ## Capítulo 10: no te endeudes
 
+> Las deudas te exclavizan, te hacen vivir por encima de tus posibilidades y pagar más caro todo lo que compras
+
+<!-- -->
+
+> Si quieres reducir tu nivel de deuda, utiliza el método de cascada: empieza por la más pequeña, una vez la liquides, tuiliza el dinero que antes pagabas por esa deuda para liquidar la siguiente
+
 Pagar a plazos suele significar pagar un 10% más.
 
 Riesgos de endeudarte:
