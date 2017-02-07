@@ -27,6 +27,16 @@ podríamos seguir con el mismo nivel de vida si no tuviéramos ningún ingreso
 
 ## Capítulo 03: ahorrar no funciona, el secreto es preahorrar
 
+> Ahorrar no funciona porque requiere un esfuerzo enorme de voluntad para resistir la tentación de gastar el dinero que tenemos en el bolsillo
+
+<!-- -->
+
+> El secreto es preahorrar: evita que tengamos que luchar contra la tentación de gastar. Es una forma de ahorrar de forma automática.
+
+<!-- -->
+
+> Cuanta más libertad financiera tienes, más éxito alcanzas en tu trabajo porque te permite ser más tú mismo
+
 Preahorrar (ahorrar automáticamente) al menos el 10% de tus ingresos netos.
 
 Que cuanto más tienes preahorrado más éxito tienes en tu trabajo habría que verlo.
