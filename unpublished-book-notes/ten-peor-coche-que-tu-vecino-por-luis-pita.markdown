@@ -89,6 +89,12 @@ Pasos para conseguir la libertad financiera:
 
 ## Capítulo 07: ten peor coche que tu vecino
 
+> Las personas verdaderamente exitosas no necesitan conducir un coche último modelo para aparentar ante los demás el éxito que tienen
+
+<!-- -->
+
+> Tener peor coche que tu vecino significa vivir por debajo de tus posibilidades, no dejarte arrastrar por lo que hacen los demás, sino gastar el dinero en lo que te hace feliz a ti
+
 Haz las cuentas sobre lo que cuesta comprar un coche nuevo y uno de segunda mano.
 Ahorra e invierte la diferencia.
 
