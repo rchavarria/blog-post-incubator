@@ -45,6 +45,16 @@ aspecto.
 
 ## Capítulo 04: el poder del interés compuesto
 
+> Con el interés compuesto, tus inversiones son como una bola de nieve: aunque empieces por poco, con el tiempo se hacen inmensas
+
+<!-- -->
+
+> La relga de oro para invertir: invierte solo en lo que conoces. Y la regla de plata: si no sabes invertir, contrata a un experto que te asesore
+
+<!-- -->
+
+Para elegir un experto que te asesore, haz como las grandes empresas en sus compras importantes, no te dejes llevar por el primero que conoces, compara al menos tres asesores
+
 ## Capítulo 05: libertad financiera
 
 ## Capítulo 06: construir tu libertad financiera
