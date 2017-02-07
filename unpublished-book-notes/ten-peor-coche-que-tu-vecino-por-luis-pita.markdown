@@ -186,6 +186,16 @@ Monetizar tus habilidades:
 
 ## Capítulo 13: elige un buen asesor financiero
 
+> Elegir un buen asesor financiero te quita muchos quebraderos de cabeza y te hace ganar mucho más por tus inversiones
+
+<!-- -->
+
+> Para elegir un buen asesor, compara las propuestas de al menos tres entidades
+
+<!-- -->
+
+> No te limites a escuchar su propuesta. Pídeles el rendimiento de sus propias inversiones y de otras personas a las que gestionan sus inversiones
+
 Un buen asesor te consigue mayores intereses y menores impuestos
 
 ¿Qué valorar?
