@@ -166,6 +166,12 @@ Libro: Finanzas personales, 4 ppios para invertir bien, de Juan Palacios.
 
 ## Capítulo 12: genera ingresos pasivos
 
+> Los ingresos pasivos son los que rec ibes sin necesidad de trabajar constantemente
+
+<!-- -->
+
+> Estas cuatro fuentes de ingresos pasivos están a tu alcance: alquileres, dividendos y rentas, venta automatizada de productos, y royalies
+
 1. Alquileres: casas y plazas de garaje
 2. Dividendos y rentas: depósitos y bonos
 3. Derecho o royalties
