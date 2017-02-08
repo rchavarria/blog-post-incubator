@@ -36,4 +36,25 @@ Esta es la historia de un hombre rico que guía a un hombre joven, con ilustraci
 
 ¿Como no ser promedio? Tener curiosidad y el deseo de saber cómo invertir: investigación y aprendizaje
 
+¿Por qué hay que saber de negocios para invertir? Lo que invertimos en úlitma instancia es en un negocio. Para ser un buen inversioneista, usted necesita prmero ser bueno en los negocios. La mejor manera de invertir es tener un negocio que compre las inversiones para usted. La peor manera de invertir es invertir como un individuo (ya empieza a dar el palo con que hay que crear negocios)
+
+La mayoría tiene la mentalidad de comprar, conservar y rezar para que el precio suba
+
+### Primera etapa
+
+#### Capítulo 1: ¿En qué debo invertir?
+
+Las personas invierten porque quieren volverse ricas. Pero dado que no son ricas, no sel es permite invertir en las inversiones que podrian volverlas ricas (origen de la regla del 90-10)
+
+Un inversionista acreditado es aquel alguien que califica porque tiene dinero. Por eso al inversista acreditado se le llama frecuentemente inversista calificado.
+
+Un inversista sofisticado conoce las 3 E's
+
+1. Educación
+2. Experiencia
+3. Excedente de efectivo
+
+Has tenido un buen inicio, la base de una educación financiera. Ahora es tiempo de que obtengas alguna experiencia. ¿Y cómo sabre cuando tengo suficiente de ambos elementos? Cuando tengas excedente de efectivo.
+
+#### Capítulo 2: forjando los cimientos de la riqueza
 
