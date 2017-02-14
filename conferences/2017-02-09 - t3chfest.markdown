@@ -1,0 +1,228 @@
+﻿# T3chfest 2017
+
+https://t3chfest.uc3m.es/2017/
+
+It’s a pity, all talks were in Spanish, and most talk description are in Spanish.
+
+## Keynote: Hololens
+
+First talk of the conference, it was the keynote. In the end, it was about Hololens.
+
+The speaker talked about the difference between virtual reality and augmented reality, and why AR is the natural next step to VR.
+
+Well, he did some marketing about Hololens and not too much. You can buy one by 3000€.
+
+It would be perfect if he would have done a live demo, but it was not possible :(
+
+Docker, kubernetes (explained to my grandmother)
+
+Half the talk was a bit boring, with the speaker trying to explain computers, computer networks, servers and so on in a plain language.
+
+Then, he explained Docker and Kubernetes. So far, so good. But concepts were starting to get complex to explain in just a few simple words.
+
+It was the turn of OpenShift. I understood it’s like a web interface to manage Kubernetes. Not very clear for me.
+
+Then, it was Open Stack. It allows you to create virtual infrastructure: computers, networks,... And manage all of them as code.
+
+Two important concepts:
+
+1. Infrastructure as code
+2. A System Admin now becomes an Infrastructure Developer
+
+## API management/government
+
+I don’t know how to translate the concept of “API management”. The idea is how to manage an increasing number of APIs:
+
+* How to do versioning: URL based, HTTP headers based,...
+* Security: authentication, what to secure (users, resources,...)
+* About the standard:
+   * RESTful
+   * Follow HTTP error codes
+   * How to paginate results (use the same way in all your APIs)
+   * Use HTTP verbs coherently
+* Standardize API development
+   * Define API with programming languages
+   * Frameworks?
+   * Code generators?
+* Monitoring
+* Tests
+   * Integration
+   * Test all possible HTTP error codes 
+   * Automate everything: Jenkins, Postman,...
+* Billing
+   * Billing method: by request, additional services, sell your data,...
+   * Pay people that use your API
+
+The speaker talked about a tool to document/generate/… called “swager” or similar
+
+Business idea: it’s possible my business gathers data my users are generating, and it’s possible that data can be sold. I can implement an API to sell it.
+
+Could Jenkins execute Postman tests?
+
+## Progressive Web Apps
+
+They are the next step for web applications. First, web app “replaced” desktop apps. Then, mobile apps became the main way users interact with companies selling products/services. PWA will be how web apps “replace” mobile apps.
+
+PWA must be:
+* Reliable: even offline
+* Fast: instant loading, caching code to avoid network traffic
+* Engaging: whatever that means
+
+They join the best of mobile apps and the best of the web.
+
+Core technologies:
+
+* Responsive design
+* Https
+* App Manifest: recently, Google/Android creates an .apk from you PWA (it’s like maaagic) and the .apk gets installed as a native app. Even notifications are native, you’re not notified by the browser, but by the android system. But, what will happen with iOS?
+* Service Workers: background processes in JS. It allows your PWA to go offline.
+* Web Push Notifications
+
+Architecture and Design Principles:
+
+* Offline-first
+* App Shell: the structure of your app must be loaded instantly (it should be cached), the content will be loaded after that. First, user will see the skeleton, then, content will appear
+
+What if we let users to convert each EVSA app into a PWA?
+
+## Clean your code to respect your team
+
+Why?
+
+* Your code will be maintained by other people, and you must respect them
+* You will need to understand it some time later
+* The code is not yours, it belongs to the team
+* It’s faster to write/read clean code
+* It’s easier to find (and fix) bugs
+
+How to clean your code:
+
+* Refactoring
+* Good naming
+* SOLID, DRY, KISS principles
+* Error traceability: write good log messages
+
+How to avoid shit to get to master (yeah, the language was a bit rude):
+
+* Boy Scout Rule
+* Half + 1: code must be validated by half the team +1, to reach a consensus
+* Code review
+
+When we use git, we could force a Merge Request to be validated by several people
+
+## Refactoring (there is no heaven without refactoring)
+
+Why refactor?
+
+* To help your future “you”
+* To better understand the code
+* To find and fix bugs
+
+Who creates legacy code? YOU!!
+
+Respect the previous developer, they did their best with the information, time and resources they had.
+
+Sometimes, we create buggy code because business grow faster than the product
+
+Refactor or Rewrite: rewrite has its own problems (link to slide). It can be an option if you’re at the beginning of the development process
+
+Then, the speaker talked about the path they walked in Idealista (a real estate web in Spain):
+
+* Stalk your code: what files change most, what files are bigger,...
+* Search for an architecture
+* Start with little refactorings
+* Coupling/Connascence: wrap ALL external libraries
+* Code style guides
+* Development metrics
+* Boy Scout Rule
+* Code review
+* Pair programming
+* Automate
+* VROK: visual review OK, manual testing a recently implemented feature
+* It’s ok to fail
+* Mikado method
+
+Next quality metric: cyclomatic complexity. 
+
+If someone need to lower the quality in a merge request, she need to improve the quality in a different part of the system.
+
+## Home platform for IoT (easy and cheap)
+
+The speaker talked about smart homes, home automation and IoT.
+
+He talked about the X10 protocol (maybe it’s just a Spanish standard, I don’t know), that allows to send data through power lines inside a home.
+
+Available hardware for IoT: Arduino, Raspberry PI, Intel Edison (speaker choice), Tessel 2, sensors
+
+Available software: cylon.js, johny-five
+
+He focused on JavaScript tools to develop a IoT platform. He implemented a server, gathered data from sensors, and display that on a web page.
+
+## REST is dead, long live to GraphQL
+
+REST is resource oriented. So, if I need data from several resources, I need to make several requests to the server. Maybe, too many.
+
+REST payload likely contains useless data: if I ask for a user, but I just want name and email, it probably returns an avatar. Not efficient.
+
+API versioning multiplies maintaining cost. There will be as many endpoints as versions for each resource.
+
+GraphQL
+
+* Is a query language
+* Just 1 endpoint
+* Client asks just for the data it needs
+* Queries are hierarchical, they can be seen as a tree
+* “Mutation” keyword to update data. Client can update data and retrieve data in the same request
+* Server should/must define a schema, where types can be defined. GraphQL is a typed protocol.
+* That schema allows auto-documentation, and IDE integrations are really easy
+* In the server, each property is managed by a function. This can be defined at configuration level.
+
+Despite all the advantages, an attendant pointed out that GraphQL is not THE solution. It lacks some features REST already has: authentication, simplicity,...
+
+Anyway, I think GraphQL will be something in the future.
+
+## Microservices, what a mess
+
+They talked about how they moved from a monolith to a ton of microservices. 
+
+They have lots of microservices, connected through an event bus. A microservice can emit events, and other microservices can (or not) listen to that event and update their internal state accordingly. Keeping that state up to date is crucial to avoid tons of requests from service to service.
+
+They also store the events, in an Event Store (they mention some tools, but I don’t remember), so, they can compute the state of the system at any point in time.
+
+Each service runs in a docker container. Each service can scale horizontally, with load balancers and the like.
+
+This looks like the most common case from monolith to microservices.
+
+## How I hacked BiciMAD (renting bikes service in Madrid)
+
+The speaker told us how bad was a mobile application to manage the process of people renting bikes in Madrid. It is a public service, and the software is terrible.
+
+He managed to hack the existing (an official) application, he discovered the API behind the app, and implemented his own app. Of course, much better.
+
+He talked about Charles proxy, a tool to monitorize network traffic. He used that to discover/hack/reverse engineer the API (endpoints, data structures,...) that supported the official app.
+
+Bot API and app were really bad. They send users data in plain text: identities, names, bike serial numbers,...
+
+Now, there is another API. Madrid government is working on it, and it seems a little better. The company that developed the system to rent bikes in Madrid broke.
+
+## Keep calm and let the bot buy
+
+It started well. The speaker talked about developing a bot to monitor products (cell phones, laptops, clothes), compare prices and help users to decide what, when and where to buy them.
+
+Then, he started talking about Microsoft Cognitive Services, Bot Frameworks, Bot Connectors (to connect your bot to all social networks: facebook, slack,...) and the talk got boring.
+
+## Linguist programmer
+
+Linguist: a person that study a language. She doesn’t study languages to speak them, but study a single language: how it evolves,...
+
+Make a product hackable by design: you implement some components, then, you compose them by writing configuration or even better, using a DSL language.
+
+The used an example: a program to compute how much a mobile phone user has to pay for her voice and data service. Two options:
+
+* Lots and lots of options in the software, and the number will always be increasing 
+* Create a language that allows you to specify how those options work
+
+He described how a DSL language can be transformed into a CST (concrete syntax tree), then in an AST (abstract syntax tree) and then how to execute that code.
+
+Once we get an AST, we can “execute” it using a stack. You navigate the tree in depth, and you push and pop operations and results from the stack. When you finish navigating the tree, you get the result as the only element in the stack.
+
