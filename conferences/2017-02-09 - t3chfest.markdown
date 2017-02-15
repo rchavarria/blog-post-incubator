@@ -1,10 +1,12 @@
-﻿# T3chfest 2017
+# T3chfest 2017
 
 https://t3chfest.uc3m.es/2017/
 
 It’s a pity, all talks were in Spanish, and most talk description are in Spanish.
 
-## Keynote: Hololens
+[All the agenda](https://t3chfest.uc3m.es/2017/programa/).
+
+## Keynote: [Hololens](https://t3chfest.uc3m.es/programa/hololens-futuro-realidad-aumentada-por-descubrir)
 
 First talk of the conference, it was the keynote. In the end, it was about Hololens.
 
@@ -14,7 +16,7 @@ Well, he did some marketing about Hololens and not too much. You can buy one by 
 
 It would be perfect if he would have done a live demo, but it was not possible :(
 
-Docker, kubernetes (explained to my grandmother)
+## [Docker, kubernetes (explained to my grandmother)](https://t3chfest.uc3m.es/programa/openstack-docker-kubernetes-openshift-para-abuela)
 
 Half the talk was a bit boring, with the speaker trying to explain computers, computer networks, servers and so on in a plain language.
 
@@ -29,7 +31,7 @@ Two important concepts:
 1. Infrastructure as code
 2. A System Admin now becomes an Infrastructure Developer
 
-## API management/government
+## [API management/government](https://t3chfest.uc3m.es/programa/gobierno-apis)
 
 I don’t know how to translate the concept of “API management”. The idea is how to manage an increasing number of APIs:
 
@@ -59,7 +61,7 @@ Business idea: it’s possible my business gathers data my users are generating,
 
 Could Jenkins execute Postman tests?
 
-## Progressive Web Apps
+## [Progressive Web Apps](https://t3chfest.uc3m.es/programa/progressive-web-apps-que-son-como-hacen-por-que-deberian-importarte)
 
 They are the next step for web applications. First, web app “replaced” desktop apps. Then, mobile apps became the main way users interact with companies selling products/services. PWA will be how web apps “replace” mobile apps.
 
@@ -85,7 +87,7 @@ Architecture and Design Principles:
 
 What if we let users to convert each EVSA app into a PWA?
 
-## Clean your code to respect your team
+## [Clean your code to respect your team](https://t3chfest.uc3m.es/programa/limpia-codigo-por-respeto-equipo)
 
 Why?
 
@@ -110,7 +112,7 @@ How to avoid shit to get to master (yeah, the language was a bit rude):
 
 When we use git, we could force a Merge Request to be validated by several people
 
-## Refactoring (there is no heaven without refactoring)
+## [Refactoring (there is no heaven without refactoring)](https://t3chfest.uc3m.es/programa/sin-refactor-no-hay-paraiso)
 
 Why refactor?
 
@@ -146,7 +148,7 @@ Next quality metric: cyclomatic complexity.
 
 If someone need to lower the quality in a merge request, she need to improve the quality in a different part of the system.
 
-## Home platform for IoT (easy and cheap)
+## [Home platform for IoT (easy and cheap)](https://t3chfest.uc3m.es/programa/plataforma-casera-para-iot-posible-barato)
 
 The speaker talked about smart homes, home automation and IoT.
 
@@ -158,7 +160,7 @@ Available software: cylon.js, johny-five
 
 He focused on JavaScript tools to develop a IoT platform. He implemented a server, gathered data from sensors, and display that on a web page.
 
-## REST is dead, long live to GraphQL
+## [REST is dead, long live to GraphQL](https://t3chfest.uc3m.es/programa/api-rest-muerto-deberiamos-usar-apis-basadas-graphql)
 
 REST is resource oriented. So, if I need data from several resources, I need to make several requests to the server. Maybe, too many.
 
@@ -181,7 +183,7 @@ Despite all the advantages, an attendant pointed out that GraphQL is not THE sol
 
 Anyway, I think GraphQL will be something in the future.
 
-## Microservices, what a mess
+## [Microservices, what a mess](https://t3chfest.uc3m.es/programa/microservicios)
 
 They talked about how they moved from a monolith to a ton of microservices. 
 
@@ -193,7 +195,7 @@ Each service runs in a docker container. Each service can scale horizontally, wi
 
 This looks like the most common case from monolith to microservices.
 
-## How I hacked BiciMAD (renting bikes service in Madrid)
+## [How I hacked BiciMAD (renting bikes service in Madrid)](https://t3chfest.uc3m.es/programa/madbike-destapando-seguridad-bicimad)
 
 The speaker told us how bad was a mobile application to manage the process of people renting bikes in Madrid. It is a public service, and the software is terrible.
 
@@ -205,13 +207,13 @@ Bot API and app were really bad. They send users data in plain text: identities,
 
 Now, there is another API. Madrid government is working on it, and it seems a little better. The company that developed the system to rent bikes in Madrid broke.
 
-## Keep calm and let the bot buy
+## [Keep calm and let the bot buy](https://t3chfest.uc3m.es/programa/keep-calm-let-bot-buy)
 
 It started well. The speaker talked about developing a bot to monitor products (cell phones, laptops, clothes), compare prices and help users to decide what, when and where to buy them.
 
 Then, he started talking about Microsoft Cognitive Services, Bot Frameworks, Bot Connectors (to connect your bot to all social networks: facebook, slack,...) and the talk got boring.
 
-## Linguist programmer
+## [Linguist programmer](https://t3chfest.uc3m.es/programa/programador-linguista)
 
 Linguist: a person that study a language. She doesn’t study languages to speak them, but study a single language: how it evolves,...
 
