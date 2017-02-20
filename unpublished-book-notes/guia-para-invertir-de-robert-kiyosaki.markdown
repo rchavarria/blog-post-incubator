@@ -58,3 +58,13 @@ Has tenido un buen inicio, la base de una educación financiera. Ahora es tiempo
 
 #### Capítulo 2: forjando los cimientos de la riqueza
 
+El [Cuadrante del flujo del dinero)-(añadir link] trata acerca de las diferencias emocionales básicas y las diferencias técnicas entre las personas que se encuentra en cada uno de los cuadrantes (empleado, autoempleado, dueño de negocio, inversor).
+
+En este libro nos referiremos con mucho más detalle a las diferencias técnicas, porque es ahuií donde se encuentras las diferencias entre los ricos y los pobres.
+
+Las leyes fiscales son diferentes para cada cuadrante.
+
+Mi **primera lección** fue: los ricos no trabajan por dinero, conocen la forma de hacer que su dinero trabaje para ellos.
+
+#### Capítulo 3: Lección #1, la elección
+
