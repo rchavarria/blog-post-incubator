@@ -78,4 +78,19 @@ La diferencia está en la prioridad que se les da
 
 Antes de comenzar a invertir, es importante decidir cuáles son sus prioridades.
 
+#### Capítulo 4: Lección #2, ¿qué clase de mundo ve usted?
+
+Solo existen dos tipos de problemas con el dinero: no tener suficiente o tener demasiado.
+
+Cualquiera que sea tu realidad en tu interior, ésa será tu realidad en el exterior. No puedes cambiar tu realidad en el exterior hasta que no cambies tu realidad interior.
+
+Causas de la escasez como diferencias en las actitudes de las personas:
+
+1. Cuanta más seguridad necesite, mayor escasez habrá en su vida
+2. Cuanto más competitivo sea, mayor escasez habrá en su vida
+3. Para ganar mayor abundancia, una persona requiere más aptitudes y necesita ser más creativa y cooperativa
+4. Cuantas más aptitudes financieras tenga usted, mayor abundancia tendrá en su vida
+
+La segunda lección de mi padre rico consistía en decidir mentalmente ver ambos mundos (en el que no hay suficiente dinero o hay demasiado). Él creía en la importancia de tener un plan financiero en ambos casos, tanto si no se tenía dinero como si se tenía demasiado.
+
 
