@@ -68,3 +68,14 @@ Mi **primera lección** fue: los ricos no trabajan por dinero, conocen la forma 
 
 #### Capítulo 3: Lección #1, la elección
 
+En lo que se refiere a la inversión, la gente tiene tres razones fundamentales para invertir:
+
+1. Para estar seguro
+2. Para estar cómodo
+3. Para ser rico
+
+La diferencia está en la prioridad que se les da
+
+Antes de comenzar a invertir, es importante decidir cuáles son sus prioridades.
+
+
