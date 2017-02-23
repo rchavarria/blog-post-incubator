@@ -1,4 +1,36 @@
-﻿# Frases que quiero recordar
+﻿---
+layout: post
+title: "The nature of software development"
+date: 
+author: Rubén Chavarría
+comments: true
+categories: 
+- personal
+- book reviews
+- software
+- agile
+published: true
+footer: false
+sidebar: true
+---
+
+##### de Ron Jeffries
+
+{% img left http://s1.hubimg.com/u/11789820_f260.jpg 260 392 Stop stealing dreams %}
+
+## Por qué lo he leído
+
+<!-- more -->
+
+## Qué esperaba
+
+## Qué encontre
+
+## Conclusiones
+
+## Qué he aprendido
+
+## Frases que quiero recordar
 
 > Valor es lo que uno quiere
 
@@ -24,10 +56,12 @@
 
 > La palabra refactorizar se refiere al proceso simple y regular de mantener el código limpio. Cuando la carretera se convierte en un camino intrincado, lo enderezamos refactorizando el código.
 
-# Referencias
+## Referencias
 
 - [The fundamental theorem of Agile Software Development], de J.B.Rainsberger
 - [Notas sobre The nature of Software development]
+
+<!-- Y a partir de aquí es lo que irá en el repo blog-post-incubator -->
 
 # The nature of software development
 ### by Ron Jeffries
@@ -126,7 +160,7 @@ Para que este método funcione, el producto debe de estar libre de defectos prá
 
 ## Capítulo 7: Construir funcionalidades y fundación en paralelo
 
-(*Fundación como base o arquittectura de la aplicación*)
+(*Fundación como base o arquitectura de la aplicación*)
 
 Las funcionalidades necesitan del soporte de una fundación, y la fundación necesita estar bien diseñada.
 
