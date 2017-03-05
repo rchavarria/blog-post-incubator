@@ -27,7 +27,7 @@ Sometimes the most important information we can get is that we’re doing the wr
 
 It’s not enough for our teams to work on mysterious technical bits that make sense only to them. We need to guide our teams to build pieces that make sense to us, and to our users. These are often called minimal marketable features (MMFs).
 
-(*remember that picture with rectangles where value grow and what types of boxes should be built first*)
+![Value growth](/img/value-growth.png)
 
 Suppose the height of the features is their value, and the width is their cost.
 
@@ -178,6 +178,8 @@ We need steady progress. To keep progress steady, we need a clear, clean design 
 The time needed to build a feature comes from two main components: its inherent difficulty, and the accidental difficulty of putting it into whatever code already exists. Teams are good at estimating the inherent difficulty. What makes us erratic, what makes us slow down, is the accidental difficulty. We call this difficulty “bad code.”
 
 The word refactoring refers to a simple, regular process of keeping the code clean. We try not to create the twisty little passages that slow us down. When twists do crop up, we straighten them out. (*When the road becomes twisty, we straighten it by refactoring the code*)
+
+![Refactoring straightens passages](/img/refactoring-straightens-passages.png)
 
 Campground Rule: Leave the campground a little better than you found it.
 
