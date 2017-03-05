@@ -1,7 +1,7 @@
 ﻿# The nature of software development
 ### by Ron Jeffries
 
-[![The nature of software development](/img/nature-software-development.jpg)](https://www.amazon.es/Nature-Software-Development-Simple-Valuable/dp/1941222374/)
+[![The nature of software development](./img/nature-software-dev.jpg)](https://www.amazon.es/Nature-Software-Development-Simple-Valuable/dp/1941222374/)
 
 [Spanish version](the-nature-of-software-development-by-ron-jeffries.markdown)
 
@@ -27,7 +27,7 @@ Sometimes the most important information we can get is that we’re doing the wr
 
 It’s not enough for our teams to work on mysterious technical bits that make sense only to them. We need to guide our teams to build pieces that make sense to us, and to our users. These are often called minimal marketable features (MMFs).
 
-![Value growth](/img/value-growth.png)
+![Value growth](./img/value-growth.png)
 
 Suppose the height of the features is their value, and the width is their cost.
 
@@ -179,7 +179,7 @@ The time needed to build a feature comes from two main components: its inherent 
 
 The word refactoring refers to a simple, regular process of keeping the code clean. We try not to create the twisty little passages that slow us down. When twists do crop up, we straighten them out. (*When the road becomes twisty, we straighten it by refactoring the code*)
 
-![Refactoring straightens passages](/img/refactoring-straightens-passages.png)
+![Refactoring straightens passages](./img/refactoring-straightens-passages.png)
 
 Campground Rule: Leave the campground a little better than you found it.
 

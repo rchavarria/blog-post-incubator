@@ -1,7 +1,7 @@
 ﻿# The nature of software development
 ### by Ron Jeffries
 
-[![The nature of software development](/img/nature-software-development.jpg)](https://www.amazon.es/Nature-Software-Development-Simple-Valuable/dp/1941222374/)
+[![The nature of software development](./img/nature-software-dev.jpg)](https://www.amazon.es/Nature-Software-Development-Simple-Valuable/dp/1941222374/)
 
 [English version](the-nature-of-software-development-by-ron-jeffries.en.markdown)
 
@@ -27,7 +27,7 @@ A veces, la información más importante que podemos obtener es saber que estamo
 
 No es bueno que nuestros equipos trabajen en partes específicamente técnicas, que solo tienen sentido para ellos. Necesitamos guiar a nuestros equipos para que construyan piezas que tengan sentido para nosotros, y para nuestros usuarios. Estas piezas se suelen llamar *minimal marketable features (MMFs)*.
 
-![Value growth](/img/value-growth.png)
+![Value growth](./img/value-growth.png)
 
 El valor es la dimensión vertical de los bloques de la imagen anterior. Sabiendo eso, es fácil decidir qué tipo de funcionalidades (bloques) queremos construir primero para obtener el mayor valor en el menor tiempo.
 
@@ -167,7 +167,7 @@ El tiempo necesario para construir una funcionalidad viene de dos factores: la d
 
 La palabra refactorizar se refiere al proceso simple y regular de mantener el código limpio. Tratamos de no crear los caminos enrevesados que nos hacen ir lento. Cuando los caminos se entrelazan, los enderezamos refactorizando. (*Cuando la carretera se convierte en un camino intrincado, lo enderezamos refactorizando el código*)
 
-![Refactoring straightens passages](/img/refactoring-straightens-passages.png)
+![Refactoring straightens passages](./img/refactoring-straightens-passages.png)
 
 > Deja el campo un poco mejor de cómo lo encontraste ~ *Regla del Boy Scout*
 
