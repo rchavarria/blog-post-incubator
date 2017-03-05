@@ -1,38 +1,7 @@
-﻿# Frases que quiero recordar
-
-> Valor es lo que uno quiere
-
-> Un experto excelentemente remunerado no debería ser remunerado solamente porque es un experto. Debería ser excelentemente remunerado por ayudar a otras personas a que se conviertan en expertos.
-
-> Las cosas van mejor si cada funcionalidad, también llamada *historia*, sólo tardamos **dos o tres** días en implementarla.
-
-> El estilo de *funcionalidad a funcionalidad* incluye un ciclo completo de desarrollo en cada iteración: requisitos, diseño, codificación y testeo.
-
-> Podemos construir todo el diseño primero, o podemos construir cada funcionalidad completamente de una en una, cada una con su base. Lo que no podemos hacer es construir toda la base al principio, así como tampoco podemos construir todas las funcionalidades al principio. Es de lejos mucho más seguro construir una versión simple pero funcional de cada funcionalidad primero.
-
-> Trabajamos incrementalmente. Necesitamos un buen diseño relativamente pronto, pero solo necesitamos un **pequeño** buen diseño.
-
-> Para obtener la mejor calidad, un progreso continuado y una gran predictabilidad, los tests y las refactorizaciones son la mejor forma conocida de trabajar.
-
-> Toma cada posible idea como una posible forma de comenzar a hacer cosas durante un tiempo. Luego, haz tuyo el proceso, y construye tus propias ideas. ¡Pero mantenlo simple!
-
-> Nuestro trabajo no es ceñirnos al plan, es ir corrigiendo el curso para obtener el mejor resultado, no llegar a algún punto fijo.
-
-> Lo hacemos mejor no cuando predecimos cuándo habremos terminado, si no cuando elegimos cuándo está terminado (pero es que debemos mantenernos siempre en un estado de *terminado* de forma constante)
-
-> Necesitamos un progreso constante, regular e ininterrumpido. Para mantener un progreso ininterrumpido, necesitamos un diseño claro y limpio todo el tiempo. Y para conseguirlo, necesitamos refactorizar nuestro código.
-
-> La palabra refactorizar se refiere al proceso simple y regular de mantener el código limpio. Cuando la carretera se convierte en un camino intrincado, lo enderezamos refactorizando el código.
-
-# Referencias
-
-- [The fundamental theorem of Agile Software Development], de J.B.Rainsberger
-- [Notas sobre The nature of Software development]
-
-# The nature of software development
+﻿# The nature of software development
 ### by Ron Jeffries
 
-[![The nature of software development](/img/nature-software-development.jpg)](https://www.amazon.es/Nature-Software-Development-Simple-Valuable/dp/1941222374/)
+[![The nature of software development](./img/nature-software-dev.jpg)](https://www.amazon.es/Nature-Software-Development-Simple-Valuable/dp/1941222374/)
 
 [English version](the-nature-of-software-development-by-ron-jeffries.en.markdown)
 
@@ -58,15 +27,9 @@ A veces, la información más importante que podemos obtener es saber que estamo
 
 No es bueno que nuestros equipos trabajen en partes específicamente técnicas, que solo tienen sentido para ellos. Necesitamos guiar a nuestros equipos para que construyan piezas que tengan sentido para nosotros, y para nuestros usuarios. Estas piezas se suelen llamar *minimal marketable features (MMFs)*.
 
-(*Haciendo referencia a una gráfica de rectángulos donde el valor crece hacia arriba, que nos sirve para averiguar qué tipo de cajas deberíamos de construir primero*)
+![Value growth](./img/value-growth.png)
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-Incluir enlace a la imagen
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+El valor es la dimensión vertical de los bloques de la imagen anterior. Sabiendo eso, es fácil decidir qué tipo de funcionalidades (bloques) queremos construir primero para obtener el mayor valor en el menor tiempo.
 
 Imagina que la altura de una funcionalidad es su valor y la anchura es su coste. El mejor valor viene de funcionalidades pequeñas, enfocadas en el valor, construidas y entregadas frecuentemente.
 
@@ -126,7 +89,7 @@ Para que este método funcione, el producto debe de estar libre de defectos prá
 
 ## Capítulo 7: Construir funcionalidades y fundación en paralelo
 
-(*Fundación como base o arquittectura de la aplicación*)
+(*Fundación como base o arquitectura de la aplicación*)
 
 Las funcionalidades necesitan del soporte de una fundación, y la fundación necesita estar bien diseñada.
 
@@ -204,13 +167,7 @@ El tiempo necesario para construir una funcionalidad viene de dos factores: la d
 
 La palabra refactorizar se refiere al proceso simple y regular de mantener el código limpio. Tratamos de no crear los caminos enrevesados que nos hacen ir lento. Cuando los caminos se entrelazan, los enderezamos refactorizando. (*Cuando la carretera se convierte en un camino intrincado, lo enderezamos refactorizando el código*)
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-imagen de los caminos que se entrelazan o enderezn
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+![Refactoring straightens passages](./img/refactoring-straightens-passages.png)
 
 > Deja el campo un poco mejor de cómo lo encontraste ~ *Regla del Boy Scout*
 
