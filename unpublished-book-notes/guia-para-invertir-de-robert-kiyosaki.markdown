@@ -93,4 +93,24 @@ Causas de la escasez como diferencias en las actitudes de las personas:
 
 La segunda lección de mi padre rico consistía en decidir mentalmente ver ambos mundos (en el que no hay suficiente dinero o hay demasiado). Él creía en la importancia de tener un plan financiero en ambos casos, tanto si no se tenía dinero como si se tenía demasiado.
 
+#### Capítulo 5: Lección #3, ¿porque es desconcertante invertir?
+
+Invertir significa cosas diferentes para personas diferentes. Así que aunque crean que hablan de lo mismo en realidad hablan de cosas diferentes.
+
+Mi padre rico decía:
+
+> Mientras más busca una persona la seguridad, más escasez tendrá en su vida. Mientras más actitudes financieras tenga usted, mayor abundancia tendrá en su vida
+
+El problema con invertir en algo porque es popular que está clasificado como el fondo número 1 de los últimos 2 años es que los verdaderos inversionistas ya han ganado su dinero en esa inversión.
+
+#### Capítulo 6: Lección #4, la inversión es un plan, no un producto o un proceso
+
+Los consejos sobre inversiones son consejos personales. La inversión es un plan muy personal, no un producto ni un proceso. Personal porque depende de tus circunstancias personales.
+
+Un verdadero inversionista no se vincula a los vehículos ni a los procedimientos. Un verdadero impresionista tiene un plan y múltiples opciones como vehículos y procedimientos de inversión
+
+De manera que eres necesito un plan, y mi plan determinará los diferentes tipos de vehículos de inversión que necesitaré. Esto dependiendo del plan (quiero ir del punto A al punto B) usaré unos productos y procedimientos u otros.
+
+No inviertas hasta que tengas un plan.
+
 
