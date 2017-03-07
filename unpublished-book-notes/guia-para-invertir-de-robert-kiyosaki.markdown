@@ -113,4 +113,66 @@ De manera que eres necesito un plan, y mi plan determinará los diferentes tipos
 
 No inviertas hasta que tengas un plan.
 
+#### Capítulo 7: Lección 5, ¿está planificando para ser rico o para ser pobre?
+
+No se necesita dinero para ganar dinero. Se necesitan palabras. La diferencia entre una persona rica y una pobre es el vocabulario de cada una. Todo lo que una persona necesita para volverse rica es incrementar su vocabulario financiero.
+
+Es importante planificar tan temprano en la vida como sea posible.
+
+Planificar para el retiro no es suficiente. Necesitas planificar mucho más allá del retiro.
+
+Tarea: aprender una nueva palabra de lenguaje financiero la semana
+
+#### Capítulo 8: Lección 6, volverse rico es un proceso automático... si tiene un buen plan y lo sigue
+
+Parte de lo que la gente piensa que es invertir es en realidad la versión hollywoodense de invertir.
+
+Para mí invertir consiste en tener un plan que frecuentemente constituye un proceso aburrido y casi mecánico de volverse rico.
+
+Invertir es simplemente tener un plan compuesto de fórmulas y estrategias, un sistema para volverse rico: casi garantizado.
+
+¿Porque intentar elaborar tu propio plan cuando alguien más te ha mostrado ya el camino? ¿Así que el plan ya existe? Pero confía en mí. En lo que se refiere invertir, lo sencillo es mejor que lo complicado.
+
+Fórmula Monopoly: una vez que aprendí la fórmula de comprar 4 casas verdes y luego intercambiarlas por un hotel rojo, la fórmula se volvió automática.
+
+**O'Shaughnessy: What works on Wall Street: a guid to the best performing investment strategies of all time**
+
+Para el autor un método exclusivamente mecánico para seleccionar acciones da un mejor desempeño que el 80% de los profesionales encargados de seleccionar acciones.
+
+El camino para lograr el éxito en las inversiones consiste en estudiar los resultados a largo plazo y encontrar una estrategia o grupo de estrategias que tengan sentido: debemos ver qué tan buen desempeño tienen las estrategias no las acciones.
+
+#### Capítulo 9, lección 7: ¿como puede encontrar el plan correcto para usted?
+
+Seleccione un consejero o asesor financiero preparado para ayudarle desarrollar un plan financiero por escrito.
+
+Una parte del plan es un seguro de vida, (*¿seguro?*).
+
+Seguros para las casas que tienes alquiladas.
+
+¿cómo encuentra usted su plan? La respuesta es comenzar con un asesor financiero.
+
+Comience con metas realistas y más adelante mejore esas metas y agregue otras conformes incrementen su educación y experiencia. El segundo paso consiste en darse cuenta de que invertir es un deporte de equipo.
+
+#### Capítulo 10: Lección 8, decida ahora que quiere ser cuando crezca
+
+A menos que yo fuera claro, era difícil que el asesor fuera claro y capaz de ayudarme.
+
+Se necesita un plan financiero para cada uno de los tres valores: estar seguro, estar cómodo, o ser rico.  Si quieres ser rico necesitará los tres planes. Para estar cómodo solo necesitará dos planes y para estar seguro solo requiere de un plan.
+
+#### Capítulo 11: Lección 9, cada plan tiene un precio
+
+Entre los activos de tiempo y dinero el tiempo es el activo más valioso. Todo lo que tiene que hacer es entregar su dinero los administradores profesionales para estar seguro y cómodo.
+
+#### Capítulo 12: Lección 10, porque invertir no es riesgoso
+
+#### Capítulo 13: Lección 11, ¿de qué lado de la mesa quiere sentarse?
+
+Existían 3 razones por las que él recomendaba encontrar un plan diferente para volverse rico, y era diferente a trabajar duro y ahorrar.
+
+1. Quienes trabajan duro y ahorran pagan más impuestos: cuando ganan dinero, cuando ahorran, cuando lo gastan y cuando mueren. Si quieres ser rico necesita más complejidad financiera que el consistente en solo trabajar duro y ahorrar dinero.
+2. Piensan que invertir es riesgoso.
+3. Rara vez ve el otro lado de la moneda, donde el problema es el exceso de dinero. En *Padre rico, padre pobre* compartí los diagramas del estado de resultados y el balance general, contabilidad, educación financiera (repasar). En *El cuadrante del flujo del dinero* compartí un diagrama con las diferencias básicas emocionales y educativas de los cuatro cuadrantes (repasar también).
+
+Aprender cómo operar en todos los cuadrantes. Ser capaz de sentarse en ambos lados del escritorio te permite ver ambos lados de la moneda. Los dos lados son pedir trabajo y dar trabajo. **Su portafolio financiero necesita ser una inversión más importante que su casa**.
+
 
