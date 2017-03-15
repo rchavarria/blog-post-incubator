@@ -29,14 +29,14 @@ Crear el esqueleto de una aplicación Phoenix es ridículamente sencillo, simple
     Fetch and install dependencies? [Yn] Y
     [ ... ]
 
-Para poder llevar un control de lo que hacemos o dejamos de hacer, pondremos la aplicación bajo un control de versiones. Además, Heroku está pensado para funcionar con aplicación donde el control de versiones es `git`, así que...
+Para poder llevar un control de lo que hacemos o dejamos de hacer, pondremos la aplicación bajo un control de versiones. Además, Heroku está pensado para funcionar con aplicaciones donde el control de versiones es Git, así que...
 
     $ cd rchavarria_deploys_phoenix_heroku
     $ git init
     $ git add .
     $ git commit -m "Primera piedra de la aplicación Phoenix desplegada en Heroku"
 
-Si queremos, podemos subir esta aplicación a GitHub u otro servicio que nos permita tener nuestras aplicación bajo `git`.
+Si queremos, podemos subir esta aplicación a GitHub u otro servicio que nos permita tener nuestras aplicación bajo Git.
 
 ## Creando una aplicación Heroku
 
@@ -47,7 +47,7 @@ También es muy sencillo:
     https://dry-anchorage-96713.herokuapp.com/ | https://git.heroku.com/dry-anchorage-96713.git
     Git remote heroku added
 
-También se puede indicar el nombre de nuestra app en el comando `heroku create`. Heroku nos ha dado un nombre aleatorio, y podremos acceder a ella a través de la URL [https://dry-anchorage-96713.herokuapp.com/].
+También se puede indicar el nombre de nuestra app en el comando `heroku create`. Heroku nos ha dado un nombre aleatorio, y podremos acceder a ella a través de la URL [https://dry-anchorage-96713.herokuapp.com/](https://dry-anchorage-96713.herokuapp.com/).
 
 Heroku habrá añadido un nuevo *remote* a nuestro repositorio de `git`:
 
@@ -141,7 +141,7 @@ El despliegue no debería dar ningún problema, porque aunque no hemos creado ni
     remote: Verifying deploy... done.
     To https://git.heroku.com/dry-anchorage-96713.git
 
-Y se puede ver la aplicación accediendo a [https://dry-anchorage-96713.herokuapp.com/] (si es que todavía existe como aplicación Heroku).
+Y se puede ver la aplicación accediendo a [https://dry-anchorage-96713.herokuapp.com/](https://dry-anchorage-96713.herokuapp.com/) (si es que todavía existe como aplicación Heroku).
 
 ## Completando la configuración
 
@@ -149,16 +149,20 @@ Tarde o temprano, vamos a necesitar que nuestra aplicación acceda a la base de 
 
 1. Configurarlas y exportarlas en Heroku (documentación sobre [variables de configuración de Heroku])
 
-    $ heroku config:set SECRET_KEY_BASE=<y aquí mi secreto>
-    $ heroku config:set SOME_VAR=<el valor para esta variable>
+```
+$ heroku config:set SECRET_KEY_BASE=<y aquí mi secreto>
+$ heroku config:set SOME_VAR=<el valor para esta variable>
+```
 
 2. Editar (o crear) `elixir_buildpack.config` en la raíz del proyecto. Aquí deberemos configurar qué variables queremos exportar. Cuidado, porque estos valores sobreescriben los exportados por los buildpacks, por lo que deberemos incluir aquellas que incluyan los buildpacks de Elixir y Phoenix. Un ejemplo de `elixir_buildpack.config` podría ser tan sencillo como:
 
-    configu_vars_to_export=(DATABASE_URL SECRET_KEY_BASE)
+```
+configu_vars_to_export=(DATABASE_URL SECRET_KEY_BASE)
+```
 
 ## Agradecimientos
 
-Todo el mérito de esta información no es mío, es gracias a [Wendy Smoak], autora del post sobre el que se basa este, [HashNuke], autor del buildpack para Elixir; [gjaldon], autor del buildpack para Phoenix; y otros que ayudaron a Wendy con sus dudas.
+Todo el mérito de esta información no es mío, es gracias a [Wendy Smoak], autora del post sobre el que se basa este; [HashNuke], autor del buildpack para Elixir; [gjaldon], autor del buildpack para Phoenix; y otros que ayudaron a Wendy con sus dudas.
 
 [Heroku]: http://heroku.com/
 [Wendy Smoak]: http://wsmoak.net/about.html
