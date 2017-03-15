@@ -160,15 +160,15 @@ Tarde o temprano, vamos a necesitar que nuestra aplicación acceda a la base de 
 
 Todo el mérito de esta información no es mío, es gracias a [Wendy Smoak], autora del post sobre el que se basa este, [HashNuke], autor del buildpack para Elixir; [gjaldon], autor del buildpack para Phoenix; y otros que ayudaron a Wendy con sus dudas.
 
-[Heroku]: 
-[Wendy Smoak]: 
-[el framework Phoenix]: 
-[Deploying a Phoenix app to Heroku]: 
-[Creative Commons CC-BY-NC]: 
-
-
-
+[Heroku]: http://heroku.com/
+[Wendy Smoak]: http://wsmoak.net/about.html
+[el framework Phoenix]: http://www.phoenixframework.org/
+[Deploying a Phoenix app to Heroku]: http://wsmoak.net/2015/07/05/phoenix-on-heroku.html
+[Creative Commons CC-BY-NC]: http://creativecommons.org/licenses/by-nc/3.0/
+[buildpacks]: https://devcenter.heroku.com/articles/buildpacks
 [Phoenix static buildpack]: https://github.com/gjaldon/heroku-buildpack-phoenix-static
 [buildpack de Elixir]: https://github.com/HashNuke/heroku-buildpack-elixir
 [variables de configuración de Heroku]: https://devcenter.heroku.com/articles/config-vars
+[HashNuke]: http://hashnuke.com/
+[gjaldon]: http://gabrieljaldon.com/
 
