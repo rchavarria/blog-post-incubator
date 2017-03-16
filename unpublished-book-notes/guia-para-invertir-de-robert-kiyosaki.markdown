@@ -175,4 +175,41 @@ Existían 3 razones por las que él recomendaba encontrar un plan diferente para
 
 Aprender cómo operar en todos los cuadrantes. Ser capaz de sentarse en ambos lados del escritorio te permite ver ambos lados de la moneda. Los dos lados son pedir trabajo y dar trabajo. **Su portafolio financiero necesita ser una inversión más importante que su casa**.
 
+#### Capítulo 14: Lección 12, las reglas básicas de la inversión
+
+El verdadero objetivo del proceso es que te conviertas en un mejor inversionista más educado no en que seas más rico que el de al lado.
+
+La regla número 1 para invertir consiste en saber siempre para qué clase de inversión estás trabajando.
+
+Hay tres diferentes tipos de ingreso:
+
+1. El ingreso ganado. Que es tu sueldo
+2. El ingreso de portafolio. Acciones, etc...
+3. El ingreso pasivo. Como los que vienen de los bienes raíces.
+
+Regla número 2: convertir el ingreso ganado en ingreso de portafolio o en ingresos pasivos de la manera más eficiente que sea posible. Y eso es en pocas palabras todo lo que se supone que debe hacer un inversionista.
+
+Regla básica número 3. Es conservar seguro tu ingreso ganado al adquirir **valores** que esperas que conviertan ese ingreso ganado en ingreso pasivo e ingreso de portafolio. 
+
+Los valores son algo que esperas que mantengan tu dinero seguro
+
+Activo: es lo que introduze dinero en tu bolsillo, son tus ingresos
+
+Pasivo: extrae dinero de tu bolsillo, como los gastos
+
+Regla básica número 4: el inversionista es en realidad el activo o el pasivo, porque depende de él que al adquirir un valor, éste le de dinero o no
+
+Cómo una perosna opera en el lado "D" e "I" del cuadrante, quiero encontrar valores que son pasivos y convertirlos en activos o esperar a que alguien más comience a convertilos en activos.
+
+Regla básica número 5: un verdadero inversionista está preparado para cualquier cosa que ocurra. Un no-inversionista trata de predecir qué ocurrirá y cuando.
+
+Regla básica número 6: si tienes educación y experiencia, y encuentras una buena oportunidad, el dinero te encontrará a tí. Las buenas oportunidades parecen atraer la codicia de la gente.
+
+El principal trabajo de los inversionistas es asegurarse de ques u dinero esté seguro. Siguiente, convertir ese dinero en ganacias de capital. Es entonces cuando puede convertir esos valores en activos o si serán convertidos en pasivos.
+
+**¿qué significa *ganancias de capital*?**
+
+Regla básica número 7: capacidad para evaluar el riesgo y la recompensa
+
+Las 3 "E": educación, experiencia y excedente de efectivo
 
