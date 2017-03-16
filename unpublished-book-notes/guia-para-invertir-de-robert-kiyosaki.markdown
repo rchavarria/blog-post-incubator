@@ -213,3 +213,59 @@ Regla básica número 7: capacidad para evaluar el riesgo y la recompensa
 
 Las 3 "E": educación, experiencia y excedente de efectivo
 
+#### Capítulo 15: lección 13, disminuye el riesgo por medio de la educación financiera
+
+Para la mayoría de la gente invertir es riesgoso, pero siempre recuerde que no necesariamente resulta así. Es el inversionista quien es riesgoso
+
+¿Cómo puedo convertirme en un inversionista que gane mucho dinero con muy poco riesgo? Consiste en mantener las cosas sencillas y comprender los conceptos básicos.
+
+Planes de inversión para la seguridad y la comodidad. Esos planes frecuentemente son manejados por alguien más, que tú esperas que sea competente y que siga una fórmula automática sencilla.
+
+A continuación debes pagar el precio de convertirte en un inversionista que desee ganar más dinero con menos.
+
+El tiempo es nuestro activo más importante.
+
+imagen con un tetraedro de negocio gastos ingreso pasivo y portafolio
+
+Una revisión rápida de información financiera ingresos/gastos y activo/pasivo me permite saber las tres cosas más importantes.
+
+1. Contar con una lista de revisión sobre lo que es importante
+2. Cuando considera un inversión la contrasto con mis estados financieros personales y analizo si encaja en ellos
+3. Quiero saber si inversión es segura y si ganaré dinero
+
+El estado financiero personal son el boletín de notas de los adultos, como el boletín de notas del colegio
+
+** Tú inviertes por una razón: para adquirir un activo que conviertan tu ingreso ganado en ingreso pasivo o de portafolio **
+
+La verdadera comprensión de los estados financieros es una de las claves necesarias para que una persona del cuadrante "A" pase a formar parte del cuadrante D
+
+#### Capítulo 16: lección 14, la educación financiera me hizo ser sencillo
+
+Ley de Gresham: el dinero malo ahuyenta al dinero bueno
+
+Es la dirección del flujo de efectivo lo que determina si algo es un activo o un pasivo
+
+El inversionista promedio tiene la mentalidad de contar los huevos antes de venderlos, por ejemplo compré mi casa por 50.000€ y actualmente vale 750.000€
+
+Cuando las personas expiden cheques están gastando un activo. Y cuando utilizan sus tarjetas de crédito incrementan sus pasivos. En otras palabras, las tarjetas de crédito hacen que sea más fácil hundirse más y más en deuda
+
+Se necesitan al menos 2 estados financieros diferentes para ver la imagen completa. Cada uno de tus gastos constituyen ingreso de otra persona y cada uno de tus pasivos constituye el activo de alguien más
+
+Así que mis ahorros son mi activo y son el pasivo del banco mientras que la hipoteca es mi pasivo y es un activo del banco
+
+Los gobiernos incentivan que la gente se endeude: el gobierno me proporciona un incentivo fiscal por adquirir un pasivo y me cobra impuestos por tener un activo
+
+#### Capítulo 17: lección 15, la magia de los errores
+
+Los errores para mi padre rico son oportunidades de aprender algo nuevo, algo que no sabía anteriormente. El consideraba que mientras más errores cometa una persona más habrá aprendido.
+
+Es la persona que evita cometer errores la que se queda rezagada desde el punto de vista financiero y profesional.
+
+#### Capítulo 18: lección 16, ¿Cuál es el precio de volverse rico?
+
+Existen formas en que una persona puede volverse rica: una consiste en ganar más dinero y la otra es desear menos cosas.
+
+No le agrada la idea de volverse rico siendo tacaño, que no es lo mismo que vivir frugalmente.
+
+Si realmente quiere ser rico, necesita saber cuándo ser frugal y cuándo ser un manirroto.
+
