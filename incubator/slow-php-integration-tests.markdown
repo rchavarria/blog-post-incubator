@@ -1,3 +1,34 @@
+Hoy el post va de una historia de abuelo cebolleta: hace un tiempo, tuvimos una *discusión* en la oficia, dentro del equipo con el que trabajo. Estuvimos discutiendo sobre cómo hacer nuestros tests de integración más rápidos.
+
+Por aquel momento teníamos un gran número de tests de integración, más o menos emparejado con el número de tests unitarios. Bueno, sí, ya empezamos mal. Estoy de acuerdo con la teoría de que es mucho mejor tener una *pirámide* de tests, no un cucurucho de tests. Pero esa era nuestra realidad. La verdad es que a día de hoy, hemos conseguido tener muchos más tests unitarios que de integración, pero esa es otra historia.
+
+<!-- more -->
+
+Evidentemente, cuantos más tests de integración tenemos, más tiempo tardan éstos en ejecutarse. Pero eso no es excusa para quedarnos de brazos cruzados y esperar un cuarto de hora a que terminen de pasar los tests. La verdad es que sí, que tardan un rato en completarse. Son de integración, y el que no accede a la base de datos, accede a disco, y el que no hace una petición HTTP, el que no... Coges la idea ¿verdad? Integración. Acceso a sistemas externos. Len ti tud. ¡Ay!
+
+J.B. Rainsberger ya lo lleva diciendo mucho tiempo: los [tests de integración son un dolor], y además, hacen que cada vez vayas más lento. Pero eso no quita que no sea necesario un cierto número de tests de integración.
+
+<!-- imagen gif animado de alguna chorrada de test unitario pero no de integración -->
+
+Y, ¿qué dos puntos se discutían?
+
+Por una lado bla blah
+
+Por otro foo bar
+
+<!-- -->
+
+Además de todo eso, también surgieron ideas curiosas, por ejemplo, paralelizar la ejecución de los tests. Quizá así podríamos acelerar su ejecución. Por lo pronto, lo que sí hicimos para mejorar el tiempo de ejecución fue minimizar al máximo en número de conexiones a la base de datos desde los tests. No recuerdo la cifra, pero redujimos por lo menos un tercio el tiempo de ejecución de los tests de integración.
+
+Y tú, ¿qué crees? ¿qué sería mejor? ¿utilizar una base de datos nuevecita para cada ejecución de los tests?
+
+## Referencias
+
+- Pirámide Vs Cucurucho de tests
+- Los [tests de integración son un dolor]
+
+<!-- 
+
 Hoy en la oficina hemos tenido una *discusión* interesante. 
 
 Tenemos un gran número de tests de integración (algo menor que unitarios, está bien saber que no tenemos una pirámide invertida o un cucurucho de tests - buscar referencia)
@@ -14,4 +45,6 @@ Qué dos puntos se defendían en la discusión?
 Tamibén hemos llegado a la conclusión que quizá paralelizando la ejecución, consigamos acelerarlos
 
 y tú, qué crees? qué sería mejor, utilizar una bbdd nueva, o no?
+
+-->
 
