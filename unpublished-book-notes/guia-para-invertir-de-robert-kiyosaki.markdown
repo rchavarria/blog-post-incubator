@@ -269,3 +269,20 @@ No le agrada la idea de volverse rico siendo tacaño, que no es lo mismo que viv
 
 Si realmente quiere ser rico, necesita saber cuándo ser frugal y cuándo ser un manirroto.
 
+#### Capítulo 19: el acertijo 90-10
+
+El Acertijo 90-10 es: ¿Cómo llenan ustedes su columna de activos sin comprar ningún activo? Así que usted propone crear activos en la columna de activos en vez de comprar activos con dinero. Lo que crea activos es una manera de pensar y una vez que ustedes tienen esa manera de pensar puede ser más ricos de lo que jamás soñaron.
+
+Una historia de su infancia: cómo usted tomó libros de tiras cómicas y los convirtió en activos. ¿Pero eran libros las tiras cómicas el activo? No hasta que usted los convirtió en un activo.
+
+El poder que él tenía era su proceso de pensamiento.
+
+Su poder es la capacidad de tomar las ideas y convertirlas en activos.
+
+Son las personas que no tienen los activos quienes trabajan para o son controlados por aquellas otras personas que crean, adquieren o controlan los activos.
+
+Así que si quiero unirme al club 90-10 es mejor que practique la creación de activos en vez de comprar activos.
+
+Padre rico decía: tu cerebro puede ser tu activo más poderoso y si no lo utilizas adecuadamente puede ser tu pasivo más poderoso
+
+Mi padre rico me hizo crear muchas veces activos nuevos en una columna vacía de activos, tenía que ser un nuevo activo y diferente, no le importaba en realidad si la idea era descabellada 
