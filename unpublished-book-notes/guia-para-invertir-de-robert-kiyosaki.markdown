@@ -291,6 +291,21 @@ Mi padre rico me hizo crear muchas veces activos nuevos en una columna vacía de
 
 Si quieres resolver el acertijo 90 por ti mismo necesitas ser ambos tipos de inversionista. Necesitas ser una persona que conozca la manera de crear activos así como una persona que sepa como comprarlos.
 
-#### 
+#### Capítulo 21: Las categorías de inversionistas para mi padre rico
+
+1. El inversionista acreditado gana mucho dinero y/o tiene un patrimonio neto valioso.
+2. El inversionista calificado conoce la inversión fundamental y la inversión técmica.
+3. El inversionista sofisticado comprende las inversiones y la ley.
+4. Inversionista interno crea la inversión.
+5. El inversionista consumado se convierte en accionista que vende.
+
+El inversionista acreditado es alguien con altos ingresos, un patrimonio neto valioso.
+
+El inversionista calificado comprende la manera de analizar una acción bursátil que se cotiza de manera pública. Es considerado un inversionista externo.
+
+El inversionista sofisticado normalmente tiene las tres "E" de mi padre rico: educación, experiencia y excedente de dinero. Comprende el mundo de la inversión, utiliza la legislación fiscal corporativa y de valores para optimizar sus ganancias y proteger su capital principal.
+
+La creación de un negocio exitoso es la meta el inversionista interno. Un exitoso sabe cómo crear y construir activos. Los ricos inventan el dinero.  La meta del inversionista consumado es convertirse en un accionista capaz de vender acciones.
+
 
 
