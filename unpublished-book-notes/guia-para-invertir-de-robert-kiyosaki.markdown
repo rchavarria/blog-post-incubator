@@ -307,8 +307,33 @@ El inversionista sofisticado normalmente tiene las tres "E" de mi padre rico: ed
 
 La creación de un negocio exitoso es la meta el inversionista interno. Un exitoso sabe cómo crear y construir activos. Los ricos inventan el dinero.  La meta del inversionista consumado es convertirse en un accionista capaz de vender acciones.
 
-#### Capítulo 22: El inversionista acreditado.
+#### Capítulo 22: El inversionista acreditado
 
 Los controles del inversionista acreditado: el inversionista acreditado no tiene ninguno. Quizá tiene mucho dinero pero generalmente no sabe qué hacer con él.
 
-#### 
+#### Capítulo 23: El inversionista calificado
+
+Tiene dinero así como algún conocimiento sobre inversiones. Un inversionista calificado es un inversionista acreditado que también ha invertido en su educación financiera.
+
+Inversión fundamental. Reduce el riesgo al buscar el valor y crecimiento y al analizar los datos financieros de la compañía.
+Inversión técnica. Invierte en las emociones del mercado, invierte con un seguro para pérdida catastrófica. Se basa en la oferta y la demanda las acciones de la compañía. Esto desde 1995 las personas que operan estrictamente como inversionistas fundamentales no han tenido tan buen desempeño con los inversionistas que también consideran el aspecto técnico del mercado.  Pero en caso de un crack a quién les va bien es a los inversionistas con inversiones fundamentales sólidas
+
+El inversionista fundamental analiza la compañía desde sus estados financieros para evaluar su solidez y su potencial éxito futuro. El inversionista se mantiene atento a la economía y a la industria en que participará la compañía.
+
+Un inversionista técnico invierte con ayuda de gráficas que le permiten seguir las tendencias de precio, volumen y los patrones de las acciones de la compañía.
+
+imágenes sobre las diferencias entre las inversiones fundamentales y técnicas de la página 312
+
+Una persona comprende la inversión térmica entonces tienes actitudes para ganar dinero con el mercado a la baja así como cuando está al alta
+
+Salir es más importante que entrar. Si quiere ser un inversionista conocedor necesita saber la manera de salir de una inversión así como la manera de entrar en ello.
+
+Cuando compras una inversión debes tener una idea de cuando venderla. Debe saber qué ocurrirá si la inversión tiene un buen desempeño y que ocurrirá si le va mal.
+
+Los controles del inversionista calificado son: el control sobre si mismo, el control sobre la relación entre ingreso gasto, activo pasivo, el control sobre cuando comprar y cuando vender
+
+Una baja relación precio-calidad significaría que la acción se vende a un precio relativamente bajo en comparación con sus utilidades. Una alta relación precio-utilidad indicaría que el precio de la acción es alto y no constituye en realidad una oportunidad
+
+Comparar la relación del año en curso con la del año anterior. Comparar la relación precio utilidad con la de otras compañías de la misma industria
+
+
