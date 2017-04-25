@@ -286,3 +286,11 @@ Así que si quiero unirme al club 90-10 es mejor que practique la creación de a
 Padre rico decía: tu cerebro puede ser tu activo más poderoso y si no lo utilizas adecuadamente puede ser tu pasivo más poderoso
 
 Mi padre rico me hizo crear muchas veces activos nuevos en una columna vacía de activos, tenía que ser un nuevo activo y diferente, no le importaba en realidad si la idea era descabellada 
+
+#### Capítulo 20: Resolver el acertijo 90-10
+
+Si quieres resolver el acertijo 90 por ti mismo necesitas ser ambos tipos de inversionista. Necesitas ser una persona que conozca la manera de crear activos así como una persona que sepa como comprarlos.
+
+#### 
+
+
