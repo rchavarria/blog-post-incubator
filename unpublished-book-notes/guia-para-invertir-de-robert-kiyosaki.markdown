@@ -307,5 +307,8 @@ El inversionista sofisticado normalmente tiene las tres "E" de mi padre rico: ed
 
 La creación de un negocio exitoso es la meta el inversionista interno. Un exitoso sabe cómo crear y construir activos. Los ricos inventan el dinero.  La meta del inversionista consumado es convertirse en un accionista capaz de vender acciones.
 
+#### Capítulo 22: El inversionista acreditado.
 
+Los controles del inversionista acreditado: el inversionista acreditado no tiene ninguno. Quizá tiene mucho dinero pero generalmente no sabe qué hacer con él.
 
+#### 
