@@ -362,5 +362,8 @@ Mis negocios adquieren activos con dinero previo al pago de impuestos. Tu padre 
 
 Yo pago impuestos sobre mi ingreso neto, tu padre son retenidos de un ingreso total. Puedo comprar mis activos con ingresos brutos y pago mis impuestos sobre mi ingreso neto. Tu padre paga sus impuestos sobre el ingreso bruto y luego trata de adquirir activos con su ingreso neto 
 
+#### Capítulo 28: Conserve su empleo y aún así conviertase en rico
+
+En el momento de que comiences tu propio negocio en medio tiempo dijo mi padre rico no pierdas el tiempo con un empleo de medio tiempo. Un negocio de medio tiempo te coloca en el cuadrante "D". Esto no debe molestarte, en tratar de crear un gran producto. Enfoque mejor su atención en comenzar un negocio de manera que pueda aprender cómo ser un gran dueño de negocio.
 
 
