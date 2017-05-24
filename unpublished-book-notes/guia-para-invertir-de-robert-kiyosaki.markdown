@@ -390,6 +390,13 @@ Un buen administrador de flujo de efectivo revisa su posición de efectivo diari
 
 Retrase la asignación de un salario hasta que sus negocios le generen un flujo de efectivo en ventas. No te pongas salario hasta que no haya ventas.
 
+#### Capítulo 33: La administración de las comunicaciones
+
+Para ser bueno en las comunicaciones necesitas primero ser bueno en lo relacionado con la psicología humana. Para ser buen comunicador necesita saber qué botón oprimir. Las personas tienen botones distintos. Al comienzo de cualquier negocio, el trabajo más importante del empresario consiste en mantener el flujo de dinero hacia el negocio.
+
+Yo espero aquí porque tengo miedo a salir y hacer lo que tú estás haciendo. Supera tus miedos. Si te rindes a tus miedos el mundo se volverá más pequeño cada año.
+
+Las ventas es lo que ustedes hacen en persona cara a cara. La mercadotecnia y las ventas realizadas por medio de un sistema.
 
 
 
