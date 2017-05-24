@@ -384,3 +384,42 @@ El equipo: Los negocios son un deporte en equipo, la inversión es un deporte en
 
 Liderazgo: el tercer lado del triángulo. equipo misión y liderazgo. El trabajo de un líder es sacar lo mejor de la gente, no ser la mejor persona. Si usted es la persona más inteligente de su equipo de negocios, su negocio está en problemas. Al ofrecerse como voluntario puede obtener retroalimentación sobre sus actitudes de liderazgo en la vida real. Pido este retroalimentación y apoyo correctivo.
 
+#### Capítulo 32: La administración del flujo de efectivo
+
+Un buen administrador de flujo de efectivo revisa su posición de efectivo diariamente y revisa las fuentes y necesidades de efectivo de la semana siguiente, el mes siguiente y el trimestre siguiente.
+
+Retrase la asignación de un salario hasta que sus negocios le generen un flujo de efectivo en ventas. No te pongas salario hasta que no haya ventas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
