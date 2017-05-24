@@ -370,4 +370,7 @@ En el momento de que comiences tu propio negocio en medio tiempo dijo mi padre r
 
 Es la emoción y el espíritu y el potencial de obtener una gran recompensa al final lo que hace que el empresario siga adelante. No el dinero.
 
+#### Capítulo 30: Porque crear un negocio?
+
+
 
