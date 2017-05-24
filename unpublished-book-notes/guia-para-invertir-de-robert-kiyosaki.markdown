@@ -352,6 +352,10 @@ Todos necesitamos pagar impuestos. Los ricos quieren controlar cuánto dinero pa
 
 Es aquel que se encuentra en el interior de la inversión y tiene cierto grado de control administrativo.
 
+#### Capítulo 26: El inversionista consumado.
+
+Los inversionistas que hacen compañías gigantescas en las que otros inversionistas desean participar (está hablando de Bill Gates y Warren Buffett)
+
 
 
 
