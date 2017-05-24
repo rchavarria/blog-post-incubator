@@ -372,5 +372,15 @@ Es la emoción y el espíritu y el potencial de obtener una gran recompensa al f
 
 #### Capítulo 30: Porque crear un negocio?
 
+### Tercera etapa: como construir un negocio
+ 
+#### Capítulo 31: El triángulo de letra
 
+Equipo, misión y liderazgo.
+
+La misión: un negocio necesita tanto de una misión espiritual como de una misión de negocio.
+
+El equipo: Los negocios son un deporte en equipo, la inversión es un deporte en equipo y el problema de estar en los cuadrantes de empleado o de autónomo es que usted juega como individuo, en contra de un equipo. Comerciar con acciones por internet es un individuo que trata de comerciar en contra de equipos bien organizados. En el equipo de mi padre rico están sus contadores, abogados, corredores, ASESORES FINANCIEROS, agentes de seguros y banqueros. No un gran yate sino un gran equipo.
+
+Liderazgo: el tercer lado del triángulo. equipo misión y liderazgo. El trabajo de un líder es sacar lo mejor de la gente, no ser la mejor persona. Si usted es la persona más inteligente de su equipo de negocios, su negocio está en problemas. Al ofrecerse como voluntario puede obtener retroalimentación sobre sus actitudes de liderazgo en la vida real. Pido este retroalimentación y apoyo correctivo.
 
