@@ -366,4 +366,8 @@ Yo pago impuestos sobre mi ingreso neto, tu padre son retenidos de un ingreso to
 
 En el momento de que comiences tu propio negocio en medio tiempo dijo mi padre rico no pierdas el tiempo con un empleo de medio tiempo. Un negocio de medio tiempo te coloca en el cuadrante "D". Esto no debe molestarte, en tratar de crear un gran producto. Enfoque mejor su atención en comenzar un negocio de manera que pueda aprender cómo ser un gran dueño de negocio.
 
+#### Capítulo 29: El espíritu empresarial
+
+Es la emoción y el espíritu y el potencial de obtener una gran recompensa al final lo que hace que el empresario siga adelante. No el dinero.
+
 
