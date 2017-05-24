@@ -336,4 +336,15 @@ Una baja relación precio-calidad significaría que la acción se vende a un pre
 
 Comparar la relación del año en curso con la del año anterior. Comparar la relación precio utilidad con la de otras compañías de la misma industria
 
+#### Capítulo 24: El inversionista sofisticado
+
+Es un inversionista que sabe lo mismo que el calificado pero que también conoce las siguientes especialidades: legislación fiscal, derecho corporativo y legislación de valores. Basa gran parte de su estrategia de inversión en las leyes así como el producto de inversión y las ganancias potenciales. Es capaz de utilizar las ventajas de E.O.C (que son las iniciales de entidad oportunidad y característica).
+
+Entidad significa la elección de la estructura de negocios, es decir el tipo de sociedad. 
+
+Las personas del cuadrante que no pueden elegir su entidad preferida. Para ellos el gobierno siempre es pagado primero.
+
+Corporaciones. Sociedades responsabilidad limitada. Una corporación es otro tú, es un clon tuyo. Si eres serio no deseas hacer negocios como un ciudadano eso es muy arriesgado. Tú no quieres hacer negocios ni ser el propietario de nada como ciudadano. Los ricos no quieren poseer nada pero quieren controlarlo todo.
+
+Todos necesitamos pagar impuestos. Los ricos quieren controlar cuánto dinero pagan por impuestos así como cuándo tiene que pagarlos. La comprensión de la ley le ayuda a controlar la oportunidad en el pago de impuestos.
 
