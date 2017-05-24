@@ -352,11 +352,15 @@ Todos necesitamos pagar impuestos. Los ricos quieren controlar cuánto dinero pa
 
 Es aquel que se encuentra en el interior de la inversión y tiene cierto grado de control administrativo.
 
-#### Capítulo 26: El inversionista consumado.
+#### Capítulo 26: El inversionista consumado
 
 Los inversionistas que hacen compañías gigantescas en las que otros inversionistas desean participar (está hablando de Bill Gates y Warren Buffett)
 
+#### Capítulo 27: Cómo volverse rico rápidamente
 
+Mis negocios adquieren activos con dinero previo al pago de impuestos. Tu padre trata de adquirir activos con el dinero después de pagar impuestos. Este era el plan de inversión de mi padre rico.
+
+Yo pago impuestos sobre mi ingreso neto, tu padre son retenidos de un ingreso total. Puedo comprar mis activos con ingresos brutos y pago mis impuestos sobre mi ingreso neto. Tu padre paga sus impuestos sobre el ingreso bruto y luego trata de adquirir activos con su ingreso neto 
 
 
 
