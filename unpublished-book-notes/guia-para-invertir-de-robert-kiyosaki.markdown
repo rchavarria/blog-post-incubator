@@ -348,3 +348,11 @@ Corporaciones. Sociedades responsabilidad limitada. Una corporación es otro tú
 
 Todos necesitamos pagar impuestos. Los ricos quieren controlar cuánto dinero pagan por impuestos así como cuándo tiene que pagarlos. La comprensión de la ley le ayuda a controlar la oportunidad en el pago de impuestos.
 
+#### Capítulo 25: El inversionista interno
+
+Es aquel que se encuentra en el interior de la inversión y tiene cierto grado de control administrativo.
+
+
+
+
+
