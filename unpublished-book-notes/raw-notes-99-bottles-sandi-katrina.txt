@@ -1,0 +1,2225 @@
+﻿99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu nota en la posición 169 | Añadido el sábado, 29 de abril de 2017 11:32:05
+
+una refactorizacion no es el resultado final sino el camino
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 168-169 | Añadido el sábado, 29 de abril de 2017 11:32:05
+
+Writing code is the process of working your way to the next stable end point, not the end point itself.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 186-189 | Añadido el sábado, 29 de abril de 2017 11:45:06
+
+This is the basic promise of Object-Oriented Design (OOD): that if you’re willing to accept increases in the complexity of your code along some dimensions, you’ll be rewarded with decreases in complexity along others. OOD doesn’t claim to be free; it merely asserts that its benefits outweigh its costs. Design decisions inevitably involve trade-offs.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 215-217 | Añadido el sábado, 29 de abril de 2017 11:45:26
+
+Imagine a continuum with "most concrete" at one end and "most abstract" at the other. Code at the concrete end might be expressed as a single long procedure full of if statements. Code at the abstract end might consist of many classes, each with one method containing a single line of code.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 300-301 | Añadido el sábado, 29 de abril de 2017 11:48:08
+
+Inconsistent styling makes code harder for humans to parse; it raises costs without providing benefits.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu nota en la posición 301 | Añadido el sábado, 29 de abril de 2017 11:49:33
+
+por ejemplo con los if.s o todo if.s o todo ternarios pero no mezcla. al meno en la misma funcion o clase
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 317-318 | Añadido el sábado, 29 de abril de 2017 11:50:47
+
+Duplication of logic suggests that there are concepts hidden in the code that are not yet visible because they haven’t been isolated and named
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu marcador en la posición 309 | Añadido el sábado, 29 de abril de 2017 11:51:30
+
+
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 329-329 | Añadido el sábado, 29 de abril de 2017 12:02:48
+
+Terminology: Method versus Message
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 335-335 | Añadido el sábado, 29 de abril de 2017 12:02:55
+
+methods are defined, and messages are sent.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 349-350 | Añadido el sábado, 29 de abril de 2017 12:03:51
+
+Combining many ideas into a small section of code makes it difficult to isolate and name any single concept.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu nota en la posición 350 | Añadido el sábado, 29 de abril de 2017 12:04:18
+
+codigo demasiado conciso suele ser dificil de leer
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 354-354 | Añadido el sábado, 29 de abril de 2017 12:05:07
+
+Code clarity is built upon names.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu nota en la posición 366 | Añadido el sábado, 29 de abril de 2017 12:11:02
+
+preguntatelas cada vez qu quieras saber si tu codigo es buno o costoso
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 362-366 | Añadido el sábado, 29 de abril de 2017 12:11:02
+
+While it’s difficult to get exact figures for value and cost, asking the following questions will give you insight into the potential expense of a bit of code: How difficult was it to write? How hard is it to understand? How expensive will it be to change?
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu marcador en la posición 381 | Añadido el sábado, 29 de abril de 2017 12:12:55
+
+
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 384-384 | Añadido el domingo, 30 de abril de 2017 20:39:15
+
+1.1.2. Speculatively General
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 385-385 | Añadido el domingo, 30 de abril de 2017 20:39:23
+
+It does many things well but can’t resist indulging in unnecessary complexity.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 557-557 | Añadido el domingo, 30 de abril de 2017 20:47:40
+
+Programmers love clever code.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 558-558 | Añadido el domingo, 30 de abril de 2017 20:47:44
+
+Writing it, or suddenly understanding it, supplies a little burst of appreciative pleasure
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 560-560 | Añadido el domingo, 30 de abril de 2017 20:47:48
+
+You must resist being clever for its own sake
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 566-566 | Añadido el domingo, 30 de abril de 2017 20:49:14
+
+1.1.3. Concretely Abstract
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu marcador en la posición 561 | Añadido el domingo, 30 de abril de 2017 20:49:18
+
+
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 678-678 | Añadido el martes, 2 de mayo de 2017 22:59:24
+
+The code is DRY, and DRYing out code should reduce costs.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 681-682 | Añadido el martes, 2 de mayo de 2017 22:59:28
+
+DRY makes sense when it reduces the cost of change more than it increases the cost of understanding the code.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 703-704 | Añadido el martes, 2 de mayo de 2017 23:02:00
+
+When you choose beer as the name of a method that returns the string "beer," you’ve named the method after what it does right now.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu nota en la posición 706 | Añadido el martes, 2 de mayo de 2017 23:02:45
+
+en el ejemplo anteior. en ugar de beer. el nombre del metodo pidria ser bebida
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 706-706 | Añadido el martes, 2 de mayo de 2017 23:02:45
+
+You should name methods not after what they do, but after what they mean, what they represent in the context of your domain
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 732-732 | Añadido el martes, 2 de mayo de 2017 23:04:01
+
+1.1.4. Shameless Green
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu nota en la posición 820 | Añadido el martes, 2 de mayo de 2017 23:09:59
+
+shamelesss green parece demasiado sencilla. demasiado facil. no queremeos parar ahi. pero debemos saber cuando hacerlo
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 820-821 | Añadido el martes, 2 de mayo de 2017 23:09:59
+
+One of the biggest challenges of design is knowing when to stop,
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 822-822 | Añadido el martes, 2 de mayo de 2017 23:10:03
+
+1.2. Judging Code You now have access
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 822-822 | Añadido el martes, 2 de mayo de 2017 23:10:22
+
+1.2. Judging Code
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu marcador en la posición 817 | Añadido el martes, 2 de mayo de 2017 23:10:25
+
+
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 830-831 | Añadido el miércoles, 3 de mayo de 2017 7:51:57
+
+While having standards of any sort is a virtue, the chance of achieving your standards is improved if they are explicit and quantifiable.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 833-833 | Añadido el miércoles, 3 de mayo de 2017 7:52:21
+
+1.2.1. Evaluating Code Based on Opinion
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 856-856 | Añadido el miércoles, 3 de mayo de 2017 7:58:02
+
+good code not only works, but is also simple, understandable, expressive and changeable.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 863-864 | Añadido el miércoles, 3 de mayo de 2017 7:59:09
+
+Our sense of elegance, expressiveness and simplicity is an outgrowth of our experiences when reading and modifying code.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 864-865 | Añadido el miércoles, 3 de mayo de 2017 7:59:13
+
+Code that is easy to understand and a pleasure to extend naturally feels simple and elegant.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 867-868 | Añadido el miércoles, 3 de mayo de 2017 7:59:18
+
+1.2.2. Evaluating Code Based on Facts
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 874-874 | Añadido el viernes, 5 de mayo de 2017 21:29:40
+
+numbers produced by metrics are facts.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 877-877 | Añadido el viernes, 5 de mayo de 2017 21:29:44
+
+Source Lines of Code
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 891-892 | Añadido el viernes, 5 de mayo de 2017 21:32:43
+
+SLOC numbers reflect code volume, and while it’s useful for some purposes, knowing SLOC alone is not enough to predict code quality.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 893-893 | Añadido el viernes, 5 de mayo de 2017 21:32:46
+
+Cyclomatic Complexity
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 901-901 | Añadido el viernes, 5 de mayo de 2017 21:34:15
+
+counts the number of unique execution paths through a body of source code.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 906-906 | Añadido el viernes, 5 de mayo de 2017 21:35:41
+
+can be used in several ways.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 906-907 | Añadido el viernes, 5 de mayo de 2017 21:35:46
+
+two variants of the same method, you can choose between them based on their cyclomatic complexity.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 908-909 | Añadido el viernes, 5 de mayo de 2017 21:35:52
+
+use it to limit overall complexity.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 910-911 | Añadido el viernes, 5 de mayo de 2017 21:36:01
+
+determine if you’ve written enough tests.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 914-915 | Añadido el viernes, 5 de mayo de 2017 21:36:05
+
+Assignments, Branches and Conditions (ABC) Metric
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 925-926 | Añadido el viernes, 5 de mayo de 2017 21:37:03
+
+Fitzpatrick describes the ABC metric as a measure of size, as if ABC is a more sophisticated version of SLOC.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 927-928 | Añadido el viernes, 5 de mayo de 2017 21:37:43
+
+cognitive as opposed to physical size. High ABC numbers indicate code that takes up a lot of mental space. In this sense, ABC is a measure of complexity
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 940-940 | Añadido el viernes, 5 de mayo de 2017 21:39:13
+
+1.2.3. Comparing Solutions
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 1018-1018 | Añadido el viernes, 5 de mayo de 2017 21:47:48
+
+2. Test Driving Shameless Green
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 1024-1024 | Añadido el viernes, 5 de mayo de 2017 21:53:42
+
+2.1. Understanding Testing
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 1051-1052 | Añadido el viernes, 5 de mayo de 2017 21:55:53
+
+The Shameless Green solution strives for maximum understandability but is generally unconcerned with changeability.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 1055-1055 | Añadido el viernes, 5 de mayo de 2017 21:56:12
+
+2.2. Writing the First Test
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu nota en la posición 1059 | Añadido el viernes, 5 de mayo de 2017 21:58:51
+
+aunque parezca muy importante. el primer test no lo es tano
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 1059-1059 | Añadido el viernes, 5 de mayo de 2017 21:58:51
+
+Despite its apparent import, the choice you make here hardly matters
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 1064-1065 | Añadido el viernes, 5 de mayo de 2017 21:59:47
+
+while it is important to consider the problem and to sketch out an overall plan before writing the first test, don’t overthink it. Find a starting place and get going, in faith that as you proceed, the fog will clear.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 1175-1178 | Añadido el viernes, 5 de mayo de 2017 22:04:44
+
+When doing TDD, you toggle between wearing two hats. While in the "writing tests" hat, you keep your eye on the big picture and work your way forward with the overall plan in mind. When in the "writing code" hat, you pretend to know nothing other than the requirements specified by the tests at hand. Thus, although each individual test is correct, until all are written, the code is incomplete.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 1179-1179 | Añadido el viernes, 5 de mayo de 2017 22:04:49
+
+2.3. Removing Duplication
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu marcador en la posición 1179 | Añadido el viernes, 5 de mayo de 2017 22:04:51
+
+
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 1182-1183 | Añadido el jueves, 11 de mayo de 2017 19:05:02
+
+Verses 99 through 3 are nearly identical—they differ only in that the number changes within each verse.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 1229-1230 | Añadido el jueves, 11 de mayo de 2017 19:05:13
+
+the true and false branches contain many things that don’t vary based on number
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu nota en la posición 1234 | Añadido el jueves, 11 de mayo de 2017 19:05:45
+
+de eta form queda un if mucjo mas pequeño
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 1233-1234 | Añadido el jueves, 11 de mayo de 2017 19:05:45
+
+alter the if statement to return only the things that change
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 1285-1287 | Añadido el jueves, 11 de mayo de 2017 19:06:01
+
+The difference between the solution that adds a conditional and the solution that interpolates a variable into a string is that in the first, as the tests get more specific, the code stays equally specific.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 1289-1290 | Añadido el jueves, 11 de mayo de 2017 19:06:09
+
+as the tests get more specific, the code gets more generic.[4
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 1320-1320 | Añadido el jueves, 11 de mayo de 2017 19:06:26
+
+2.4. Understanding Transformations
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu marcador en la posición 1305 | Añadido el jueves, 11 de mayo de 2017 19:06:28
+
+
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 1323-1325 | Añadido el viernes, 12 de mayo de 2017 15:43:28
+
+the "Transformation Priority Premise" (a blog post that you are urged to scan), Martin defines transformations as "simple operations that change the behavior of code."
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu nota en la posición 1325 | Añadido el viernes, 12 de mayo de 2017 15:44:08
+
+se podrian ver las transformaviones colo lo contrario a refatorizar?
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 1344-1344 | Añadido el viernes, 12 de mayo de 2017 15:44:15
+
+2.5. Tolerating Duplication
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 1459-1460 | Añadido el viernes, 12 de mayo de 2017 15:49:38
+
+as tests get more specific, code should become more generic. Code becomes more generic by becoming more abstract.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 1460-1461 | Añadido el viernes, 12 de mayo de 2017 15:49:52
+
+One way to make code more abstract is to DRY it out,
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu nota en la posición 1490 | Añadido el viernes, 12 de mayo de 2017 15:53:28
+
+herring es un pescado. red herring es algo qye oculta algo mas importsnte
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 1490-1491 | Añadido el viernes, 12 de mayo de 2017 15:53:28
+
+The concept of pluralization is a red herring.[
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 1494-1495 | Añadido el viernes, 12 de mayo de 2017 15:53:38
+
+The fact that "bottle" is duplicated many times signals that there’s an underlying concept that has not yet been unearthed.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 1495-1496 | Añadido el viernes, 12 de mayo de 2017 15:53:43
+
+Within the domain of the song, "bottle/bottles" represents something important, and that thing is not pluralization.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 1498-1499 | Añadido el viernes, 12 de mayo de 2017 15:53:50
+
+Code like this pluralize method gets written when programmers take the DRY principle to extremes,
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 1500-1501 | Añadido el viernes, 12 de mayo de 2017 15:54:03
+
+When faced with a situation like this, ask these questions:
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 1501-1502 | Añadido el viernes, 12 de mayo de 2017 15:54:09
+
+Does the change I’m contemplating make the code harder to understand?
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 1502-1502 | Añadido el viernes, 12 de mayo de 2017 15:54:19
+
+When abstractions are correct, code is easy to understand.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 1504-1504 | Añadido el viernes, 12 de mayo de 2017 15:54:28
+
+What is the future cost of doing nothing now?
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 1505-1505 | Añadido el viernes, 12 de mayo de 2017 15:54:40
+
+If it doesn’t increase your costs, delay making changes.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 1507-1507 | Añadido el viernes, 12 de mayo de 2017 15:54:53
+
+When will the future arrive, or how soon will I get more information?
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 1518-1518 | Añadido el viernes, 12 de mayo de 2017 15:55:52
+
+patiently tolerating duplication if doing so will help reveal the underlying abstraction.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 1522-1522 | Añadido el viernes, 12 de mayo de 2017 15:56:06
+
+2.6. Hewing to the Plan
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu nota en la posición 1526 | Añadido el lunes, 15 de mayo de 2017 8:33:01
+
+hay veces que es mejr esperar a tener mas informacion  . ma ejemplos. para poder decidir mejor la abstraccion a sar
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 1525-1526 | Añadido el lunes, 15 de mayo de 2017 8:33:02
+
+The goal is to use green to maximize your understanding of the problem and to unearth all available information before committing to abstractions.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 1596-1598 | Añadido el lunes, 15 de mayo de 2017 8:37:59
+
+switched from if to case. These keywords tell a different story.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 1599-1601 | Añadido el lunes, 15 de mayo de 2017 8:38:11
+
+What does it mean to write if rather than case?
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 1614-1615 | Añadido el lunes, 15 de mayo de 2017 8:38:17
+
+Use of if / elsif implies that each subsequent condition varies in a meaningful way
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 1616-1617 | Añadido el lunes, 15 de mayo de 2017 8:38:25
+
+future readers will feel obliged to closely examine each one.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 1620-1621 | Añadido el lunes, 15 de mayo de 2017 8:38:34
+
+Readers of case statements expect conditions to be fundamentally the same.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu nota en la posición 1624 | Añadido el lunes, 15 de mayo de 2017 8:40:44
+
+cambiar un if por un case para indicar que las condiciones son muy similares es un agto deluberado de gratitud
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 1624-1624 | Añadido el lunes, 15 de mayo de 2017 8:40:44
+
+is an act of kindness towards your reader. Intention-revealing code is built from the accumulation of such thoughtful acts.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 1701-1701 | Añadido el lunes, 15 de mayo de 2017 8:43:17
+
+2.7. Exposing Responsibilities
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 1769-1769 | Añadido el lunes, 15 de mayo de 2017 8:49:37
+
+Duplication is useful when it supplies independent, specific examples of a general concept that you don’t yet understand.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu nota en la posición 1797 | Añadido el lunes, 15 de mayo de 2017 8:50:34
+
+y eso es un dipliccion qu no vamos a tolerar
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 1796-1797 | Añadido el lunes, 15 de mayo de 2017 8:50:34
+
+code duplicates an example that already exists and so supplies no new information about the problem
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 1843-1844 | Añadido el lunes, 15 de mayo de 2017 8:56:34
+
+Fake It style TDD may initially seem awkward and tedious, but with practice it becomes both natural and speedy. Developing the habit of writing just enough code to pass the tests forces you to write better tests
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 1826-1829 | Añadido el lunes, 15 de mayo de 2017 8:57:00
+
+Kent Beck describes different ways to make tests pass. Three of his "Green Bar Patterns" are: Fake It ("Til You Make It") Obvious Implementation Triangulate
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu nota en la posición 1844 | Añadido el lunes, 15 de mayo de 2017 8:58:10
+
+cuidado con ir directamenye a la solucion obvia t pued llecar por el camino equivocado
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 1843-1844 | Añadido el lunes, 15 de mayo de 2017 8:58:10
+
+Fake It style TDD may initially seem awkward and tedious, but with practice it becomes both natural and speedy. Developing the habit of writing just enough code to pass the tests forces you to write better tests
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu marcador en la posición 1842 | Añadido el lunes, 15 de mayo de 2017 8:58:53
+
+
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 1847-1849 | Añadido el martes, 16 de mayo de 2017 7:47:02
+
+The next Green Bar Pattern is Triangulate, which Beck describes as a way to "conservatively drive abstraction with tests." Triangulation requires writing several tests at once, which means you’ll have multiple simultaneous broken tests. The idea is to write one bit of code which makes all of the tests pass.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu nota en la posición 1851 | Añadido el martes, 16 de mayo de 2017 7:48:07
+
+consigue varias .copias. del mismo conxpto antes de extraer lo duplucado
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 1851-1851 | Añadido el martes, 16 de mayo de 2017 7:48:07
+
+expands it from tests to code.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 1927-1927 | Añadido el martes, 16 de mayo de 2017 7:48:15
+
+2.8. Choosing Names
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 1972-1972 | Añadido el martes, 16 de mayo de 2017 7:52:13
+
+2.9. Revealing Intentions
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu marcador en la posición 1962 | Añadido el martes, 16 de mayo de 2017 7:52:57
+
+
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu nota en la posición 1979 | Añadido el viernes, 19 de mayo de 2017 22:36:37
+
+asi justifica un metodo publico muy pequeño u muy sencillo.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 1975-1979 | Añadido el viernes, 19 de mayo de 2017 22:36:37
+
+The distinction between intention and implementation […] allows you to understand a computation first in essence and later, if necessary, in detail. — Kent Beck Implementation Patterns (p. 69) Here song is the intention, and verses(99, 0) is the implementation.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 2045-2045 | Añadido el viernes, 19 de mayo de 2017 22:38:17
+
+2.10. Writing Cost-Effective Tests
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 2055-2056 | Añadido el viernes, 19 de mayo de 2017 22:40:14
+
+the first step in learning the art of testing is to understand how to write tests that confirm what your code does without any knowledge of how your code does it.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 2166-2166 | Añadido el viernes, 19 de mayo de 2017 22:40:21
+
+2.11. Avoiding the Echo-Chamber
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 2200-2200 | Añadido el viernes, 19 de mayo de 2017 22:42:51
+
+tests are too tightly coupled to code. Such tests impede change and increase costs.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 2365-2365 | Añadido el viernes, 19 de mayo de 2017 22:47:26
+
+2.12. Considering Options
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu nota en la posición 2366 | Añadido el viernes, 19 de mayo de 2017 22:49:13
+
+duplicacion en testear el metoo song escribino toooooda la cancion a mano
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 2366-2366 | Añadido el viernes, 19 de mayo de 2017 22:49:13
+
+you find the duplication distressing, consider the alternatives.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu nota en la posición 2367 | Añadido el viernes, 19 de mayo de 2017 22:49:48
+
+pero eso acopla el test a la implementacion
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 2367-2367 | Añadido el viernes, 19 de mayo de 2017 22:49:48
+
+Assert that the expected output matches that of some other method.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 2373-2374 | Añadido el viernes, 19 de mayo de 2017 22:50:00
+
+Assert that the expected output matches a dynamically generated string.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 2379-2380 | Añadido el viernes, 19 de mayo de 2017 22:50:37
+
+This logic already exists in the Bottles class,
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 2383-2384 | Añadido el viernes, 19 de mayo de 2017 22:50:42
+
+Assert that the expected output matches a hard-coded string.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 2387-2388 | Añadido el viernes, 19 de mayo de 2017 22:51:03
+
+only the third is independent of the current implementation and so guaranteed to survive changes to Bottles
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 2390-2391 | Añadido el viernes, 19 de mayo de 2017 22:51:29
+
+Tests are not the place for abstractions—they are the place for concretions. Abstractions belong in code.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 2393-2394 | Añadido el viernes, 19 de mayo de 2017 22:52:11
+
+DRY is a very good idea in code, but much less useful in tests. When testing, the best choice is very often just to write it down.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 2449-2449 | Añadido el viernes, 19 de mayo de 2017 22:52:31
+
+2.13. Summary
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 2459-2460 | Añadido el viernes, 19 de mayo de 2017 22:53:47
+
+3. Unearthing Concepts
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu marcador en la posición 2459 | Añadido el viernes, 19 de mayo de 2017 22:54:02
+
+
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 2468-2468 | Añadido el domingo, 21 de mayo de 2017 22:55:42
+
+3.1. Listening to Change
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu marcador en la posición 2467 | Añadido el domingo, 21 de mayo de 2017 22:55:50
+
+
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 2475-2476 | Añadido el domingo, 21 de mayo de 2017 22:58:22
+
+The arrival of a new requirement tells you two things, one very specific, the other more general.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 2477-2477 | Añadido el domingo, 21 de mayo de 2017 22:58:29
+
+Specifically, a new requirement tells you exactly how the code should change.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 2479-2479 | Añadido el domingo, 21 de mayo de 2017 22:58:38
+
+More generally, the need for change imposes higher standards on the affected code.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 2480-2480 | Añadido el domingo, 21 de mayo de 2017 22:58:45
+
+new requirement arrives, the bar is raised. Code that needs to be changed must be changeable
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu nota en la posición 2610 | Añadido el domingo, 21 de mayo de 2017 23:05:22
+
+si el codij no esta abierto a modiicaviones y no sabes po dond emoezar... empieza eliminndo olores del odio
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 2610-2610 | Añadido el domingo, 21 de mayo de 2017 23:05:22
+
+Open Closed Flowchart
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 2617-2617 | Añadido el domingo, 21 de mayo de 2017 23:05:30
+
+3.3. Recognizing Code Smells
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 2640-2640 | Añadido el domingo, 21 de mayo de 2017 23:08:31
+
+3.4. Identifying the Best Point of Attack
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 2688-2689 | Añadido el domingo, 21 de mayo de 2017 23:10:03
+
+it must be admitted that there is no direct connection between removing the duplication, and succeeding in making the code open to the six-pack
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu nota en la posición 2691 | Añadido el domingo, 21 de mayo de 2017 23:11:09
+
+ng sabes como hace que el codigo este abiero. asi que empiezas a eliminar olores. con la esperanza de ncontrar lo en l camino
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 2690-2691 | Añadido el domingo, 21 de mayo de 2017 23:11:09
+
+You don’t have to know how to solve the whole problem in advance. The plan is to nibble away, one code smell at a time, in faith that the path to openness will be revealed.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 2692-2692 | Añadido el domingo, 21 de mayo de 2017 23:11:19
+
+3.5. Refactoring Systematically
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 2699-2700 | Añadido el domingo, 21 de mayo de 2017 23:14:33
+
+Recall that new requirements should be implemented in two steps. First, you rearrange existing code so that it becomes open to the new requirement. Next, you write new code to meet that requirement. The first of these steps is refactoring.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 2711-2712 | Añadido el domingo, 21 de mayo de 2017 23:14:43
+
+you should never change tests during a refactoring. If your tests are flawed such that they interfere with refactoring, improve them first, and then refactor.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 2713-2713 | Añadido el domingo, 21 de mayo de 2017 23:14:48
+
+3.6. Following the Flocking Rules
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu marcador en la posición 2708 | Añadido el domingo, 21 de mayo de 2017 23:17:21
+
+
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu nota en la posición 2722 | Añadido el lunes, 22 de mayo de 2017 7:46:42
+
+la abstraccion de la qu habla es la abstraccion detra de codio duplicado
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 2721-2722 | Añadido el lunes, 22 de mayo de 2017 7:46:42
+
+The good news is that you don’t have to be able to see the abstraction in advance. You can find it by iteratively applying a small set of simple rules. These rules are known as "Flocking Rules",
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 2723-2726 | Añadido el lunes, 22 de mayo de 2017 7:46:48
+
+Flocking Rules Select the things that are most alike. Find the smallest difference between them. Make the simplest change that will remove that difference.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 2751-2751 | Añadido el lunes, 22 de mayo de 2017 7:50:37
+
+3.7. Converging on Abstractions
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 2754-2755 | Añadido el lunes, 22 de mayo de 2017 7:51:04
+
+3.7.1. Focusing on Difference
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 2758-2759 | Añadido el lunes, 22 de mayo de 2017 7:55:23
+
+sameness is easier to identify, difference is more useful because it has more meaning. DRYing out sameness has some value, but DRYing out difference has more.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 2823-2823 | Añadido el lunes, 22 de mayo de 2017 7:56:46
+
+3.7.2. Simplifying Hard Problems
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu marcador en la posición 2823 | Añadido el lunes, 22 de mayo de 2017 7:57:51
+
+
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 2862-2863 | Añadido el martes, 23 de mayo de 2017 7:50:59
+
+Programmers love hard problems.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 2863-2864 | Añadido el martes, 23 de mayo de 2017 7:51:03
+
+It’s no wonder that many programmers gravitate towards starting a problem at its most confusing part.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 2865-2866 | Añadido el martes, 23 de mayo de 2017 7:51:09
+
+It is common to find that hard problems are hard only because the easy ones have not yet been solved.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 2914-2914 | Añadido el martes, 23 de mayo de 2017 7:51:35
+
+3.7.3. Naming Concepts
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 2929-2929 | Añadido el martes, 23 de mayo de 2017 7:53:46
+
+The general rule is that the name of a thing should be one level of abstraction higher than the thing itself.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu nota en la posición 2931 | Añadido el martes, 23 de mayo de 2017 7:55:14
+
+el titulo de las columnas sera el titulo de las abstraccion
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 2931-2932 | Añadido el martes, 23 de mayo de 2017 7:55:14
+
+One way to identify the category is to imagine the concrete examples as rows and columns in a spreadsheet.[
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 2959-2960 | Añadido el martes, 23 de mayo de 2017 7:56:18
+
+3.7.4. Making Methodical Transformations
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu marcador en la posición 2953 | Añadido el martes, 23 de mayo de 2017 7:56:21
+
+
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 2951-2951 | Añadido el martes, 23 de mayo de 2017 23:05:39
+
+Naming things after domain concepts improves communication between you and the folks who pay the bills. Only good can come of this.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 2952-2953 | Añadido el martes, 23 de mayo de 2017 23:05:57
+
+When you’re struggling to find a good name but have only a few concrete instances to guide you, it can be illuminating to imagine other things that would also be in the same category.[
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 2998-3003 | Añadido el martes, 23 de mayo de 2017 23:10:29
+
+Flocking Rules Select the things that are most alike. Find the smallest difference between them. Make the simplest change to remove that difference: parse the new code parse and execute it parse, execute and use its result
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 3107-3107 | Añadido el martes, 23 de mayo de 2017 23:12:05
+
+3.7.5. Refactoring Gradually
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu marcador en la posición 3100 | Añadido el martes, 23 de mayo de 2017 23:12:12
+
+
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu nota en la posición 3004 | Añadido el miércoles, 24 de mayo de 2017 7:46:05
+
+la idea del punto 3 es hacer cambios linea a linea. no mas alla de cambiar un sola lknea
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 2998-3004 | Añadido el miércoles, 24 de mayo de 2017 7:46:05
+
+Flocking Rules Select the things that are most alike. Find the smallest difference between them. Make the simplest change to remove that difference: parse the new code parse and execute it parse, execute and use its result delete unused code
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu nota en la posición 3107 | Añadido el miércoles, 24 de mayo de 2017 7:51:18
+
+como añadir un parametro a una funcion y llamar a esa funcoon pasandole el parametro haciendo cambio de una sola linea? meiante parametros opcionales y refactorizacion gradual
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu nota en la posición 3108 | Añadido el miércoles, 24 de mayo de 2017 7:51:46
+
+añadir libro a l lista
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 3107-3108 | Añadido el miércoles, 24 de mayo de 2017 7:51:46
+
+In his book Refactoring to Patterns, Joshua Kerievsky talks about "Gradual Cutover Refactoring,"
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu nota en la posición 3334 | Añadido el miércoles, 24 de mayo de 2017 7:55:44
+
+pequeños cambios. en una sola linea. ejecutando lo tests en cada cambio
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 3333-3334 | Añadido el miércoles, 24 de mayo de 2017 7:55:44
+
+The small amount of time lost to making incremental changes is more than recouped by avoiding lengthy and frustrating debugging sessions. This style of coding is not only fast, it’s also stress-free.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 3339-3339 | Añadido el miércoles, 24 de mayo de 2017 7:57:18
+
+3.8. Summary
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 3343-3344 | Añadido el miércoles, 24 de mayo de 2017 7:58:12
+
+Sometimes the first step, refactoring to openness, requires such a large leap that it is not obvious how to achieve it. In that case, be guided by code smells.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 3345-3346 | Añadido el miércoles, 24 de mayo de 2017 7:58:34
+
+Making existing code open to a new requirement often requires identifying and naming abstractions. The Flocking Rules concentrate on turning difference into sameness, and thus are useful tools for unearthing abstractions.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 3354-3354 | Añadido el miércoles, 24 de mayo de 2017 7:59:06
+
+4. Practicing Horizontal Refactoring
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu marcador en la posición 3354 | Añadido el miércoles, 24 de mayo de 2017 7:59:10
+
+
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 3360-3360 | Añadido el jueves, 25 de mayo de 2017 7:43:19
+
+4.1. Replacing Difference With Sameness
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 3361-3361 | Añadido el jueves, 25 de mayo de 2017 7:44:06
+
+The refactoring rules say to start by choosing the cases that are most alike.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu nota en la posición 3447 | Añadido el jueves, 25 de mayo de 2017 7:46:52
+
+habla de la sustitucion de un 1 hardcodeado por una variable
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 3445-3447 | Añadido el jueves, 25 de mayo de 2017 7:46:52
+
+This substitution is important, not because it changes the resulting value, but because it increases the level of abstraction. It is this increase in abstraction that makes things the same. Without it, you are doomed to the conditional.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 3512-3512 | Añadido el jueves, 25 de mayo de 2017 7:48:01
+
+4.2. Equivocating About Names
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 3549-3550 | Añadido el jueves, 25 de mayo de 2017 7:50:59
+
+When the perfect name for a concept is elusive, there are three strategies for moving forward.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 3550-3551 | Añadido el jueves, 25 de mayo de 2017 7:51:10
+
+Some folks allot themselves five to ten minutes to ponder (usually with thesaurus in hand), and then use the best name they can come up with during that interval.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 3555-3557 | Añadido el jueves, 25 de mayo de 2017 7:51:48
+
+Other folks find it more cost effective to instantly choose a meaningless name like foo or namethis. This strategy allows them to move forward quickly, and (one hopes) insures that the name will get improved later.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 3561-3561 | Añadido el jueves, 25 de mayo de 2017 7:51:58
+
+you can simply ask someone else for help
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 3674-3675 | Añadido el jueves, 25 de mayo de 2017 7:53:37
+
+4.3. Deriving Names From Responsibilities
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu marcador en la posición 3687 | Añadido el jueves, 25 de mayo de 2017 7:56:04
+
+
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 3732-3732 | Añadido el viernes, 26 de mayo de 2017 7:47:53
+
+To help you name the new concept, remember the "what would the column header be?" technique
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 3785-3785 | Añadido el viernes, 26 de mayo de 2017 7:52:50
+
+4.4. Choosing Meaningful Defaults
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu marcador en la posición 3893 | Añadido el viernes, 26 de mayo de 2017 7:58:46
+
+
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 4069-4069 | Añadido el viernes, 26 de mayo de 2017 14:44:53
+
+4.5. Seeking Stable Landing Points
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu nota en la posición 4102 | Añadido el viernes, 26 de mayo de 2017 14:46:52
+
+esta hablando de los metodos. container. quantity y pronoun
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 4100-4102 | Añadido el viernes, 26 de mayo de 2017 14:46:52
+
+These methods are incredibly consistent, and this did not happen by accident—it’s a direct result of the refactoring rules. The rules lead to consistent code, and consistency matters deeply.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 4102-4103 | Añadido el viernes, 26 de mayo de 2017 14:47:11
+
+it makes code easy to understand.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 4103-4103 | Añadido el viernes, 26 de mayo de 2017 14:47:15
+
+lowers costs.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 4104-4104 | Añadido el viernes, 26 de mayo de 2017 14:47:21
+
+consistent code enables future refactorings.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 4113-4113 | Añadido el viernes, 26 de mayo de 2017 14:48:33
+
+4.6. Obeying the Liskov Substitution Principle
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu nota en la posición 4233 | Añadido el viernes, 26 de mayo de 2017 14:59:43
+
+el metood devuelv valores de distinto tipo segun el if
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 4232-4233 | Añadido el viernes, 26 de mayo de 2017 14:59:43
+
+The true branch returns a string, but the false branch returns the argument that was passed, which is indeed an instance of Integer
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu nota en la posición 4299 | Añadido el viernes, 26 de mayo de 2017 15:00:53
+
+lo anterior violaba liskov. porque requiere que el sender sepa que tipo de datos retorna quantity
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 4298-4299 | Añadido el viernes, 26 de mayo de 2017 15:00:53
+
+The idea of reducing the number of dependencies imposed upon message senders by requiring that receivers return trustworthy objects is a generalization of the Liskov Substitution Principle
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 4304-4305 | Añadido el viernes, 26 de mayo de 2017 15:01:13
+
+The Liskov Substitution Principle also applies to duck types
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 4307-4308 | Añadido el viernes, 26 de mayo de 2017 15:01:21
+
+Liskov prohibits you from doing anything that would force the sender of a message to test the returned result in order to know how to behave.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 4309-4310 | Añadido el viernes, 26 de mayo de 2017 15:01:36
+
+Liskov violations force message senders to have knowledge of the various return types, and to either treat them differently, or convert them into something consistent
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 4375-4375 | Añadido el viernes, 26 de mayo de 2017 15:02:01
+
+4.7. Taking Bigger Steps
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 4547-4547 | Añadido el viernes, 26 de mayo de 2017 15:32:56
+
+it may seem as if you are now being given permission to act in a way that was previously prohibited.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 4551-4552 | Añadido el viernes, 26 de mayo de 2017 15:33:04
+
+Now that you recognize the pattern, and know how to make this change using small steps, it makes sense to start writing larger chunks of code.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 4552-4554 | Añadido el viernes, 26 de mayo de 2017 15:33:23
+
+if you take bigger steps and the tests begin to fail, there’s something about the problem that you don’t understand. If this happens, don’t push forward and refactor under red. Undo, return to green, and make incremental changes until you regain clarity.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 4555-4555 | Añadido el viernes, 26 de mayo de 2017 15:33:28
+
+4.8. Discovering Deeper Abstractions
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu nota en la posición 4673 | Añadido el viernes, 26 de mayo de 2017 15:37:16
+
+hay algo en el ultimo cambio que no cuadra. si number es -1 devuelve 99? alo huele mal
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 4667-4673 | Añadido el viernes, 26 de mayo de 2017 15:37:16
+
+The proposed change alters quantity such that: its conditional has 3 branches instead of 2 it sometimes checks -1, which is an invalid number of beers These inconsistencies don’t guarantee that something is wrong, but they should certainly motivate you to think more deeply about the underlying abstraction.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu marcador en la posición 4653 | Añadido el viernes, 26 de mayo de 2017 15:38:22
+
+
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 4727-4728 | Añadido el viernes, 26 de mayo de 2017 22:25:13
+
+When you’re confused, don’t try to solve the entire problem straightaway. The more confused you are, the more important it is to nibble
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu nota en la posición 4730 | Añadido el viernes, 26 de mayo de 2017 22:28:20
+
+asi. para el verso cero. en lugar de pasar number - 1. pasa directamente 99. de forma que la diferencia cambia . ahora es number - 1 contra 99
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 4729-4730 | Añadido el viernes, 26 de mayo de 2017 22:28:20
+
+Instead of trying to understand everything at once, simply search for a way to make line 5 above look more like line 8 (even if not identical), using existing code.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 4897-4897 | Añadido el viernes, 26 de mayo de 2017 22:32:03
+
+4.9. Depending on Abstractions
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 4898-4899 | Añadido el viernes, 26 de mayo de 2017 22:34:00
+
+Abstractions are beneficial in many ways. They consolidate code into a single place so that it can be changed with ease.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 4899-4900 | Añadido el viernes, 26 de mayo de 2017 22:34:08
+
+They name this consolidated code, allowing the name to be used as a shortcut for an idea, independent of its current implementation.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 4900-4901 | Añadido el viernes, 26 de mayo de 2017 22:34:19
+
+abstractions tell you where your code relies upon an idea. But to get this last benefit, you must refer to an abstraction in every place where it applies.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5093-5093 | Añadido el viernes, 26 de mayo de 2017 22:37:29
+
+4.10. Summary
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5105-5105 | Añadido el viernes, 26 de mayo de 2017 22:38:45
+
+5. Separating Responsibilities
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu marcador en la posición 5105 | Añadido el viernes, 26 de mayo de 2017 22:39:15
+
+
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5113-5113 | Añadido el sábado, 27 de mayo de 2017 22:18:41
+
+5.1. Selecting the Target Code Smell
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5122-5122 | Añadido el sábado, 27 de mayo de 2017 22:21:36
+
+The truth about refactoring is that it sometimes makes things worse
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5123-5124 | Añadido el sábado, 27 de mayo de 2017 22:21:59
+
+The refactoring recipes don’t promise to result in code that better expresses the problem—they merely make it easy to create that new expression,
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5132-5132 | Añadido el sábado, 27 de mayo de 2017 22:22:49
+
+5.1.1. Identifying Patterns in Code
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5128-5129 | Añadido el sábado, 27 de mayo de 2017 22:23:18
+
+The current code, although not open to the new requirement, is improved.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5130-5130 | Añadido el sábado, 27 de mayo de 2017 22:23:25
+
+have faith, and iterate.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu nota en la posición 5130 | Añadido el sábado, 27 de mayo de 2017 22:24:00
+
+recuerda el flujo diagrama de un poco anres de aqui
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5130-5130 | Añadido el sábado, 27 de mayo de 2017 22:24:00
+
+This means you must continue to be guided by code smells
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5132-5132 | Añadido el sábado, 27 de mayo de 2017 22:24:08
+
+5.1.1. Identifying Patterns in Code
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5132-5133 | Añadido el sábado, 27 de mayo de 2017 22:26:13
+
+One way to get better at identifying smells is to practice describing the characteristics of code.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5134-5135 | Añadido el sábado, 27 de mayo de 2017 22:26:27
+
+make note of the things that catch your eye. Include any patterns that you see, and things you like, hate, or don’t understand.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5228-5228 | Añadido el sábado, 27 de mayo de 2017 22:30:36
+
+5.1.2. Spotting Common Qualities
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5231-5231 | Añadido el sábado, 27 de mayo de 2017 22:30:42
+
+Question 1: Do any methods have the same shape?
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu nota en la posición 5232 | Añadido el sábado, 27 de mayo de 2017 22:31:08
+
+los 5 metodos extraidos tienen la misma estructura
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5232-5232 | Añadido el sábado, 27 de mayo de 2017 22:31:08
+
+Yes. The flocked five all have the same shape.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu nota en la posición 5262 | Añadido el sábado, 27 de mayo de 2017 22:34:47
+
+los 5 metood parecen muy iguales. pero podrian teer ligeras diferencias qu les hicieran parecer muy diferentes. lo que le hau difiil de refactorizar
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5262-5262 | Añadido el sábado, 27 de mayo de 2017 22:34:47
+
+Superfluous difference raises the cost of reading code, and increases the difficulty of future refactorings.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5265-5265 | Añadido el sábado, 27 de mayo de 2017 22:34:52
+
+Squint Test
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5270-5272 | Añadido el sábado, 27 de mayo de 2017 22:34:57
+
+Look for: changes in shape, and changes in color.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5272-5273 | Añadido el sábado, 27 de mayo de 2017 22:35:10
+
+Changes in indentation reveal the presence of conditionals.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5274-5275 | Añadido el sábado, 27 de mayo de 2017 22:35:16
+
+Changes in color indicate differences in the level of abstraction
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5278-5279 | Añadido el sábado, 27 de mayo de 2017 22:35:28
+
+Question 2: Do any methods take an argument of the same name?
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5279-5280 | Añadido el sábado, 27 de mayo de 2017 22:35:44
+
+Six methods take number as an argument—
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5293-5293 | Añadido el sábado, 27 de mayo de 2017 22:35:48
+
+Question 3: Do arguments of the same name always mean the same thing?
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5372-5374 | Añadido el sábado, 27 de mayo de 2017 22:40:26
+
+the parameter that verse then passes on to container stands for something else—a bottle number.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5375-5377 | Añadido el sábado, 27 de mayo de 2017 22:40:35
+
+the verse method and the flocked five methods use the same argument name to represent different concepts. This is rarely a good idea.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5391-5393 | Añadido el sábado, 27 de mayo de 2017 22:43:29
+
+Having multiple methods that take the same argument is a code smell. It’s important, however, to recognize that here the term "same" means same concept, not identical name.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5400-5401 | Añadido el sábado, 27 de mayo de 2017 22:44:33
+
+Question 4: If you were to add the private keyword, where would it go?
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5403-5404 | Añadido el sábado, 27 de mayo de 2017 22:49:54
+
+Question 5: If you were going to break this class into two pieces, where’s the dividing line?
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5405-5406 | Añadido el sábado, 27 de mayo de 2017 22:49:58
+
+Same as above, after verse and before the flocked five methods.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5406-5407 | Añadido el sábado, 27 de mayo de 2017 22:50:02
+
+5.1.3. Enumerating Flocked Method Commonalities
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu marcador en la posición 5403 | Añadido el sábado, 27 de mayo de 2017 22:50:06
+
+
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5409-5410 | Añadido el martes, 30 de mayo de 2017 7:44:02
+
+Question 6: Do the tests in the conditionals have anything in common?
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5439-5439 | Añadido el martes, 30 de mayo de 2017 7:44:23
+
+all of the conditionals test the value of number
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5439-5440 | Añadido el martes, 30 de mayo de 2017 7:45:07
+
+they test for number to be exactly equal to another value.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5441-5442 | Añadido el martes, 30 de mayo de 2017 7:45:43
+
+These conditionals could logically have used the less than, greater than or not equal operators, and still pass the tests.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5444-5446 | Añadido el martes, 30 de mayo de 2017 7:45:57
+
+Programmers tend to blithely interchange these different comparison operators, confident that if the tests pass, the code is correct. However, having tests that pass doesn’t guarantee the best expression of code, and this is a case where your choice of operator affects future costs.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5453-5454 | Añadido el martes, 30 de mayo de 2017 7:46:55
+
+Question 7: How many branches do the conditionals have?
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5455-5455 | Añadido el martes, 30 de mayo de 2017 7:46:58
+
+two branches.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5456-5457 | Añadido el martes, 30 de mayo de 2017 7:47:02
+
+Question 8: Do the methods contain any code other than the conditional?
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5458-5458 | Añadido el martes, 30 de mayo de 2017 7:47:18
+
+No.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5461-5463 | Añadido el martes, 30 de mayo de 2017 7:47:28
+
+Question 9: Do methods that take number as an argument depend more on number, or more on the class as a whole?
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5464-5464 | Añadido el martes, 30 de mayo de 2017 7:47:34
+
+only on the number
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5473-5474 | Añadido el martes, 30 de mayo de 2017 7:48:26
+
+5.1.4. Insisting Upon Messages
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5474-5475 | Añadido el martes, 30 de mayo de 2017 7:53:08
+
+deeply non-object-oriented pattern: the flocked five methods take an argument, examine it, and then supply behavior for it.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5496-5497 | Añadido el martes, 30 de mayo de 2017 7:54:20
+
+You should feel entitled to send messages to objects, and look for a way to write code that allows you to do so.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu nota en la posición 5500 | Añadido el martes, 30 de mayo de 2017 7:54:47
+
+y es siio es el lugar dond se decide que objetos crear
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5499-5500 | Añadido el martes, 30 de mayo de 2017 7:54:47
+
+There is a place for conditionals in OO.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5501-5502 | Añadido el martes, 30 de mayo de 2017 7:54:56
+
+Some object, somewhere, must choose which objects to create, and this often involves a conditional.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5512-5513 | Añadido el martes, 30 de mayo de 2017 7:56:50
+
+5.2. Extracting Classes
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5513-5514 | Añadido el miércoles, 31 de mayo de 2017 7:46:27
+
+The questions above identify characteristics that group methods together,
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5516-5517 | Añadido el miércoles, 31 de mayo de 2017 7:46:32
+
+Each item above acts like a vote, and these votes combine to point to Primitive Obsession as the dominant code smell
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5520-5521 | Añadido el miércoles, 31 de mayo de 2017 7:46:50
+
+Obsessing on a primitive results in code that passes built-in types around, and supplies behavior for them.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5521-5522 | Añadido el miércoles, 31 de mayo de 2017 7:46:59
+
+The cure for Primitive Obsession
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5522-5523 | Añadido el miércoles, 31 de mayo de 2017 7:47:04
+
+is Extract Class.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5523-5523 | Añadido el miércoles, 31 de mayo de 2017 7:47:08
+
+5.2.1. Modeling Abstractions
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5526-5526 | Añadido el miércoles, 31 de mayo de 2017 7:48:43
+
+The primitive that you’re replacing represents a bottle number. Notice
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5531-5531 | Añadido el miércoles, 31 de mayo de 2017 7:48:56
+
+This new class does not represent a kind of bottle: it represents a kind of number
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5532-5532 | Añadido el miércoles, 31 de mayo de 2017 7:49:07
+
+A bottle is a thing, while a number is an idea.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5533-5533 | Añadido el miércoles, 31 de mayo de 2017 7:50:18
+
+the power of OO is that it lets you model ideas.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5545-5545 | Añadido el miércoles, 31 de mayo de 2017 7:50:24
+
+Experienced OO programmers deftly create virtual worlds in which ideas are as real as physical things.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5550-5550 | Añadido el miércoles, 31 de mayo de 2017 7:50:52
+
+5.2.2. Naming Classes
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5564-5565 | Añadido el miércoles, 31 de mayo de 2017 7:52:17
+
+5.2.3. Extracting BottleNumber
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5568-5568 | Añadido el miércoles, 31 de mayo de 2017 7:55:07
+
+As you might recall, safe refactoring relies upon tests running green
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5570-5571 | Añadido el miércoles, 31 de mayo de 2017 7:55:12
+
+the existing Bottles tests become the safety net for this new class
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5573-5575 | Añadido el miércoles, 31 de mayo de 2017 7:55:26
+
+while extracting the class, code that is known to work is copied from Bottles into BottleNumber
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5575-5576 | Añadido el miércoles, 31 de mayo de 2017 7:55:31
+
+It’s important to put this new class fully into use before editing any of the copied code.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5577-5581 | Añadido el miércoles, 31 de mayo de 2017 7:56:13
+
+the process of changing code was subdivided into four steps. parse the new code parse and execute it parse, execute and use its result delete unused code
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5582-5583 | Añadido el miércoles, 31 de mayo de 2017 7:56:18
+
+creating an empty BottleNumber class,
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5664-5665 | Añadido el miércoles, 31 de mayo de 2017 7:57:12
+
+The methods weren’t moved—they were duplicated
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu marcador en la posición 5703 | Añadido el miércoles, 31 de mayo de 2017 8:00:01
+
+
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5724-5731 | Añadido el jueves, 1 de junio de 2017 7:40:30
+
+It must now be admitted that the added line of code is, by any standard, ugly. BottleNumber.new(number).container(number) In the above code, both new and container require the number argument, so it must be passed twice.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5739-5739 | Añadido el jueves, 1 de junio de 2017 7:41:35
+
+you should refrain from altering the code in these copied methods until the new class is fully wired into the old.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5808-5808 | Añadido el jueves, 1 de junio de 2017 7:42:39
+
+5.2.4. Removing Arguments
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5809-5811 | Añadido el jueves, 1 de junio de 2017 7:43:24
+
+Now that the old Bottles class fully uses BottleNumber, the existing tests serve as a safety net for changes to the new class
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5853-5854 | Añadido el jueves, 1 de junio de 2017 7:44:45
+
+Notice that if you’re willing to simultaneously alter both the senders and the receivers every message, it’s easy to make this change.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5857-5858 | Añadido el jueves, 1 de junio de 2017 7:44:50
+
+Keep in mind that is a multi-line change
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5864-5865 | Añadido el jueves, 1 de junio de 2017 7:45:51
+
+Whether arguments are being added or removed, the trick is the same: you must change the method definition to temporarily set the argument to a default.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5958-5958 | Añadido el jueves, 1 de junio de 2017 7:49:02
+
+steps for removing an argument using one-line changes.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5959-5959 | Añadido el jueves, 1 de junio de 2017 7:49:06
+
+Alter the method definition to change the argument name, and provide a default.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5965-5969 | Añadido el jueves, 1 de junio de 2017 7:49:10
+
+def container(number) became: def container(delete_me=nil)
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5970-5978 | Añadido el jueves, 1 de junio de 2017 7:50:34
+
+Change every sender of the message to remove the parameter. In the example: BottleNumber.new(number).container(number) became: BottleNumber.new(number).container
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5979-5986 | Añadido el jueves, 1 de junio de 2017 7:50:41
+
+Finally, delete the argument from the method definition. So, finally: def container(delete_me=nil) became: def container
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5994-5994 | Añadido el jueves, 1 de junio de 2017 7:51:20
+
+5.2.5. Trusting the Process
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 5992-5993 | Añadido el jueves, 1 de junio de 2017 7:52:07
+
+but that when you change pronoun, the tests begin to fail.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 6045-6046 | Añadido el jueves, 1 de junio de 2017 7:54:10
+
+it doesn’t point out a flaw in the process. Instead, it exposes a slightly more complex bit of code.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu marcador en la posición 6037 | Añadido el jueves, 1 de junio de 2017 7:54:13
+
+
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 6090-6092 | Añadido el viernes, 2 de junio de 2017 14:34:36
+
+A great benefit of these refactoring techniques is that you can accomplish quite a bit while thinking very little. Sometimes, however, thought just can’t be avoided.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 6092-6093 | Añadido el viernes, 2 de junio de 2017 14:34:49
+
+The blessing of these techniques is that altering code in such small increments severely constrains the number of errors any change can introduce.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 6201-6201 | Añadido el viernes, 2 de junio de 2017 14:36:20
+
+5.3. Appreciating Immutability
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 6221-6222 | Añadido el viernes, 2 de junio de 2017 14:38:47
+
+One of the best things about immutable objects is that they are easy to understand and reason about.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 6223-6224 | Añadido el viernes, 2 de junio de 2017 14:39:07
+
+Because they are easy to reason about, immutable objects are also easy to test
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 6227-6227 | Añadido el viernes, 2 de junio de 2017 14:39:41
+
+they are thread safe.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 6241-6243 | Añadido el viernes, 2 de junio de 2017 14:41:16
+
+If you lean towards mutating the existing BottleNumber rather than making another, it’s possible that you are biased against creating new objects.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 6244-6245 | Añadido el viernes, 2 de junio de 2017 14:41:21
+
+5.4. Assuming Fast Enough
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 6245-6246 | Añadido el viernes, 2 de junio de 2017 14:44:24
+
+The benefits of immutability are so great that, if it were free, you’d choose it every time
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 6279-6280 | Añadido el viernes, 2 de junio de 2017 14:48:44
+
+The first solution to any problem should avoid caching, use immutable objects, and treat object creation as free.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 6283-6284 | Añadido el viernes, 2 de junio de 2017 14:49:03
+
+5.5. Creating BottleNumbers
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 6331-6335 | Añadido el viernes, 2 de junio de 2017 14:50:42
+
+In the code above, a new instance of BottleNumber is created each time container, quantity, action, or successor are invoked.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 6415-6417 | Añadido el viernes, 2 de junio de 2017 14:55:52
+
+Line 4 above creates a new instance of BottleNumber and caches it in a temporary variable (this is the Temporary Variable code smell) within the verse method.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 6417-6418 | Añadido el viernes, 2 de junio de 2017 14:55:59
+
+This cache reduces object creation without adding much additional complexity, so here it’s justified because the benefits outweigh the costs.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 6465-6465 | Añadido el viernes, 2 de junio de 2017 14:56:16
+
+5.6. Recognizing Liskov Violations
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu marcador en la posición 6489 | Añadido el viernes, 2 de junio de 2017 15:02:40
+
+
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 6501-6510 | Añadido el viernes, 2 de junio de 2017 19:27:04
+
+Your object-oriented intuition is bang on [13] if you expect the successor of a BottleNumber to be another BottleNumber. If this were true, you could replace: quantity(successor(number)) with: bottle_number.successor.quantity
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 6514-6515 | Añadido el viernes, 2 de junio de 2017 19:27:36
+
+The problem is that successor still returns a number,
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 6526-6527 | Añadido el viernes, 2 de junio de 2017 19:28:48
+
+The type of the object has changed, but the successor method still returns the old type. You
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 6530-6530 | Añadido el viernes, 2 de junio de 2017 19:28:55
+
+This inconsistency is another violation of the generalized Liskov Substitution Principle
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 6532-6532 | Añadido el viernes, 2 de junio de 2017 19:29:10
+
+this successor method lies.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 6527-6528 | Añadido el viernes, 2 de junio de 2017 19:29:21
+
+expect any method named successor to return an object that implements the same API as the receiver,
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 6533-6533 | Añadido el viernes, 2 de junio de 2017 19:29:30
+
+forces the sender to know that the return is untrustworthy
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 6535-6536 | Añadido el viernes, 2 de junio de 2017 19:30:05
+
+This current refactoring is almost complete, and it is often better to finish horizontal refactorings before undertaking vertical tangents.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 6538-6539 | Añadido el viernes, 2 de junio de 2017 19:31:31
+
+The current problem can be solved by declaring another variable to hold bottle number 98 and writing some shameless code.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 6670-6671 | Añadido el viernes, 2 de junio de 2017 19:32:24
+
+5.7. Summary
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 6693-6693 | Añadido el viernes, 2 de junio de 2017 19:34:48
+
+6. Achieving Openness
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 6702-6703 | Añadido el viernes, 2 de junio de 2017 19:36:49
+
+this chapter
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 6703-6705 | Añadido el viernes, 2 de junio de 2017 19:36:53
+
+removes a Data Clump, deals with the conditionals in BottleNumber, introduces a Factory, fixes a Liskov violation, and ultimately, fulfills the six-pack requirement.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 6705-6706 | Añadido el viernes, 2 de junio de 2017 19:36:56
+
+6.1. Consolidating Data Clumps
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 6743-6744 | Añadido el domingo, 4 de junio de 2017 12:47:24
+
+quantity and container appear together in three different places
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 6746-6747 | Añadido el domingo, 4 de junio de 2017 12:47:31
+
+Having a clump of data usually means you are missing a concept.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu marcador en la posición 6719 | Añadido el domingo, 4 de junio de 2017 12:47:35
+
+
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 6747-6747 | Añadido el domingo, 4 de junio de 2017 18:41:44
+
+When a clump gets sent as a set of parameters, the method that receives the clump can easily become polluted with clump management logic.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 6748-6748 | Añadido el domingo, 4 de junio de 2017 18:42:04
+
+If more than one method takes the same clump as input, some or all of this management logic will inevitably get duplicated in several places
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 6749-6749 | Añadido el domingo, 4 de junio de 2017 18:42:10
+
+the logic might accidentally diverge,
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 6753-6753 | Añadido el domingo, 4 de junio de 2017 18:42:22
+
+two things always appear together, it’s a signal that this pairing represents a deeper concept, and that concept should be named.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 6902-6904 | Añadido el domingo, 4 de junio de 2017 18:49:12
+
+Programmers add blank lines to signify changes of topic. The presence of multiple topics suggest the existence of multiple responsibilities, which makes code harder to understand when reading, and easier to harm when changing.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 6908-6908 | Añadido el domingo, 4 de junio de 2017 18:49:47
+
+6.2. Making Sense of Conditionals
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu nota en la posición 7025 | Añadido el domingo, 4 de junio de 2017 18:56:59
+
+pueden casi adiinar el futuro
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 7024-7025 | Añadido el domingo, 4 de junio de 2017 18:56:59
+
+Skilled programmers are good at picking what best to do next.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 7027-7027 | Añadido el domingo, 4 de junio de 2017 18:57:08
+
+they have a secret understanding of the underlying patterns of code,
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 7031-7032 | Añadido el domingo, 4 de junio de 2017 18:57:16
+
+They know what’s right before they do it.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 7032-7033 | Añadido el domingo, 4 de junio de 2017 18:57:19
+
+They also know that they don’t know everything.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 7033-7033 | Añadido el domingo, 4 de junio de 2017 18:57:31
+
+Skilled programmers do what’s right when they intuit the truth
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 7033-7034 | Añadido el domingo, 4 de junio de 2017 18:57:36
+
+otherwise they engage in careful, precise, reproducible, and reversible coding experiments.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 7034-7034 | Añadido el domingo, 4 de junio de 2017 18:57:39
+
+You are encouraged to do the same.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 7039-7039 | Añadido el domingo, 4 de junio de 2017 18:58:09
+
+6.3. Replacing Conditionals with Polymorphism
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 7046-7046 | Añadido el domingo, 4 de junio de 2017 18:59:27
+
+6.3.1. Dismembering Conditionals
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 7053-7054 | Añadido el domingo, 4 de junio de 2017 19:00:30
+
+Polymorphism, by definition, involves more than one kind of object,
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 7054-7055 | Añadido el domingo, 4 de junio de 2017 19:00:35
+
+This, in turn, will force you to add new code that is aware of the existence of these new classes
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 7055-7056 | Añadido el domingo, 4 de junio de 2017 19:00:40
+
+as conditionals disappear from BottleNumber, new dependencies will arise
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 7088-7089 | Añadido el domingo, 4 de junio de 2017 19:02:41
+
+BottleNumber represents a smart, bottle-ish kind of number
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu nota en la posición 7090 | Añadido el domingo, 4 de junio de 2017 19:02:57
+
+qu son las raas true de los condicionales
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 7089-7090 | Añadido el domingo, 4 de junio de 2017 19:02:58
+
+A few specific numbers are not yet smart enough.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 7113-7114 | Añadido el domingo, 4 de junio de 2017 19:03:08
+
+The above makes it clear that 0 and 1 are special,
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 7120-7122 | Añadido el domingo, 4 de junio de 2017 19:04:36
+
+Each conditional supplies specific behavior in its true branch and generalized behavior in its false
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu nota en la posición 7129 | Añadido el domingo, 4 de junio de 2017 19:07:08
+
+y para ello va seguir la receta Reemplazar cond con polimorfismo de Foler
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 7127-7129 | Añadido el domingo, 4 de junio de 2017 19:07:08
+
+Removing the conditionals without breaking the tests requires a process that carefully and systematically moves the code from each true branch into a new object, rather than willy-nilly deleting it.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 7222-7222 | Añadido el domingo, 4 de junio de 2017 19:09:12
+
+6.3.2. Manufacturing Objects
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 7400-7401 | Añadido el domingo, 4 de junio de 2017 19:16:20
+
+6.3.3. Prevailing with Polymorphism
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 7657-7658 | Añadido el domingo, 4 de junio de 2017 19:19:47
+
+Each refactoring followed a recipe, which led to a stable landing point, which in turn enabled the next refactoring.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu nota en la posición 7668 | Añadido el domingo, 4 de junio de 2017 19:22:01
+
+habla denunas preguntas quebhizo al principio
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 7667-7668 | Añadido el domingo, 4 de junio de 2017 19:22:01
+
+If you examine the code in light of the above, you’ll notice that the questions revolve around verse variation, while the current code is more concerned with bottle number variation
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 7669-7669 | Añadido el domingo, 4 de junio de 2017 19:22:16
+
+all verses are alike in some abstract way, and that within verses, bottle numbers vary.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 7684-7685 | Añadido el domingo, 4 de junio de 2017 19:23:26
+
+6.3.4. Making Peace With Conditionals
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu marcador en la posición 7683 | Añadido el domingo, 4 de junio de 2017 19:23:31
+
+
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 7685-7686 | Añadido el lunes, 5 de junio de 2017 7:52:28
+
+The current factory contains a conditional which bears a strong resemblance to the original from Shameless Green.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 7742-7743 | Añadido el lunes, 5 de junio de 2017 7:52:59
+
+Shameless Green has a special case for 2, but the factory does not. Recall
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 7743-7744 | Añadido el lunes, 5 de junio de 2017 7:53:14
+
+conditional in Shameless Green produces verses, but the one in the factory produces bottle numbers.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 7757-7758 | Añadido el lunes, 5 de junio de 2017 7:54:04
+
+Factories don’t know what to do: instead, they know how to choose who does
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 7758-7759 | Añadido el lunes, 5 de junio de 2017 7:54:51
+
+Shameless Green was a procedure because it combined these two things. The current code is object-oriented because it breaks them apart.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 7765-7765 | Añadido el lunes, 5 de junio de 2017 7:55:26
+
+6.4. Transitioning Between Types
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu marcador en la posición 7765 | Añadido el lunes, 5 de junio de 2017 7:55:51
+
+
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 7767-7767 | Añadido el lunes, 5 de junio de 2017 22:55:35
+
+successor methods violate the generalized Liskov Substitution Principle.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 7815-7816 | Añadido el lunes, 5 de junio de 2017 22:58:11
+
+The following technique can be used to solve type change problems of any size.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 7870-7875 | Añadido el lunes, 5 de junio de 2017 23:00:35
+
+Alterations are needed in several places. Ultimately: The factory should be located such that it is reachable by the successor methods, the successor methods should invoke the factory, and the verse method should expect successor to return a bottle number.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 7881-7882 | Añadido el lunes, 5 de junio de 2017 23:00:48
+
+Step 1 is to put the factory within successor's reach
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 7882-7883 | Añadido el lunes, 5 de junio de 2017 23:00:56
+
+the best choice is to make the factory a class method on an existing class. The most reasonable choice among existing classes is BottleNumber
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu nota en la posición 7916 | Añadido el lunes, 5 de junio de 2017 23:03:43
+
+e una ayuda al polimorfismo porque no contiene el nlmbre dl tipo en la sigatura del etoo
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 7916-7916 | Añadido el lunes, 5 de junio de 2017 23:03:43
+
+for supports polymorphism.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 7916-7917 | Añadido el lunes, 5 de junio de 2017 23:04:05
+
+To illustrate how, consider to_s.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 7920-7922 | Añadido el lunes, 5 de junio de 2017 23:04:12
+
+Imagine the consequences of including the receiver’s type in the message name, as in hash_to_s, float_to_s, and, inevitably, string_to_s
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 7929-7930 | Añadido el lunes, 5 de junio de 2017 23:04:24
+
+Now that the for factory method exists, you can alter verse to invoke
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 7948-7950 | Añadido el lunes, 5 de junio de 2017 23:07:01
+
+Step 2 requires that you change the two successor methods to invoke the factory, but unfortunately, changing either one without simultaneously making all remaining changes will cause the tests to fail
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 7972-7974 | Añadido el lunes, 5 de junio de 2017 23:07:11
+
+The root of the problem is that the verse method expects successor to return something that will work in the factory, and the factory, in turn, expects to receive a number
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 7977-7978 | Añadido el lunes, 5 de junio de 2017 23:07:15
+
+The trick to moving forward using one-line changes is to temporarily alter the factory to tolerate both kinds of input
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 7981-7981 | Añadido el lunes, 5 de junio de 2017 23:07:32
+
+you must change the factory to check the type of its input argument.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 7988-7990 | Añadido el lunes, 5 de junio de 2017 23:08:47
+
+return number if number.kind_of?(BottleNumber)
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 8001-8002 | Añadido el lunes, 5 de junio de 2017 23:08:52
+
+guard clause on line 3 above bounces the input argument right back out if it is already a bottle number.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 8012-8013 | Añadido el lunes, 5 de junio de 2017 23:09:27
+
+the guard clause is temporary, and will be removed at the completion of this refactoring.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 8013-8015 | Añadido el lunes, 5 de junio de 2017 23:09:40
+
+you can continue with step 2 by altering the successor methods to return a bottle number.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 8040-8042 | Añadido el lunes, 5 de junio de 2017 23:10:30
+
+Step 3 requires changing the verse method to expect successor to return a bottle number.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu marcador en la posición 8087 | Añadido el lunes, 5 de junio de 2017 23:11:31
+
+
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 8236-8238 | Añadido el martes, 6 de junio de 2017 7:47:09
+
+Correcting the Liskov violation is important because object-oriented programming, especially in dynamically-typed languages like Ruby, relies on explicit trust in the implicit contracts between objects.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 8239-8240 | Añadido el martes, 6 de junio de 2017 7:47:13
+
+Trustworthy objects are a joy to work with because they always behave as you expect.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 8242-8242 | Añadido el martes, 6 de junio de 2017 7:47:29
+
+Objects that sometimes fail to respond to a message you plan to send, or occasionally return something you don’t expect,
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 8243-8243 | Añadido el martes, 6 de junio de 2017 7:47:32
+
+untrustworthy objects require senders of messages to know too much.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 8254-8254 | Añadido el martes, 6 de junio de 2017 7:49:05
+
+6.5. Making the Easy Change
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 8375-8379 | Añadido el martes, 6 de junio de 2017 7:53:46
+
+make the change easy (warning: this may be hard), then make the easy change — Kent Beck via Twitter Most of this book has been concerned with making the change easy. That hard work paid off here, where you made the easy change.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 8380-8380 | Añadido el martes, 6 de junio de 2017 7:53:51
+
+6.6. Defending the Domain
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 8401-8402 | Añadido el martes, 6 de junio de 2017 7:54:51
+
+Bottle numbers are now independent objects, and ought to be freely useable in contexts other than those from which they were extracted.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu nota en la posición 8422 | Añadido el martes, 6 de junio de 2017 7:57:38
+
+se podria haber sobrescrito el metodo to-s de bottlenumber6. lo tests asaian. peo esria mintndo porqu quntity srria 6 y container bottle. cundo la quantity debe ser 1 y conti er six-pack
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 8422-8423 | Añadido el martes, 6 de junio de 2017 7:57:38
+
+Clever shortcuts are a false economy. Invest in code that tells the truth. Just write it down.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 8423-8423 | Añadido el martes, 6 de junio de 2017 7:57:44
+
+6.7. Prying Open the Factory
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu marcador en la posición 8423 | Añadido el martes, 6 de junio de 2017 7:57:53
+
+
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu nota en la posición 8452 | Añadido el miércoles, 7 de junio de 2017 7:50:57
+
+una de ellas es geera el nlmbr d la cas poruu siun un paton
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 8452-8452 | Añadido el miércoles, 7 de junio de 2017 7:50:57
+
+There are many of kinds of factories, and a plethora of strategies for making them open.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 8492-8493 | Añadido el miércoles, 7 de junio de 2017 7:51:36
+
+Even so, there are many things to dislike about this code.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 8494-8494 | Añadido el miércoles, 7 de junio de 2017 7:51:40
+
+is harder to understand than the original.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 8498-8498 | Añadido el miércoles, 7 de junio de 2017 7:52:02
+
+BottleNumber0, etc, are no longer explicitly referenced in the source code.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 8506-8506 | Añadido el miércoles, 7 de junio de 2017 7:52:39
+
+The code uses an exception for flow control.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 8509-8509 | Añadido el miércoles, 7 de junio de 2017 7:52:59
+
+The factory ignores bottle number classes whose names do not follow the convention.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu nota en la posición 8519 | Añadido el miércoles, 7 de junio de 2017 7:54:48
+
+deberia modiicar la fctoria entonces? psrece qu hay unos cuantos inconvenientes
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 8518-8519 | Añadido el miércoles, 7 de junio de 2017 7:54:48
+
+Your goal is to minimize costs, and costs are determined by the situation at hand. There’s no hard and fast rule about what’s best. It just depends.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 8521-8521 | Añadido el miércoles, 7 de junio de 2017 7:54:56
+
+6.8. Summary
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 8529-8531 | Añadido el miércoles, 7 de junio de 2017 7:56:27
+
+Having repeatedly advocated these prescriptive strategies, however, it ended with the confession that the answer to every question about object-oriented design is not necessarily to "follow recipe X." Rather, the answer is "it depends."
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 8533-8533 | Añadido el miércoles, 7 de junio de 2017 7:56:34
+
+Afterword
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu nota en la posición 8533 | Añadido el miércoles, 7 de junio de 2017 7:58:39
+
+este capitulo podria servir como review del libro
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 8541-8541 | Añadido el miércoles, 7 de junio de 2017 7:58:49
+
+how to write code.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 8542-8544 | Añadido el miércoles, 7 de junio de 2017 7:58:52
+
+Strive for simplicity. Don’t abstract too soon. Focus on smells. Concentrate on difference. Take small steps. Follow the Flocking Rules. Refactor under green. Fix the easy problems first. Work horizontally. Seek stable landing points. Be disciplined. Don’t chase the shiny thing.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 8551-8551 | Añadido el miércoles, 7 de junio de 2017 7:59:48
+
+This book wants you to fall in love with polymorphism.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu marcador en la posición 8549 | Añadido el miércoles, 7 de junio de 2017 7:59:58
+
+
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 8554-8555 | Añadido el jueves, 8 de junio de 2017 7:50:45
+
+when you disperse behavior into polymorphic objects, you can use factories to isolate both the names of the classes and the conditionals that choose them.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 8556-8556 | Añadido el jueves, 8 de junio de 2017 7:51:02
+
+your code depends upon abstract roles rather than on concrete classes.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 8558-8559 | Añadido el jueves, 8 de junio de 2017 7:51:32
+
+Your objects must be trustworthy, and your code must trust your objects. Failing at either obligation dooms you to conditionals.
+==========
+99 Bottles of OOP (Sandi Metz, Katrina Owen)
+- Tu subrayado en la posición 8563-8563 | Añadido el jueves, 8 de junio de 2017 7:52:38
+
+Hold high standards, but judge yourself gently.
+==========
