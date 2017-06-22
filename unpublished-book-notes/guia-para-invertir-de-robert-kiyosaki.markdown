@@ -422,7 +422,20 @@ Los cuadrantes D e I creen que la parte más importante del nuevo negocio es el 
 Aquí hay que incluir una imagen del triángulo de letra de letra  que está en la página 100 455  cuarta etapa  qué es un inversionista sofisticado  interrogación
 ???????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
 
+#### Capítulo 37: Cómo piensa un inversionista sofisticado?
 
+Un inversionista sofisticado es un inversionista que comprende cada uno de los 10 controles del inversionista.
+
+1. control sobre uno mismo.
+2. control sobre la relación ingreso gasto, de relación activo pasivo. **Convierta los gastos personales en gastos de negocios**. Los inversores sofisticados convierte los gastos personales no deducibles en gastos de negocio deducibles.
+3. control sobre la administración de la inversión. Un inversionista interno es aquel que posee una participación accionaria y la inversión suficiente para que pueda tener el control sobre las decisiones de administración.
+4. control sobre los impuestos. Ha aprendido acerca de las leyes fiscales ya sea mediante estudios formales o alrededor pregunta y escucha a buenos asesores. Al reconocer que los impuestos son el gasto más grandes de los cuadrantes empleado y autónomo los inversionistas sofisticados puede tratar de reducir su ingreso con el fin de reducir sus impuestos sobre la renta al mismo tiempo que incrementan los fondos para inversión.
+5. control sobre cuando comprar y cuando vender.
+6. control sobre las transacciones de valores. Inversionista sofisticado que actúa como inversionista interno puede dirigir la manera en que se gasta o amplía la inversión y dirigió su corredor para comprar vender
+7. control sobre entidad oportunidad características. En el control sobre la entidad oportunidad característica es el más importante. Mi padre rico comprendía verdaderamente los beneficios que se ofrecían al escoger la entidad correcta con el fin de año correcto y convertir tanto ingreso ganado en ingreso pasivo ingreso el portafolio como sea posible.  Cómo consiguieron James y ganar más dinero con su restaurante? en lugar de poseer ellos todo un estado financiero, una empresa dueña del negocio de comidas otra empresa dueña del local de restaurante. La de las comidas paga la del local con lo que está pagando así mismo. ahora tienen tres estados financieros y algunas cosas se pagan entre ellos.
+8. control sobre los términos y condiciones de los contratos. El inversionista sofisticado se encuentra en control de los términos y condiciones de los contratos cuando se encuentra en el interior inversión.
+9. control sobre el acceso a información. Como inversionista interno el inversionista sofisticado nuevamente tiene el control sobre el acceso información.
+10. control sobre la devolución de los recibido la filantropía y la redistribución de la riqueza. Reconoce la responsabilidad social viene con la riqueza y por ello devuelve algo la sociedad.
 
 
 
