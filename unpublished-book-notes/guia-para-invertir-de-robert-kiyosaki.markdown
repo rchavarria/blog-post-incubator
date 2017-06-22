@@ -398,6 +398,14 @@ Yo espero aquí porque tengo miedo a salir y hacer lo que tú estás haciendo. S
 
 Las ventas es lo que ustedes hacen en persona cara a cara. La mercadotecnia y las ventas realizadas por medio de un sistema.
 
+#### Capítulo 34: La administración de los sistemas
+
+El cuerpo humano es un sistema sistemas. Lo mismo ocurre con un negocio.
+
+Yo considero que los bienes raíces son una gran inversión para comenzar porque un inversionista promedio puede aprender con todos los sistemas. Los bienes raíces son estables e inertes así que le proporcionan a un hombre de negocios novato más tiempo para corregir las cosas si van mal.
+
+En la mayoría de los casos la persona en el cuadrante A autónomo es el sistema. 
+
 
 
 
