@@ -406,6 +406,13 @@ Yo considero que los bienes raíces son una gran inversión para comenzar porque
 
 En la mayoría de los casos la persona en el cuadrante A autónomo es el sistema. 
 
+#### Capítulo 35: La administración legal
+
+Proteja sus ideas. Un abogado especializado en protección intelectual es responsable de asegurar las patentes y registros de marca.
+
+Algunos de los activos más valiosos que puede poseer son los activos intangibles llamados patentes, registros de marca y derechos de autor. 
+
+
 
 
 
