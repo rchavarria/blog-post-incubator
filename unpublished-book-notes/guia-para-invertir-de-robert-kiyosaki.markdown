@@ -463,6 +463,11 @@ El *apalancamiento total* ayudar a decidir si debe invertir. el apalancamiento t
 
 *ganancia sobre inversión* es igual al flujo de efectivo positivo neto dividido entre el pago inicial. esto podría ser para tener en cuenta en la inversión en bienes raíces
 
+#### Capítulo 39: El inversionista consumado
+
+Diferencia entre vender y comprar: el inversionista consumado es alguien que crea una compañía y vende las acciones de la misma.
+
+
 
 
 
