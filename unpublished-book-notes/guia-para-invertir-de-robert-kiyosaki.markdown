@@ -491,6 +491,15 @@ Qué porcentaje del dinero que sale de su columna de gastos regresa a su columna
 
 La principal razón por la que realiza un negocio es por los activos que adquiere para mí. No logran controlar el poder de una estrategia inversión en múltiples corporaciones
 
+#### Capítulo 42: Está preparado para devolver lo recibido?
+
+Este es la quinta etapa llamada devolver lo recibido.
+
+#### Conclusión:
+
+Porque ya no se necesita dinero para ganar dinero? Este libro es dedicado a aprender como crear activos que compran activos.
+
+La regla del 90/10 ha cambiado. El acceso la oportunidad de unirse al 10% ha cambiado. Internet a cambiado el costo de unirse a ese 10%. En la era de información todo lo que se necesita para ser muy rico es información o ideas.
 
 
 
