@@ -467,6 +467,29 @@ El *apalancamiento total* ayudar a decidir si debe invertir. el apalancamiento t
 
 Diferencia entre vender y comprar: el inversionista consumado es alguien que crea una compañía y vende las acciones de la misma.
 
+#### Capítulo 40: es usted el próximo multimillonario?
+
+#### Capítulo 41: Porque quiebran los ricos?
+
+La gente que ha crecido sin dinero no tiene idea de cómo manejar mucho dinero.
+
+Razón 2: Cuando la gente tiene dinero, es como una droga que le va a su espíritu, se sienten más inteligentes.
+
+Razón 3: Ciertos amigos y parientes tienen acercársele. Lo más difícil para mucha gente es decir no a las personas que aman cuando les piden dinero prestado.
+
+Razón número 4: La persona con dinero repentinamente se convierte en inversionista con dinero pero sin educación ni experiencia (recuerda las 3s E).
+
+Razón número 5: El miedo a perder se incrementa.
+
+Razón número 6. La persona no conoce la diferencia entre los gastos buenos y malos. Al tener un plan para ser rico, comprender leyes fiscales y el derecho corporativo puedo utilizar mi columna de gastos para volverme rico.
+
+La persona promedio utiliza la columna de gastos para volverse pobre. Si quieres volverte rico y seguir siendo rico debes tener control sobre tus gastos.
+
+La gente pobre quiere tener un ingreso alto y gastos bajos. Una persona rica podría querer gastos altos ingresos bajos.  Cómo puede ser bueno tener un bajo ingreso y gastos altos? Mi padre rico decía el dinero es solamente una idea  la respuesta se encuentra en la manera en que el inversionista sofisticado utiliza las leyes fiscales y el derecho corporativo para llevar esos gastos de regreso a la Columna de ingresos.
+
+Qué porcentaje del dinero que sale de su columna de gastos regresa a su columna de ingresos en el mismo mes? **Lo importante no es cuánto dinero ganan sino cuánto dinero pueden invertir antes de pagar impuestos.**
+
+La principal razón por la que realiza un negocio es por los activos que adquiere para mí. No logran controlar el poder de una estrategia inversión en múltiples corporaciones
 
 
 
