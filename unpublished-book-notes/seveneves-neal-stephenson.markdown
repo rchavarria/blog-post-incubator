@@ -28,3 +28,14 @@ La *review* en sí del libro. ¿Qué me ha parecido? ¿Lo recomendaría? ¿Me ha
 
 ### Notas tomadas
 
+Como había tanta actividad bajo la superficie, el entorno de las calles de la
+colina del Cambio era engañosamente tranquilo, un poco como una antigua ciudad
+española a la hora de la siesta. Kath Two, perdida al poco rato y resignada a
+que eso la hacía parecer una turista sacó el trozo de papel del bolsillo y
+recordó la dirección.
+
+Aunque las dos primeras partes de la historia son el relato de un desastre
+global absoluto y de tecnología improvisada a toda prisa, siempre consideré que
+la tercera parte era una oportunidad para destacar muchas de las ideas más
+positivas surgidas durante el último siglo entre el conjunto de personas
+interesadas en la exploración espacial.
