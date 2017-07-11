@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: "book title"
+title: "99 bottles of OOP"
 date: 
 author: Rubén Chavarría
 comments: true
@@ -12,11 +12,13 @@ footer: false
 sidebar: true
 ---
 
-##### de <el autor>
+##### by [Sandi Metz](https://www.sandimetz.com/) and [Katrina Owen](http://www.kytrinyx.com/)
 
-{% img left http://s1.hubimg.com/u/11789820_f260.jpg 260 392 Stop stealing dreams %}
+{% img left 99-bottles-of-oop.jpg %}
 
 ## Por qué lo he leído
+
+Soy un fan de Sandi y colaboro en un proyecto open source de Katrina, ¿cómo no iba a leer [99 bottles of OOP](https://www.sandimetz.com/99bottles)?
 
 <!-- more -->
 
@@ -38,7 +40,7 @@ sidebar: true
 
 ## Introduction
 
-Una refactorizacion no es el resultado final sino el camino. Writing code is the process of working your way to the next stable end point, not the end point itself.
+Una refactorizacion no es el resultado final, sino el camino. Writing code is the process of working your way to the next stable end point, not the end point itself.
 
 ## 1. Rediscovering simplicity
 
