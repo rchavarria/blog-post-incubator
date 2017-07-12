@@ -119,13 +119,13 @@ alter the if statement to return only the things that change
 
 The difference between the solution that adds a conditional and the solution that interpolates a variable into a string is that in the first, as the tests get more specific, the code stays equally specific.
 
-as the tests get more specific, the code gets more generic.[4
+as the tests get more specific, the code gets more generic.
 
 ### 2.4. Understanding Transformations
 
 the "Transformation Priority Premise" (a blog post that you are urged to scan), Martin defines transformations as "simple operations that change the behavior of code."
 
-se podrian ver las transformaviones colo lo contrario a refatorizar?
+se podrian ver las transformaviones como lo contrario a refatorizar?
 
 ### 2.5. Tolerating Duplication
 

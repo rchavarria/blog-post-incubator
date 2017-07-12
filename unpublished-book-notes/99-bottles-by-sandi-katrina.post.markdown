@@ -32,6 +32,25 @@ Soy un fan de Sandi y colaboro en un proyecto open source de Katrina, ¿cómo no
 
 ## Frases que me gustaría recordar
 
+Escribir código es el proceso de encontrar el camino hasta el siguiente punto estable, no el punto final en sí mismo. No es el resultado final, si no el camino.
+
+Es difícil obtener cifras exactas de valor y cost. Hacerse las siguientes preguntas te darán una percepción del precio de una parte del código. Pregúntatelas cuando quieras saber si tu código es bueno o costoso:
+1. Fue difícil escribirlo?
+2. Es difícil de entender?
+3. Será caro hacer cambios?
+
+El código como el método `pluralize` (que devuelve `bottle` o `bottles` dependiendo de un número) se escribe cuando los programadores se llevan el principio DRY al extremo. Cuando te encuentres en una situación como esta, hazte las siguientes preguntas:
+1. El cambio voy a hacer, hace el código más difícil de entender? Cuando las abstraciones son las correctas, el código es fácil de entender.
+2. Cuál es el coste futuro de no hacer nada ahora? Si no hacer nada no incrementa los costes, retrasa los cambios.
+3. Cuando llegará ese momento, o cuándo tardaré en obtener más información? Tolera pacientemente la duplicación si haciéndolo the ayudará a descubrir la abstracción correcta.
+
+is an act of kindness towards your reader. Intention-revealing code is built from the accumulation of such thoughtful acts. Programa intencionadamente (escribe un `case` en lugar de un `if` para indicar que las condiciones están relacionadas). **Es una pasada como el libro racionaliza estas decisiones y las explica**
+
+Kent Beck describes different ways to make tests pass. Three of his "Green Bar Patterns" are: Fake It ("Til You Make It") Obvious Implementation Triangulate cuidado con ir directamenye a la solucion obvia t pued llecar por el camino equivocado Fake It style TDD may initially seem awkward and tedious, but with practice it becomes both natural and speedy. Developing the habit of writing just enough code to pass the tests forces you to write better tests The next Green Bar Pattern is Triangulate, which Beck describes as a way to "conservatively drive abstraction with tests." Triangulation requires writing several tests at once, which means you’ll have multiple simultaneous broken tests. The idea is to write one bit of code which makes all of the tests pass.
+
+-- voy recopilando buenas frases por el punto 3: ## 3. Unearthing Concepts
+
+
 ## Recursos relacionados
 
 [titulo sobre el enlace a las notas]: foo-bar-foo-bar
