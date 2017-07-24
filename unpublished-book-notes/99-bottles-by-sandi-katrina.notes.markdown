@@ -433,8 +433,6 @@ recuerda el flujo diagrama de un poco anres de aqui
 
 This means you must continue to be guided by code smells
 
-#### 5.1.1. Identifying Patterns in Code
-
 One way to get better at identifying smells is to practice describing the characteristics of code.
 
 make note of the things that catch your eye. Include any patterns that you see, and things you like, hate, or don’t understand.
@@ -521,9 +519,7 @@ Each item above acts like a vote, and these votes combine to point to Primitive 
 
 Obsessing on a primitive results in code that passes built-in types around, and supplies behavior for them.
 
-The cure for Primitive Obsession
-
-is Extract Class.
+The cure for Primitive Obsession is Extract Class.
 
 #### 5.2.1. Modeling Abstractions
 
@@ -637,9 +633,7 @@ The current problem can be solved by declaring another variable to hold bottle n
 
 ## 6. Achieving Openness
 
-this chapter
-
-removes a Data Clump, deals with the conditionals in BottleNumber, introduces a Factory, fixes a Liskov violation, and ultimately, fulfills the six-pack requirement.
+this chapter removes a Data Clump, deals with the conditionals in BottleNumber, introduces a Factory, fixes a Liskov violation, and ultimately, fulfills the six-pack requirement.
 
 ### 6.1. Consolidating Data Clumps
 

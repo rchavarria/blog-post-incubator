@@ -48,12 +48,41 @@ is an act of kindness towards your reader. Intention-revealing code is built fro
 
 Kent Beck describes different ways to make tests pass. Three of his "Green Bar Patterns" are: Fake It ("Til You Make It") Obvious Implementation Triangulate cuidado con ir directamenye a la solucion obvia t pued llecar por el camino equivocado Fake It style TDD may initially seem awkward and tedious, but with practice it becomes both natural and speedy. Developing the habit of writing just enough code to pass the tests forces you to write better tests The next Green Bar Pattern is Triangulate, which Beck describes as a way to "conservatively drive abstraction with tests." Triangulation requires writing several tests at once, which means you’ll have multiple simultaneous broken tests. The idea is to write one bit of code which makes all of the tests pass.
 
--- voy recopilando buenas frases por el punto 3: ## 3. Unearthing Concepts
+si el codij no esta abierto a modiicaviones y no sabes po dond emoezar... empieza eliminndo olores del odio ng sabes como hace que el codigo este abiero. asi que empiezas a eliminar olores. con la esperanza de ncontrar lo en l camino
+
+Making existing code open to a new requirement often requires identifying and naming abstractions. The Flocking Rules concentrate on turning difference into sameness, and thus are useful tools for unearthing abstractions.
+Flocking Rules Select the things that are most alike. Find the smallest difference between them. Make the simplest change to remove that difference: parse the new code parse and execute it parse, execute and use its result delete unused code
+
+When you’re struggling to find a good name but have only a few concrete instances to guide you, it can be illuminating to imagine other things that would also be in the same category. Y luego construir una tabla con los conceptos.
+
+The Liskov Substitution Principle also applies to duck types. Liskov violations force message senders to have knowledge of the various return types, and to either treat them differently, or convert them into something consistent
+
+One way to get better at identifying smells is to practice describing the characteristics of code. make note of the things that catch your eye. Include any patterns that you see, and things you like, hate, or don’t understand.
+
+(no todos los condicionales son malos en la OO) There is a place for conditionals in OO. Some object, somewhere, must choose which objects to create, and this often involves a conditional.
+
+Es impresionante cómo va describiendo la refactorización línea a línea, eliminando *primitive obsession* y creando una nueva clase.
+
+Elimina multitud de code smells, muchas veces de línea en línea, apoyándose en tests. Es ukna gozada ver cómo va quedando el código
+
+Elimina multitud de code smells, muchas veces de línea en línea, apoyándose en tests. Es ukna gozada ver cómo va quedando el código
+
+
+
+
+
+
+Voy extrayendo notas que me gustaría recordar del capítulo   ## 6. Achieving Openness
+
+
+
+
 
 
 ## Recursos relacionados
 
 [titulo sobre el enlace a las notas]: foo-bar-foo-bar
+Nuevo libro: **In his book Refactoring to Patterns, Joshua Kerievsky talks about "Gradual Cutover Refactoring**
 
 # Notas tomadas
 
