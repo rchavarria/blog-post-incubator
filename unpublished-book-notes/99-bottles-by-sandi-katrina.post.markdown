@@ -65,14 +65,23 @@ Es impresionante cómo va describiendo la refactorización línea a línea, elim
 
 Elimina multitud de code smells, muchas veces de línea en línea, apoyándose en tests. Es ukna gozada ver cómo va quedando el código
 
-Elimina multitud de code smells, muchas veces de línea en línea, apoyándose en tests. Es ukna gozada ver cómo va quedando el código
+Having a clump of data usually means you are missing a concept. When a clump gets sent as a set of parameters, the method that receives the clump can easily become polluted with clump management logic. some or all of this management logic will inevitably get duplicated in several places. two things always appear together, it’s a signal that this pairing represents a deeper concept, and that concept should be named.
+
+Programmers add blank lines to signify changes of topic. The presence of multiple topics suggest the existence of multiple responsibilities, which makes code harder to understand when reading, and easier to harm when changing.
+
+Skilled programmers do what’s right when they intuit the truth, otherwise they engage in careful, precise, reproducible, and reversible coding experiments.
+
+The trick to moving forward using one-line changes is to temporarily alter the factory to tolerate both kinds of input. A veces, a la hora de cambiar condicionnales con polimorfismo, hay momentos en los que algún código debe soportar varios tipos, hasta que todo el código está adaptado. Especialemente, si vamos haciendo cambios de una sóla línea
+
+
+Correcting the Liskov violation is important because object-oriented programming, especially in dynamically-typed languages like Ruby, relies on explicit trust in the implicit contracts between objects.  Trustworthy objects are a joy to work with because they always behave as you expect.  Objects that sometimes fail to respond to a message you plan to send, or occasionally return something you don’t expect, untrustworthy objects require senders of messages to know too much.
 
 
 
 
 
 
-Voy extrayendo notas que me gustaría recordar del capítulo   ## 6. Achieving Openness
+Voy extrayendo notas que me gustaría recordar del capítulo   ### 6.5. Making the Easy Change
 
 
 
