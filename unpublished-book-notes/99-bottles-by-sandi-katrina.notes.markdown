@@ -779,9 +779,7 @@ Clever shortcuts are a false economy. Invest in code that tells the truth. Just 
 
 ### 6.7. Prying Open the Factory
 
-una de ellas es geera el nlmbr d la cas poruu siun un paton
-
-There are many of kinds of factories, and a plethora of strategies for making them open.
+There are many of kinds of factories, and a plethora of strategies for making them open. Una de ellas es generar el nombre de la clase porque sigue un patrón.
 
 Even so, there are many things to dislike about this code.
 
@@ -800,8 +798,6 @@ Your goal is to minimize costs, and costs are determined by the situation at han
 ### 6.8. Summary
 
 Having repeatedly advocated these prescriptive strategies, however, it ended with the confession that the answer to every question about object-oriented design is not necessarily to "follow recipe X." Rather, the answer is "it depends."
-
-Afterword
 
 este capitulo podria servir como review del libro
 
