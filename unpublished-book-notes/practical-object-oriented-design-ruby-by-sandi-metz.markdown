@@ -19,7 +19,11 @@ Por último, habla sobre cómo gestionar los tests de nuestra aplicación manten
 
 ### Conclusiones y valoración
 
-La *review* en sí del libro. ¿Qué me ha parecido? ¿Lo recomendaría? ¿Me ha gustado el estilo?
+Es curioso que para describir el paradigma de la programación orientada a objetos no se centre en objetos, si no en los mensajes que deben pasarse entre ellos. Es un cambio de punto de vista, y me gustaría poder interiorizarlo fácilmente, pero no me resulta así. Es un esfuerzo que debo hacer y que seguro que merecerá la pena.
+
+Aunque centrado en Ruby, describe otras formas de reutilizar código aparte de la herencia y la composición. Les llama módulos, o roles. En otros lenguajes existen conceptos similares, como los *traits* en PHP o los *mixins* en JavaScript. No creo que se puedan aplicar a todos los lenguajes de programación, pero si a la mayoría de los lenguajes dinámicos.
+
+En cuanto a la valoración, coincido con muchísima gente: este libro puede ser un antes y un después en la comprensión de la POO, sobre todo por el punto de vista tan diferente a la hora de entenderla. Envío de mensajes, envío de mensajes, envío de mensajes,...
 
 ### Qué he aprendido
 
