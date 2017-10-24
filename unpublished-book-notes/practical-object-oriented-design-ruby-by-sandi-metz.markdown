@@ -7,6 +7,8 @@
 
 ¿Quién lo ha recomendado? ¿Dónde lo he visto?
 
+Éste es un libro que lo recomienda mucha gente cuando se habla de *programación orientada a objetos*, es muy mencionado en conversaciones por twitter y el mundo online. Pero la guinda del pastel vino cuando ví que lo recomendaba [Carlos Blé] en su blog. Entonces supe que era una lectura obligada.
+
 <!-- more -->
 
 ### De qué trata el libro
@@ -197,3 +199,4 @@ El último capítulo hablando de testear es oro puro, para releer muy de vez en 
 2. Crear una nueva subclase lo más sencilla posible. Con la nueva subclase puede ser interesante hacer que pase los *role test*, al igual que lo hacen las demás subclases
 
 - **Los mejores tests están débilmente acoplados al código de producción y testean cada cosa una sola vez y en el lugar adecuado. Añaden valor sin incrementar los costes**
+
