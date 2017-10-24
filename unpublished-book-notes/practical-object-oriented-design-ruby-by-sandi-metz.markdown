@@ -5,16 +5,17 @@
 
 ### Por qué lo he leído
 
-¿Quién lo ha recomendado? ¿Dónde lo he visto?
-
 Éste es un libro que lo recomienda mucha gente cuando se habla de *programación orientada a objetos*, es muy mencionado en conversaciones por twitter y el mundo online. Pero la guinda del pastel vino cuando ví que lo recomendaba [Carlos Blé] en su blog. Entonces supe que era una lectura obligada.
 
 <!-- more -->
 
 ### De qué trata el libro
 
-Si le tuviera que contar a alguien de qué va el libro, ¿qué le diría?
-¿Qué esperaba encontrar yo en él? ¿Ha sido lo que esperaba?
+Va sobre programación orientada a objetos. Normalmente, al hablar de POO, no se avanza mucho más allá de herencia y polimorfismo. Sandi va muchos pasos más allá. Explica la POO desde un punto de vista un poco diferente, donde los objetos no son el centro del paradigma, si no los mensajes que se intercambian entre ellos.
+
+Por supuesto, el libro también habla de herencia, de cuándo usarla y cuándo no. Habla de composición, comparándola con la herencia. Y habla de otras formas de reutilizar o compartir el código.
+
+Por último, habla sobre cómo gestionar los tests de nuestra aplicación manteniendo unos costes de desarrollo bajo control.
 
 ### Conclusiones y valoración
 
