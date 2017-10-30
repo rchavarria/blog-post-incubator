@@ -17,6 +17,8 @@ lo había visto recomendado por ahí varias veces, pero me había arrepentido al
 Si le tuviera que contar a alguien de qué va el libro, ¿qué le diría?
 ¿Qué esperaba encontrar yo en él? ¿Ha sido lo que esperaba?
 
+
+
 ### Conclusiones y valoración
 
 un tocho
