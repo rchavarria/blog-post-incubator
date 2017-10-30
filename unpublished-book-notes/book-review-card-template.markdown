@@ -12,11 +12,11 @@
 ### De qué trata el libro
 
 Si le tuviera que contar a alguien de qué va el libro, ¿qué le diría?
-¿Qué esperaba encontrar yo en él? ¿Ha sido lo que esperaba?
+¿Qué esperaba encontrar yo en él? 
 
 ### Conclusiones y valoración
 
-La *review* en sí del libro. ¿Qué me ha parecido? ¿Lo recomendaría? ¿Me ha gustado el estilo?
+La *review* en sí del libro. ¿Ha sido lo que esperaba? ¿Qué me ha parecido? ¿Lo recomendaría? ¿Me ha gustado el estilo?
 
 ### Qué he aprendido
 
