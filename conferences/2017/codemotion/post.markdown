@@ -6,11 +6,13 @@
 
 ## El evento
 
-- Mejor comida
-- Muchos problemas técnicos en el track 1 con Mac
-- Mucha más gente
-- IndieMAD
-- Zona chillout
+Los organizadores se superan cada año. Con el feedback recibido, deciden qué cosas hay que cambiar de años anteriores, qué hay que conservar y qué hay que eliminar.
+
+Como todos los años, la afluencia de gente ha sido brutal. Fueras donde fueras, había gente, mucha gente. Colas por todos los sitios. Salas hasta la bandera. Eso sí, solo me quedé fuera de una de las charlas, por lo que las votaciones de la gente en cuanto a intención de asistir a las charlas funcionó bastante bien.
+
+El café de media mañana, muy bien acompañado. Eso sí, se montaron unas colas enooormes para poder tomar un café. Creo que es difícil organizar algo para servir 2000 cafés en poco tiempo. Pero la comida estuvo muy bien (escasa para un glotón como yo, pero bien), había variedad, opción vegetariana y celíaca.
+
+Como no todo son charlas y talleres, la zona chillout estaba siempre repletita de gente y actividad. Interesante como siempre. Y este año añadieron una novedad, una zona donde [IndieMAD] organizó un concurso de videojuegos. Cualquiera podía pasarse por allí, echarse unos vicios y votar al estudio que hubiera desarrollado el mejor juego. Por lo que escuché en el cierre de Codemotion, el año que viene repetirán. ¡Muy bien!
 
 ## Las charlas
 
@@ -61,5 +63,8 @@
 [Javier Abadía]: https://twitter.com/javierabadia
 [Luis G. Valle]: https://twitter.com/lgvalle
 
+[Codemotion]: http://2017.codemotion.es/
+[colección]: 
+[IndieMAD]: https://indiemad.org/
 [Notas extendidas del evento]: https://github.com/rchavarria/blog-post-incubator/blob/master/conferences/2017/codemotion/2017-11-25%20-%20codemotion.markdown
 
