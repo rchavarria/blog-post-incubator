@@ -74,14 +74,11 @@ Si repites lo que estás aprendiendo justo antes de ir a dormir o echar una sies
 
 > El ejercicio también aumenta la cantidad de neuronas que nacen y sobreviven
 
-> 
+> El éxito no viene necesariamente de ser inteligente. Pasión y persistencia suelen ser actitudes que te acercan más al éxito que la inteligencia
 
+## Sumary
 
+When you don't want to work on something, a sense of neural discomfort arises. However, researchers have found that not long after you might start working on something that you find unpleasant, that neural discomfort disappears. So an important aspect of tackling procrastination is to just get yourself through that initial period of discomfort. The Pomodoro technique helps you do that.
 
-
-
-
-
-
-
+### Video: summary video for module 1
 
