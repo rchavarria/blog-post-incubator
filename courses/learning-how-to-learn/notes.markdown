@@ -56,6 +56,28 @@ La repetición en el tiempo es buena porque construye estructuras neuronales má
 
 Solamente con estar despiertos, estamos creando toxinas en nuestro cerebro. Al dormir, esas toxinas se eliminan. Bueno, el proceso será algo más complejo, pero básicamente esta es la idea que nos quieren transmitir en el curso. No veas dormir como una pérdida de tiempo, si no como una forma de mantener el cerebro limpio y sano.
 
+Dormir no sirve sólo para limpiar toxinas del cerebro, también es parte importante del proceso de apendizaje y memoria. Durante el sueño, el cerebro pone en orden las ideas, borra recuerdos y afianza otros que queremos recordar. También ensaya algunas de las partes más difíciles de lo que intentamos aprender, repitiendo los patrones neuronales para profundizarlos y fortalecerlos. También parece que durante el sueño, al desconectar la parte frontal del cerebro, el resto del cerebro tiene más libertad para hablar entre sí.
+
+Si repites lo que estás aprendiendo justo antes de ir a dormir o echar una siesta, aumentas las posibilidades de soñar con eso y de aprovechar el modo difuso a la hora de dormir para afianzar el aprendizaje. Si además, piensas en que quieres soñar con lo aprendido, aumentarás aún más las probabilidades. Soñar con eso puede aumentar el entendimiento de lo aprendido.
+
+### Video: Interview with Dr Terrence Sejnowski
+
+> Aprendo haciendo, y aprendo por ósmosis de gente experta
+
+> Qué haces para interesarte por una conferencia aburrida? Hago alguna pregunta. Normalmente, de la pregunta sale alguna discusión interesante. Es más fácil aprender de una tarea activa que de una escucha pasiva
+
+> ¿Qué puedes hacer para aprovecharte del modo difuso? Dejar de centrarte y pasear un poco, hacer un poco de ejercico, pasear al aire libre
+
+> Es posible, después de mucho entrenamiento, hacer dos cosas a la vez, pero no las puedes hacer eficientemente
+
+> Tener un ambiente enriquecido (no encerrado en una habitación), rodearte de gente que te estimule,... hace que se creen más y más conexiones entre las neuronas y que incluso se generen nuevas neuronas en el hipocampo
+
+> El ejercicio también aumenta la cantidad de neuronas que nacen y sobreviven
+
+> 
+
+
+
 
 
 
