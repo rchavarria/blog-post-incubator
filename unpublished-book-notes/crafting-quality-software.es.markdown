@@ -65,45 +65,31 @@ No abstraigas antes de que estés seguro acerca de los requerimientos actuales n
 
 ### 4 Testing
 
-#### 4.1 Finding the right Test-Mix
+#### 4.1 Encontrando el balance en los distintos tipos de tests
 
-Once the software stabilizes, you should refactor tests from the acceptance-and integration-levels towards the unit-test-level.
+Una vez que el código se estabiliza, deberías refactorizar los tests desde niveles de aceptación o integración hacia niveles unitarios.
 
-Unit-tests are necessary to stabilize your code, but when you know the requirements are not stable yet, then having too many unit-tests can be a burden as well.
+Los tests unitarios son necesarios para estabilizar el código, mientras sabes que los requisitos no son estables todavía, luego, tener demasiados tests unitarios pueden ser tambien un lastre.
 
-when you know the requirements are not stable yet, then having too many unit-tests can be a burden as well.
+TDD va de diseño y no sobre tests unitarios y una cobertura del 100%
 
-4.1.1 The Test-Mix Tradeoff
+Usar tests de aceptación y de integración es una aproximación válida para TDD y sirve igual de bien durante períodos de experimentos y cambios frecuentes en los requisitios.
 
-4.1.1 The Test-Mix Tradeoff
+#### 4.2 Moqueando con Phake
 
-TDD is about design and not about unit-testing and 100% coverage.
+Hay dos formas de crear dobles de tests: crearlos tú mismo o usar una de las múltiples librerías existentes.
 
-Using acceptance- and integration-tests is a valid approach for TDD and serves well during periods of spikes and frequent requirement changes.
+Librerías como PHPUnit y Mockery necesitan que las *expectations* sean parte de la fase de configuración del test (el arranque, el comienzo del test). Esto es bastante molesto, porque estas *expectations* están mucho más relacionadas con la fase de verificación del test (el final, las comprobaciones del test). Es así porque estas librerías no diferencian explícitamente entre métodos que son moqueados (para verificación) o *stubs* (devolver resultados). Phake introduce una diferenciación
 
-#### 4.2 Mocking with Phake
+#### 4.3 Testeando efectos de comandos con `Phake::capture()`
 
-There are two ways to create these test doubles: You can write them yourself or use one of the many existing libraries.
+Después de la llamada `\Phake::capture($order)`, la variable `$order` contiene el argumento que fue pasado a `OrderRepository` desde el código de producción
 
-PHPUnit mocks and Mockery require expectations to be part of the "setup" phase.
+#### 4.4 Usando Mink en PHPUnit
 
-This is unfortunate, because mock expectations are much more related to the "Verify" phase instead.
+Esto puede hacerse fácilmente con la librería Mink. Mink es bien conocida en la comunidad de Behat por facilitar el desarrollo mediante Behaviour-Driven Development (BDD).
 
-because they don't explicitly differentiate between methods that are mocked (verification) or stubbed (returning results). Phake introduces a differentiation
-
-#### 4.3 Testing Effects of Commands With Phake::capture()
-
-See after the \Phake::capture($order) call, the $order variable contains the argument that
-
-See after the \Phake::capture($order) call, the $order variable contains the argument that was passed to the OrderRepository from your code.
-
-#### 4.4 Using Mink in PHPUnit
-
-you can easily do this using the Mink library. Mink is well known from the Behat community to facilitate Behaviour-Driven Development (BDD),
-
-Mink is well known from the Behat community to facilitate Behaviour-Driven Development (BDD),
-
-#### 4.5 Introduction To Page Objects
+#### 4.5 Introducción a los Page Objects
 
 The Page Objects maps the HTML (or JSON) to an object oriented structure you can interact with and assert on.
 
