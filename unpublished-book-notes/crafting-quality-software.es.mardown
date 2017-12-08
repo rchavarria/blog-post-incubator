@@ -3,7 +3,7 @@
 
 ### 2 Clean Code
 
-#### 2.1 Developers Life is a Trade-Off
+#### 2.1 La vida del programador es un compromiso
 
 [No hay balas de plata], y una de las habilidades más importantes que puede tener un programador es la de evaluar las posibilidades para encontrar el mejor compromiso para el desafío actual.
 
@@ -11,13 +11,11 @@ Una de las tareas más importante de un programador es la de encontrar compromis
 
 Necesitas ser capaz de considerar tus decisiones y estar preparado para revisarlas.
 
-#### 2.2 Never Use null
+#### 2.2 Nunca uses `null`
 
-Use a so called null object if you need a default instance which does nothing.
+Usa lo que se llama un *objeto nulo* si necesitas una instancia por defecto que no haga nada.
 
-todavia no tengo claro si lanza excpcin o no
-
-If a value could not be found do not return null but throw an exception
+Si un valor no puede ser encontrado, no devuelvas `null`, lanza una excepción en su lugar (jo! todavía no tengo claro is debo lanzar excepciones o no para manejar este tipo de situaciones, se supone que es malo para controlar el flujo del programa, y esto no sería un excepción en sí, porque puedo comprabar si he encontrado o no un valor, así que no me creo mucho lo este caso de no usar `null`)
 
 #### 2.3 Struct classes in PHP
 
