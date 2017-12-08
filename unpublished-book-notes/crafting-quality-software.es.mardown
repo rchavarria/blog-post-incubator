@@ -1,7 +1,11 @@
 ﻿# Crafting Quality Software
 ##### de Qafoo GmbH
 
-### 2 Clean Code
+### ¿Qué quiero recordar?
+
+- La solución al problema de cambios rápidos en contra del código limpio es el arte de la refactorización.
+
+### 2 Código limpio
 
 #### 2.1 La vida del programador es un compromiso
 
@@ -17,51 +21,47 @@ Usa lo que se llama un *objeto nulo* si necesitas una instancia por defecto que 
 
 Si un valor no puede ser encontrado, no devuelvas `null`, lanza una excepción en su lugar (jo! todavía no tengo claro is debo lanzar excepciones o no para manejar este tipo de situaciones, se supone que es malo para controlar el flujo del programa, y esto no sería un excepción en sí, porque puedo comprabar si he encontrado o no un valor, así que no me creo mucho lo este caso de no usar `null`)
 
-#### 2.3 Struct classes in PHP
+#### 2.3 Classes `struct` en PHP
 
-### 3 Object Oriented Design
+### 3 Diseño orientado a objetos
 
-#### 3.1 Learn OOD - to unlearn it again
+#### 3.1 Aprende DOO, para desaprenderlo otra vez
 
-As can be seen in many projects, working at the fast feature pace often led to big ball of mud (BBOM) code bases, which reduced the agility of the project day by day, eventually leading to the stage where changes are costly and developers demanded yet another re-write to free themselves of legacy hell. This
+Como se puede ver en muchos proyectos, trabajar a un ritmo rápido suele acabar un una base de código que parece una *[gran bola de barro]*, lo que reduce la agilidad del proyecto día a día, y finalmente nos conduce a la etapa donde los cambios son muy costosos y los programadores demandan otra reescritura para liberarse a sí mismos del *infierno del código legado*.
 
-The solution to the mismatch of fast change and clean code is the art of refactoring.
+La solución al problema de cambios rápidos en contra del código limpio es el arte de la refactorización.
 
-Automatic testing and continuous refactoring are the key methodologies
+Testing automático y refactorización contínua son las metodologías/prácticas clave.
 
-In order to master agility, fast feature pace and high quality code at the same time, every developer needs to learn the art of refactoring and automated testing.
+Para dominar la agilidad, un ritmo rápido de producción de funcionalidades y un código de alta calidad al mismo tiempo, cada programador necesita aprender el arte de la refactorización y los tests automáticos.
 
-#### 3.2 Object lifecycle control
+#### 3.2 Control del ciclo de vida de los objetos
 
-#### 3.3 Ducks Do Not Type
+#### 3.3 Los patos no tipean (Ducks don't Type)
 
-si una clase implementa una interfaz i clas abstracta. no deberia añadoir nuevos metodos publicos
+El título es un juego de palabras que en español no tiene ningún sentido, por eso dejo el original en inglés
 
-We have an abstract base type for HTTP clients (which could also be an interface (See: Abstract Classes vs. Interfaces)) and one implementation. Implementations then sometimes tend to define additional public methods, like setConfiguration() in this case, for various different reasons. I want to explain why I consider this a code smell.
+Si una clase implementa una interfaz o clase abstracta, no debería añadir nuevos métodos públicos. De hecho, hay quien considera esto como un olor en el código.
 
-#### 3.4 Abstract Classes vs. Interfaces
+#### 3.4 Clases abstractas Versus Interfaces
 
-#### 3.5 ContainerAware Considered Harmful
+#### 3.5 Se considera como dañino tener conocimientos sobre el objeto contendor
 
-#### 3.6 Code Reuse By Inheritance
+#### 3.6 Reutilización de código mediante herencia
 
-#### 3.7 Utilize Dynamic Dispatch
+#### 3.7 Utilizar despacho dinámico
 
-mas o menis como inyeccion de depndenias. qu cambia de implementacion en tiemoo de ejecucion
+Se puede ver como si fuera inyección de dependenias, que cambia la implementación en tiempo de ejecución, esto es lo que llaman *despacho dinámico* (dynamic dispatch).
 
-This is what we call dynamic dispatch.
+Dice que un `trait` es un despacho estático, lo compara con una llamada estática. Dice que no puedes cambiarla en tiempo de ejecución, y en parte tiene razón, pero al menos los `trait`s dan más dinamismo que llamadas a métodos estáticos.
 
-compara un trait con una llamada estatica. porque dice que no puedes cambiarla en tiempo de ejecuion. y en part tiene razon. peo no lo veo del too cierto
+#### 3.8 Cuándo abstraer?
 
-A trait is static dispatch, too.
+Abstraer es hacer una apuesta de un futuro desarrollo en el software.
 
-#### 3.8 When to Abstract?
+Las circustancias cambiarán, así que la vista sobre qué es una mejor abstracción para el problema, cambiará.
 
-abstraction is a bet on the future development of the software
-
-The circumstances will change, so will the view on the best abstraction change.
-
-Do not abstract before you are sure about the actual requirements and before there is a need to do so.
+No abstraigas antes de que estés seguro acerca de los requerimientos actuales ni antes de que haya una necesidad de abstraer nada.
 
 ### 4 Testing
 
