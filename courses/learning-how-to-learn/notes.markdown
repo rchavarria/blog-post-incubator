@@ -137,5 +137,36 @@ Resumiendo: atención concentrada, entender y practicar para poner en contexto
 
 #### Video: illusions of competence
 
+- Recordar
+- Ilusiones de competencia
+- Mini-exámentes
+- El valor de cometer errores
+
+Recordar es una técnica más efectiva que la de volver a repasar la lección. Después de leer el material, mira a otro lado y comprueba qué puedes recordar de lo leído. El proceso de recordar en sí mismo realza el aprendizaje profundo y ayuda  a comenzar a formar fragmentos. Parece ser que las relecturas solo son efectivas si dejamos que pase un tiempo entre ellas.
+
+Simplemente mirar una solución (ya dada) y pensar que ya podemos solucionar el problema nosotros mismos es una *ilusión de competencia* de las más frecuentes. 
+
+Subrayar funciona muy bien.  Es como si el movimiento de la mano por encima del texto hiciera creer al cerebro que pone esa información dentro. Subraya cuidadosamente, sólo las ideas principales. Intenta subrayar una frase como máximo por párrafo. Antes de subrayar nada, intenta buscar las ideas principales. Escribir notas al margen resumiendo conceptos clave es una idea muy buena.
+
+Cuando tienes el libro abierto delante de tí (o google a mano), una ilusión de competencia es que crees que tienes toda esa información en tu cabeza, cuando no es así. Lo crees porque es muy fácil acceder a la información, pero no la tienes en tu cabeza, si no en el libro.
+
+Recordar es como una forma de auto-evaluarse.
+
+Cometer errores en estos pequeños exámenes es bueno (si no los cometes muy a menudo claro), porque te permite ir corrigiéndolos poco a poco, ya que los fallos son pequeños.
+
+A la hora de estudiar, intenta cambiar un poco de lugar físico. Al estudiar, asociamos lo que nos rodea con lo que aprendemos. Luego, en el exámen, estamos en un lugar muy distinto, y estamos desorientados. Al estudiar/recordar en distintos lugares, hacemos que lo aprendido sea independiente del lugar.
+
+### Seeing the big picture
+
+#### Video: what motivates you?
+
+Acetylcholine: afecta al aprendizaje enfocado y la atención
+
+Dopamina: sustancia que segregan algunas neuronas ante una recompensa inesperada. O ante una recompensa futura. Así que, cuando te dices a tí mismo que te darás un capricho después de un estudio duro, estás segregando dopamina.
+
+Serotonina: controla tus relaciones sociales. El macho alfa es quien tiene los niveles más altos de serotonina. También se asocia con el comportamiento arriesgado (menos nivel, más riesgo). 
+
+Las emciones afectan al aprendizaje.
+
 
 
