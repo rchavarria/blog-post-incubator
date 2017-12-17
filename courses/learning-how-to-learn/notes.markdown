@@ -168,5 +168,49 @@ Serotonina: controla tus relaciones sociales. El macho alfa es quien tiene los n
 
 Las emciones afectan al aprendizaje.
 
+#### Video: The value of a library of chunks
+
+Lo que hace la gente para generar conocimiento es crear grandes cantidades de fragementos en su mente.
+
+Cuanto mayor sea tu biblioteca de framentos y más estrenada esté, más fácil te será resolver problemas y descifrar soluciones.
+
+Transferencia: a veces, un fragmento te ayuda a crear otro, porque está relacionado de alguna forma soprendente. No tiene por qué ser del mismo campo.
+
+Una vez que empiezas a crear fragmentos (piezas de información interrelacionada comprimidos) en una materia, podrás ir creando fragmetnos más y más grandes, como cintas más y más larga, que contienen más y más información. Y no solo las cintas son más largas, las redes neuronales son más profundas, más estables. 
+
+Si tienes una buena colección o biblioteca de fragmentos, el modo difuso puede encontrar conexiones entre ellos, permitiéndote resolver nuevos problemas.
+
+Cuando estudias una lección, puede que pienses que no vas a poder aprender todos los conceptos e ideas que aparecen allí. Debes usar la *Ley de la serendipia* (algo así como que la suerte favorece a quien al menos lo intenta). De esta forma, concéntrate en aprender un concepto, cualquiera. El segundo lo aprenderás más rápido, y el tercero mucho más rápido.
+
+#### Video: Overlearning, choking, einstellung and interleaving
+
+Sobreaprender: es estar repitiendo siempre algo que ya hemos aprendido. Esto puede ser necesario en algunos contextos: una charla en publico tiene que estar muy practicada, deportes de alta competición,... Pero cuidado con *sobreaprender* en una sesión única, puede ser una pérdida de tiempo.
+
+Es necesario balancear el estudio entre cosas que ya dominamos y conceptos nuevos. Esto nos lleva a la *práctica deliberada*.
+
+Einstellung: hace referencia a usar una solución no óptima a un problema, aunque conozcamos la mejor solución, solamente porque la menos óptima la tenemos más fresca en la memoria o la recordamos antes. Algo así como quedarse con la primera idea que te viene a la cabeza.
+
+Intercalar: es otro concepto necesario para el aprendizaje. Una vez que ya sabes lo básico, puedes ir intercambiando técnicas o metodologías para ir aprendiendo más. Simplemente ir realizando ejercicios de matemáticas de distintas lecciones, en lugar de hacer todos los ejercicios de una lección puede servir.
+
+Practicar, repetir e intercalar.
+
+Intercalar sirve para desarrollar la parte creativa.
+
+Algunos estudios dicen que los grandes o soprendentes descubrimientos suelen venir de gente muy joven o de gente reciente en el campo de estudio. Esto parece relacionado con Einstellung.
+
+### Optional interviews
+
+#### Dr. Norman Fortenberry about Learning at MIT
+
+En ingeniería, tienes que trabajar en equipo. Si no tienes uno, debes encontrar uno lo antes posible. Si ya tienes uno, debes conseguir que el equipo sea el mejor. Forma un grupo de estudio, grupo de trabajo.
+
+Importancia de *apagar* el cerebro, para dar paso al modo difuso, como una forma de hacer nuevas conexiones y permitir descansar al cerebro y que la parte subsconciente haga trabajo de limpieza.
+
+Trucos:
+
+- usa distintos formatos de entrada de información: visual, texto, sonido, escritura,...
+- grupos de estudio: unos retan a otros, entre todos se comprueban a sí mismo qué es lo que han aprendido, y si lo han aprendido bien
+
+#### Scott Young, a *Marco Polo* of learning
 
 
