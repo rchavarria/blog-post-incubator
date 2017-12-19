@@ -213,4 +213,46 @@ Trucos:
 
 #### Scott Young, a *Marco Polo* of learning
 
+## Week 3
+
+### Procrastination
+
+#### Video: introduction to procrastination and memory
+
+#### Video: tackling procrastination: it is easier and more valuable than you think
+
+La técnica para lidiar con la procrastinación es la técnica del Pomodoro
+
+El buen aprendizaje es el que se hace poco a poco, no todo a la vez.
+
+En nuestro interior, tenemos zombies, respuestas que hacemos sin pensar frente a ciertos estímulos. Esto tienen mucho que ver con la procrastinación.
+
+Se aprende mejor haciéndolo en bloques de duración fija y descansando un poco entre ellos. Técnica Pomodoro.
+
+La fuerza de volunta gasta muchos recursos neurnales, y es lo que normalmente usamos para combatir la procrastinación.
+
+Procrastinamos en cosas que nos hacen sentir un poco inconfortables. Al pensar en algo que nos *duele*, nuestro cerebro se siente mal, y se enfoca en algo más placentero. Al hacerlo, nos sentimos un poco mejor. Pero esto es **temporal**. Funciona de una forma similar a las adicciones.
+
+La procrastinación puede ser un MUY MAL hábito, que afecte a muchas áreas de tu vida. Procrastinar es un hábito, y los hábitos se pueden cambiar.
+
+Para procrastinar, nos damos las más absurdas excusas: es muy pronto para estudiar, esto no es lo mío,...
+
+Esto tiene que ver con la construcción de hábitos. Para que seas tú quien tome la decisión de estudiar y aprender, y no sean tus zombies internos
+
+#### Video: zombies everywhere
+
+Los hábitos son una forma de ahorrar energía. Los hábitos son como los fragmentos que hablamos en la lección anterior. Agrupan una serie de acciones y no tenemos que pensar para realizarlas. Una vez desarrollamso un hábito, lo hacemos en *modo zombie*
+
+Los hábitos tienen cuatro partes:
+
+1. El disparador (cue): lo que hace que entremos en ese modo zombie
+2. La rutina: el modo zombie, la respuesta del cerebro ante el disparo
+3. El premio: recibido una vez realizado el hábito. Procrastinar se convierte rápidamente en un hábito porque la recompensa viene muy rápido y fácil: dejamos de hacer algo que no nos gusta por algo que nos gusta
+4. La creencia: para cambiar un hábito hay que cambiar la creencia sobre ese hábito (nunca voy a ser capaz de dejar de fumar,...)
+
+#### Video: surf is up, process versus product
+
+
+
+
 
