@@ -245,12 +245,80 @@ Los hábitos son una forma de ahorrar energía. Los hábitos son como los fragme
 
 Los hábitos tienen cuatro partes:
 
-1. El disparador (cue): lo que hace que entremos en ese modo zombie
+1. El estímulo (cue): lo que hace que entremos en ese modo zombie
 2. La rutina: el modo zombie, la respuesta del cerebro ante el disparo
 3. El premio: recibido una vez realizado el hábito. Procrastinar se convierte rápidamente en un hábito porque la recompensa viene muy rápido y fácil: dejamos de hacer algo que no nos gusta por algo que nos gusta
 4. La creencia: para cambiar un hábito hay que cambiar la creencia sobre ese hábito (nunca voy a ser capaz de dejar de fumar,...)
 
 #### Video: surf is up, process versus product
+
+Es normal sentirse un poco mal al inicio de cualquier sesión de estudio. Es más importante cómo te enfrentas a esos sentimientos. Por ejemplo, te dices a tí mismo (como un no-procrastinador): esto va a durar poco, enseguida se me pasa, ...
+
+Para evitar la procrastinación, tienes que evitar centrarte en el producto (tengo que hacer una redacción) y centrarte más en el proceso, en el hábito, que te va a permitir realizar el producto.
+
+A nadie le importa si acabas el producto (redacción) antes o despues, pero sí que es importante tener un proceso, un hábito, dedicar períodos cortos de tiempo, pero intensos, en la tarea para llevar a cabo el producto. Poco a poco, el producto estará acabado.
+
+#### Video: harnessing your zombies to help you
+
+Aprovechar los poderes de los zombies para evitar la procrastinaicón
+
+Para evitar la procrastinación, podemos actuar en los distintos puntos que conforman un hábito (estímulo, rutina, premio).
+
+El estímulo puede venir de una de las siguientes categorías: lugar, hora, cómo te sientes, reacción. Podemos actuar sobre ellas para controlar la procrastinación.
+
+En cuanto a la rutina, debemos planificar, para evitar distracciones, planificar acciones que nos lleven directos a la acción.
+
+El premio: parte importante de los hábitos o incluso para crear nuevos hábitos.
+
+La creencia: si no crees que lo que estás haciendo funciona, volverás a los antiguos malos hábitos.
+
+#### Video: juggling life and learning
+
+Ten una lista de tareas semanal.
+
+A parte de esa, mantén una lista de tareas diarias. Escríbela el dia anterior. Un zombie con una lista es un zombie feliz. No tienes que gastar energía en pensar qué hacer, ya tienes la lista de tareas hecha.
+
+Planificar la hora de finalización de tareas diarias es tan importante como la hora de comienzo
+
+Incluye actividades físicas en la lista de tareas (dar un paseo,...). Estas actividades te ayudan a entrar en modo difuso.
+
+Intenta trabajar en la tarea más difícil y más costosa cuanto antes.
+
+#### Video: summing up procrastination
+
+- Retrasa los premios hasta que finalices la tarea/hábito
+- Manténte atento a los estímulos de la procrastinación, e intenta evitarlos/cambiarlos
+
+### Memory
+
+#### Video: diving deeper into memory
+
+La memoria visual y la memoria espacial son de gran ayuda para memorizar temas a largo plazo. Estamos muy bien preparados para recordar lugares e imágenes.
+
+Un truco para recordar una lección es utilizar algún recurso visual muy potente que represente el concepto principal. Los conceptos secundarios los iremos relacionando con la imagen principal.
+
+Cuantos más sentidos utilices en la evocación visual/sonora/olfativa/... más *ganchos* formarán parte del recuerdo y más fácil será recordarlo y rememorarlo.
+
+La repetición también ayuda a retener conceptos, a mover conceptos de la memoria de trabajo (working mem) a la memoria de largo plazo (long term mem)
+
+> la gente suele infravalorar los beneficios de la repetición espaciada durante el aprendizaje (index cards,...)
+
+Escribir un concepto a mano es como grabar ese concepto en la memoria. Es otro sentido más el que estamos utilizando. Si hacemos un dibujo, tenemos otro estímulo. Decirlo en voz alta.
+
+Recuerda los beneficios de dormir para la memoria, es como si simulara los conceptos aprendidos.
+
+#### Video: what is long term memory?
+
+Sin el hipocampo, no hay forma de aprender nuevos conceptos.
+
+Los recuerdos no son algo fijo en el cerebro, son algo vivo.
+
+Incluso es posible introducir falsos recuerdos, que son imposibles de distinguir de los verdaderos.
+
+Reconsolidación: ocurre durante el sueño
+
+Astrocitos: proporcionan alimento a las neuronas, mantienen el balance de iones, están relacionadas con reparaciones después de un daño al cerebro, están relacionadas con el aprendizaje. Albert Einstein tenía más astrocitos qeu una persona normal.
+
 
 
 
