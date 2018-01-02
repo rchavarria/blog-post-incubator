@@ -319,6 +319,34 @@ Reconsolidación: ocurre durante el sueño
 
 Astrocitos: proporcionan alimento a las neuronas, mantienen el balance de iones, están relacionadas con reparaciones después de un daño al cerebro, están relacionadas con el aprendizaje. Albert Einstein tenía más astrocitos qeu una persona normal.
 
+#### Video: creating meaningful groups and the memory palace technique
+
+La creación de grupos con un cierto significado, frases creadas a partir de las iniciales de los conceptos que se quieren memorizar, son un buen recurso para memorizar listas, grupos de nombres (huesos, músculos,...), fechas,...
+
+El *palacio de la memoria* es útil para recordar elementos que no están muy relacionados. Al principio te costará mucho, pero con la práctica, podrás recordar listas y listas con mucha facilidad.
+
+Estos y otros trucos para la memoria facilitan a la gente engrandecer su memoria de trabajo facilitando el acceso a la memoria a largo plazo.
+
+Estos trucos relacionan la memoria con la creatividad. Para localizar y recordar un elemento/concepto en el palacio de la memoria, es conveniente utilizar imágenes memorables, extrañas, extravagantes, llamativas,... Y todo eso es creatividad en estado puro. Cuanto más llamativas sean las imágenes, más creatividad estás usando y más fácil será de recordar.
+
+#### Video: summing up memory
+
+- 2 sistemas de memoria: corto y largo plazo
+- alarga tus repeticiones a lo largo de varios días/semanas/...
+- memoria de trabajo/corto plazo: 4 lugares para la memoria
+- tenemos una increíble memoria visual
+- usa imágenes muy llamativas
+- usa cuantos más sentidos puedas para recordar algo
+- frases memorables, como mnemónicos y cosas así
+- el palacio de la memoria
+
+## Week 4
+
+### Renaissance learning and unlocking your potential (I)
+
+#### Video: how to become a better learner
+
+
 
 
 
