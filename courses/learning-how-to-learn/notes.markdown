@@ -346,6 +346,33 @@ Estos trucos relacionan la memoria con la creatividad. Para localizar y recordar
 
 #### Video: how to become a better learner
 
+2 trucos:
+
+1. el mejor regalo que puedes darle a tu cerebro es... ejercicio físico. El ejercicio físico ayuda a generar nuevas neuronas en el hipocampo, lo que ayuda a retener nuevos conceptos.
+2. la práctica hace la perfección, pero solo cuando el cerebro está preparado. hay ciertas épocas en las que el cerebro sufre cambios. Aguarda estos cambios y estáte preparado para cuando pasen.
+
+La parte visual de nuestro cerebro madura en la niñez (hasta los 2? años de edad)
+
+La parte prefrontal (pre-frontal cortex) es la última parte en madurar. Es el encargado de los análisis complejos, planificar, toma de decisiones y las interacciones sociales.
+
+#### Video: Introduction to reanisance learning and unlocking your potential
+
+El aprendizaje no avanza linealmente, por lo que no siempre cada semana añadimos la misma cantidad de aprendizaje sobre una materia
+
+Lleva su tiempo aprender cosas nuevas. No hay que preocuparse si hay momentos en los que la materia nos parece algo confusa. Simplemente hay que seguir intentándolo
+
+#### Video: create a lively visual metaphor or analogy
+
+Una de las mejores formas de entender y memorizar un concepto es crear una metáfora para ello
+
+Las metáforas y los modelos ayudan a entender un concepto más complejo, y ayudan a trabajar con él. Son representaciones de la realidad o de un concepto. Es más fácil trabajar con ellos. Pero no son perfectos. Metáforas y modelos hacen aguas tarde o temprano. Mientras tanto, son una muy buena forma de trabajar.
+
+Las historias, aunque suenen ridículas relacionadas con el concepto que intentan explicar, son un recurso muy bueno para recordar.
+
+Las metáforas ayudan a recordar, porque hacen conexiones con conceptos que ya están en el cerebro.
+
+Las metáforas permiten a la gente evitar einstellung (estar bloqueado por pensar en un problema desde una perspectiva equivodada)
+
 
 
 
