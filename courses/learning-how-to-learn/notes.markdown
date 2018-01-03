@@ -373,7 +373,29 @@ Las metáforas ayudan a recordar, porque hacen conexiones con conceptos que ya e
 
 Las metáforas permiten a la gente evitar einstellung (estar bloqueado por pensar en un problema desde una perspectiva equivodada)
 
+#### Video: no need for genius envy: the imposter syndrome
 
+El mayor entendimiento viene del hecho de que es tú mente quien hace las conexiones necesarias para entender un concepto, y no porque alguien te los pone ahí, no porque aceptas lo que alguien dice. La gente aprende al intentar poner en orden la información que recibe.
+
+Habla de la comparación/relación entre la memoria de trabajo (corto plazo) y la creatividad. Alguien muy muy inteligente, capaz de mantener muchos conceptos en la cabeza (corto plazo), capaz de estar muy enfocado, será poco creativo, porque está muy ligado a sus pensamientos, a los pensamientos que ya tiene, y no tendrá mucho espacio para su creatividad. Por contra, alguien que no puede mantener muchos conceptos en su memoria corto plazo, sus pensamientos van y vienen, y en estos ir y venir, pueden aparecer pensamientos nuevos, nuevas ideas,... creatividad al fin y al cabo.
+
+Síndrome del impostor: cada persona tiene unos dones, no estás solo. si tienes dificultad con algo, otros lo tendrán también. si eres bueno en algo, seguro que encuentras a alguien igual de bueno. cuando una puerta se cierra, otra se abre en otro sitio.
+
+#### Video: change your thoughts, change your life
+
+La práctica fortalece y refuerza las conexiones entre distintas regiones del cerebro, creando *autopistas* entre los centros de control del cerebro y los centros de almacenamiento de conocimiento (lo que ayuda a aprender y controlar ese conocimiento)
+
+Parece que la gente puede mejorar el desarrollo de sus circuitos neuronales al practicar pensamientos que usen esas neuronas. En definitiva, parece que podemos hacer cambios en el cerebro si cambiamos cómo pensamos, si cambiamos la manera en la que pensamos.
+
+Santiago Ramón y Cajal dijo: la perseverancia es la virtud de los menos brillantes.
+
+Tomar la responsabilidad de tus aprendizajes es una de las cosas más importantes que puedes hacer.
+
+Por muy bueno que sea un libro o profesor, cuando usas otros libros/cursos/recursos, te das cuenta de que sólo prestabas atención a una parte de la materia, que hay muchas más conexiones que te estabas perdiendo. Cuando nos enfrentamos a la información con el propósito de aprenderla es cuando estamos encontrando nuestro propio camino a la maestría.
+
+Si triunfas, habrá gente que se sentirá amenazada, e intentará quitarte méritos. Otras veces, si fallas en un examen, te intentarán hundir (no vales para eso,...). Hay que ser capaz de dejar pasar esas críticas, y perseguir nuestros propios triunfos.
+
+Por lo mismo que siempre va a haber gente que te diga que no puedes hacerlo, debes sentirte orgulloso de tus méritos, de tu forma de hacer las cosas. Enorgullécete de quién eres, especialmente de aquellas características que te hacen único.
 
 
 
