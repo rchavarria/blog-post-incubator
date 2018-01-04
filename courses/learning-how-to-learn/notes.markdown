@@ -397,7 +397,63 @@ Si triunfas, habrá gente que se sentirá amenazada, e intentará quitarte méri
 
 Por lo mismo que siempre va a haber gente que te diga que no puedes hacerlo, debes sentirte orgulloso de tus méritos, de tu forma de hacer las cosas. Enorgullécete de quién eres, especialmente de aquellas características que te hacen único.
 
+### Renaissance learning and unlocking your potential (II)
 
+#### Video: the value of teamwork (avoiding overconfidence)
 
+Hay grandes evidencias que demuestran que el hemisferio derecho del cerebro nos ayuda a dar un paso atrás y poner en perspectiva (big picture) nuestro trabajo. El hemisferio derecho es de vital importancia para encarrilar los pensamientos y hacer chequeos con la realidad.
 
+La gente con daño cerebral nos hace recordar que debemos usar la mayor parte de nuestro cerebro como podamos. De hecho, si en un examen no repasas lo que has hecho, estás negando utilizar ciertas partes de tu cerebro. No estás parando para dar un respiro a tu cerebro y mirar con perspectiva.
+
+El hemisferio izquierdo interpreta el mundo por nosotros e intenta que nos quedemos con esa visión, aunque sea errónea. Por eso, en *focused mode*, si no repasamos, si nos quedamos con lo que diga el hemisferio izquierdo, puede que demos soluciones que no tienen sentido.
+
+Cuando tienes la solución a un problema y estás superseguro de que es la correcta, está bien, pero ten cuidado, porque a lo mejor es una solución muy centrada en el hemisferio izquierdo. Cuando repasas, das un paso atrás y lo miras desde una perspectiva, estás poniendo a trabajar el hemisferio derecho. Estás haciendo trabajar a los dos hemisferios.
+
+A veces no es suficiente con trabajar con todo nuestro cerebro para encontrar la mejor solución. Explicar el problema a otras personas (mejor si están familiarizadas con el tema) puede ayudarnos a entender mejor el problema. Al comunicarnos con otros, el modo difuso es más difuso todavía, ellos tienen sus propias ideas, sus propias conexiones, y enriquecerán nuestros puntos de vista. Así, el resto de personas funciona como un megacerebro externo al nuestro.
+
+#### Video: a test checklist
+
+Autoexaminarse es en sí misma, una experiencia poderosa y enriquecedora para el aprendizaje. Es posible que aprendas más durante una hora de Autoexaminarse que durante una hora de estudio.
+
+Ahí van una serie de preguntas a las que tu respuesta debería ser *si* para que estés listo para realizar un examen.
+
+- Did you make a serious effort to understand the text?
+- Did you work with classmates on homework problems or at least check your solutions with others?
+- Did you attempt to outline every homework problem solution before working with classmates?
+- Did you participate actively in homework group discussions contributing ideas and asking questions?
+- Did you consult with the instructor or teaching assistants when you were having trouble with something?
+- Did you understand all your homework problem solutions when they were handed in?
+- Did you ask in class for explanations of homework problem solutions that weren't clear to you?
+- If you had a study guide, did you carefully go through it before the test and convince yourself you could do everything on it?
+- Did you attempt to outline lots of problem solutions quickly without spending time on the Algebra in calculations?
+- Did you go over the study guide and problems with class mates and quiz one another?
+- If there was a review session before the test, did you attended and asked questions about anything you weren't sure about?
+- And lastly, did you get a reasonable night's sleep before the test? If your answer is no, your answers to all the preceding questions may not matter.
+ 
+#### Video: hard start - jump to easy
+
+Una forma de afrontar un examen es el siguiente: empezar por los ejercicios fáciles, terminar con los difíciles. De esta forma, dicen, ganas confianza con los fáciles para afrontar los difíciles. Pero esta aproximación es contraproducente.
+
+Lo que recomienda la colega es: empezar por los difíciles. Te centrarás en la tarea. Cuando estés atascado, necesitas ayuda del *modo difuso*. Así que *salta* a un ejercicio fácil, deja de concentrarte en el complicado. El modo difuso empezará a actuar, y probablemente encuentres la solución que estás buscando.
+
+Esta estrategia me parece un poco como multitarea. Pero puede que tenga razón, intenta evitar entrar en Einstellung.
+
+Puedes practicar con los deberes que te mandan para casa, para ver qué estrategia (o combinación de las mismas) funciona mejor para tí.
+
+#### Video: final helpful hints for tests
+
+Mucha gente se pone nerviosa, se extresa antes de un examen. Hay dos formas de tomarse estos nervios:
+
+1. Tengo miedo de hecer el examen
+2. Tengo unas ganas tremendas de empezar, me muero de ganas por dar lo mejor de mí.
+
+La sensación física es la misma, pero la segunda interpretación es más positiva. En estos casos, *engáñate a tí mismo un poquito*, *fake it, till you make it*
+
+Respirar profundamente, con el vientre, ayuda a tranquilizarse. Puedes practicar desde unos días antes.
+
+#### Video: summary for module 4
+
+- metaphors, analogies
+- change your thoughts and you'll change your life
+- repasa tus respuestas en los exámenes, o si no, no estarás utilizando todo tu cerebro
 
