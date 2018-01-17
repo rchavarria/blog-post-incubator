@@ -1,7 +1,7 @@
 # Practical Object-Oriented Design in Ruby
 ## de Sandi Metz
 
-[![Practical Object-Oriented Design in Ruby](https://raw.githubusercontent.com/rchavarria/blog-post-incubator/poodr/published-book-notes/img/poodr.jpg)](http://rchavarria.github.io/blog/2018/01/17/practical-object-oriented-design-in-ruby/)
+[![Practical Object-Oriented Design in Ruby](/img/poodr.jpg)](http://rchavarria.github.io/blog/2018/01/17/practical-object-oriented-design-in-ruby/)
 
 #### Capítulo 1
 
