@@ -1,32 +1,7 @@
 # Practical Object-Oriented Design in Ruby
 ## de Sandi Metz
 
-[![Practical Object-Oriented Design in Ruby](https://raw.githubusercontent.com/rchavarria/blog-post-incubator/master/published-book-notes/img/poodr.jpg)](enlace a la reseña en el blog)
-
-### Por qué lo he leído
-
-¿Quién lo ha recomendado? ¿Dónde lo he visto?
-
-<!-- more -->
-
-### De qué trata el libro
-
-Si le tuviera que contar a alguien de qué va el libro, ¿qué le diría?
-¿Qué esperaba encontrar yo en él? ¿Ha sido lo que esperaba?
-
-### Conclusiones y valoración
-
-La *review* en sí del libro. ¿Qué me ha parecido? ¿Lo recomendaría? ¿Me ha gustado el estilo?
-
-### Qué he aprendido
-
-### Frases que me gustaría recordar
-
-### Recursos relacionados
-
-[titulo sobre el enlace a las notas]: foo-bar-foo-bar
-
-### Notas tomadas
+[![Practical Object-Oriented Design in Ruby](/img/poodr.jpg)](http://rchavarria.github.io/blog/2018/01/17/practical-object-oriented-design-in-ruby/)
 
 #### Capítulo 1
 
@@ -37,24 +12,24 @@ La *review* en sí del libro. ¿Qué me ha parecido? ¿Lo recomendaría? ¿Me ha
 - Código que es fácil de cambiar, es código T.R.U.E.: transparente, razonable, usable y ejemplar (si encuentro alguna referencia más sobre ello, mejor)
 - Las aplicaciones que son fáciles de cambiar consisten en clases fáciles de reutilizar
 - Describe lo que hace la clase en una frase, si tienes que usar *y* u *o*, probablemente tenga más de una responsabilidad
-- Nunca vas a saber menos de lo que sabes ahora, y eso puede ser una razón para posponer una decisión de diseo
-- siempre existe una tension entre mejorarlo ahora o mejorarlo después. Un buen diseñador sabe minimizar los costes tomando decisiones valorando lo que sabe ahora y lo que sabrá en el futuro
+- Nunca vas a saber menos de lo que sabes ahora, y eso puede ser una razón para posponer una decisión de diseño
+- Siempre existe una tension entre mejorarlo ahora o mejorarlo después. Un buen diseñador sabe minimizar los costes tomando decisiones valorando lo que sabe ahora y lo que sabrá en el futuro
 - Aplica SRP también a los métodos, no solo a las clases. Beneficios: fácil de cambiar, fácil de reutilizar
 - No tomes decisiones, pero mantén tus opciones de tomar decisiones más adelante
 
 #### Capítulo 3: Gestionando dependencias
 
 - El reto al diseñar es hacer que cada clase tenga las menos dependencias posibles
-- las dependencias acoplan clases, hacen que funcionen como una única cosa, se mueven a la vez, **cambian** a la vez y dificulta la reutilización de uno de ellos
-- técnicas para reducir dependencias desacoplando el código:
+- Las dependencias acoplan clases, hacen que funcionen como una única cosa, se mueven a la vez, **cambian** a la vez y dificulta la reutilización de uno de ellos
+- Técnicas para reducir dependencias desacoplando el código:
 
-1. inyectar dependencias: las clases son más reutilizables cuanto menos saben de otras clases
-2. aislar dependencias: crear nuevos objetos en métodos a parte, encapsular llamadas a métodos de dependencias
-3. eliminar dependencias del orden de los argumentos. Usar un hash (o mapa) como única argumento. Aísla la llamada al método si no puedes modificarlo.
+1. Inyectar dependencias: las clases son más reutilizables cuanto menos saben de otras clases
+2. Aislar dependencias: crear nuevos objetos en métodos a parte, encapsular llamadas a métodos de dependencias
+3. Eliminar dependencias del orden de los argumentos. Usar un hash (o mapa) como única argumento. Aísla la llamada al método si no puedes modificarlo.
 
 - Gestiona la dirección de las dependencias: depende de cosas que cambien menos frecuentemente que tú. La dirección elegida va a depender de qué cambio va a sufrir cada parte. Si no hay cambios, da igual qué dirección elijamos. Depender de abstracciones es más seguro, porque por definición son más estables que las concrecciones
-- Para conocer las dependencias más interesantes nos fijamos en 3 aspectos: probabilidad del cambio, nivel de abstacción y número de dependencias (sobretodo de la 1ª y 3ª)
-- las dependencias más peligrosas son aquellas que cambian con frecuencia y muchas otras clases dependen de ellas
+- Para conocer las dependencias más interesantes nos fijamos en 3 aspectos: probabilidad del cambio, nivel de abstracción y número de dependencias (sobretodo de la 1ª y 3ª)
+- Las dependencias más peligrosas son aquellas que cambian con frecuencia y muchas otras clases dependen de ellas
 - En resumen, gestionar dependencias es: inyectarlas, aislarlas y depender de abstracciones
 
 #### Capítulo 4: Creando interfaces flexibles
@@ -94,11 +69,11 @@ La *review* en sí del libro. ¿Qué me ha parecido? ¿Lo recomendaría? ¿Me ha
 - La herencia basada en clases es fundamentalmente una forma de delegar automáticamente los mensajes entre clases cuando una de ellas no los entiende
 - Cuando una clase pregunta por su tipo para saber qué mensaje debe enviarse a sí misma, es posible que algún subtipo (subclase) esté deseando aparecer, como en el caso del *duck typing*, que nuevos tipos o abstracciones gritaban por ser creados
 - ¿Qué problema resuelve la herencia? Tipos altamente relacionados pero que difieren en alguna dimensión
-- Cuando una lcase hereda de otra, hereda todo su comportamiento: público y privado, general y específico, abstracto y concreto
+- Cuando una clase hereda de otra, hereda todo su comportamiento: público y privado, general y específico, abstracto y concreto
 - Para que una herencia funcione, debe de haber una relación de generalización-especialización, donde la especialización sea todo lo general y algo más
 - Crear una herencia tiene costes, y la mejor forma de minimizarlos es esperar todo lo posible para tener el máximo de conocimiento y dar con las abstracciones más adecuadas
 - La regla general de refactorizar a una herencia es colocar el código de tal forma que haya que promocionar abstracciones a las superclases, en lugar de *rebajar* concrecciones a las subclases
-- Toda decisión de diseño tiene dos costes: el de implementar el cambio y el de corregit la decisión si ésta fue equivocada, por lo que hay que preguntarse ¿qué pasará cuando esté equivocado?
+- Toda decisión de diseño tiene dos costes: el de implementar el cambio y el de corregir la decisión si ésta fue equivocada, por lo que hay que preguntarse ¿qué pasará cuando esté equivocado?
 - El código para tareas parecidas debe seguir patrones parecidos
 - Crear código que falla con mensajes de error claros y útiles requiere poco esfuerzo en el presente pero proporciona valor para siempre
 - Forzar a una subclase a saber cómo y cuándo interactuar con su superclase siempre causa muchos problemas porque conocen el algoritmo de la superclase, están acoplados a ella, y si el algoritmo cambia, deben cambiar o pueden fallar
@@ -123,10 +98,10 @@ El capítulo habla de *roles*, de *papeles* jugados por las clases. Creo que voy
 
 #### Capítulo 8: Combinando objetos con Composición
 
-Impresionante ver cómo refactoriza una herencia a una composición de objetos: engloba una colección de objetos en una nueva clase, crea una factoría que crea cada una de las partes, simplifica las partes como dadas de configuación. De esta forma, añadir un uevo tipo no requiere una nueva clase, solamente nueva configuración
+Impresionante ver cómo refactoriza una herencia a una composición de objetos: engloba una colección de objetos en una nueva clase, crea una factoría que crea cada una de las partes, simplifica las partes como dadas de configuación. De esta forma, añadir un nuevo tipo no requiere una nueva clase, solamente nueva configuración
 
 - La herencia sólo es una forma de organizar el código, que a cambio de cierto acoplamiento, tenemos delegación automática de mensajes
-- La composición es otra forma de organizar el código donde cada parte e smás independiente, pero no tenemos delegacion automática de mensajes, se no que hay que hacerlo de forma explícita
+- La composición es otra forma de organizar el código donde cada parte es más independiente, pero no tenemos delegacion automática de mensajes, si no que hay que hacerlo de forma explícita
 - Beneficios de la herencia (recordando las siglas T.R.U.E.): *reasonable* pequeños cambios en el top de la jerarquía pueden tener efectos muy potentes; *usable* las jerarquías cumplen con la **O** de *S.O.L.I.D.*, son open-closed; *exemplary* por naturaleza, la jerarquía indica cómo ir extendiendo el código
 - Costes de la herencia: los peores costes se producen cuando se usa la herencia para resolver el problema equivocado. En este caso tenemos los mismos beneficios, pero en negativo: un pequeño cambio tiene consecuencias muy graves, me fuerza a implementar una solución de una manera específica,...
 - Código creado con composición es *transparente* (T de *true*), suelen ser clases pequeñas con una única responsabilidad y suele ser fácil entenderlas. Son *usables* (U de *true*) porque son pequeños y enfocados. Son *razonables* (R de true) porque se pueden extender sin modificar
@@ -197,3 +172,4 @@ El último capítulo hablando de testear es oro puro, para releer muy de vez en 
 2. Crear una nueva subclase lo más sencilla posible. Con la nueva subclase puede ser interesante hacer que pase los *role test*, al igual que lo hacen las demás subclases
 
 - **Los mejores tests están débilmente acoplados al código de producción y testean cada cosa una sola vez y en el lugar adecuado. Añaden valor sin incrementar los costes**
+
