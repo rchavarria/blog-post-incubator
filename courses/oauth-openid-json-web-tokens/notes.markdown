@@ -90,7 +90,55 @@ No ha interacción del usuario:
 
 ## OAuth2 Flows
 
+Este es el módulo que merece la pena
 
+### Authorization code flow
+
+El dueño del recurso usa una aplicación web (cliente) para acceder al recurso (que está en el servidor de recursos).
+
+El dueño es redirigido a servidor de autorización (una petición GET HTTP) con ciertos parámetros que incluyen el id del cliente (nombre de la app web), una url donde la respuesta del servidor de autorización será *enviada* (callback URI o redirect URI le llaman) y el tipo de respuesta (como por ejemplo un código de autorización - response_type=authorization code)
+
+Lo primero que va a hacer el servidor de autorización es identificar al usuario/dueño del recurso, o pedir un login/password si no lo tiene identficado ya.
+
+El siguiente paso es la página de consentimiento, donde se informa al usuario de los elementos a los que va a tener acceso el cliente cuando se le de el token. El usuario puede permitir/denegar el acceso al recurso por parte del cliente (aplicación web)
+
+Si todo va bien, el cliente recibe una petición, la de callback, con un código (que servirá para pedir el token) y algún parámetro más.
+
+El cliente debe autenticarse ante el servidor de autorización, para ello le pasa el código recibido por el callback. Si es autenticado, el cliente obtendrá un token de acceso y otro token para refrescar el de acceso.
+
+Finalmente, el cliente puede conectarse al servidor de recursos y pedir el recurso deseado.
+
+Algo bueno que tiene es que el token no llega nunca al navegador que usa el dueño del recurso, si no que se queda en la aplicación cliente, no en la aplicación que usa el usuario para acceder a la aplicación cliente.
+
+### Implicit flow
+
+Usado en clientes locales o nativos
+
+Como dueño del recurso tú no quieres darle tu contraseña a la aplicación (un cliente de twitter de terceros).
+
+Funciona muy parecido a *code flow*. Aquí, el cliente pide directamente el token al servidor de autorización (en lugar de pedir un código para luego pedir el token).
+
+En esta ocasión no tenemos un token de refresco, simplemente el token de acceso.
+
+El token se expone al navegador, a la aplicación que usa el dueño del recurso. La aplicación cliene no se autentica frente al servidor de autorización.
+
+El cliente no se tiene por qué autenticar, porque ya confiamos en él
+
+### Resource owner password credential flow
+
+Aquí confías tanto en la aplicación cliente que es la aplicación quien guarda tu contraseña, de forma que es capaz de autenticarse frente al servidor de autorización automáticamente, sin preguntar nada al dueño del recurso.
+
+Este caso se puede implementar en entornos donde se confía en la aplicación cliente.
+
+El servidor de autorización responde con una respuesta con un token de acceso y uno de refresco.
+
+De todas formas, es mejor almacenar los tokens en lugar de las credenciales del dueño del recurso.
+
+### Client credential flow
+
+Es adecuado para comunicaciones máquina-a-máquina (machine-to-machine).
+
+La aplicación cliente no puede actuar en nombre de un usuario.
 
 ## Recursos
 
