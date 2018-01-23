@@ -183,9 +183,58 @@ Actores:
 
 El objetivo es que los clientes puedan usar cualquier proveedor para autenticar usuarios, en lugar de tener que mantener muchas formas de conectar con proveedores (una aplicación que permita conectar con twitter, fb, gg,...)
 
+## OAuth2 criticism and concerns
+
+### Eran Hammer
+
+El autor de la especificación que en 2010/2012 dejó de formar parte del consorcio
+
+- [Blog de Eran]
+- [OAuth2: looking back and moving on]
+
+### Specification Bloat
+
+Todo empezó como un protocolo. Un protocolo tiene unas reglas estrictas a cumplir. Luego, se fueron añadiendo más y más empresas, y cada vez se parecía menos a un protocolo. Incluso llegaron a cambiar el nombre del estándar, de protocolo a framework. 
+
+Al final, lo que ha pasado, es que hay muchos puntos que son opcionales, y distintas implementaciones no son 100% compatibles entre sí.
+
+Así que no hay una forma de tener una implementación estándar. Cada uno tendrá su *versión* de OAuth2.
+
+### Bearer tokens
+
+El token no está ligado a la petición HTTP, de forma que cualquiera que tenga el token (lo pueden robar escuchando el canal) podrá hacer todo lo que el token permita. El token no contiene material criptográfico, algo así como *prueba de posesión* (proof-of-possession)
+
+Bearer: aquel que posee el token, que no tiene porqué ser el usuario legítimo
+
+### Security theater
+
+Hacer como que hay seguridad, por ejemplo, después del 11/9, había militares apatrullando por Nueva York con armas que no tenían munición, pero la gente veía al ejército, y se quedaba más tranquilo.
+
+Pues lo mismo pasa con todas las pantallas que aparecen al usar OAuth2: página de login, de consentimiento,...
+
+Eso no evita que gente maliciosa te presente pantallas con la misma apariencia que Google o Facebook.
+
+### Attack surface
+
+Mucha información de la petición de autorización va en claro en la URL, como parámetros (id de cliente, scope, redirect URI,...). Todo eso puede ser espiado y manipulado por terceros.
+
+SSL tampoco soluciona mucho el problema, porque no es un protocolo que esté correctamente implementado en muchos sitios. Bueno, en mi opinión, eso creo que está cambiando.
+
+Una solución sería, cuando se registra la aplicación (antes de ser usada), requires ciertos campos, que tendrán que coincidir con los campos en la petición HTTP de autorización.
+
+Facebook ha sido hackeado varias veces
+
+### Conclusión
+
+Las implementaciones que hay por ahí, dejan un poco que desear (incluso la de los grandes), así que imagínate la de los pequeños.
+
 ## Recursos
 
-- [Introduction to OAuth2, OpenID Connect and JSON Web Tokens (JWT)]
+Hechar un vistazo al fichero `oauth2-json-web-tokens-openid-connect-introduction.zip` con todas las diapositivas del curso
+
+- Curso: [Introduction to OAuth2, OpenID Connect and JSON Web Tokens (JWT)]
 
 [Introduction to OAuth2, OpenID Connect and JSON Web Tokens (JWT)]: https://app.pluralsight.com/library/courses/oauth2-json-web-tokens-openid-connect-introduction/table-of-contents
+[Blog de Eran]: http://hueniverse.com
+[OAuth2: looking back and moving on]: https://vimeo.com/52882780
 
