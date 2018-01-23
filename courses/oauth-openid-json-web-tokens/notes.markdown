@@ -140,6 +140,49 @@ Es adecuado para comunicaciones máquina-a-máquina (machine-to-machine).
 
 La aplicación cliente no puede actuar en nombre de un usuario.
 
+## OpenID Connect
+
+Es un protocolo/estándar/mecanismo que se construye por encima de OAuth2 y sirve para proporcionar autenticación. OAuth2 está muy bien para autorización, pero tiene sus fallos a la hora de autenticar.
+
+OAuth2 sirve para autorización *delegada*. La autentciación es un prerequisito para ello (si no, cómo vas a autorizar si todavía no has autenticado a la persona). A veces, simplemente se necesita la autenticación (hacer login), y muchas aplicaciones abusan de OAuth2  simplemente para autenticar (p.e.: dáte de alta con tu cuenta de Facebook, simplemente para tener un usuario/contraseña)
+
+### Problemas en OAuth2 con la autenticación
+
+Digamos que se intenta acceder a un recurso. Con OAuth2 estamos suponiendo que si el cliente, hablando con el Servidor de Autorización, es capaz de conseguir un token para acceder a ese recurso, es porque el Dueño del Recurso ha sido autenticado. Estamos **suponiendo** que el acceso a un recurso sólo lo puede hacer el Dueño del Recurso.
+
+Problema: digamos que un usuario es engañado y está usando una aplicación maliciosa. E introduce sus credenciales. La applicación maliciosa consigue un token de acceso. El señor malo destrás de esa aplicación, usa ese token en una aplicación real. Así consigue usar esa aplicación real como el usuario al que le han *robado* el token de acceso. Este problema existe porque las aplicaciones no tienen una forma de relacionar el token de acceso con el usuario.
+
+Solución: cada proveedor de servicios modifica un poquito el proceso de autenticación, y cada vez más se parece a OpenID Connect. Bueno, quizá sea que OpenID Connect toma lo mejor de cada una de estas modificaciones y las pone en común
+
+### OpenID Connect
+
+OAuth2 por sí solo no es lo suficientemente bueno para autenticación.
+
+OpenID Connect se construye encima de OAuth2, usando los flujos Código de Autorización o el Implícito. Añade algunos conceptos nuevos: ID Token, UserInfo endpoint (punto de acceso para obtener información de usuario, de forma que sea común a todos los proveedores). 
+
+### Flujo: Código OpenID
+
+Actores:
+
+- User Agent: normalmente el navegador
+- Client: aplicación cliente
+- Authorization endpoint: el mismo que en OAuth2, estaría en el Servidor de Autorización
+- Token endpoint: el mismo que en OAuth2, también en el Servidor de Autorización
+- UserInfo endpoint: introducido por OpenID
+- Identity Provider: introducido por OpenID
+
+1. Al Authorization endpoint el User Agent le pide el perfil del usuario (scope=openid profile)
+2. Con esa información, el User Agent contacta con el Identity Provider
+3. Éste te pregunta si das acceso a tu perfil. Si es que sí, el User Agent recibe el código a través de la URI de callback
+4. Con ese código, la aplicación pide el token al Token endpoint
+5. Token endpoint devuelve un token de acceso y uno de refresco. También, devuelve un **ID Token**. El cliente **debe** validar este ID Token. JWT contiene campos para la autenticación: issuer, subject, audience, expiration,...
+6. Con esta validación, la aplicación cliente sabe quién es el usuario
+7. Una vez autenticado el usuario, ya puede acceder al UserInfo endpoint
+
+### Conclusión
+
+El objetivo es que los clientes puedan usar cualquier proveedor para autenticar usuarios, en lugar de tener que mantener muchas formas de conectar con proveedores (una aplicación que permita conectar con twitter, fb, gg,...)
+
 ## Recursos
 
 - [Introduction to OAuth2, OpenID Connect and JSON Web Tokens (JWT)]
