@@ -30,7 +30,7 @@ La *review* en sí del libro. ¿Ha sido lo que esperaba? ¿Qué me ha parecido? 
 
 Estado de bienestar: sistema por el que la administración pública garantiza unos servicios sociales (sanidad, educación, desempleo, pensión, minusvalía, vivienda) para mejorar sus condiciones de vida y promover igualdad de oportunidades
 
-#### Capítulo 1: las políticas Keynesianas y el nacimiento del EdB
+#### Capítulo 1: las políticas Keynesianas y el nacimiento del Estado del Bienestar
 
 Keynes propone la intervención del estado
 
@@ -38,13 +38,13 @@ Keynes propone la intervención del estado
 
 Milton Friedman y la Escuela de Chicago abogan por el libre mercado
 
-Roosvelt promovió unas reformas por-EdB a partir de 1933 (el *New Deal*) después de la Gran Depresión y la inactividad de Zapa.../Hoover
+Roosvelt promovió unas reformas por-Estado del Bienestar a partir de 1933 (el *New Deal*) después de la Gran Depresión y la inactividad de Zapa.../Hoover
 
 Lo que lo petó fue abandonar el *patrón oro*, de forma que se pudo imprimir billetes sin control
 
 Friedman es opuesto a Keynes, es liberal, y defiende que el gobierno **no debe** intervenir y debe prevalecer el libre mercado
 
-Los distintos models actuales del EdB
+Los distintos models actuales del Estado del Bienestar
 
 1. Socialdemócratas: muy desmercantilizado, universalista, financiado con ipuestos, muchos servicios sociales y para todos
 2. Liberal: bajo desmercantilizado, el bienestar depende del mercado
@@ -54,10 +54,10 @@ Los distintos models actuales del EdB
 
 #### Capítulo 4: Retos globales y futuros
 
-Problema: todos queremos un EdB mayor que los impuestos que estamos dispuestos a pagar
+Problema: todos queremos un Estado del Bienestar mayor que los impuestos que estamos dispuestos a pagar
 
-Los estados financian el EdB con imposiciones fiscales y endeudamiento (aunque esto último no es muy bueno y tampoco mantenible a largo plazo)
+Los estados financian el Estado del Bienestar con imposiciones fiscales y endeudamiento (aunque esto último no es muy bueno y tampoco mantenible a largo plazo)
 
-Una globalización total haría que el EdB sea muy difícil de conseguir
+Una globalización total haría que el Estado del Bienestar sea muy difícil de conseguir
 
 
