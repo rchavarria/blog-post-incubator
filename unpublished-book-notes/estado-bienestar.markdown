@@ -1,30 +1,27 @@
 # ¿Es sostenible el estado del bienestar?
 ## publicado con un periódico
 
-[![Título de la imagen](url a la imagen)](enlace de la imagen, normalmente a la pagina de amazon)
-
 ### Por qué lo he leído
 
-¿Quién lo ha recomendado? ¿Dónde lo he visto?
+Lo ví un día cualquiera en la librería de mi hermano, y me dije, ¿por qué no aprender un poco sobre nuestro Estado del Bienestar? Quizá aprenda algo sobre economía, me vendría muy bien.
 
 <!-- more -->
 
 ### De qué trata el libro
 
-Si le tuviera que contar a alguien de qué va el libro, ¿qué le diría?
-¿Qué esperaba encontrar yo en él? 
+El libro explica un poco la historia de cómo hemos llegado al Estado del Bienestar que tenemos actualmente, los distintos modelos que existen alrededor del mundo y plantea una serie de preguntas o retos que deberemos superar si queremos seguir con él.
 
 ### Conclusiones y valoración
 
-La *review* en sí del libro. ¿Ha sido lo que esperaba? ¿Qué me ha parecido? ¿Lo recomendaría? ¿Me ha gustado el estilo?
-
-### Qué he aprendido
+El libro está muy bien para comprender conceptos e historia básica sobre el Estado del Bienestar. El lenguaje utilizado quizá no sea el más apropiado para un nivel básico. Se entiende, pero a mi me costaba mantener la concentración leyéndolo, aunque supongo que eso es más problema mío.
 
 ### Frases que me gustaría recordar
 
-### Recursos relacionados
+Keynes propone la intervención del estado
 
-[titulo sobre el enlace a las notas]: foo-bar-foo-bar
+Milton Friedman y la Escuela de Chicago abogan por el libre mercado
+
+Distintos modelos del Estado del Bienestar: socialdemócratas, liberal y conservador
 
 ### Notas tomadas
 
