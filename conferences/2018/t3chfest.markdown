@@ -151,6 +151,36 @@ Operator: function that receives an `Observable` as param and returns another `O
 
 :) Nice example with the lottery (slide #23)
 
+### [AireMad and Open Source](https://t3chfest.uc3m.es/2018/programa/airemad-open-source/), by [Ulises Gascón](https://twitter.com/kom_256) - [slides](http://slides.com/ulisesgascon/airemad-t3chfest-2018#/)
+
+To be Open Source, a software must obey 4 *laws of freedom*:
+
+1. Free to execute the app as you want
+2. Free to study the source code
+3. Free to distribute
+4. Free to copy and share
+
+Open Data should be promoted by goverments
+
+It is illegal to collect personal data in Open Data, to protect people
+
+**Found issues while developing Aire Madrid**
+
+Measurement stations: new ones appear without notice, old ones dissapear, stations change location,...
+
+The source of data use relative concept:
+
+1. Real time: one report every hour (in the best case). reports once a day, with data from previous day.
+2. Formats: there is no standard, even for the same data set. There are user guides to understand the data. Sometimes, there are errors in the specified format (are they created by hand?)
+
+The developer must write lots of defensive code. [Postel's law](https://en.wikipedia.org/wiki/Robustness_principle)
+
+There are changes without notice, or even new data without documentation
+
+People publishing the data has their problems too: the want to do better, but they don't have the knowledge (they need developers like us), the money (no budget), boss/colleagues support,...
+
+Aire Madrid evolved to AireMAD API. They maintain an API with curated data. They grew the data set adding new stations, new station types, new data: stations, pollution, noise, polen, flu,...
+
 ## References
 
 - [Let's understand what is reactivity](https://t3chfest.uc3m.es/2018/programa/entendamos-la-reactividad/), by [José Manuel García](https://twitter.com/semagarcia) - [slides](https://www.slideshare.net/sema_hkd/t3chfest-2018-entendamos-de-una-vez-qu-es-eso-de-la-reactividad), [code](https://github.com/semagarcia/rxjs-t3chfest-reactividad)
