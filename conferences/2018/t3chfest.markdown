@@ -97,7 +97,7 @@ Another product, [z-damper](https://www.youtube.com/watch?v=hswcmO7wiBA). It's b
 
 Superconductors: they are electric resistance free, some of them emit magnetic field. They did a demo where a piece of metal was at very low temperature, and it floated in the air (similar to [this](https://www.youtube.com/watch?v=2EaZCaH0t78) ).
 
-### [Side-projects for fun and learning](https://t3chfest.uc3m.es/2018/programa/side-projects-fun-and-learning/), by [Marta Cruz](https://twitter.com/espoletavt) and [Daniel Villalobos](https://twitter.com/dvillalobos)
+### [Side-projects for fun and learning](https://t3chfest.uc3m.es/2018/programa/side-projects-fun-and-learning/), by [Marta Cruz](https://twitter.com/espoletavt) and [Daniel Villalobos](https://twitter.com/dvillalobos) - [slides](https://docs.google.com/presentation/d/e/2PACX-1vQGKlndXer_IGM7Y3IpRpahgbeoqngGnk4r1RWHhzEhWKuhhn4lq6T0T9sg-RC9RQ6jLGdK-PpzRS2-/pub#slide=id.g335b6d559c_0_0)
 
 It's impossible to know everything, you have to choose. Try to find the sweet spot in: passion + creativity + try new things + enjoy
 
@@ -123,3 +123,34 @@ Phases:
 Experiment without fear, a side project is a project where failure is wellcomed. Do it right, do it with love
 
 Speakers talked about side projects as if they should be done as part of a team, within the company. I think they just expose their experience. It could be told from a wider perspective
+
+### [Let's understand what is reactivity](https://t3chfest.uc3m.es/2018/programa/entendamos-la-reactividad/), by [José Manuel García](https://twitter.com/semagarcia) - [slides](https://www.slideshare.net/sema_hkd/t3chfest-2018-entendamos-de-una-vez-qu-es-eso-de-la-reactividad), [code](https://github.com/semagarcia/rxjs-t3chfest-reactividad)
+
+What's reactivity/reactivex? It's a paradigm to work with asynchronous data streams
+
+Any value that changes over time is a good candidate to be *observed*. After that, you'll see *observables* anywhere, and you're right!
+
+JavaScript is asynchronous: callbacks, promises, generators, async/await
+
+Observables **are** functions. They do nothing until you invoke them, they're lazy. They do someting any time you invoke them, by subscribing to them
+
+`subscribe` method returns a subscription object that allows managing the subscription: unsubscribe,... Useful to avoid memory leaks (BTW, I didn't know you should unsubscribe from them to avoid memory leaks)
+
+A subscription ends when:
+
+1. Data stream is over
+2. Client unsubscribes
+
+`Subject` can play both roels: publisher and subscriber. The speaker built a state machine UI, publishing events in an observable, and observing them in another component inside the application. [Angular app showing it](https://github.com/semagarcia/rxjs-t3chfest-reactividad/tree/master/07-subject-t3chfy)
+
+Operator: function that receives an `Observable` as param and returns another `Observable`. They can be chained. There are operators to do almost anythin. They are the interesting part of ReactiveX
+
+**Feedback**
+
+:) Live (and visual) examples in browser console
+
+:) Nice example with the lottery (slide #23)
+
+## References
+
+- [Let's understand what is reactivity](https://t3chfest.uc3m.es/2018/programa/entendamos-la-reactividad/), by [José Manuel García](https://twitter.com/semagarcia) - [slides](https://www.slideshare.net/sema_hkd/t3chfest-2018-entendamos-de-una-vez-qu-es-eso-de-la-reactividad), [code](https://github.com/semagarcia/rxjs-t3chfest-reactividad)
