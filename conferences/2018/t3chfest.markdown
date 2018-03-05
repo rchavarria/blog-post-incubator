@@ -9,6 +9,7 @@
 - +1 water everywhere
 - +1 coffee space was wider and better organized
 - +1 music in background while waiting for the talk to start
+- +1 meet and talk with people from other communities
 
 ## Talks
 
@@ -95,3 +96,30 @@ Their best product is a [magnetic gear](https://www.youtube.com/watch?v=MP5ah6tE
 Another product, [z-damper](https://www.youtube.com/watch?v=hswcmO7wiBA). It's based on a magnetic break (trains break with magnetic fields through the wheels). It slows down something in movement. It's used in airplains to reduce vibrations.
 
 Superconductors: they are electric resistance free, some of them emit magnetic field. They did a demo where a piece of metal was at very low temperature, and it floated in the air (similar to [this](https://www.youtube.com/watch?v=2EaZCaH0t78) ).
+
+### [Side-projects for fun and learning](https://t3chfest.uc3m.es/2018/programa/side-projects-fun-and-learning/), by [Marta Cruz](https://twitter.com/espoletavt) and [Daniel Villalobos](https://twitter.com/dvillalobos)
+
+It's impossible to know everything, you have to choose. Try to find the sweet spot in: passion + creativity + try new things + enjoy
+
+Use side projects to learn something new, to learn something quite different of what you use in your day to day job, to learn and experiment with other people, to get experience without a formal job
+
+Side project elements:
+
+1. Passion
+2. Start small
+3. No pressure
+4. Make it simple
+
+Benefits: learning, enjoy, shared knowledge,...
+
+Phases:
+
+1. Idea
+2. Debate, discussion: to improve the first idea
+3. Validate
+4. MVSP (most valuable side-project)
+5. Demo, share
+
+Experiment without fear, a side project is a project where failure is wellcomed. Do it right, do it with love
+
+Speakers talked about side projects as if they should be done as part of a team, within the company. I think they just expose their experience. It could be told from a wider perspective
