@@ -209,6 +209,32 @@ Ethics: do you share values with your company? if there is something wrong in yo
 
 Be excited about what you do, don't lose that energy. Be happy at work, be proud of what you build.
 
+### [How to be an investor without millions thanks to Blockchain and ICOs](https://t3chfest.uc3m.es/2018/programa/como-ser-inversor-sin-tener-millones-gracias-a-blockchain-y-sus-icos/), by [Paola García](https://twitter.com/gGarciaPaola)
+
+DAO, Decentralized Axxx Organization: trying to remove toxic (too powerful) elements present in centralized systems
+
+Before creating a blockchain or ICO, you should have a community (of users). For that, they create *tokens*, to provide value to people. Community is the most important behind a blockchain
+
+ICO, Initial Coin Offering: an offer with discount to by some currency based on a blockchain
+
+How to know if I should invest in an ICO?
+
+1. How much currency is allowed to exist?
+2. Is the price raising?
+3. Do you trust the origin of the idea? 
+4. Team behind the project
+
+Don't buy/sell if you don't understand what you're buying/selling
+
+**Feedback**
+
+:( It seems to be that the talk was not prepared enough. In the end, the speaker didn't talk too much about how/why invest. She talked about general blockchain concepts you can find in lots of places
+
+### Missed talks
+
+- [The happy developer](https://t3chfest.uc3m.es/2018/programa/el-feliz-developer/), by [Irene M. Morgado](https://twitter.com/IrnMM): how to make IT work environment more reasonable, human, nice and productive (better)
+- [Is your salary low? Professional careers in IT](https://t3chfest.uc3m.es/2018/programa/salarios-y-carreras-profesionales-en-industria-software/), by [David Bonilla](https://twitter.com/david_bonilla) - [slides](https://t3chfest.uc3m.es/2018/static/resources/events_slides/t3chfest2018_david_bonilla.pdf?q=1520008764): **real** salaries of IT in Spain, career paths in IT, and trends.
+
 ## References
 
 - [Let's understand what is reactivity](https://t3chfest.uc3m.es/2018/programa/entendamos-la-reactividad/), by [José Manuel García](https://twitter.com/semagarcia) - [slides](https://www.slideshare.net/sema_hkd/t3chfest-2018-entendamos-de-una-vez-qu-es-eso-de-la-reactividad), [code](https://github.com/semagarcia/rxjs-t3chfest-reactividad)
