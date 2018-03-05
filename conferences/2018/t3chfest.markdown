@@ -44,3 +44,40 @@ The speaker said nothing about Evie :P
 
 :( Parece que faltaba un poco de preparación a la charla, los ejemplos parecían inventados en el momento, fallos en el texto de las slides (copy&paste?)
 
+### [So, you think the technology is neutral?](https://t3chfest.uc3m.es/2018/programa/crees-que-la-tecnologia-es-neutra/), by [esus M González Barahona](https://twitter.com/jgbarah)
+
+Very, very interesting talk about technology, not the technical side, but the human and the social side of it. It's a pity it's in Spanish, the speaker provides more questions than answers. The talk is full of *food for thought*.
+
+Technology enables (affords, make it possible, give power,...), but also, technology constraints (limits you,...)
+
+Tech decissions today constraint what we'll be able to do in the future, even more than politics.
+
+Technology is made by humans, if we don't like, we should be able to change it. 
+
+But that's usually not involved in social discussions, social debates. We don't usually ask ourselves (as a society) what technology enables or constraints.
+
+There are three kind of communication services:
+
+1. Centralized
+2. Federated
+3. Peer to peer
+
+What is the easiest to control? What enables innovation best?
+
+Who's able to update your car's software? Would it be ok if the owner could update it? Replace car with refrigerator, phone, coffee machine,... How many companies know where you are right now?
+
+The speaker mentioned the well known battle: security Vs freedom
+
+Who's responsible about what you can and can't see on the Internet?
+
+Problem is not if a company (say Facebook, Twitter, Google) censors some content. Problem is that a company, a private company can censor, that it's legal for a company to censor, that it's socially accepted a company can censor. Possible solution? more computer power and storage, cheaper cpu and storage, less energy consumption, more mobility. More connectivity, faster, cheaper. Better federated technologies, better p2p communications.
+
+**Trends**
+
+Code and law: historcally, law is who constraint society. nowadays, technology constraints us. Most of the time, law is behind technology
+
+War against general purpose computer: speciallization, almost all electronic devices work with software, but you're not able to decide what kind of software makes them work (car, coffe machine, washer,...)
+
+Hardware + Software: knowledge that works. Code is not only the recipe, it also cooks the dish.
+
+In the 80's, there were people that thought software should allow much more than it did, that way is how Open Source was born
