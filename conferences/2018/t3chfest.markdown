@@ -81,3 +81,17 @@ War against general purpose computer: speciallization, almost all electronic dev
 Hardware + Software: knowledge that works. Code is not only the recipe, it also cooks the dish.
 
 In the 80's, there were people that thought software should allow much more than it did, that way is how Open Source was born
+
+### [Contactless magnetic mechanisms for aerospace and robotic applications](https://t3chfest.uc3m.es/2018/programa/contactless-magnetic-mechanisms-for-aerospace-and-robotic-applications/), by [Ignacio Valiente-Blanco](https://www.linkedin.com/in/ignacio-valiente-96528a2b) and [Judit Esnoz](https://www.linkedin.com/in/judit-esnoz-larraya-05388882)
+
+It was not a software related talk, but it was about engineering.
+
+Magnetic mechanisms: it replaces parts of a tradicional mechanism (gear,...) with magnetic devices: plain magnets, materials made of iron (ferrites, soft-magnetic materials,...), materials that are source of magnetic fields.
+
+Those devices doesn't have the same limitations as tradicional ones: there is no friction, no contact, so lubricant oil is not needed, what means less maintenance.
+
+Their best product is a [magnetic gear](https://www.youtube.com/watch?v=MP5ah6tEi04). They use magnets to transfer movement from one side to another, reducing the rpm's (revolution per minute) by 7, 50 or hundreds of times. (7 Hz to 1 Hz)
+
+Another product, [z-damper](https://www.youtube.com/watch?v=hswcmO7wiBA). It's based on a magnetic break (trains break with magnetic fields through the wheels). It slows down something in movement. It's used in airplains to reduce vibrations.
+
+Superconductors: they are electric resistance free, some of them emit magnetic field. They did a demo where a piece of metal was at very low temperature, and it floated in the air (similar to [this](https://www.youtube.com/watch?v=2EaZCaH0t78) ).
