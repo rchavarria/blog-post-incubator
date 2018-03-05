@@ -181,6 +181,34 @@ People publishing the data has their problems too: the want to do better, but th
 
 Aire Madrid evolved to AireMAD API. They maintain an API with curated data. They grew the data set adding new stations, new station types, new data: stations, pollution, noise, polen, flu,...
 
+### [Wubba lubba dub dub!](https://t3chfest.uc3m.es/2018/programa/wubba-lubba-dub-dub/), by [Jorge Barroso](https://twitter.com/flipper83)
+
+The talk was kind of: What would you say to yourself N years ago?
+
+The title makes reference to [Rick & Morti](https://en.wikipedia.org/wiki/Rick_and_Morty) series and it means: I have a pain that is driving me mad (more or less).
+
+Do a retrospective every year, as a person, as a professional
+
+Learn English (I believe in this tip)
+
+Vocation is not born, sometimes, you can suddenly realize something you're good at and you love it.
+
+*With 4 years of experience I thought I was the best developer in the world* ~ speaker (or any other dev)
+
+You should be trying to grow as a person/professional, to grow with others, never alone (if you're the smartest guy in the room, you should exit that room)
+
+In your free time, do stuff you like, don't do stuff that are good for your current job
+
+Speak at conferences, if not, at least write, and make them public
+
+Go to conferences
+
+You're paid **only** to create software that works. To do that, you need to be good at coding (and other skills). To be good you must get some level of quality in your work. Pay attention to quality.
+
+Ethics: do you share values with your company? if there is something wrong in your environment, you should point it out (abuse,...). If you don't like your company, find another one!
+
+Be excited about what you do, don't lose that energy. Be happy at work, be proud of what you build.
+
 ## References
 
 - [Let's understand what is reactivity](https://t3chfest.uc3m.es/2018/programa/entendamos-la-reactividad/), by [José Manuel García](https://twitter.com/semagarcia) - [slides](https://www.slideshare.net/sema_hkd/t3chfest-2018-entendamos-de-una-vez-qu-es-eso-de-la-reactividad), [code](https://github.com/semagarcia/rxjs-t3chfest-reactividad)
