@@ -2,7 +2,7 @@
 
 ##### de Chad Fowler
 
-Notas tomadas del libro [The passionate programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer).
+Notas tomadas del libro [The passionate programmer](https://pragprog.com/book/cfcar2/the-passionate-programmer).
 
 ![The passionate programmer](http://www.codeodor.com/images/passionate_programmer.jpg)
 
